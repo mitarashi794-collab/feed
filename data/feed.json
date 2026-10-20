@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T22:39:58+09:00",
+ "generated_at": "2026-10-21T03:30:39+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "e9f3fc67e40c7830",
+   "url": "https://automaton-media.com/articles/newsjp/20261020-474543/",
+   "title": "Steamワークショップで相次ぐ「マルウェア入りMod」騒動、今度は人気協力ホラー『Content Warning』が標的か。“自己増殖マルウェア”も報告されるケースも",
+   "summary": "Steamワークショップにおいて、マルウェア入りの非公式Modが拡散される事例が続いている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261020-474543-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-20T23:43:21+09:00"
+  },
   {
    "id": "7af27b3c9a41d86c",
    "url": "https://www.4gamer.net/games/010/G101093/20261015041/",
