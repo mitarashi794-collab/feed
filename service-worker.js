@@ -1,7 +1,7 @@
 'use strict';
 
 /* 画面を更新したときは VERSION の数字を上げると、古いキャッシュが消えます */
-const VERSION = 'v1';
+const VERSION = 'v2';
 const SHELL_CACHE = 'shell-' + VERSION;
 const DATA_CACHE = 'data-' + VERSION;
 

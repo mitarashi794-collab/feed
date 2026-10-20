@@ -151,6 +151,11 @@ async function loadData() {
 
   if (srcRes.status === 'fulfilled' && srcRes.value) {
     state.repoSources = asArray(srcRes.value.sources).filter(isValidSource);
+    /* sources.json に載った情報源は、スマホ内の「自分で追加」から外す */
+    const repoUrls = new Set(state.repoSources.map((s) => s.url));
+    const before = state.userSources.length;
+    state.userSources = state.userSources.filter((s) => !repoUrls.has(s.url));
+    if (state.userSources.length !== before) saveUserSources();
   }
 
   state.loadedAt = Date.now();
@@ -417,7 +422,8 @@ function addSource(event) {
     id: 'user-' + Date.now().toString(36),
     name, type, category, url,
     enabled: true,
-    max_items: 20
+    max_items: 20,
+    interval_minutes: 60
   });
   saveUserSources();
   $('addSourceForm').reset();
@@ -425,15 +431,34 @@ function addSource(event) {
   renderSources();
 }
 
+/* GitHub Pages のURL（https://ユーザー名.github.io/リポジトリ名/）から、sources.json の編集画面のURLを作る */
+function githubEditUrl() {
+  const m = location.hostname.match(/^([^.]+)\.github\.io$/i);
+  const repo = location.pathname.split('/').filter(Boolean)[0];
+  if (!m || !repo) return '';
+  return 'https://github.com/' + encodeURIComponent(m[1]) + '/' + encodeURIComponent(repo) + '/edit/main/sources.json';
+}
+
 async function copyUserSources() {
   const msg = $('formMsg');
-  if (!state.userSources.length) { msg.textContent = '追加した情報源がありません。'; return; }
-  const text = JSON.stringify(state.userSources, null, 2);
+  if (!state.userSources.length) { msg.textContent = '先に「追加」で情報源を登録してください。'; return; }
+
+  /* "sources": [ の次の行にそのまま貼れるよう、各項目の後ろにカンマを付ける */
+  const text = state.userSources.map((s) => JSON.stringify(s, null, 2)).join(',\n') + ',';
+  let copied = false;
   try {
     await navigator.clipboard.writeText(text);
-    msg.textContent = 'コピーしました。sources.json の "sources" 配列に貼り付けてください。';
-  } catch (e) {
-    msg.textContent = 'コピーできませんでした。';
+    copied = true;
+  } catch (e) { /* コピーできない環境 */ }
+
+  if (!copied) { msg.textContent = 'コピーできませんでした。'; return; }
+
+  const url = githubEditUrl();
+  if (url) {
+    msg.textContent = 'コピーしました。GitHubの編集画面を開きます。"sources": [ の次の行に貼り付けてください。';
+    window.open(url, '_blank', 'noopener');
+  } else {
+    msg.textContent = 'コピーしました。GitHubで sources.json を開き、"sources": [ の次の行に貼り付けてください。';
   }
 }
 
