@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-20T07:00:00+09:00",
+  "errors": [],
+  "items": [
+    {
+      "id": "sample-001",
+      "url": "https://example.com/news/1",
+      "title": "【サンプル】最初の自動更新までは、この記事が表示されます",
+      "summary": "GitHub Actionsの「update-feeds」を一度実行すると、実際の記事に置き換わります。",
+      "thumbnail": "",
+      "source": "サンプル",
+      "source_id": "sample",
+      "category": "news",
+      "published": "2026-10-20T07:00:00+09:00"
+    }
+  ]
+}

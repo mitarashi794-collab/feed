@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "timeout_seconds": 20,
+    "max_response_bytes": 5000000,
+    "default_max_items": 20,
+    "default_interval_minutes": 60,
+    "request_delay_seconds": 1.0,
+    "keep_per_source": 100,
+    "retention_days": 30,
+    "max_total_items": 600,
+    "max_runtime_seconds": 480,
+    "user_agent": ""
+  },
+  "sources": [
+    {
+      "id": "4gamer",
+      "name": "4Gamer.net",
+      "type": "rss",
+      "category": "news",
+      "url": "https://www.4gamer.net/rss/index.xml",
+      "enabled": true,
+      "max_items": 20,
+      "interval_minutes": 60
+    },
+    {
+      "id": "automaton",
+      "name": "AUTOMATON",
+      "type": "rss",
+      "category": "news",
+      "url": "https://automaton-media.com/feed/",
+      "enabled": true,
+      "max_items": 20,
+      "interval_minutes": 60
+    },
+    {
+      "id": "sample-youtube",
+      "name": "YouTube（チャンネルIDを設定してください）",
+      "type": "youtube",
+      "category": "video",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxxxxxxxxxxxxxxxx",
+      "enabled": false,
+      "max_items": 15,
+      "interval_minutes": 120
+    },
+    {
+      "id": "sample-misskey",
+      "name": "Misskey（例）",
+      "type": "misskey",
+      "category": "sns",
+      "url": "https://misskey.io/",
+      "user": "ユーザー名",
+      "enabled": false,
+      "max_items": 20,
+      "interval_minutes": 60
+    },
+    {
+      "id": "sample-html",
+      "name": "HTML抽出の例",
+      "type": "html",
+      "category": "news",
+      "url": "https://example.com/news/",
+      "enabled": false,
+      "max_items": 20,
+      "interval_minutes": 180,
+      "html": {
+        "item_selector": "article",
+        "link_selector": "a",
+        "title_selector": "h2",
+        "summary_selector": "p",
+        "thumbnail_selector": "img",
+        "date_selector": "time",
+        "date_attribute": "datetime"
+      }
+    }
+  ]
+}
