@@ -1,8 +1,30 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T07:21:33+09:00",
+ "generated_at": "2026-10-21T10:39:50+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "e5da516a087dbd0b",
+   "url": "https://automaton-media.com/articles/newsjp/20261021-474572/",
+   "title": "『パルワールド』謎の新アプデ「Side by Side」発表、今年冬配信へ。ゾーイ・アウリ・サヤが意味深に並ぶ",
+   "summary": "ポケットペアは10月20日、『Palworld / パルワールド』向けの新アップデート「パルワールド：Side by Side」を2026年冬に配信すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261021-474572-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-21T08:52:25+09:00"
+  },
+  {
+   "id": "ca86cd551002d389",
+   "url": "https://automaton-media.com/articles/interviewsjp/oboro-20261021-474551/",
+   "title": "『朧村正 怪奇譚』開発者インタビュー。本作は単なるリマスターではなかった、大変身の″リニューアル版”、PC版リリースの背景なども訊く",
+   "summary": "ヴァニラウェアの開発ディレクター中西渉氏と、マーベラスのプロデューサー塩田誠氏にメールインタビューを実施。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/oboromuramasa-kaikitan-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-21T07:28:22+09:00"
+  },
   {
    "id": "6166ab487ad859d3",
    "url": "https://www.4gamer.net/games/893/G089329/20260925040/",
