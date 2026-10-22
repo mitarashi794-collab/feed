@@ -1,8 +1,327 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T10:34:51+09:00",
+ "generated_at": "2026-10-22T16:40:44+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "fc723de01d4aed6f",
+   "url": "https://automaton-media.com/articles/newsjp/20261022-474960/",
+   "title": "暴走サイコ料理ホラー『Cucina Stellata』Steamで無料配信。好評率97％の熱い評判",
+   "summary": "CRITICAL REFLEXは10月21日、Filthy Edenが手がける『Cucina Stellata』を配信開始した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474960-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T16:34:48+09:00"
+  },
+  {
+   "id": "035ceb72aed3dacb",
+   "url": "https://www.4gamer.net/games/052/G105245/20261022026/",
+   "title": "記憶を失った少女が謎めいた屋敷を探索。ホラーADV「ポケットミラー〜黄金の夢」，コンシューマ機版を本日発売",
+   "summary": "KOMODOは本日，ホラーアドベンチャーゲーム「ポケットミラー〜黄金の夢」のPS5/Switch/PS4版を発売した。本作は，2016年にリリースされた「PocketMirrorClassic」をリマスターした作品だ。記憶を失った少女が謎めいた屋敷を探索し，自身の正体と隠された真実を追っていく。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T16:27:31+09:00"
+  },
+  {
+   "id": "34f72d86b103ecdc",
+   "url": "https://www.4gamer.net/games/705/G070580/20261022024/",
+   "title": "「つなキャン△」が作業支援アプリ「ちるキャン△」へとリニューアル。Steam版の配信もスタート",
+   "summary": "enishは本日（2026年10月22日），スマホ向けアプリ「ゆるキャン△つなげるみんなのオールインワン!!ちるタイム」をリリースするとともに，PC（Steam）版の早期アクセスを開始した。本作は，2023年にリリースされた「つなキャン△」をフルリニューアルした“チル×作業支援”アプリだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T15:47:45+09:00"
+  },
+  {
+   "id": "d31ca2cdcc25ac17",
+   "url": "https://www.4gamer.net/games/052/G105243/20261022025/",
+   "title": "「メタルギアソリッドV」と「ゼルダの伝説 風のタクト」から着想を得たステルスアクションADV「Trillionaire Mercenaries of 21XX」，体験版配信中",
+   "summary": "ソロ開発者のMorph氏は，新作「TrillionaireMercenariesof21XX」の体験版をitch.ioで配信している。本作は，「メタルギアソリッドV」と「ゼルダの伝説風のタクト」から着想を得たステルスアクションアドベンチャーで，2027年11月9日に発売予定だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T15:42:27+09:00"
+  },
+  {
+   "id": "935afd056b5f937c",
+   "url": "https://www.4gamer.net/games/999/G999904/20261022019/",
+   "title": "PHPで確認された深刻な脆弱性を巡り，ゲームのサービス終了が続く。10年以上運営されてきた「僕の魔界を救って！」も終了へ",
+   "summary": "本日（2026年10月22日），「僕の魔界を救って！」のサービス終了が公式Xで発表された。10月21日には旅行ゲーム「ワールドクエスト」のサービス終了が発表されており，PHPで確認された深刻な脆弱性を巡って，サービス終了の発表が続いている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T15:25:17+09:00"
+  },
+  {
+   "id": "dc10c7437d61166e",
+   "url": "https://www.4gamer.net/games/052/G105240/20261022021/",
+   "title": "ただこちらを見つめてくる男がいる。コンビニの夜勤中に不可解な出来事が起こる短編ホラー「The Staring Man | 凝視男」，体験版をSteamで公開",
+   "summary": "RAYBISGAMESは本日，TADAIMAWORKSが開発したPC用ソフト「TheStaringMan|凝視男」の体験版をSteamで公開した。本作は，深夜のコンビニを舞台にした短編ホラーゲームだ。仕事中，プレイヤーは道路の向こうに立つ男に気づく。男はこちらが見ている間は動かないが，目を離すと，いつの間にか近づいてくる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T15:21:43+09:00"
+  },
+  {
+   "id": "53f6da2fca995067",
+   "url": "https://www.4gamer.net/games/924/G092453/20261022023/",
+   "title": "「悪を楽しむ」をコンセプトに掲げたシミュレーションRPG「デモンズナイトフィーバー」，本日発売",
+   "summary": "アークシステムワークスは2026年10月22日，「デモンズナイトフィーバー」を発売した。本作は，「悪を楽しむ」をコンセプトに掲げた常識破りの「育成RTAシミュレーションRPG」だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T15:15:58+09:00"
+  },
+  {
+   "id": "4e2e10fa0ad036b8",
+   "url": "https://www.4gamer.net/games/052/G105241/20261022022/",
+   "title": "敵を撃破し続けなければ都市が壊れる。「EGGコンソール メガロポリスSOS MSX」，本日配信",
+   "summary": "D4エンタープライズは本日，「EGGコンソールメガロポリスSOSMSX」の配信を開始した。「メガロポリスSOS」は，1983年に発売された都市防衛型シューティング。プレイヤーは砲台を操作し，弾丸と浮遊機雷で飛来するUFOを迎撃しながら，NYCやLON，TKYなど6つの都市を守り抜く。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T15:00:45+09:00"
+  },
+  {
+   "id": "b4bca4d81aaa1d4e",
+   "url": "https://www.4gamer.net/games/612/G061218/20261021046/",
+   "title": "「Brookhaven RP」は課金圧が低くても収益トップ10に入る。Robloxの推薦アルゴリズムが見ているものとは",
+   "summary": "アメリカのサンノゼで開かれたRobloxの開発者向けカンファレンス「RobloxDevelopersConference2026」で，同社はゲームの推薦順位を決める仕組みについて，その評価軸を解説する講演を行った。判定期間は公開後7日間から28日間へ延び，新たな指標が2つ加わっている。また，その評価で収益化より重く見られる継続率をソーシャル機能でどう作るかが，「Fisch」の立て直しを例に語られた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T15:00:00+09:00"
+  },
+  {
+   "id": "3577776de425f47d",
+   "url": "https://www.4gamer.net/games/037/G103744/20261022017/",
+   "title": "「Football Manager 27」特設ブースがMUFGスタジアムに登場。元日本代表の中澤佑二さんが，選手をその気にさせる監督の共通点を語った",
+   "summary": "セガは2026年10月21日，MUFGスタジアム（国立競技場）で開催された「2026／27明治安田J1リーグ『MUFGTHE国立DAY』第11節：横浜F・マリノスvs東京ヴェルディ」の試合会場に，「FootballManager27」の特設ブースを出展した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T14:36:40+09:00"
+  },
+  {
+   "id": "213a764ff9fe3805",
+   "url": "https://automaton-media.com/articles/newsjp/20261022-474917/",
+   "title": "一人称ダークファンタジーARPG『フェイトキーパー』約4か月で売上“50万本”突破。ドでかスキルツリーで脳筋から属性特化まで、剣と魔法と錬金術の自由ビルド",
+   "summary": "THQ Nordicは10月21日、Paraglacialが手がける『Fatekeeper』の販売本数が50万本を突破したと発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474917-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T14:26:08+09:00"
+  },
+  {
+   "id": "abc190e0663da1dc",
+   "url": "https://www.4gamer.net/games/052/G105226/20261022018/",
+   "title": "カラオケ店の仕事を1人でこなすアクションゲーム「ワンオペ！カラオケ」本日発売。何から手を付けるかを判断しながら店を切り盛りしよう",
+   "summary": "SAT-BOXは本日，PC/Switch向けの新作「ワンオペ！カラオケ」を発売した。本作は，カラオケ店のスタッフとなって，店内で次々に舞い込む仕事を1人でこなしていくアクションゲームだ。マイクの交換やカラオケマシンの修理など，予定外の仕事も発生する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T14:16:56+09:00"
+  },
+  {
+   "id": "da419d8d84e197d5",
+   "url": "https://www.4gamer.net/games/037/G103744/20261022020/",
+   "title": "「Football Manager 27」，PC向けローンチプレビュー版を10月30日から無料公開。製品版へセーブデータ引き継ぎ可能",
+   "summary": "セガは本日，サッカークラブ経営シミュレーション「FootballManager27」のPC向けローンチプレビュー版を2026年10月30日から11月4日まで無料公開すると発表した。事前登録は不要で，セーブデータは11月11日発売予定の製品版へ引き継げる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T14:11:45+09:00"
+  },
+  {
+   "id": "838cfd13ccdcb1fa",
+   "url": "https://automaton-media.com/articles/newsjp/20261022-474927/",
+   "title": "Nintendo Switch 2/Switch向けセール今日も大量約630本追加。人気ソウルライク『Lies of P』や『モンハンストーリーズ3』、ガソスタ経営シムなど最安値級",
+   "summary": "ニンテンドーeショップにて10月22日、Nintendo Switch 2/Nintendo Switch向けタイトルの新たなセールが開始された。対象タイトルはたっぷり約630本。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474927-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T14:01:52+09:00"
+  },
+  {
+   "id": "c436c658ee492032",
+   "url": "https://www.4gamer.net/games/658/G065821/20261022015/",
+   "title": "「Once Human」，無料大型アップデート「禁断の島」を配信。自らの船を造り，危険な海域に挑む",
+   "summary": "NetEaseGamesとStarryStudioは2026年10月22日，「OnceHuman」で，無料大型アップデート「禁断の島」を配信した。プレイヤーは自身の船を造り，危険な海域を冒険していく。そして，各海域の異常現象を浄化し，巨大な生命体「海墟の王」に挑む。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T13:45:58+09:00"
+  },
+  {
+   "id": "f4f830002a178fff",
+   "url": "https://automaton-media.com/articles/newsjp/20261022-474906/",
+   "title": "リズムゲーム×ダーク恋愛ビジュアルノベル『Serial Lover』最新アプデで日本語に対応。6人の連続殺人鬼たちの心を掴む、異色好評作品が遊びやすく",
+   "summary": "Sugar Slipは10月22日、ビジュアルノベル『Serial Lover』に向け、アップデートを配信した。同アップデートでは、日本語を含むローカライズに対応している。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474906-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T13:33:35+09:00"
+  },
+  {
+   "id": "5342222a83799ed7",
+   "url": "https://www.4gamer.net/games/968/G096854/20261022014/",
+   "title": "最弱ゾンビが敵を喰らって“爆速成長”。アクションRPG「ステューピッド・ネバー・ダイズ」本日発売。実写ローンチトレイラーも公開",
+   "summary": "セガは本日，アクションRPG「ステューピッド・ネバー・ダイズ」を発売した。最弱ゾンビのデイビィが，敵の能力を奪う「スタイルイート」や身体を強化する「ボディハック」を駆使し，凍死したジュリアを甦らせるため，ダンジョンに挑む。実写ローンチトレイラーも公開されている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T13:19:16+09:00"
+  },
+  {
+   "id": "4e658a0e20b3fcdb",
+   "url": "https://www.4gamer.net/games/010/G101093/20261022005/",
+   "title": "「ファイナルファンタジー レゾナンス」本日発売。「もしFFがドットのまま進化をしていたら」をコンセプトにした新作RPG",
+   "summary": "スクウェア・エニックスは本日，「ファイナルファンタジーレゾナンス」を発売した。本作は，「もし『FINALFANTASY』がドットのまま進化をしていたら…」をコンセプトに開発された新作RPGだ。HD-2Dで描かれる世界を舞台に，ジョブシステムなど「FFの原点」の魅力を現代的な形で楽しめるという。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T13:06:08+09:00"
+  },
+  {
+   "id": "24e8edebb2fd96d2",
+   "url": "https://www.4gamer.net/games/052/G105227/20261022008/",
+   "title": "殺される前に恋に落とす。連続殺人鬼6人をリズムゲームで攻略する恋愛SLG「Serial Lover」，日本語に対応",
+   "summary": "SugarSlipは本日，PC用ソフト「SerialLover」のアップデートを実施し，日本語に対応した。本作は，見知らぬ館で記憶を失った状態で目を覚ました主人公が連続殺人鬼6人と協力し，館の謎と自分たちが集められた理由を解き明かしていくリズム×恋愛シミュレーションゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T13:03:00+09:00"
+  },
+  {
+   "id": "10b48cc57dabe2c7",
+   "url": "https://automaton-media.com/articles/interviewsjp/cinderia-20261022-474739/",
+   "title": "人気少女ローグライト『Cinderia』『魔女の庭』『クライムライト』開発者が対談、なぜみんな『Hades』系を作るのか。理由が違いすぎて白熱、ローグライト談義",
+   "summary": "『Cinderia』『魔女の庭』『クライムライト』の開発陣による三者対談を実施。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/cinderia-taidan-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T13:01:54+09:00"
+  },
+  {
+   "id": "40dda536d550959c",
+   "url": "https://www.4gamer.net/games/709/G070944/20261022011/",
+   "title": "10月29日のリリースを控えるアクション「Phantom Blade Zero」，ローンチトレイラーを公開。2027年にはPS5パッケージ版が発売予定",
+   "summary": "S-GAMEは本日，10月29日にリリース予定の新作「PhantomBladeZero」のローンチトレイラーを公開した。あわせて，PS5パッケージ版を2027年に発売すると発表している。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T12:34:11+09:00"
+  },
+  {
+   "id": "079c9f4292a6fcfd",
+   "url": "https://automaton-media.com/articles/newsjp/20261022-474895/",
+   "title": "BioWare閉鎖で、RPG業界の大物たちに悲しみ広がる。『ウィッチャー』のCDPRも『バルダーズ・ゲート3』のLarianも、悲嘆の声続々",
+   "summary": "Electronic Arts（EA）は10月22日、傘下のゲームスタジオBioWareを閉鎖すると発表した。数々の人気作を手がけてきたスタジオの閉鎖の報に、ゲーム業界人も次々と悲しみの反応を示している。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474895-header-5.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T12:31:41+09:00"
+  },
+  {
+   "id": "0461e20854fd2f02",
+   "url": "https://www.4gamer.net/games/052/G105231/20261022010/",
+   "title": "ド派手FPSシリーズの正統続編「Serious Sam: The Third Encounter」の開発がアナウンス。伝統の“走り撃ち”でメンタルとの決着をつけろ！",
+   "summary": "DevolverDigitalは，Croteamが開発するFPSシリーズ最新作「SeriousSam:TheThirdEncounter」を発表し，Steamストアページとティザートレイラーを公開した。2002年にリリースされた「SeriousSam:TheSecondEncounter」の物語を直接引き継ぐ正統な続編で，シリーズ伝統のド派手な“走り撃ち”が復活する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T12:20:32+09:00"
+  },
+  {
+   "id": "98323aa3c6a1c18e",
+   "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261022-474890/",
+   "title": "『League of Legends』批判浴びた“他人のリプレイDL禁止方針”、一転して「1時間に10件までOK」に。意外とゆるい",
+   "summary": "Riot Gamesは10月21日、『League of Legends』に向けてパッチ26.21を配信した。『LoL』ではリプレイダウンロードの仕様変更に対して物議を醸していたが、今後もリプレイダウンロード自体は可能となった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/league-of-legends-20261022-474890-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T12:19:55+09:00"
+  },
+  {
+   "id": "63373d5cef67747b",
+   "url": "https://automaton-media.com/articles/interviewsjp/twbs-20261022-474670/",
+   "title": "コーディング不要ゲーム制作ツールはAI時代をどう生き残る？『RPGツクール』『ウディタ』『Bakin』『SRPG Studio』開発者が語る、「全人類ゲームクリエイター化」の野望",
+   "summary": "国内のノーコードゲーム制作ツールの開発者の方々にお声がけをし、座談会後編。AIの進歩に対し、制作ツールはどう付き合っていくべきかなど語っていただいた。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/twbs-20261022-474670-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T12:10:56+09:00"
+  },
+  {
+   "id": "816db1864c467e5d",
+   "url": "https://www.4gamer.net/games/193/G019325/20261022007/",
+   "title": "RPGの名門BioWareが31年の歴史に幕。「Mass Effect」最新作の開発も中止に。EAは約400人を削減する大規模な事業再編を発表",
+   "summary": "ElectronicArts傘下のBioWareは現地時間2026年10月21日，スタジオの閉鎖と「MassEffect」最新作の開発中止を発表した。「Baldur'sGate」や「DragonAge」などの名作を生み出してきた老舗デベロッパが31年の歴史に幕を下ろす。今回の事業再編により，ElectronicArts全体では約400人がレイオフされるという。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T11:46:38+09:00"
+  },
+  {
+   "id": "d43addf86b168ef5",
+   "url": "https://www.4gamer.net/games/324/G032410/20261022006/",
+   "title": "旅行ゲーム「ワールドクエスト」，10月21日をもってサービス終了",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T11:37:12+09:00"
+  },
+  {
+   "id": "96051ed4c77ad5bd",
+   "url": "https://www.4gamer.net/games/044/G104451/20261022004/",
+   "title": "「Escape From Playtime」の早期アクセス版がSteamでリリース。「Poppy Playtime」の世界を舞台とするタイトル",
+   "summary": "MobEntertainmentは2026年10月22日，「EscapeFromPlaytime」の早期アクセス版をSteamでリリースした。価格は1390円（税込）。本作は，「PoppyPlaytime」の世界を舞台とする協力型サバイバルホラー・エクストラクションゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T11:23:43+09:00"
+  },
+  {
+   "id": "3eb9966b9f05bece",
+   "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
+   "title": "リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま”無料開放へ、10月30日から5日間。製品版にセーブデータ引き継ぎ可能、大改善された新作をたっぷり遊べる",
+   "summary": "セガは10月21日、『Football Manager 27』のローンチプレビューを日本時間10月30日午前3時から11月4日午前3時まで開催すると発表した。製品版に近いビルドで機能の制限なく無料で遊ぶことができる。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474882-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T10:34:54+09:00"
+  },
   {
    "id": "f43e3f873112cd5c",
    "url": "https://www.4gamer.net/games/015/G101532/20260911042/",
@@ -147,17 +466,6 @@
    "published": "2026-10-22T00:32:50+09:00"
   },
   {
-   "id": "4200a81113ebcac1",
-   "url": "https://www.4gamer.net/games/002/G100207/20261021043/",
-   "title": "「クライムライト／CRYMELIGHT」，体験版をSwitch2/PS5向けに本日配信。第1章をまるごと収録，想定プレイ時間は1.5〜3時間以上",
-   "summary": "フリューは本日，ローグライクアクション「クライムライト／CRYMELIGHT」の体験版をSwitch2/PS5向けに配信開始した。体験版には本編冒頭から第1章のラストまでが収録されており，ストーリーやバトル，懺悔による強化などを1.5〜3時間以上楽しめる。また，ゲームシステムに焦点を当てた2ndトレイラーも公開された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T00:00:00+09:00"
-  },
-  {
    "id": "f66d60262a6810fd",
    "url": "https://automaton-media.com/articles/newsjp/20261021-474786/",
    "title": "フリューの新作美少女ローグライクアクション『クライムライト』PS5/Nintendo Switch 2でも無料体験版が公開。公称1.5時間以上の第1章をまるごと遊べる",
@@ -165,6 +473,17 @@
    "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261021-474786-header-5.jpg",
    "source": "AUTOMATON",
    "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-22T00:00:00+09:00"
+  },
+  {
+   "id": "4200a81113ebcac1",
+   "url": "https://www.4gamer.net/games/002/G100207/20261021043/",
+   "title": "「クライムライト／CRYMELIGHT」，体験版をSwitch2/PS5向けに本日配信。第1章をまるごと収録，想定プレイ時間は1.5〜3時間以上",
+   "summary": "フリューは本日，ローグライクアクション「クライムライト／CRYMELIGHT」の体験版をSwitch2/PS5向けに配信開始した。体験版には本編冒頭から第1章のラストまでが収録されており，ストーリーやバトル，懺悔による強化などを1.5〜3時間以上楽しめる。また，ゲームシステムに焦点を当てた2ndトレイラーも公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
    "category": "news",
    "published": "2026-10-22T00:00:00+09:00"
   },
@@ -1247,61 +1566,6 @@
    "published": "2026-10-20T15:25:00+09:00"
   },
   {
-   "id": "e8939093fab596f8",
-   "url": "https://www.4gamer.net/games/051/G105154/20261020020/",
-   "title": "草むしりは禅である。10万本の草を最大6人で抜いていく作業ゲーム「Just Weeding」，デモ版をSteamで期間限定公開",
-   "summary": "インディーゲーム開発チームのC-Chickenは本日，PC用ソフト「JustWeeding」のデモ版をSteamで公開した。公開期間は2026年10月27日2：00まで。本作は，地面に生えている10万本の草を最大6人で抜いていく，ゆるい時間を過ごせる作業ゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T15:18:31+09:00"
-  },
-  {
-   "id": "23fdc454f56a1181",
-   "url": "https://www.4gamer.net/games/981/G098183/20261020017/",
-   "title": "「カルドセプト ビギンズ」，PC版の発売日が10月28日に決定。ボードゲームとカードゲームが融合したシリーズの最新作に対戦マップ3種などを追加",
-   "summary": "ネオスは本日，PC版「カルドセプトビギンズ」の発売日が10月28日に決定したと発表した。本作は，「カルドセプト」シリーズの最新作であり，7月にSwitch2/Switch向けに発売された。PC版には，対戦マップ3種と，ブック（デッキ）のカバーデザイン10種が追加される。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T15:14:24+09:00"
-  },
-  {
-   "id": "d57074c34b042db6",
-   "url": "https://www.4gamer.net/games/945/G094504/20261020021/",
-   "title": "重力や時間を操り，剣技と組み合わせて戦う。「KNIGHTS OF THE FALL」，体験版をSteamで配信開始",
-   "summary": "BohemiaInteractiveは，AiroGamesが開発を手掛ける2.5Dアクションアドベンチャー「KNIGHTSOFTHEFALL」の体験版をSteamで配信開始した。重力や時間を操る能力と剣技を組み合わせ，異次元からの侵略で荒廃した世界を進む。手描き風のアートとUnrealEngineによる表現も特徴だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T14:55:51+09:00"
-  },
-  {
-   "id": "0fb55e41ac10278a",
-   "url": "https://www.4gamer.net/games/554/G055489/20261020019/",
-   "title": "「ウマ娘」，アメリカ・ロサンゼルスで開催予定だったイベントが公演中止に。ビザの承認が下りず，苦渋の決断",
-   "summary": "Cygamesは本日（2026年10月20日），アメリカのロサンゼルスで10月22日，23日に開催を予定していた「ウマ娘プリティーダービー7thEVENTWORLDTOUR“THESTAGE”inLOSANGELES」について，公演を中止すると発表した。公演の中止に伴い，各種払い戻し対応が予定されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T14:40:45+09:00"
-  },
-  {
-   "id": "ef237618e13bf746",
-   "url": "https://www.4gamer.net/games/528/G052880/20261020018/",
-   "title": "オープンワールドアクションMMORPG「ArcheAge Chronicles」のデモがSteam Next Festで公開に",
-   "summary": "XLGAMESは，2026年10月22日2：00から27日2：00まで開催中のSteamNextFestに参加し，「ArcheAgeChronicles」のデモを公開した。今回のデモでは，9月に開催されたネットワークテストをベースとした内容で，PvPと，新ダンジョン「ThroneofHinnon」の攻略を楽しめる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T14:24:49+09:00"
-  },
-  {
    "id": "8b40897a5e8de68f",
    "url": "https://automaton-media.com/articles/newsjp/20261020-474448/",
    "title": "“ダブル主人公“日本田舎暮らしシム『復興しよう！温泉町』12月7日に早期アクセス配信へ。海も山も大満喫な少女と忙しそうな町長の凸凹町おこし",
@@ -1313,39 +1577,6 @@
    "published": "2026-10-20T14:01:25+09:00"
   },
   {
-   "id": "d0f7182017c29a7d",
-   "url": "https://www.4gamer.net/games/004/G100420/20261019034/",
-   "title": "どこでどう死ぬかが攻略のカギ。「リリリ・リスポーン」，10月29日発売決定。自分の死体を利用する3Dパズルアクション",
-   "summary": "Re³（リリリ）は本日，Studio非が開発するPC向けパズルアクション「リリリ・リスポーン（Re:Re:Re:Respawn）」を2026年10月29日にSteamで発売すると発表した。死ぬたびに残る自分の死体を足場や重り，盾として利用し，危険な仕掛けが張り巡らされた巨大建造物「BOX」を攻略していく。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T14:00:00+09:00"
-  },
-  {
-   "id": "4c3c370d54dc97eb",
-   "url": "https://www.4gamer.net/games/991/G999101/20261020016/",
-   "title": "「DayZ」開発者らのゲーム開発フレームワーク「BRUTAL」がオープンソースで公開。商用利用もロイヤリティ不要，「RimWorld」の独自エンジンにも採用",
-   "summary": "RocketWerkzとAhwooは，ゲーム開発フレームワーク「BRUTAL」をオープンソースとして一般公開した。C#と.NETをベースにした本フレームワークは，独自のゲームエンジンを構築する基盤などとして利用可能で，商用ゲームにもロイヤリティ不要で導入できる。すでに「RimWorld」の独自エンジンへの移行にも活用されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T13:51:57+09:00"
-  },
-  {
-   "id": "fd8668997378d251",
-   "url": "https://www.4gamer.net/games/991/G999105/20261020014/",
-   "title": "ポケモンとミスドのコラボキャンペーン「みんなで集合！冬のポケモンキャンペーン」，先行予約を10月27日より順次スタート",
-   "summary": "ダスキンは本日（2026年10月20日），全国のミスタードーナツで「みんなで集合！冬のポケモンキャンペーン」を開催すると発表した。本キャンペーンでは，ポケモンとコラボした“ミスドポケモンドーナツ”やグッズセットなどが販売される。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T13:42:06+09:00"
-  },
-  {
    "id": "b24b0e267fda191b",
    "url": "https://automaton-media.com/articles/newsjp/20261020-474441/",
    "title": "メモリやマザーボードに続いて今度は「モニター」に値上げの波か。アイオーデータは値上げ実施、Dellにも値上げ報道",
@@ -1355,39 +1586,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-20T13:32:45+09:00"
-  },
-  {
-   "id": "8914bcf3cb69971f",
-   "url": "https://www.4gamer.net/games/995/G099572/20261020011/",
-   "title": "犬のダイバーたちが深海を探索する4人協力アクション「ソルティドッグ」，Steam Nextフェスで体験版を配信中。海底に眠るお宝を回収しよう",
-   "summary": "PoldenPublishingは本日，PCゲーム「ソルティドッグ」の体験版を「SteamNextフェス」で配信していると発表した。本作は，犬のダイバーたちが汚染の進む深海を探索する，最大4人で遊べる2D協力アクションゲームだ。プレイヤーは銃で海の生き物を蹴散らしながら，海底に眠るお宝を回収していく。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T13:30:14+09:00"
-  },
-  {
-   "id": "c1f7c1e3fc3af980",
-   "url": "https://www.4gamer.net/games/051/G105148/20261020015/",
-   "title": "剣撃や銃弾，レーザーを跳ね返して敵を倒し，脱出への道を切り開く。見下ろし型アクションローグライト「KILLSEC」，体験版配信中",
-   "summary": "TurboNerdsGamesは，PC向け見下ろし型アクションローグライト「KILLSEC」の体験版をSteamで配信している。本作では，剣撃や銃弾，レーザーなどを跳ね返して敵を倒しながら，巨大企業の極秘施設からの脱出を目指す。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T13:25:52+09:00"
-  },
-  {
-   "id": "be963a2acaf6ec65",
-   "url": "https://www.4gamer.net/games/029/G102927/20261020012/",
-   "title": "米澤穂信氏原作「本と鍵の季節」，体験版をSteamで配信開始。第1章「913」をまるごと収録し，プレイヤー自身が謎解きに挑戦",
-   "summary": "集英社ゲームズは本日，米澤穂信氏の小説を原作とするADV「本と鍵の季節」の体験版をSteamで配信開始した。体験版では第1章「913」をまるごと収録し，図書委員の堀川次郎と松倉詩門が“開かずの金庫”の謎に挑む物語を楽しめる。プレイヤー自身が堀川として謎を解く場面も用意されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T12:58:26+09:00"
   },
   {
    "id": "3e8faab522c0d373",
@@ -1410,28 +1608,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-20T12:46:29+09:00"
-  },
-  {
-   "id": "259ed4fb8dd50d3c",
-   "url": "https://www.4gamer.net/games/033/G103320/20261020008/",
-   "title": "ダイスで航海し，相場を読んで交易路を切り開け。「フォーチュリア：交易路の開拓者」，体験版をアップデート。オンライン対戦を追加",
-   "summary": "FUJIYAMAENTERTAINMENTは，航海ストラテジー「フォーチュリア：交易路の開拓者」の体験版をアップデートした。キャンペーンモード第1章と，ローカル／オンライン対応の対戦モードが新たに遊べるようになった。2026年10月26日2：00まで開催される「SteamNextフェス」にも参加している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T12:23:06+09:00"
-  },
-  {
-   "id": "b6f66e7d3e807957",
-   "url": "https://www.4gamer.net/games/012/G101267/20261020007/",
-   "title": "クマ一家のはちみつ農園を手伝う放置系ゲーム「Bottled By Bears」，11月11日にSteamで発売。ハチパックを開けてハチを集めよう",
-   "summary": "monoiistudioは本日，PCゲーム「BottledByBears」を11月11日にSteamで発売すると発表した。本作は，クマのポウフォード家が営むはちみつ農園を手伝う放置系コレクションゲームだ。プレイヤーはハチパックを開封して新たなハチを見つけ，その働きぶりを見守っていく。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T12:22:20+09:00"
   },
   {
    "id": "30af6debaddd8e4e",
