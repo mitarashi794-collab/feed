@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T22:51:49+09:00",
+ "generated_at": "2026-10-23T03:35:48+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "bc0a6b3918cc8c74",
+   "url": "https://www.4gamer.net/games/966/G096663/20261023002/",
+   "title": "「Windrose」，今冬配信予定の大型アップデート「Ashlands」新情報を公開。UIが刷新されて遊びやすくなり，舟歌も追加される",
+   "summary": "ポケットペアは本日（2026年10月22日），海賊サバイバル「Windrose」について，大型アップデート「Ashlands」の新情報を公開した。今回のアップデートでは，HUDや会話画面が刷新され，派閥画面や舟歌の収集，歌詞表示機能などが実装される。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T00:52:50+09:00"
+  },
+  {
+   "id": "b48629a1eabfa4e2",
+   "url": "https://www.4gamer.net/games/052/G105259/20261023001/",
+   "title": "壁世界にコロニーを築き上げろ！ シリーズ最新作「Wall World Strategy」，発売日を11月11日に決定。おなじみの多脚メカもしっかり登場",
+   "summary": "Alawarは本日（2026年10月22日），同社が展開する「WallWorld」シリーズの世界を舞台にしたコロニー運営シミュレーション「WallWorldStrategy」を11月11日にリリースすると発表した。プレイヤーは巨大な壁面に生活拠点を築き，住民や資源を管理しながら，敵の襲撃に備えていく。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T00:18:44+09:00"
+  },
+  {
+   "id": "903ddea392796bd2",
+   "url": "https://www.4gamer.net/games/999/G999905/20261022057/",
+   "title": "1990年代末〜2000年代の日本ゲーム文化を収めた写真300点超が無料公開。当時のTGS，AMショーなどの模様に加えて，秋葉原の風景も確認できる",
+   "summary": "ゲーム史の保存や研究に取り組む米国の非営利団体・VideoGameHistoryFoundation（VGHF）は2026年10月21日，写真コレクション「ColinWilliamsonPhotographyCollection」をオンラインアーカイブで公開した。1990年代末〜2000年代の日本のゲームイベントや街の風景などを収めた300点超の写真を無料で閲覧できる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-22T23:09:31+09:00"
+  },
   {
    "id": "ad8a26a78a93a6f7",
    "url": "https://www.4gamer.net/games/780/G078037/20261022041/",
@@ -1553,39 +1586,6 @@
    "source_id": "4gamer",
    "category": "news",
    "published": "2026-10-20T20:39:29+09:00"
-  },
-  {
-   "id": "bf7eb27f7f0686f6",
-   "url": "https://www.4gamer.net/games/867/G086701/20261020048/",
-   "title": "「ステラソラ」のフィギュア「ねんどろいど コハク」が2027年7月に発売決定。オプションパーツとして「双銃」「ケータイ」「猫」などが付属",
-   "summary": "グッドスマイルカンパニーは本日，「ステラソラ」のフィギュア「ねんどろいどコハク」を2027年7月に発売すると発表し，予約を開始した。価格は8900円（税込）。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T20:30:27+09:00"
-  },
-  {
-   "id": "e53e69509efaa601",
-   "url": "https://www.4gamer.net/games/051/G105176/20261020049/",
-   "title": "もう行く場所も，立ち去る理由もない。巨大怪物リヴァイアサンが来るのを待つのみ。老人の最後の日々を描く実存的ホラー「Leviathan: Rhino」，体験版配信中",
-   "summary": "SolarsuitGamesは，AmortizGamesが手掛ける実存的ホラーゲーム「Leviathan:Rhino」の体験版をSteamで配信している。本作は，巨大怪物「リヴァイアサン」が迫る小さな村を舞台に，避難しない老人「Petro」の最後の日々を描く作品だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T20:26:52+09:00"
-  },
-  {
-   "id": "fd0e3fc15a743d1a",
-   "url": "https://www.4gamer.net/games/944/G094401/20261020045/",
-   "title": "落ち物パズル「パズまお〜Puzzle and Magical Overlord〜」，Steamで本日発売。魔王の座をかけた大会にクセのあるスキルで挑む",
-   "summary": "シリアルゲームズは本日，PCゲーム「パズまお〜PuzzleandMagicalOverlord〜」を発売した。本作は，のんきな魔族ばかりが暮らすファンタジー世界を舞台にした落ち物パズルゲームだ。魔族たちは争いを避けるため，何かを決めるときはパズル「マギクラーヴェ」で勝負する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T20:15:25+09:00"
   },
   {
    "id": "8d25f3d3ae2912b2",
