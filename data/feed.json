@@ -1,8 +1,63 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T22:32:04+09:00",
+ "generated_at": "2026-10-24T03:25:58+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "94d099373b9ba743",
+   "url": "https://www.4gamer.net/games/007/G100712/20261023059/",
+   "title": "「めっちゃカメレオン」をリアルで遊ぶ「ARめっちゃカメレオン」が10月24日と25日にイオンモール高知で開催へ",
+   "summary": "コケナワホールディングスは本日（2026年10月23日），「めっちゃカメレオン」の公式ARイベントを10月24日と25日にイオンモール高知で開催すると発表した。スマホで色を塗ったキャラクターを会場の巨大パネルに隠し，参加者全員で探し合う。予約や専用アプリは不要だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T00:00:00+09:00"
+  },
+  {
+   "id": "df292b0ee1c43ee5",
+   "url": "https://www.4gamer.net/games/486/G048621/20261023058/",
+   "title": "「原神」初の常設カフェ「原神CAFE」が，2027年1月20日に有楽町マルイでオープン。作品の世界観を表現したフードメニューや限定グッズを展開",
+   "summary": "HoYoverseは本日（2026年10月23日），「原神」初の公式常設カフェ「原神CAFE」を，2027年1月20日に東京・有楽町マルイにオープンすると発表した。作品の世界観を表現したフードメニューや限定グッズなどを展開する予定で，キービジュアルと予告PVも公開されている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T23:33:18+09:00"
+  },
+  {
+   "id": "97bb73c780542ff4",
+   "url": "https://www.4gamer.net/games/784/G078437/20261023046/",
+   "title": "壊れた勇者パーティから1人を選び，ともに脱出を目指す。「勇者パーティはぜんめつしました。」体験版をSteamで配信開始",
+   "summary": "デス組合とFlashlightGamesは本日，高湿度・激重感情RPG「勇者パーティはぜんめつしました。」の体験版をSteamで配信開始した。壊れてしまった勇者パーティの4人から1人を選び，ともにダンジョン脱出を目指す。体験版では最初のボス「追放者」までをプレイできる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T23:00:00+09:00"
+  },
+  {
+   "id": "c754169288ccc37c",
+   "url": "https://www.4gamer.net/games/486/G048621/20261023056/",
+   "title": "「原神」，Ver.7.2「終焉へ墜ちる時」を11月4日にリリース。新たなプレイアブルキャラクター「ミティヤ」「バレリー」が登場",
+   "summary": "HoYoverseは本日（2026年10月23日），「原神」のVer.7.2「終焉へ墜ちる時」を11月4日に実装すると発表した。今回のアップデートでは，七国の代表が集う新たな魔神任務とスネージナヤ東部の新エリアが開放され，星電導反応を強化するミティヤとバレリーが登場する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T22:54:24+09:00"
+  },
+  {
+   "id": "67e281511aeff8c8",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475319/",
+   "title": "『スマブラ』対戦交流ファンサイト「スマメイト」、サービス終了へ。ガチ勢御用達レート戦Webサービス、惜しまれつつの幕引き",
+   "summary": "開発者のcoco（のちょう）氏は10月23日、「スマメイト」のサービス終了を告知した。同サイトは、『スマブラ』シリーズの非公式対戦・交流サービスとして展開されてきたサイトで、10月25日23時59分をもってサービスが終了される。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475319-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T22:53:51+09:00"
+  },
   {
    "id": "291ae812994a3b6a",
    "url": "https://www.4gamer.net/games/052/G105284/20261023055/",
@@ -1610,17 +1665,6 @@
    "published": "2026-10-21T23:00:00+09:00"
   },
   {
-   "id": "511641d3e680ad4f",
-   "url": "https://www.4gamer.net/games/786/G078621/20261021054/",
-   "title": "「マーベル・ライバルズ」，50人のヒーローがサノスと戦う大規模PvEモード“Path to Doomsday - Avengers: Endgame”のトレイラーを公開",
-   "summary": "NetEaseGamesは本日（2026年10月21日），同社が運営中のオンラインTPS「マーベル・ライバルズ」で10月24日（UTC）に実装予定の新モード「PathtoDoomsday-Avengers:Endgame」の予告トレイラーを公開した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T21:07:18+09:00"
-  },
-  {
    "id": "236d0d609aeac188",
    "url": "https://automaton-media.com/articles/newsjp/20261021-474754/",
    "title": "水の見映えがいまいちだと悩むゲーム開発者、パラメータをとんでもない値にしたら劇的改善。現実通りじゃなくたって、“なんか良い感じ”ならOK",
@@ -1630,39 +1674,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-21T20:38:34+09:00"
-  },
-  {
-   "id": "d4f66e06afb262d0",
-   "url": "https://www.4gamer.net/games/052/G105222/20261021047/",
-   "title": "敵を「支配」して，味方にできる。兄妹が魔界を探索して，魔物たちと出会うターン制ストラテジーRPG「魔界群雄割拠」，体験版をSteamで公開",
-   "summary": "sasoriken-gamesは本日，PC用ソフト「魔界群雄割拠」の体験版をSteamで公開した。本作は，弱らせた敵を「支配」し，味方にするターン制ストラテジーRPGだ。100年の眠りから目覚めた兄妹が王のいない魔界を探索し，魔物たちと出会う。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T20:33:34+09:00"
-  },
-  {
-   "id": "7467baf3dc975139",
-   "url": "https://www.4gamer.net/games/574/G057428/20261021052/",
-   "title": "「英傑大戦 古幻相剋の八象」，アニメ「逃げ若」とのコラボイベントを復刻開催",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T20:27:41+09:00"
-  },
-  {
-   "id": "7cc4bbd562ba5721",
-   "url": "https://www.4gamer.net/games/047/G004755/20261021051/",
-   "title": "ASUSの31.5型有機ELディスプレイ「ROG Swift OLED PG32UCWM」が10月23日発売。4K/240HzとフルHD/480Hzを切り替えるデュアルモード対応",
-   "summary": "2026年10月21日，ASUSは，ゲーマー向け有機ELディスプレイ「ROGSwiftOLEDPG32UCWM」と「ROGSwiftOLEDPG27UCWM」を10月23日から順次発売すると発表した。画面サイズは順に31.5インチ，26.5インチで，税込想定売価は23万2920円，20万5820円となっている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T20:22:44+09:00"
   },
   {
    "id": "e4008c2640777d47",
