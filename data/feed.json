@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T07:24:41+09:00",
+ "generated_at": "2026-10-23T10:35:29+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "8467aacf0c91d165",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475064/",
+   "title": "『エースコンバット・ゼロ』Steam版、ついに単独起動可能に。“140GBエスコンZERO”からの解放",
+   "summary": "『エースコンバット8』の予約特典としてプレイ可能であった『エースコンバット・ゼロ』について、Steam上で単独起動が可能となった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475064-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T09:34:19+09:00"
+  },
+  {
+   "id": "ee96ff5bd4a80eb6",
+   "url": "https://www.4gamer.net/games/968/G096869/20261022013/",
+   "title": "「Gears of War: E-Day」の戦場では，決して1人じゃない。ルーキーが目の当たりにした仲間たちの筋肉，絆，そしてアツさ［プレイレポ］",
+   "summary": "2026年10月6日にリリースされた「GearsofWar:E-Day」は，地底からやってくる未知なる脅威との戦いを描くSFサバイバルTPSシリーズの最新作だ。シリーズ初体験のライターが，シングルプレイとオンライン協力プレイで，キャンペーンをはじめとするさまざまなモードを体験してみた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T08:00:00+09:00"
+  },
+  {
+   "id": "29c6b8c14835337f",
+   "url": "https://www.4gamer.net/games/987/G098799/20261022002/",
+   "title": "嵐の迫る無人の町で失踪したミュージシャンを追う横スクロールホラー「Silver Pines」（あかねのSteam Pick Up！）",
+   "summary": "本日の「あかねのSteamPickUp！」では，嵐の迫る田舎町で消えたミュージシャンを追う横スクロールのサバイバルホラー「SilverPines」を紹介。私立探偵となって無人の町を探索し，金庫の暗号を解きながら行ける場所を広げていく。セーブにも硬貨が要るほど物資は乏しく，戦うか避けるかで悩まされるぞ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T08:00:00+09:00"
+  },
   {
    "id": "bc0a6b3918cc8c74",
    "url": "https://www.4gamer.net/games/966/G096663/20261023002/",
@@ -1564,28 +1597,6 @@
    "source_id": "4gamer",
    "category": "news",
    "published": "2026-10-20T21:36:34+09:00"
-  },
-  {
-   "id": "3e1f676b31276556",
-   "url": "https://www.4gamer.net/games/973/G097300/20261020052/",
-   "title": "仲間とともに空島を発展させていくマルチプレイヤーライフシム「Loftia」，デモ版を配信開始",
-   "summary": "QloudGamesは本日（2026年10月20日），11月4日に早期アクセスを開始予定の新作タイトル「Loftia」のデモ版をリリースした。本作は，空に浮かぶ島々を舞台に，フレンドと一緒に農作業やものづくり，探索などを楽しめるマルチプレイヤーライフシミュレーションゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T20:53:05+09:00"
-  },
-  {
-   "id": "e3c2007bd16c2e48",
-   "url": "https://www.4gamer.net/games/189/G018964/20261020050/",
-   "title": "「サイバーパンク: エッジランナーズ 2」，Netflixで配信開始。10月22日にはPC，PS5，XBOX Series X|S向けのアップデートも登場",
-   "summary": "CDPROJEKTREDは，アニメーション制作会社TRIGGERと共同で手掛けた「サイバーパンク:エッジランナーズ2」の配信を本日（2026年10月20日）Netflixで開始した。また，「エッジランナーズ2アップデート」が10月22日にPC，PS5，XBOXSeriesX|S向けに公開される。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T20:39:29+09:00"
   },
   {
    "id": "8d25f3d3ae2912b2",
