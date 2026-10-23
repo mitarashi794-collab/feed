@@ -1,8 +1,316 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T10:35:29+09:00",
+ "generated_at": "2026-10-23T16:38:04+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "f7b0a0826d3fa303",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475024/",
+   "title": "エイム訓練ゲーム『Aimlabs』にて「マウスの重さとエイム上達の関係」示す大規模研究。“軽めマウス”の結果はいいけど、“慣れ”でもカバー可能かも",
+   "summary": "『Aimlabs』を手がけるデベロッパーのStatespaceが、マウスの重さとFPSなどにおけるエイムのスキル上達との関係を研究・分析した論文を発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475024-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T16:25:29+09:00"
+  },
+  {
+   "id": "5df53053f8ff1703",
+   "url": "https://www.4gamer.net/games/500/G050045/20261023019/",
+   "title": "「フォーメーションZ」に登場する自機「イクスペル」がプラスチックキットに。2027年8月に発売予定，予約を受け付け中",
+   "summary": "千値練は，横スクロールシューティングゲーム「フォーメーションZ」に登場する自機「イクスペル」のプラスチックキットを，新ブランド「GM²I（ジーエムアイ）」より2027年8月に発売すると発表した。価格は8800円（税込）。予約は本日（2026年10月23日）から2027年3月4日まで受け付けられている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T15:24:38+09:00"
+  },
+  {
+   "id": "d82e2a8c7ad940b4",
+   "url": "https://www.4gamer.net/games/052/G105272/20261023020/",
+   "title": "50万株を超えるクローバーのなかからたった1本の六つ葉を見つけ出す「六つ葉探し」，Steamで配信開始。リリース記念セールで238円（税込）に",
+   "summary": "杜の羊氏は2026年10月22日，PC用ソフト「六つ葉探し」の配信をSteamで開始した。本作は，空き地で四つ葉，五つ葉，そして六つ葉を探し出す一人称の観察ゲームだ。木漏れ日の差す森の空き地には，50万株を超えるクローバーが広がっており，そのなかから六つ葉を見つけ出そう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T15:16:41+09:00"
+  },
+  {
+   "id": "f996335d2b919bc2",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475144/",
+   "title": "『FF』新作『ファイナルファンタジー レゾナンス』一日遅れのSteamでも“同接2万越”の大盛況。もしもが現実になった“ドット絵の『FF』”",
+   "summary": "スクウェア・エニックスは10月22日、『ファイナルファンタジー レゾナンス』を配信開始した。1日遅れで配信されたSteam版では最大同時接続プレイヤー数が2万人を突破し、Steamユーザーレビューは「非常に好評」ステータスを獲得するなど、さっそく人気を博している。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475144-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T15:11:25+09:00"
+  },
+  {
+   "id": "fdcfad17fbd9ab68",
+   "url": "https://www.4gamer.net/games/052/G105268/20261023017/",
+   "title": "育成シム「Ad Aquilonem - セトとすごす100日間 -」，Switch向けに10月30日発売。ケモノキャラ「セト」の能力を育て，遺跡探索に挑む",
+   "summary": "MBAInternationalは本日，NintendoSwitch向けソフト「AdAquilonem-セトとすごす100日間-」を10月30日に発売すると発表した。本作は，ケモノキャラの「セト」と100日間を過ごす育成シミュレーションゲームだ。プレイヤーは「鍛える」「休む」を選びながらセトの能力を育て，遺跡探索でのオートバトルに挑む。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T15:04:36+09:00"
+  },
+  {
+   "id": "8609e4bdf7999209",
+   "url": "https://www.4gamer.net/games/052/G105270/20261023015/",
+   "title": "人類が気候変動への対策を進める前に，台風をより強力に育てていく。台風育成ストラテジー「I, Hurricane -我は台風-」発表，2026年12月2日に発売予定",
+   "summary": "BubuGamesSは本日，台風育成ストラテジー「I,Hurricane-我は台風-」を発表した。本作は，温かい海に台風を発生させ，進路を操作しながらより強力に育てていく作品だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T14:58:20+09:00"
+  },
+  {
+   "id": "60d841b67f5d090a",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475138/",
+   "title": "『ロマンシング サガ2 リベンジオブザセブン』売上100万本突破。『3』リメイクを前にシリーズ29年ぶりの大台",
+   "summary": "スクウェア・エニックスは10月23日、『ロマンシング サガ2 リベンジオブザセブン』の累計販売本数が100万本を突破したことを発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475138-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T14:34:31+09:00"
+  },
+  {
+   "id": "de4c3d8a4da119fa",
+   "url": "https://www.4gamer.net/games/997/G099737/20261023013/",
+   "title": "失踪した推しの行方を追うため，元アイドルの配信に介入して真相を探る。サイコホラーADV「つみみじかん 狂オシイホド愛シテル」，配信開始",
+   "summary": "灯白社は2026年10月22日，新作タイトル「つみみじかん狂オシイホド愛シテル」をリリースした。本作は，元アイドルの崖っぷち配信者「つみみ」の配信を通して，いわくつきの廃村を調査する配信介入×調査推理サイコホラーADVだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T13:56:42+09:00"
+  },
+  {
+   "id": "3c9ada08332b2c5c",
+   "url": "https://www.4gamer.net/games/043/G104312/20261023010/",
+   "title": "科学と魔法のローグライクRPG「サイマジック」，G123で正式サービスを開始。炎や水，電気，風などの力を組み合わせて魔法を進化させよう",
+   "summary": "CTWは本日，新作ブラウザゲーム「サイマジック」の正式サービスを開始した。本作は，魔法が当たり前の異世界を舞台に，科学の知識を持つ少年が世界の常識を覆していくローグライクRPGだ。バトルでは，その知識をヒントに炎や水，電気，風などの力を組み合わせ，魔法を進化させていく。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T13:18:23+09:00"
+  },
+  {
+   "id": "67a5f6c624d4ca0b",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475124/",
+   "title": "「死を探す少女」との廃墟城砦・美少女ゲーム『鉄廻城砦の灰花』12月18日発売へ。価格は1200円とお求めやすく",
+   "summary": "ビジュアルアーツのブランドVISUAL ARTS Scriptsは10月23日、『鉄廻城砦の灰花（てっかいじょうさいのはいか）』を12月18日にリリースすると告知した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475124-header-6.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T13:13:03+09:00"
+  },
+  {
+   "id": "2a356dc874f7b176",
+   "url": "https://www.4gamer.net/games/050/G105072/20261023012/",
+   "title": "協力登山ゲーム「PEAK」，Switch2 / PS5 / XBOX Series X|S向けに発売。クロスプラットフォームに対応",
+   "summary": "AGGROCRABは，「PEAK」のコンソール版をNintendoSwitch2/PS5/XBOXSeriesX|S向けにリリースした。クロスプラットフォームに対応しているため，異なるプラットフォームでゲームを所持するフレンド同士で遊べる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T13:06:02+09:00"
+  },
+  {
+   "id": "f3236219cff8adc4",
+   "url": "https://www.4gamer.net/games/784/G078489/20261023011/",
+   "title": "「アズールプロミリア」，11月26日に正式リリース決定。キボ「キャバード」の限定着せ替えなどを獲得できるWebキャンペーンも開始",
+   "summary": "Yostarは本日，新作RPG「アズールプロミリア」を2026年11月26日にリリースすると発表した。グローバル事前登録者数は2500万人を突破しており，達成報酬としてキャラクター「アニス」などの配布も決定している。また，ゲーム内報酬を獲得できるWebキャンペーン「キボキャンプ大作戦」が開催中だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T13:03:30+09:00"
+  },
+  {
+   "id": "e0101b44d9ffc397",
+   "url": "https://www.4gamer.net/games/948/G094822/20261023005/",
+   "title": "「プチプラネット」，リリース予告番組を11月1日20：00から配信。ゲームコンテンツや今後展開予定のイベント・キャンペーン情報を紹介",
+   "summary": "HoYoverseは本日，今冬のリリースを予定しているスローライフゲーム「プチプラネット」のリリース予告番組をYouTubeと公式Xで2026年11月1日20：00から配信すると発表した。番組では，ゲームコンテンツや今後展開予定のイベント・キャンペーン情報を紹介する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T12:49:45+09:00"
+  },
+  {
+   "id": "37e25933eb2d36bd",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475115/",
+   "title": "『アズールレーン』開発元新作『アズールプロミリア』11月26日リリースへ。期待のモンスター育成美少女ファンタジーRPG、まもなく",
+   "summary": "Yostarは10月23日、『アズールプロミリア』を11月26日にリリースすると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475115-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T12:29:02+09:00"
+  },
+  {
+   "id": "893e4cb544d785d6",
+   "url": "https://www.4gamer.net/games/014/G101429/20261023007/",
+   "title": "ダーク三國アクションRPG「Wo Long 2: Wings of Ember」，α体験版のフィードバックレポートを公開。改善方針も発表",
+   "summary": "コーエーテクモゲームスは本日（2026年10月23日），ダーク三國アクションRPG「WoLong2:WingsofEmber」の最新情報として，α体験版のフィードバックレポートを公開した。同社はプレイヤーからの意見をもとにゲームのブラッシュアップに努めるとしている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T12:10:14+09:00"
+  },
+  {
+   "id": "23542c73570f63f5",
+   "url": "https://www.4gamer.net/games/051/G105143/20261023008/",
+   "title": "「モンスター娘サバイバル&クラフト2040」，体験版をアップデート。クラフトや操作を改善し，捕獲率も上昇",
+   "summary": "Ludoreagamesは2026年10月22日，「モンスター娘サバイバル&クラフト2040」の体験版をアップデートした。プレイヤーから寄せられた意見をもとに，クラフトや操作を改善し，全モンスター娘の捕獲率を引き上げた。そのほか，方角表示の追加や不具合の修正なども行われている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T12:09:44+09:00"
+  },
+  {
+   "id": "51b250f49dc10b08",
+   "url": "https://www.4gamer.net/games/630/G063087/20261023006/",
+   "title": "次々と襲来する敵を撃退するサバイバルFPS「Sker Ritual」と，選択によって物語の展開が変化していくホラーADV「Home - A Unique Horror Adventure」がEpic Games Storeで無料配布中",
+   "summary": "EpicGamesは，PCゲーム配信プラットフォームEpicGamesStoreにて，「SkerRitual」と「Home-AUniqueHorrorAdventure」の無料配布を実施している。期間は2026年10月30日0：00まで。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T12:03:29+09:00"
+  },
+  {
+   "id": "53a96fa9e0b0c72e",
+   "url": "https://automaton-media.com/articles/reportjp/bluenova-20261023-475080/",
+   "title": "新たな基本プレイ無料TPS『B.L.U.E. NOVA』先行試遊感想。「とりあえず一緒に戦おう」で成立する、最大30人協力TPSの“気疲れしない”サブゲームシューター",
+   "summary": "最大30人協力TPS『B.L.U.E. NOVA』の試遊レポートをお届けする。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/bluenova-20261023-475080-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T12:00:07+09:00"
+  },
+  {
+   "id": "eab4d6340e116a40",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475096/",
+   "title": "『続ポートピア連続殺人事件:忘却の埋葬』来年3月4日発売へ。犯人は誰なのか、あの『ポートピア連続殺人事件』がフルリメイク",
+   "summary": "ジー・モードは10月23日、『続ポートピア連続殺人事件:忘却の埋葬』を2027年3月4日に発売すると発表した。本作は1983年に発売された推理ADV『ポートピア連続殺人事件』のリメイク作となる。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475096-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T12:00:03+09:00"
+  },
+  {
+   "id": "ba8d857419dd2f53",
+   "url": "https://www.4gamer.net/games/042/G104273/20261016060/",
+   "title": "ガンホーの新作オンラインゲーム「B.L.U.E. NOVA」は，最大30人でカジュアルに楽しめる“共闘弾幕”シューター［プレイレポ］",
+   "summary": "ガンホー・オンライン・エンターテイメントは2026年10月30日から11月1日まで，PC向け新作オンラインゲーム「B.L.U.E.NOVA」のテクニカルテストを実施する。今回，テクニカルテストのバージョンを試遊する機会を得たので，ファーストインプレッションをお伝えしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T12:00:00+09:00"
+  },
+  {
+   "id": "3c710a996262f4a1",
+   "url": "https://www.4gamer.net/games/041/G104110/20261022038/",
+   "title": "「続ポートピア連続殺人事件:忘却の埋葬」，2027年3月4日に発売決定。パッケージ版にはファミコン版「ポートピア連続殺人事件」を同梱",
+   "summary": "ジー・モードは本日（2026年10月23日），アドベンチャーゲーム「続ポートピア連続殺人事件:忘却の埋葬」を2027年3月4日に発売すると発表した。また，Switch2とSwitch向けパッケージには，ファミコン版「ポートピア連続殺人事件」が同梱され，丸ごと遊べるという。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T12:00:00+09:00"
+  },
+  {
+   "id": "525e76fb673f50f5",
+   "url": "https://www.4gamer.net/games/772/G077283/20261021014/",
+   "title": "「ダンジョン・イン」，約2年の早期アクセスを終了し正式版をSteamでリリース。敵対するギルドを相手に二重営業で金を稼ぐターン制経営シム",
+   "summary": "SpiralUpGamesは2026年10月23日，「ダンジョン・イン」の早期アクセスを終了し，正式版をSteamでリリースした。価格は1800円（税込）。本作は，ダンジョンの入口に建てられた宿屋が舞台のターン制経営シミュレーションゲームだ。プレイヤーは，敵対するギルドを相手に二重営業をして金を稼いでいく。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T12:00:00+09:00"
+  },
+  {
+   "id": "9d4a451716227ec4",
+   "url": "https://www.4gamer.net/games/484/G048410/20261022001/",
+   "title": "「Fate/hollow ataraxia REMASTERED」が40％オフで最安値！ お手軽パズル「ダンジョンとパズル」は180円！「今週のすべり込みセール情報」",
+   "summary": "セール終了間際のタイトルから，名作や特にお買い得なタイトルを厳選して紹介する連載「今週のすべり込みセール情報」。今週は「Fate/hollowataraxiaREMASTERED」がNintendoStoreで40％オフの2100円，「ダンジョンとパズル」がSteamで80％オフの180円と，お買い得になっています！",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T12:00:00+09:00"
+  },
+  {
+   "id": "670433f190a5f6a5",
+   "url": "https://www.4gamer.net/games/964/G096434/20261023004/",
+   "title": "2〜3人で巨大な石をピラミッドの頂上へ運ぶ協力ゲーム「Pyramidion」，Steamで正式版をリリース。押すときと待つときを見極めよう",
+   "summary": "TechDevAYDINは10月22日，PCゲーム「Pyramidion」の正式版をSteamでリリースした。本作は，2〜3人で巨大な石を壊さずにピラミッドの頂上まで運ぶ，物理演算を生かしたオンライン協力ゲームだ。道のりによって攻略法は変わり，力を合わせて押すべき場面もあれば，好機を待つべき場面もある。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T11:49:33+09:00"
+  },
+  {
+   "id": "02621a66d6a47268",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475097/",
+   "title": "Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲良く雑談、“後方腕組み観戦”もできる",
+   "summary": "Part Time Monkeyは10月5日に『Jono』をリリースした。10月23日に開発者がRedditに紹介するとともにプレイデータを投稿したことをきっかけに改めて注目を集めている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475097-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T11:33:56+09:00"
+  },
+  {
+   "id": "c544317247ac5848",
+   "url": "https://www.4gamer.net/games/999/G999903/20261022056/",
+   "title": "任天堂の宮本茂氏が文化勲章を受章。「スーパーマリオ」誕生の裏話から生成AI時代の創作論，若き開発者への想いまでが語られた記者会見をレポート",
+   "summary": "本日（10月23日），文部科学省による今年度の文化勲章受章者に，任天堂の代表取締役フェローである宮本茂氏が選ばれたことが発表された。これに先立つ10月22日には京都の同社内にて記者会見が実施され，リビングで家族をつなぐ娯楽を追求し，映画やテーマパークへと領域を広げてきた同氏の胸中が明かされた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T11:30:00+09:00"
+  },
+  {
+   "id": "8d05d592ddbc88c5",
+   "url": "https://www.4gamer.net/games/918/G091829/20261023003/",
+   "title": "「ペルソナ4 リバイバル」，イゴール，マーガレット，マリーのプロフィールと，特別な空間「ベルベットルーム」の情報を公開。ペルソナ検定も実施",
+   "summary": "アトラスは本日，「ペルソナ4リバイバル」の最新情報を公開した。イゴール，マーガレット，マリーのプロフィールに加え，ペルソナ合体やスキルカードの購入，合体予報を利用できる「ベルベットルーム」が紹介されている。また，全国5都市・6会場での店頭体験会や，「ペルソナ検定」の実施も発表された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-23T11:11:47+09:00"
+  },
+  {
+   "id": "fa5ef82a2d82b272",
+   "url": "https://automaton-media.com/articles/newsjp/20261023-475071/",
+   "title": "数万円級プレミアソフト『ファンタズム』などが「ゲームボーイ Nintendo Classics」にて10月27日復刻。異色作“3本立て”で登場",
+   "summary": "任天堂は10月23日、「ゲームボーイ Nintendo Classics」向け3タイトルの配信を開始した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475071-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-23T10:42:39+09:00"
+  },
   {
    "id": "8467aacf0c91d165",
    "url": "https://automaton-media.com/articles/newsjp/20261023-475064/",
@@ -1258,28 +1566,6 @@
    "published": "2026-10-21T15:38:53+09:00"
   },
   {
-   "id": "5ebde6948c3d43b4",
-   "url": "https://www.4gamer.net/games/052/G105209/20261021022/",
-   "title": "動いたら焼却炉行き。死んだふりをしながら，拘束からの脱出を図るホラーゲーム「Please Remain Dead」発表",
-   "summary": "OneBitHorrorは本日，PC向けホラーゲーム「PleaseRemainDead」を発表した。死体のふりをして検査官を欺きながら，拘束からの脱出を図る作品となっている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T15:04:30+09:00"
-  },
-  {
-   "id": "6b02f44aea3344c9",
-   "url": "https://www.4gamer.net/games/209/G020915/20261021018/",
-   "title": "「ハースストーン」，最新拡張版「黒の帝国の君臨」をリリース。全盛期の力を誇る4柱の旧神や新キーワード「合成」が登場",
-   "summary": "BlizzardEntertainmentは本日，デジタルカードゲーム「ハースストーン」の最新拡張版「黒の帝国の君臨」をリリースした。今回の拡張版では，135枚の新カードが登場し，新キーワード「合成」が実装された。また，全盛期の力を誇る4柱の旧神も登場した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T15:01:50+09:00"
-  },
-  {
    "id": "a8ac5602b42a8fe7",
    "url": "https://automaton-media.com/articles/interviewsjp/chronoscript-20261021-474646/",
    "title": "国産大型メトロイドヴァニア『Chronoscript』、体験版「85%好評」だけど延期した理由。開発者を動かしたユーザーの“質の高いフィードバック”と『Hollow Knight』『Constance』開発者の助言",
@@ -1289,17 +1575,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-21T15:00:34+09:00"
-  },
-  {
-   "id": "c1a284e4451a8d47",
-   "url": "https://www.4gamer.net/games/948/G094806/20261014026/",
-   "title": "アクションの手触りを左右する0.1秒と，メトロイドヴァニア“＋”の先にあるもの。「Chronoscript: The Endless End」プレイレポ＆インタビュー",
-   "summary": "「RPGタイム！」のデスクワークスが手掛ける探索型アクション「Chronoscript:TheEndlessEnd」の新ステージ「大航海時代」を先行プレイ。独特の仕掛けや手応えのある探索に触れ，その遊びを形作る工夫や試行錯誤について開発陣に聞いた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T15:00:00+09:00"
   },
   {
    "id": "47bbe438b53de6d2",
@@ -1313,61 +1588,6 @@
    "published": "2026-10-21T14:46:57+09:00"
   },
   {
-   "id": "e1dc8babe25a2a12",
-   "url": "https://www.4gamer.net/games/043/G104312/20261021019/",
-   "title": "ローグライクRPG「サイマジック」，正式サービスを10月23日にゲームプラットフォーム「G123」で開始",
-   "summary": "CTWは本日（2026年10月21日），新作「サイマジック」の正式サービスを10月23日にゲームプラットフォーム「G123」で開始すると発表した。本作は，現代科学の知識を使って魔法を進化させながら，異世界を冒険するローグライクRPGだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T14:43:24+09:00"
-  },
-  {
-   "id": "88f957e05da5c42c",
-   "url": "https://www.4gamer.net/games/004/G100472/20261021017/",
-   "title": "アフロ・ブラジリアン神話の世界を水彩画風のグラフィックスで描く。ローグライトアクション「Talaka」体験版をアップデート",
-   "summary": "アフロ・ブラジリアン神話を題材にしたローグライトアクション「Talaka」の体験版がアップデートされ，Steamで配信中だ。本作では，プレイヤーが150種類以上におよぶ武器とスキルの組み合わせを駆使して戦う。今回の更新では，弓などの照準操作が改善され，敵の攻撃を調整する「AIDirector」が導入された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T14:16:15+09:00"
-  },
-  {
-   "id": "8f0ee6bb72a06531",
-   "url": "https://www.4gamer.net/games/038/G003821/20261021009/",
-   "title": "次に遊びたいゲームがここにあるかも！ 約70本の体験版を遊んで厳選した「SteamNEXTフェス 10月エディション」注目作品まとめ",
-   "summary": "ゲームプラットフォームのSteamで，新作タイトルの体験版を一斉に公開する「SteamNEXTフェス」の「2026年10月エディション」が開催中だ。体験版で“触って初めて分かる魅力”を発見するため，参加タイトルから約70本を一気にプレイ！特に面白かった作品をまとめて紹介する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T14:14:44+09:00"
-  },
-  {
-   "id": "b23352d6b4ab887b",
-   "url": "https://www.4gamer.net/games/051/G105188/20261021016/",
-   "title": "5日間を繰り返すビジュアルノベル「PROTOCOL: NOAH」，11月の発売に向けてティザーサイトを公開。13本のエンディングのうち9本は「デスエンド」",
-   "summary": "シンエンスタジオは本日，同社の第1弾タイトルとなるPCゲーム「PROTOCOL:NOAH」のティザーサイトを公開した。本作は，謎の敵「ファントム」との戦いが続く「学園都市アーク」を舞台にしたビジュアルノベルだ。プレイヤーは「調律師」となって，ファントムと戦う少女たちの心と身体を整えていく。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T14:10:19+09:00"
-  },
-  {
-   "id": "736b6281e5e07b81",
-   "url": "https://www.4gamer.net/games/486/G048621/20261021015/",
-   "title": "「原神」，Ver.7.2「終焉へ墜ちる時」予告番組を10月23日21：00から配信。小林裕介さん，村瀬 歩さん，佐藤 元さんが出演",
-   "summary": "HoYoverseは本日，オープンワールドRPG「原神」のVer.7.2「終焉へ墜ちる時」予告番組を2026年10月23日21：00から配信すると発表した。本番組には，小林裕介さん（ミティヤ役），村瀬歩さん（ウェンティ役），佐藤元さん（アリョーシャ役）が出演し，本作の最新情報を紹介する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T14:08:54+09:00"
-  },
-  {
    "id": "beaaf1da7139e9d8",
    "url": "https://automaton-media.com/articles/newsjp/20261021-474639/",
    "title": "「スター・ウォーズのゲームはAAAじゃなくてもいい」と、権利元幹部が力説。新作ゲーム連続成功で見える“大作頼みじゃない”勝機",
@@ -1377,17 +1597,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-21T13:41:58+09:00"
-  },
-  {
-   "id": "9dad70ed5b9d2bb2",
-   "url": "https://www.4gamer.net/games/033/G103348/20261021013/",
-   "title": "ウイルスのパンデミックから5年後。感染者たちのスラムで父の行方を探すステルスアドベンチャー「Rustown」，2027年6月30日に発売",
-   "summary": "Plotrickは本日（2026年10月21日），開発中のステルスアドベンチャー「Rustown」（PC/XBOXSeriesX|S）の新トレイラーを「ID@XBOXShowcase」で公開し，2027年6月30日に発売すると発表した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T13:29:47+09:00"
   },
   {
    "id": "7eb0d2183c0d9025",
@@ -1401,28 +1610,6 @@
    "published": "2026-10-21T13:27:08+09:00"
   },
   {
-   "id": "e806ce3ee85a753b",
-   "url": "https://www.4gamer.net/games/051/G105183/20261021012/",
-   "title": "何千体ものゾンビが押し寄せる！ 作戦マップと戦場をシームレスに行き来するサバイバルストラテジー「Ebbtide」，Steamストアページを公開",
-   "summary": "ProjectAliveは，ゾンビに占拠されたアポカリプス後の世界を描いたサバイバルストラテジー「Ebbtide」のSteamストアページをオープンし，最新トレイラーを公開した。本作では，現実の地理をベースにした作戦マップと，無数のゾンビが徘徊する3Dの戦場をシームレスに行き来しながら，空母を拠点とする部隊を率いて戦う。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T13:22:24+09:00"
-  },
-  {
-   "id": "4fa89318e0b08bae",
-   "url": "https://www.4gamer.net/games/579/G057943/20261016040/",
-   "title": "PC向けMMORPG「リネージュ クラシック」が12月2日にプレオープン決定。装備や序盤に役立つアイテムなどが入手できる事前登録の受付も本日スタート",
-   "summary": "NCは本日（10月21日），PC向け新作MMORPG「リネージュクラシック」の特設サイトを公開し，事前登録の受付を開始した。2000年代初期のPC版を原点に，当時の戦いや成長，人とのつながりを再現する本作は，12月2日にプレオープンを迎える予定だ。装備などが手に入る事前登録の特典情報と合わせて紹介しよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T13:12:22+09:00"
-  },
-  {
    "id": "31d1a11f1dfb0cde",
    "url": "https://automaton-media.com/articles/newsjp/20261021-474594/",
    "title": "大ヒット穴掘りゲーム続編は「最大4人マルチ」、『A Game About Digging A Hole Together』12月4日配信へ。“変なオタカラ”ざっくざく、もちろん一人でも",
@@ -1432,61 +1619,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-21T13:00:08+09:00"
-  },
-  {
-   "id": "f0f3461570d5ac9f",
-   "url": "https://www.4gamer.net/games/046/G104608/20261021004/",
-   "title": "最大4人で地底を掘り進める「A Game About Digging A Hole Together」，12月4日発売。クロスプラットフォームにも対応",
-   "summary": "松竹ゲームズは本日，協力型穴掘りアドベンチャー「AGameAboutDiggingAHoleTogether」を2026年12月4日に発売すると発表した。本作は，穴を掘り，手に入れたものを売って装備を強化し，さらに地底深くへと進んでいく。最大4人でクロスプラットフォームのオンライン協力プレイを楽しめる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T13:00:00+09:00"
-  },
-  {
-   "id": "56b536f0d8b6eaf6",
-   "url": "https://www.4gamer.net/games/949/G094932/20261021008/",
-   "title": "イタリアの美食とコズミックホラーの出会い。サイコロジカルホラー「Cucina Stellata」が無料で配信開始",
-   "summary": "CRITICALREFLEXは本日，サイコロジカルホラー「CucinaStellata」のローンチトレイラーを公開するとともに，Steamで無料配信を開始した。本作は，19世紀イタリアの伝統料理作りから始まり，異様な食材との出会いを機に，食への欲望が暴走していく短編ホラーだ。日本語にも対応している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T12:31:03+09:00"
-  },
-  {
-   "id": "f782f51a5b840dce",
-   "url": "https://www.4gamer.net/games/051/G105178/20261021006/",
-   "title": "「Among Us」開発元のファンドが出資する「Graytail」，発売時期が2027年末に決定。女性パイロットの行方を追うミステリーアクションADV",
-   "summary": "Concodeは本日，開発中の「Graytail」（PC/XBOXSeriesX|S）の新トレイラーを公開し，発売時期を2027年末と発表した。本作は，消息を絶った女性パイロットの行方を追うミステリーアクションアドベンチャーゲームだ。激しい頭痛に悩まされる探偵が，母を捜す娘とともに捜索に乗り出す。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T12:25:41+09:00"
-  },
-  {
-   "id": "aa2301c2e484c622",
-   "url": "https://www.4gamer.net/games/574/G057444/20261021002/",
-   "title": "「Palworld / パルワールド」，全世界人気投票2026の結果を発表。新アップデート「パルワールド：Side by Side」は今冬に配信決定",
-   "summary": "ポケットペアは2026年10月20日，オープンワールドサバイバルクラフト「Palworld/パルワールド」の「パルワールド全世界人気投票2026」について，結果を発表した。また，新アップデート「パルワールド：SidebySide」を今冬に配信すると発表した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T12:20:07+09:00"
-  },
-  {
-   "id": "d754fa11f85decc8",
-   "url": "https://www.4gamer.net/games/304/G030407/20261021007/",
-   "title": "「Fallout Shelter」に赤ちゃんデスクローが登場。「Fallout 4」は脱出ゲーム風ダンジョンや海底コズミックホラーなど3つの新Creationsを発表",
-   "summary": "「FalloutDayCelebrations2026」の2日目に，「FalloutShelter」と「Fallout4」に関する新情報が発表された。「FalloutShelter」には赤ちゃんデスクローが新たな仲間として登場予定で，「Fallout4」では3つの新Creationsが発表されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T12:14:41+09:00"
   },
   {
    "id": "2adbf67ce8509a68",
@@ -1555,17 +1687,6 @@
    "published": "2026-10-21T07:28:22+09:00"
   },
   {
-   "id": "6166ab487ad859d3",
-   "url": "https://www.4gamer.net/games/893/G089329/20260925040/",
-   "title": "スーファミの名作がボードゲームに！ 「エフゼロ ナイトリーグ」で5つのサーキットを駆け抜けろ！ 昭和・平成レトロボードゲーム大百科 第20回",
-   "summary": "今回の「昭和・平成レトロボードゲーム大百科」で紹介するのは，スーパーファミコンの名作「F-ZERO」を題材にした「エフゼロナイトリーグ」。5つのサーキットを舞台に，マシンパワーを維持しながら順位を争い，合計ポイントで勝者を決めるというゲームになっています。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T07:00:00+09:00"
-  },
-  {
    "id": "e9f3fc67e40c7830",
    "url": "https://automaton-media.com/articles/newsjp/20261020-474543/",
    "title": "Steamワークショップで相次ぐ「マルウェア入りMod」騒動、今度は人気協力ホラー『Content Warning』が標的か。“自己増殖マルウェア”も報告されるケースも",
@@ -1575,28 +1696,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-20T23:43:21+09:00"
-  },
-  {
-   "id": "7af27b3c9a41d86c",
-   "url": "https://www.4gamer.net/games/010/G101093/20261015041/",
-   "title": "「ファイナルファンタジー レゾナンス」はHD-2D演出がすごいだけじゃない。バトルの駆け引きやキャラとパーティのビルドが楽しい［プレイレポ］",
-   "summary": "スクウェア・エニックスが2026年10月22日にリリースする新作RPG「ファイナルファンタジーレゾナンス」の製品版をプレイする機会を得たので，インプレッションをお届けする。シリーズで初めてHD-2Dを採用した本作だが，HD-2D演出だけにとどまらないバトルやビルドの魅力を中心にお伝えしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T22:00:00+09:00"
-  },
-  {
-   "id": "0736cf457a938f0b",
-   "url": "https://www.4gamer.net/games/051/G105177/20261020053/",
-   "title": "広大な地下世界で荒廃した街を復興させるアクションRPG「Emberville」，10月27日に発売。データを引き継げるデモ版を配信中",
-   "summary": "CygnusCrossは本日，10月27日に早期アクセス版のリリースを予定している新作タイトル「Emberville」について，早期アクセス版に収録される内容を発表した。本作は，広大な地下世界「ヴィトロモータス」を舞台に，記憶を失った主人公が荒廃した街を再建していくアクションRPGだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-20T21:36:34+09:00"
   },
   {
    "id": "8d25f3d3ae2912b2",
