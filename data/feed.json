@@ -1,8 +1,118 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T09:49:50+09:00",
+ "generated_at": "2026-10-24T14:58:28+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "9d13607ddbe7fce9",
+   "url": "https://automaton-media.com/articles/newsjp/20261024-475380/",
+   "title": "『アストロニーア』開発元スタジオ、30人以上のレイオフをしていた。新作スピンオフ不調で、“身の丈にあった規模”に縮小",
+   "summary": "System Era Softworksは10月23日、30人以上のメンバーをレイオフしたと発表した。新作の『STARSEEKER: Astroneer Expeditions』の不振が原因だという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475380-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-24T14:41:09+09:00"
+  },
+  {
+   "id": "10443b4432a70660",
+   "url": "https://automaton-media.com/articles/newsjp/20261024-475367/",
+   "title": "子どもの「18年間の成長」を芝刈りで見届けるゲーム『18 Summers』が話題に。少しずつ変わっていく庭の姿と、かけがえのない夏の思い出",
+   "summary": "FancyRancy氏が手がける『18 Summers』のトレイラーが公開され、海外を中心に注目を集めている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475367-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-24T13:04:11+09:00"
+  },
+  {
+   "id": "081d47b97586f9f9",
+   "url": "https://www.4gamer.net/games/422/G042267/20261024003/",
+   "title": "「Fallout」，装着可能なパワーアーマーのヘルメットとパワーフィストの実物大レプリカ発表",
+   "summary": "ゲーマー向けグッズの製造，販売を行うDPIMerchandisingが「Fallout」シリーズの公式ライセンスを取得した「FalloutT-60WearableHelmetReplica」と「FalloutPowerFistReplica」を発表した。パワーアーマーのヘルメットと，近接戦闘に使えるパワーフィストの実物大レプリカで，どちらも実際に装着可能だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T12:46:00+09:00"
+  },
+  {
+   "id": "1102d0190f37912f",
+   "url": "https://automaton-media.com/articles/newsjp/20261024-475336/",
+   "title": "基本無料・美少女育成RPG『放置少女』が「生徒会にも穴はある！」とのコラボ開催、特別PVをお披露目。「陸奥こまろ」「古都吹寿子」「照井有栖」が、ファンタジー風衣装で異世界参戦",
+   "summary": "C4 Connectは『放置少女〜百花繚乱の萌姫たち〜』と「生徒会にも穴はある！」とのコラボイベントを、10月27日より開催すると発表した。コラボPVも公開されている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475336-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-24T12:02:43+09:00"
+  },
+  {
+   "id": "0f7069c672425008",
+   "url": "https://www.4gamer.net/games/807/G080790/20261023036/",
+   "title": "大企業の特殊部隊員となり超常現象に立ち向かえ。ホラー・サバイバル・FPSが融合する「Phantom Line: Prologue」［プレイレポート］",
+   "summary": "AntistaticStudiosが開発中の新作タイトル「PhantomLine」は，核戦争後の混乱に包まれたヨーロッパを舞台に，最大4人での協力プレイが楽しめるPC向けホラーアクションFPSだ。プレイヤーは巨大企業「Mortfield」の特殊部隊員となり，不可解な超常現象「アノマリー」に立ち向かっていくことになる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T12:00:00+09:00"
+  },
+  {
+   "id": "4f3cc7179203166c",
+   "url": "https://automaton-media.com/articles/newsjp/20261024-475357/",
+   "title": "『アークナイツ：エンドフィールド』の新マップにて“登山部”が「登頂ルート」を次々開拓。メリット特になし、だけど登れそうだから登る",
+   "summary": "『アークナイツ：エンドフィールド』にて、険しい断崖を登る“登山部”の活動が活発化している。特に高低差の激しい新マップで、ルートの開拓に勤しんでいるようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475357-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-24T11:40:16+09:00"
+  },
+  {
+   "id": "43b8f9bc148aad1a",
+   "url": "https://www.4gamer.net/games/040/G104079/20261023054/",
+   "title": "群がるゾンビを熱血硬派に大撃退！ サバイバーズ系アクション「くにおくんのサバイバーズ・オブ・ザ・デッド」（今日から始めろApple Arcade #87）",
+   "summary": "毎月4の付く日（4日，14日，24日）に掲載する連載「今日から始めろAppleArcade」では，「AppleArcade」で配信中の200タイトル以上のゲームのなかから毎回1本をチョイスし，オススメポイントを紹介していく。第87回では，「くにおくんのサバイバーズ・オブ・ザ・デッド」を紹介する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T11:00:00+09:00"
+  },
+  {
+   "id": "23b6d9ca20bfc1ce",
+   "url": "https://www.4gamer.net/games/448/G044868/20261023026/",
+   "title": "「Japanese Ramen Simulator」で店主の苦労を思い知り，究極の精進ラーメンを考える。俺のコラボカフェ：Menu 093",
+   "summary": "毎月第4土曜日に掲載している連載「俺のコラボカフェ」は，現役シェフである大西哲也氏が，さまざまなゲームなどと勝手にコラボし，イメージしたレシピを紹介するというコーナーだ。今回のお題は，ラーメン屋経営シミュレーション「JapaneseRamenSimulator」。ゲームに登場するお坊さんの客から着想を得て，肉も魚も五葷も使わない精進ラーメンを作ってもらった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T10:15:00+09:00"
+  },
+  {
+   "id": "ddca8fbb03421162",
+   "url": "https://www.4gamer.net/games/572/G057261/20261020040/",
+   "title": "“チルいラーメン屋生活”の謳い文句に誘われ「Nivalis Nights」をプレイし，雨とネオンの不夜城で「一杯食わされた」話",
+   "summary": "ネオンきらめく路地裏で店を営み，街での生活を楽しむ。そんなイメージでプレイを始めた「NivalisNights」だったが，借金と仕入れと頼まれごとで大忙し。経営に励むはずが，いつしか住人たちの事情に首を突っ込んでいた“不夜城”ニヴァリスでの日々を綴る。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T10:00:00+09:00"
+  },
+  {
+   "id": "bbd0969a1b882ad8",
+   "url": "https://www.4gamer.net/games/476/G047609/20261023049/",
+   "title": "「プロセカ」，HAPPY BIRTHDAY 望月 穂波 2026を開催",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T10:00:00+09:00"
+  },
   {
    "id": "8f5386b601084dfc",
    "url": "https://automaton-media.com/articles/newsjp/20261024-475332/",
@@ -1566,61 +1676,6 @@
    "published": "2026-10-22T09:00:00+09:00"
   },
   {
-   "id": "c8c5711c822fce81",
-   "url": "https://www.4gamer.net/games/536/G053628/20261019002/",
-   "title": "スマホゲームのセルラン分析（2026年10月8日〜10月14日）。今週の1位は「eFootball」。7月〜9月のパブリッシャ別国内収益ランキングも",
-   "summary": "世界有数のスマホゲーム大国である日本において，現在最も売れているタイトルをはじめ，さまざまなデータを毎週お届けする本連載。今週の国内収益ランキング1位は「eFootball」となった。今回は，7月〜9月のパブリッシャ別国内収益ランキングも紹介しよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T09:00:00+09:00"
-  },
-  {
-   "id": "ecdd5443ac018a0c",
-   "url": "https://www.4gamer.net/games/015/G101534/20261018004/",
-   "title": "テニスからゆび相撲まで!? 「Nintendo Switch Sports Resort」の，Switch 2 ならではな体感スポーツと多彩な遊びを紹介",
-   "summary": "任天堂が本日（10月22日）発売した「NintendoSwitchSportsResort」は，Joy-Con2で体感スポーツを楽しめるNintendoSwitch2用ソフトだ。南国の島を巡る探索やランキング対戦なども用意されており，試合以外の遊びも充実した本作で“できること”を紹介しよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T08:00:00+09:00"
-  },
-  {
-   "id": "cf18f4836b9711d2",
-   "url": "https://www.4gamer.net/games/968/G096854/20261014008/",
-   "title": "最弱ゾンビが下克上！ アートも作り手の姿勢もパンクな「ステューピッド・ネバー・ダイズ」に込めたアクションゲーム愛とは？［インタビュー］",
-   "summary": "GPTRACK50の第1作「ステューピッド・ネバー・ダイズ」が本日発売を迎えた。最初の企画書から残ったのは……ゾンビだけ？ パンクなアートや30分で駆け抜けるゲームサイクル，奇妙で愛すべきキャラクターはどう生まれたのか。開発の道のりを3人に聞いた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T08:00:00+09:00"
-  },
-  {
-   "id": "844e4f22e005f166",
-   "url": "https://www.4gamer.net/games/999/G999905/20261021045/",
-   "title": "「日本語でプレイしたい」という声を投票で作り手に届けるサービス「LocHatch（ロックハッチ）」，ベータ版を公開",
-   "summary": "ローカライズ関連サービスを手がけるロックハッチは本日（2026年10月22日），日本語化してほしいゲームにプレイヤーが投票できるサービス「LocHatch（ロックハッチ）」のベータ版を公開した。投票は無料。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T08:00:00+09:00"
-  },
-  {
-   "id": "e7df205d7b2a8b98",
-   "url": "https://www.4gamer.net/games/991/G999101/20261021042/",
-   "title": "ネクソン，政府と組んで約263億円を投じて「下請けではなく，自立したユニコーン企業を育てる」",
-   "summary": "新興のゲーム開発会社に対する資本市場の冷え込みが続くなか，民間企業と韓国政府が総額2500億ウォン（約263億円）規模のファンドを組成した。初期の発掘から後続の成長まで資金を連続して供給し，韓国ゲーム産業の基礎体力を回復させるという構想だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T07:30:00+09:00"
-  },
-  {
    "id": "0249f60d83c61a53",
    "url": "https://automaton-media.com/articles/newsjp/20261022-474839/",
    "title": "EAが「BioWareを閉鎖」し、『Mass Effect』最新作も開発中止。歴史あるRPGスタジオに、突然の幕切れ",
@@ -1661,17 +1716,6 @@
    "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261021-474786-header-5.jpg",
    "source": "AUTOMATON",
    "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-22T00:00:00+09:00"
-  },
-  {
-   "id": "4200a81113ebcac1",
-   "url": "https://www.4gamer.net/games/002/G100207/20261021043/",
-   "title": "「クライムライト／CRYMELIGHT」，体験版をSwitch2/PS5向けに本日配信。第1章をまるごと収録，想定プレイ時間は1.5〜3時間以上",
-   "summary": "フリューは本日，ローグライクアクション「クライムライト／CRYMELIGHT」の体験版をSwitch2/PS5向けに配信開始した。体験版には本編冒頭から第1章のラストまでが収録されており，ストーリーやバトル，懺悔による強化などを1.5〜3時間以上楽しめる。また，ゲームシステムに焦点を当てた2ndトレイラーも公開された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
    "category": "news",
    "published": "2026-10-22T00:00:00+09:00"
   },
@@ -2158,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-19T19:07:23+09:00"
-  },
-  {
-   "id": "b2b53bfbd6edc668",
-   "url": "https://automaton-media.com/articles/newsjp/20261019-474317/",
-   "title": "犯罪捜査乙女ゲーム『アストライアの罪咎』来年3月25日発売へ。石川界人さん、岡本信彦さんなど豪華声優陣による“クセあり男子”だらけサスペンス、「MintLip+」新作",
-   "summary": "MintLip+は10月19日、『アストライアの罪咎』を2027年3月25日にリリースすると発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261019-474317-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-19T18:59:13+09:00"
   }
  ]
 }
