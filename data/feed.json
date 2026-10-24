@@ -1,8 +1,96 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T14:58:28+09:00",
+ "generated_at": "2026-10-24T20:11:13+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "e5ff8a49e8a8e10b",
+   "url": "https://www.4gamer.net/games/456/G045622/20261024006/",
+   "title": "「NIKKE」新ニケ「ラプンツェル：サンクチュアリ」（CV：三森すずこ）の実装決定。味方を回復し，攻撃能力を強化する支援型",
+   "summary": "「勝利の女神：NIKKE」の新ニケ「ラプンツェル：サンクチュアリ」（CV：三森すずこ）が発表された。10月29日のアップデート後に登場する。これは本日（2026年10月24日）の4周年記念イベント「約束の地へ、女神集結」で明らかになった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T19:58:53+09:00"
+  },
+  {
+   "id": "3d3ae9bc9ba84651",
+   "url": "https://www.4gamer.net/games/456/G045622/20261024005/",
+   "title": "「NIKKE」新ニケ「紅蓮：神殺」（CV：上田麗奈）発表。貫通攻撃に特化した火力型",
+   "summary": "「勝利の女神：NIKKE」の新ニケ「紅蓮：神殺」（CV：上田麗奈）が発表された。11月5日より特殊募集に登場する。これは本日（2026年10月24日）の4周年記念イベント「約束の地へ、女神集結」で明らかになった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T19:51:36+09:00"
+  },
+  {
+   "id": "d1a2497250a15613",
+   "url": "https://automaton-media.com/articles/newsjp/20261024-475404/",
+   "title": "『エルデンリング』、“プレイ時間100時間超え”ユーザーが世界に「約980万人」いるとの推計。全実績達成者も約350万人、発売5年目でも褪せ人たちは止まらない",
+   "summary": "Alinea Analyticsの市場分析責任者Rhys Elliott氏は10月22日、『ELDEN RING』に関する推計データを公開した。本作を100時間以上プレイしたユーザーは約980万人もいるようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475404-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-24T18:20:22+09:00"
+  },
+  {
+   "id": "8842fe3551720ef4",
+   "url": "https://www.4gamer.net/games/917/G091773/20261023057/",
+   "title": "七色のFワードが話題の映画「バイオハザード」，主人公ブライアンの“口の悪さ”がさく裂する新たな本編映像を公開",
+   "summary": "ソニー・ピクチャーズは本日（2026年10月24日），現在上映中の映画「バイオハザード」の新たな本編映像を公開した。今回の映像では，ラクーンシティを逃げ惑う主人公ブライアンの“口の悪さ”がさく裂。劇中で連発されるFワードを多彩に訳し分けた日本語字幕も話題となっている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T18:00:00+09:00"
+  },
+  {
+   "id": "62a7ebff5167488b",
+   "url": "https://www.4gamer.net/games/038/G003821/20261024002/",
+   "title": "週刊Steam広場 第176号：協力型FPS「Mycopunk」や，ローグライトなアイスホッケー「Tape to Tape」が正式にリリース",
+   "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，菌類に侵された惑星を舞台とするルーターシューター「Mycopunk」や，アイスホッケーを題材とするローグライト「TapetoTape」が正式にリリースされた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T18:00:00+09:00"
+  },
+  {
+   "id": "173dd1ffbb095deb",
+   "url": "https://automaton-media.com/articles/newsjp/20261024-475391/",
+   "title": "乙女ゲームキャラとプレイヤーの「心の距離」がどう縮まるのかを解き明かす研究。距離が縮まるのは「キャラに愛されるから」だけじゃない",
+   "summary": "アメリカの、いわゆる「乙女ゲーム」のプレイヤーを対象として、ゲームキャラとの親密さがゲーム体験にどのように関係するかを調査した論文が公開された。先行研究である中国ユーザーを対象とした研究との比較もなされている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475391-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-24T17:08:43+09:00"
+  },
+  {
+   "id": "07d45ccfe597c814",
+   "url": "https://www.4gamer.net/games/008/G100854/20261014061/",
+   "title": "麗しき［Endelore］は意外に愉快なチーム!? ディズニーゲーム最新作「ディズニー スパークリンク・スターズ」を先行体験［プレイレポ］",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T17:00:00+09:00"
+  },
+  {
+   "id": "83431993df5ea0cf",
+   "url": "https://automaton-media.com/articles/newsjp/20261024-475385/",
+   "title": "『Factorio』が「最後の大型アプデ」配信、反転配置や宇宙プラットフォームなどいろいろ便利に。“やり切った”開発チームは新作開発へ注力",
+   "summary": "Wube Softwareは10月23日、『Factorio』に向けてバージョン2.1となる大型アップデートの安定版を配信した。本作の大規模アップデートはこれが最後となるという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475385-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-24T15:53:25+09:00"
+  },
   {
    "id": "9d13607ddbe7fce9",
    "url": "https://automaton-media.com/articles/newsjp/20261024-475380/",
@@ -1599,17 +1687,6 @@
    "published": "2026-10-22T11:37:12+09:00"
   },
   {
-   "id": "96051ed4c77ad5bd",
-   "url": "https://www.4gamer.net/games/044/G104451/20261022004/",
-   "title": "「Escape From Playtime」の早期アクセス版がSteamでリリース。「Poppy Playtime」の世界を舞台とするタイトル",
-   "summary": "MobEntertainmentは2026年10月22日，「EscapeFromPlaytime」の早期アクセス版をSteamでリリースした。価格は1390円（税込）。本作は，「PoppyPlaytime」の世界を舞台とする協力型サバイバルホラー・エクストラクションゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T11:23:43+09:00"
-  },
-  {
    "id": "3eb9966b9f05bece",
    "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
    "title": "リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま”無料開放へ、10月30日から5日間。製品版にセーブデータ引き継ぎ可能、大改善された新作をたっぷり遊べる",
@@ -1621,28 +1698,6 @@
    "published": "2026-10-22T10:34:54+09:00"
   },
   {
-   "id": "f43e3f873112cd5c",
-   "url": "https://www.4gamer.net/games/015/G101532/20260911042/",
-   "title": "「ONE PIECE 海のごちそうレストラン」は，ファン必見のアニメ再現メニューやマニアックな小ネタが満載。「ONE PIECE」の世界を魅力的に表現した経営シムを体験［プレイレポ］",
-   "summary": "バンダイナムコエンターテインメントは本日，「ONEPIECE海のごちそうレストラン」をリリースした。カイロソフトらしい可愛いドット絵で描かれる「ONEPIECE」の世界でのレストラン経営シミュレーションを一足先に体験してきたので，その魅力をお伝えしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T10:00:00+09:00"
-  },
-  {
-   "id": "7bc955386bb5376f",
-   "url": "https://www.4gamer.net/games/052/G105223/20261021055/",
-   "title": "初音ミクたちと“たまご”をつないで消す。「初音ミク つなげるパズル たまごとり デラックス」，10月29日発売",
-   "summary": "KOMODOは本日，「初音ミクつなげるパズルたまごとりデラックス」を2026年10月29日に発売すると発表した。本作は，2022年にSwitch向けに発売された「初音ミクつなげるパズルたまごとり」と2つの有料追加コンテンツをまとめたものだ。同じ絵柄のたまごをつないで消しながらステージを攻略していく。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T10:00:00+09:00"
-  },
-  {
    "id": "d847bd9be11e2538",
    "url": "https://automaton-media.com/articles/newsjp/serious-sam-the-third-encounter-20261022-474876/",
    "title": "人気ドンパチFPS『シリアス・サム』最新作『Serious Sam: The Third Encounter』発表。24年越しに描かれる『The Second Encounter』のその後",
@@ -1652,28 +1707,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-22T09:35:15+09:00"
-  },
-  {
-   "id": "d7d1760504beac4a",
-   "url": "https://www.4gamer.net/games/172/G017216/20261021057/",
-   "title": "「Warframe」は，大規模イベント“一大作戦：Tauへの道”で何を描き，どう変わっていくのか。開発者に見どころと少し先の未来について聞いた［インタビュー］",
-   "summary": "DigitalExtremesは日本時間の11月18日まで，基本プレイ無料のオンラインアクションゲーム「Warframe」の大規模イベント「一大作戦：Tauへの道」を開催中だ。“一度限り”という今回の特別なイベントについて，コミュニティディレクターを務めるMeganEverett氏にメールインタビューを行った。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T09:00:00+09:00"
-  },
-  {
-   "id": "4f0a017db3fdc54f",
-   "url": "https://www.4gamer.net/games/050/G105042/20261021028/",
-   "title": "2人プレイ専用の非対称型協力ホラーゲーム「Beyond the Dark:ナイトウォッチ」，本日発売",
-   "summary": "Q-Gamesは2026年10月22日，NintendoSwitch2用ソフト「BeyondtheDark:ナイトウォッチ」を発売した。本作は，非対称な協力プレイを軸にした2人プレイ専用ホラーゲームだ。価格は2480円（税込）。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T09:00:00+09:00"
   },
   {
    "id": "0249f60d83c61a53",
@@ -2169,39 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-19T20:41:29+09:00"
-  },
-  {
-   "id": "6543d5303e1dd809",
-   "url": "https://automaton-media.com/articles/newsjp/20261019-474335/",
-   "title": "ベセスダの『TES II: Daggerfall』をAIで非公式オンライン化するプロジェクト、「集金」を始めて物議醸す。“任意”の支援には、月20万円集まる",
-   "summary": "Bethesda Softworksが手がけた『The Elder Scrolls II: Daggerfall』（以下、Daggerfall）をオンライン化する非公式プロジェクト「DFO Online」がSNS上で物議を醸している。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261019-474335-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-19T20:12:04+09:00"
-  },
-  {
-   "id": "ceed2913db3f1490",
-   "url": "https://automaton-media.com/articles/newsjp/20261019-474326/",
-   "title": "Steamのゲーム価格、メーカーによってどれだけ違う？筑波大の研究で“大手ほど独自路線”“インド・ブラジルは高め路線”など「値付けの4タイプ」くっきり",
-   "summary": "筑波大学の研究によると、Steamにおける販売元の価格設定については、4つの特徴的なパターンが存在するという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261019-474326-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-19T19:52:10+09:00"
-  },
-  {
-   "id": "341acfa78e5053b7",
-   "url": "https://automaton-media.com/articles/columnjp/20261019-474308/",
-   "title": "期待されたeスポーツ国別対抗大会「Esports Nations Cup」の“丸1年延期”に、現役キャスターが覚える危機感。「安泰」からはほど遠いeスポーツ業界の、あまりに長い1年間",
-   "summary": "1年という時間は、今のeスポーツ業界にとってあまりに長い。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261019-474308-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-19T19:07:23+09:00"
   }
  ]
 }
