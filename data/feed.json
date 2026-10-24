@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T07:16:44+09:00",
+ "generated_at": "2026-10-24T09:49:50+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "8f5386b601084dfc",
+   "url": "https://automaton-media.com/articles/newsjp/20261024-475332/",
+   "title": "ゲームエンジン「GameMaker」の新ランタイム「GMRT」、商用利用無料化へ。来年1月1日から",
+   "summary": "YoYo Gamesは10月23日、ゲームエンジン「GameMaker」のランタイムGameMaker Runtimeについて、商用利用での無料化を発表した。2027年1月1日より無料化される予定だ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475332-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-24T09:47:59+09:00"
+  },
+  {
+   "id": "8295041a258151a5",
+   "url": "https://www.4gamer.net/games/826/G082624/20261022009/",
+   "title": "「ちいかわぽけっと」公式グッズ第4弾は“お弁当”と“お店屋さん”。池袋PARCOのPOP UP STOREをひと足先にレポート",
+   "summary": "「ちいかわぽけっと」の公式グッズ第4弾が10月24日に発売される。今回のモチーフは「お弁当」と「お店屋さん」。発売にあわせて全国5会場で開催されるPOPUPSTOREから，東京・池袋PARCO会場の様子と新グッズをひと足先に紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T09:30:00+09:00"
+  },
+  {
+   "id": "a84d4a0d9f91c2e2",
+   "url": "https://www.4gamer.net/games/577/G057752/20261024001/",
+   "title": "中・東欧のゲームアワード「CEEGA 2026」大賞は「REPLACED」。ゲームデザイン賞，ナラティブ賞と合わせて3冠を達成",
+   "summary": "2026年10月23日，ポーランドのポズナンで，中・東欧のゲーム作品を対象とする「CEEGA2026」の授賞式が行われた。ゲームデザインやビジュアル，ナラティブなど全8部門の受賞作品とノミネート作品を紹介する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T08:00:00+09:00"
+  },
   {
    "id": "94d099373b9ba743",
    "url": "https://www.4gamer.net/games/007/G100712/20261023059/",
@@ -1641,28 +1674,6 @@
    "source_id": "4gamer",
    "category": "news",
    "published": "2026-10-22T00:00:00+09:00"
-  },
-  {
-   "id": "4546b81f04e1f493",
-   "url": "https://www.4gamer.net/games/000/G100033/20261008010/",
-   "title": "「ドラゴンボール ゼノバース３」先行試遊レポート。師匠に変身できる「ソウルチェンジ」など，「ドラゴンボール」らしさが詰まったバトルを楽しめた",
-   "summary": "バンダイナムコエンターテインメントは，シリーズ最新作「ドラゴンボールゼノバース３」を2027年内に発売予定だ。本作では，プレイヤーの分身となるアバターを「ドラゴンボール」の超戦士たちに師事させて鍛え，望む姿に育てられる。今回，先行体験の機会を得たので，インプレッションをお届けしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T23:00:00+09:00"
-  },
-  {
-   "id": "1e9e568cfa0b2a50",
-   "url": "https://www.4gamer.net/games/865/G086590/20261020024/",
-   "title": "「STRANGER THAN HEAVEN」最新ビルドで実感した，時代の手触り。故郷を追われ，日本を目指した青年が興行の世界に足を踏み入れるまで［プレイレポ］",
-   "summary": "セガのRGGスタジオが開発中のアクションアドベンチャー「STRANGERTHANHEAVEN」の最新ビルドを試遊する機会を得た。今回は物語の開幕を告げる1915年のサンフランシスコから小倉編にかけてのストーリーを体験し，呉やミナミでは街歩きやバトルの手触りを確認できた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-21T23:00:00+09:00"
   },
   {
    "id": "236d0d609aeac188",
