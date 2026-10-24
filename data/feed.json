@@ -1,8 +1,30 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T20:11:13+09:00",
+ "generated_at": "2026-10-24T23:37:15+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "e97d4ee81b1e47c7",
+   "url": "https://www.4gamer.net/games/456/G045622/20261024008/",
+   "title": "「勝利の女神：NIKKE」4周年記念イベント 新情報まとめ。新ニケ「マリアン：クイーン」「紅蓮：神殺」「ラプンツェル：サンクチュアリ」発表",
+   "summary": "LevelInfiniteは本日（2026年10月24日），「勝利の女神：NIKKE」の4周年記念イベント「約束の地へ、女神集結」を配信している。第2部で発表された最新情報をお伝えする。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T20:55:50+09:00"
+  },
+  {
+   "id": "a8419c7aa4c67e0a",
+   "url": "https://www.4gamer.net/games/456/G045622/20261024007/",
+   "title": "「NIKKE」新ニケ「マリアン：クイーン」（CV：花澤香菜）発表。周期的に多数の敵を攻撃する火力型",
+   "summary": "「勝利の女神：NIKKE」の新ニケ「マリアン：クイーン」（CV：花澤香菜）が発表された。10月29日のアップデート後，特殊募集に登場する。これは本日（2026年10月24日）の4周年記念イベント「約束の地へ、女神集結」で明らかになった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-24T20:14:19+09:00"
+  },
   {
    "id": "e5ff8a49e8a8e10b",
    "url": "https://www.4gamer.net/games/456/G045622/20261024006/",
@@ -1663,28 +1685,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-22T12:10:56+09:00"
-  },
-  {
-   "id": "816db1864c467e5d",
-   "url": "https://www.4gamer.net/games/193/G019325/20261022007/",
-   "title": "RPGの名門BioWareが31年の歴史に幕。「Mass Effect」最新作の開発も中止に。EAは約400人を削減する大規模な事業再編を発表",
-   "summary": "ElectronicArts傘下のBioWareは現地時間2026年10月21日，スタジオの閉鎖と「MassEffect」最新作の開発中止を発表した。「Baldur'sGate」や「DragonAge」などの名作を生み出してきた老舗デベロッパが31年の歴史に幕を下ろす。今回の事業再編により，ElectronicArts全体では約400人がレイオフされるという。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T11:46:38+09:00"
-  },
-  {
-   "id": "d43addf86b168ef5",
-   "url": "https://www.4gamer.net/games/324/G032410/20261022006/",
-   "title": "旅行ゲーム「ワールドクエスト」，10月21日をもってサービス終了",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T11:37:12+09:00"
   },
   {
    "id": "3eb9966b9f05bece",
