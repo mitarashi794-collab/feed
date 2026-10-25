@@ -1,8 +1,63 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-25T13:51:21+09:00",
+ "generated_at": "2026-10-25T18:52:31+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "0e173abff2c1f6f4",
+   "url": "https://www.4gamer.net/games/991/G999110/20261025005/",
+   "title": "誰も殺さない国盗りを目指す主人公が，不殺と狂気の狭間で戦い続ける「無刃刀 -真打-」インプレッション［DREAMSCAPE#5］",
+   "summary": "敵を殺さないことを誓う主人公が，不殺と狂気の狭間で戦い続ける横スクロールアクション「無刃刀-真打-」が，2026年10月24日のインディーゲームイベント「DREAMSCAPE#5」に出展されていた。気絶させた敵を使ったパズル要素が独特で，システムはシンプルながらじっくりと遊べそうな作品だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-25T18:26:57+09:00"
+  },
+  {
+   "id": "794640259e81be98",
+   "url": "https://automaton-media.com/articles/now-gaming/20261025-475471/",
+   "title": "『ファイアーエムブレム 万紫千紅』は面白めんどくさい。『ファイナルファンタジー レゾナンス』は集大成なのに懐かしい。『Castlevania: Belmont’s Curse』は探索型アクションとしてはよくできてる。今週のゲーミング",
+   "summary": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。567回目です。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261025-475471-005.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-25T18:09:30+09:00"
+  },
+  {
+   "id": "2c08aaa68bfc1ecd",
+   "url": "https://automaton-media.com/articles/newsjp/20261025-475463/",
+   "title": "『バイオハザード RE:4』と『みんな大好き塊魂』が75％オフで1000円切り。人気サバイバル「ドンスタ」こと『Don’t Starve』も75％オフ、わずか252円。今週の高割引率PCゲーム",
+   "summary": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261025-475463-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-25T17:05:12+09:00"
+  },
+  {
+   "id": "9aed1577e7176dd9",
+   "url": "https://automaton-media.com/articles/newsjp/20261025-475411/",
+   "title": "『サイバーパンク2077』に再びアプデ、まさかの新エリア追加。石川界人さんら豪華声優陣による犯罪捜査乙女ゲーム『アストライアの罪咎』は来年3月25日発売。今週の見逃せないゲーム記事7選",
+   "summary": "今週のAUTOMATONにて反響の大きかったゲーム紹介系記事を中心に、7本の記事をピックアップ。今週は『サイバーパンク2077』のほか、『THE FINALS』や『Dumpster Gang』などが話題となった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261025-475411-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-25T15:54:24+09:00"
+  },
+  {
+   "id": "c14613b914479b39",
+   "url": "https://automaton-media.com/articles/special-column/20261025-475453/",
+   "title": "“死体埋め”から始まる「人の繋がり」の物語。悲劇の先を描く衝撃的クライムサスペンス『ショートケーキの埋葬』を今こそ遊んでみよう",
+   "summary": "主人公が死体を埋めるという衝撃的な幕開けの『ショートケーキの埋葬』。本作は悲劇の「先」を語ることで、他者とのつながりを描くクライムサスペンスだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261025-475453-image1.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-25T14:39:02+09:00"
+  },
   {
    "id": "ec13f0714de46de0",
    "url": "https://automaton-media.com/articles/newsjp/20261025-475448/",
@@ -1665,17 +1720,6 @@
    "published": "2026-10-22T13:33:35+09:00"
   },
   {
-   "id": "5342222a83799ed7",
-   "url": "https://www.4gamer.net/games/968/G096854/20261022014/",
-   "title": "最弱ゾンビが敵を喰らって“爆速成長”。アクションRPG「ステューピッド・ネバー・ダイズ」本日発売。実写ローンチトレイラーも公開",
-   "summary": "セガは本日，アクションRPG「ステューピッド・ネバー・ダイズ」を発売した。最弱ゾンビのデイビィが，敵の能力を奪う「スタイルイート」や身体を強化する「ボディハック」を駆使し，凍死したジュリアを甦らせるため，ダンジョンに挑む。実写ローンチトレイラーも公開されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T13:19:16+09:00"
-  },
-  {
    "id": "10b48cc57dabe2c7",
    "url": "https://automaton-media.com/articles/interviewsjp/cinderia-20261022-474739/",
    "title": "人気少女ローグライト『Cinderia』『魔女の庭』『クライムライト』開発者が対談、なぜみんな『Hades』系を作るのか。理由が違いすぎて白熱、ローグライト談義",
@@ -2158,50 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-20T12:10:09+09:00"
-  },
-  {
-   "id": "7ca723945ff1d3f8",
-   "url": "https://automaton-media.com/articles/hiring/sau-20261020-474023/",
-   "title": "新進気鋭のゲーム企業Studio AuKnowは、「世界トップクラスと張り合えるような」新作を開発中。新しい会社としてはかなりの規模、そのために必要なメンバーとは",
-   "summary": "本記事では、現在取り組んでいるプロダクトや開発で使用されているツール類の詳細、所属メンバーのバックグラウンドなど、より現場に近い目線の話を秋津氏に伺った。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/studio-auknow-interview2-01.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-20T12:00:09+09:00"
-  },
-  {
-   "id": "3db0e0f6ac5c6275",
-   "url": "https://automaton-media.com/articles/newsjp/20261020-474386/",
-   "title": "今回の「Steam Nextフェス」は参加作品が急増し7000本超え。AI使用ゲームも増える中、“見つけてもらう競争”もさらに激化",
-   "summary": "「Steam Nextフェス」の参加作品数が急増を見せている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261020-474386-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-20T11:48:30+09:00"
-  },
-  {
-   "id": "aa08a53cc3daf540",
-   "url": "https://automaton-media.com/articles/newsjp/20261020-474377/",
-   "title": "『Moonlighter』開発元による新作『ReVamp』、公開プレイテストが急遽“Discordでの限定開催”へと変更に。相次ぐ“AI模倣”のリスクから",
-   "summary": "Digital Sunは10月19日、開発中の『ReVamp』について、10月29日から開始を予定していた公開プレイテストを取りやめることを発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261020-474377-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-20T09:36:15+09:00"
-  },
-  {
-   "id": "bde3bda60eec812a",
-   "url": "https://automaton-media.com/articles/newsjp/20261020-474368/",
-   "title": "水没世界波乗りハクスラアクション『Surfpunk』体験版が大幅進化。最大4人プレイ対応、陽気すぎる暴力略奪サーフィン",
-   "summary": "Double Stallionは10月20日、協力対応ハクスラアクションRPG『Surfpunk』の新体験版を配信した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261020-474368-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-20T08:42:05+09:00"
   }
  ]
 }
