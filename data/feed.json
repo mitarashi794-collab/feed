@@ -1,8 +1,85 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-25T08:20:30+09:00",
+ "generated_at": "2026-10-25T13:51:21+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "ec13f0714de46de0",
+   "url": "https://automaton-media.com/articles/newsjp/20261025-475448/",
+   "title": "作ったゲームのソースコードをまるごと「Xのポスト」に詰め込めるゲームエンジン現る。“URL”なら3KBまでセーフ",
+   "summary": "北尾崇氏は10月21日、ゲームエンジン「Playload」を公開した。上限「3KB」という制限の中でゲーム開発することが可能となっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261025-475448-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-25T13:22:16+09:00"
+  },
+  {
+   "id": "b65d276722c7fab2",
+   "url": "https://www.4gamer.net/games/554/G055489/20261025003/",
+   "title": "「ウマ娘 プリティーダービー」，新ウマ娘として「ウインマリリン」登場。「吾妻」が登場する新育成シナリオ追加も明らかに",
+   "summary": "Cygamesは，サービス中のクロスメディアコンテンツ「ウマ娘プリティーダービー」の公式番組「ぱかライブTV'#8」を配信し，新ウマ娘として「ウインマリリン」を発表した。さらに，新育成シナリオ「朋、史解き ―午式駿大祭―」の追加など，さまざまな情報が明らかにされている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-25T12:37:09+09:00"
+  },
+  {
+   "id": "13c48e603f04c127",
+   "url": "https://automaton-media.com/articles/reportjp/uma-20261025-475427/",
+   "title": "『ウマ娘』新育成シナリオ「朋、史解き ―午式駿大祭―」先行プレイ感想。新シナリオは”迷わなくて強い”「これ、難しいやつでは？」と思ったら素直なプレイ感",
+   "summary": "『ウマ娘 プリティーダービー』の新育成シナリオ「朋、史解き ―午式駿大祭― 」の先行プレイレポートをお届けしたい。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/umamusume-shundaisai-01-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-25T12:22:58+09:00"
+  },
+  {
+   "id": "5731e03c28004a40",
+   "url": "https://www.4gamer.net/games/925/G092590/20261025002/",
+   "title": "押せる！ 開く！ ピポサルもいる！ 「レゴ PlayStation」は組み立てる工程すらエモい大人のレゴだった【放課後れびゅあーず！】",
+   "summary": "ある放課後，朱音が部室に持ち込んだのは巨大な箱。中身は初代PlayStationをほぼ実寸大で再現する「レゴPlayStation」だった。今回の「放課後れびゅあーず！」では，全1911ピースを4時間かけて組み立てた感想をお届け。押せるボタンに開くディスクカバー，そして中から出てくるのは……？",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-25T12:07:54+09:00"
+  },
+  {
+   "id": "37c5d2c74bf733a7",
+   "url": "https://automaton-media.com/articles/special-column/20261024-475341/",
+   "title": "基本プレイ無料『NTE』の新ホラー要素は「怖さの加減」がおかしい。しれっと混ざる別ゲー級ホラー、“バグ”まで怖いのは反則",
+   "summary": "『NTE』Ver.1.4で追加された異象依頼には、かなりホラーな者も存在する。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261024-475341-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-25T12:00:17+09:00"
+  },
+  {
+   "id": "ceb35b303b93fab2",
+   "url": "https://www.4gamer.net/games/414/G041434/20261009017/",
+   "title": "「ウマ娘」新育成シナリオ「駿大祭編」を先行体験！ 「教え」と「演目稽古」が育成のカギに。初心者にも遊びやすい仕上がり［プレイレポ］",
+   "summary": "Cygamesの育成ゲーム「ウマ娘プリティーダービー」の新育成シナリオ「朋、史解き ―午式駿大祭―」が2026年10月○日にリリースされる。4Gamerはメディア向けの先行体験会に参加し，ひと足早く新シナリオをプレイしてきた。「教え」や「演目稽古」といった新たなギミックを紹介しつつ，実際に育成して感じた手応えをお届けする。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-25T12:00:00+09:00"
+  },
+  {
+   "id": "0dac03a9d3d6d3a5",
+   "url": "https://www.4gamer.net/games/991/G999104/20261024004/",
+   "title": "ゲーム企業307社，従事者6343人。欧州有数のゲーム開発都市ワルシャワと，ポーランドのゲーム産業を支える公的支援の取り組みを現地で聞いた",
+   "summary": "「ウィッチャー」や「Frostpunk」などのヒット作を生んだポーランド。その首都ワルシャワは，ゲーム産業従事者の数で欧州有数の開発拠点となっている。企業と人材を呼び込む都市政策，試作から海外展開までを支える公的制度とは。現地の2つの講演からその取り組みを紹介する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-25T10:41:51+09:00"
+  },
   {
    "id": "e97d4ee81b1e47c7",
    "url": "https://www.4gamer.net/games/456/G045622/20261024008/",
@@ -1599,28 +1676,6 @@
    "published": "2026-10-22T13:19:16+09:00"
   },
   {
-   "id": "4e658a0e20b3fcdb",
-   "url": "https://www.4gamer.net/games/010/G101093/20261022005/",
-   "title": "「ファイナルファンタジー レゾナンス」本日発売。「もしFFがドットのまま進化をしていたら」をコンセプトにした新作RPG",
-   "summary": "スクウェア・エニックスは本日，「ファイナルファンタジーレゾナンス」を発売した。本作は，「もし『FINALFANTASY』がドットのまま進化をしていたら…」をコンセプトに開発された新作RPGだ。HD-2Dで描かれる世界を舞台に，ジョブシステムなど「FFの原点」の魅力を現代的な形で楽しめるという。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T13:06:08+09:00"
-  },
-  {
-   "id": "24e8edebb2fd96d2",
-   "url": "https://www.4gamer.net/games/052/G105227/20261022008/",
-   "title": "殺される前に恋に落とす。連続殺人鬼6人をリズムゲームで攻略する恋愛SLG「Serial Lover」，日本語に対応",
-   "summary": "SugarSlipは本日，PC用ソフト「SerialLover」のアップデートを実施し，日本語に対応した。本作は，見知らぬ館で記憶を失った状態で目を覚ました主人公が連続殺人鬼6人と協力し，館の謎と自分たちが集められた理由を解き明かしていくリズム×恋愛シミュレーションゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T13:03:00+09:00"
-  },
-  {
    "id": "10b48cc57dabe2c7",
    "url": "https://automaton-media.com/articles/interviewsjp/cinderia-20261022-474739/",
    "title": "人気少女ローグライト『Cinderia』『魔女の庭』『クライムライト』開発者が対談、なぜみんな『Hades』系を作るのか。理由が違いすぎて白熱、ローグライト談義",
@@ -1632,17 +1687,6 @@
    "published": "2026-10-22T13:01:54+09:00"
   },
   {
-   "id": "40dda536d550959c",
-   "url": "https://www.4gamer.net/games/709/G070944/20261022011/",
-   "title": "10月29日のリリースを控えるアクション「Phantom Blade Zero」，ローンチトレイラーを公開。2027年にはPS5パッケージ版が発売予定",
-   "summary": "S-GAMEは本日，10月29日にリリース予定の新作「PhantomBladeZero」のローンチトレイラーを公開した。あわせて，PS5パッケージ版を2027年に発売すると発表している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T12:34:11+09:00"
-  },
-  {
    "id": "079c9f4292a6fcfd",
    "url": "https://automaton-media.com/articles/newsjp/20261022-474895/",
    "title": "BioWare閉鎖で、RPG業界の大物たちに悲しみ広がる。『ウィッチャー』のCDPRも『バルダーズ・ゲート3』のLarianも、悲嘆の声続々",
@@ -1652,17 +1696,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-22T12:31:41+09:00"
-  },
-  {
-   "id": "0461e20854fd2f02",
-   "url": "https://www.4gamer.net/games/052/G105231/20261022010/",
-   "title": "ド派手FPSシリーズの正統続編「Serious Sam: The Third Encounter」の開発がアナウンス。伝統の“走り撃ち”でメンタルとの決着をつけろ！",
-   "summary": "DevolverDigitalは，Croteamが開発するFPSシリーズ最新作「SeriousSam:TheThirdEncounter」を発表し，Steamストアページとティザートレイラーを公開した。2002年にリリースされた「SeriousSam:TheSecondEncounter」の物語を直接引き継ぐ正統な続編で，シリーズ伝統のド派手な“走り撃ち”が復活する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T12:20:32+09:00"
   },
   {
    "id": "98323aa3c6a1c18e",
@@ -2169,39 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-20T08:42:05+09:00"
-  },
-  {
-   "id": "f8abc92a35a4c2a7",
-   "url": "https://automaton-media.com/articles/newsjp/20261020-474360/",
-   "title": "協力対応アライグマ空き巣ゲーム『Dumpster Gang』日本語対応で12月4日配信へ。イタズラ・盗み・暴力、人間なめすぎ害獣マルチ",
-   "summary": "Curve Gamesは10月19日、アライグマ泥棒サンドボックスゲーム『Dumpster Gang』を12月3日に配信すると発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261020-474360-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-20T08:13:57+09:00"
-  },
-  {
-   "id": "742375309467b77e",
-   "url": "https://automaton-media.com/articles/newsjp/20261019-474347/",
-   "title": "Steam武装お菓子ローグライク『チョコレートパレード』はマルチ対応、“パンジャンドラム風ロールケーキ”など物騒なスイーツたちが暴れ回る。11月6日発売へ",
-   "summary": "インディーゲームレーベル「WorldMap」は10月19日、『Chocolate Parade（チョコレートパレード）』を11月6日に発売すると告知した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261019-474347-003.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-19T21:02:40+09:00"
-  },
-  {
-   "id": "9221cc965bf7ce93",
-   "url": "https://automaton-media.com/articles/newsjp/20261019-474342/",
-   "title": "『トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター』に改善どっさりアプデ。不満続出のレベルアップ硬直解消、いろいろ原作準拠に",
-   "summary": "スクウェア・エニックスは10月19日、『トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター』向けにアップデートを配信した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261019-474342-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-19T20:41:29+09:00"
   }
  ]
 }
