@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-25T18:52:31+09:00",
+ "generated_at": "2026-10-25T23:26:06+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "5b69e2f9a05526c0",
+   "url": "https://www.4gamer.net/games/519/G051983/20261025004/",
+   "title": "「ブルアカ」の新イベント「Start Your Engines! 〜183号よ永遠に!〜」が10月28日のメンテナンス後に開幕。6周年のフェス情報も解禁",
+   "summary": "Yostarは本日（2026年10月25日），同社が運営する「ブルーアーカイブ-BlueArchive-」の公式生放送を実施した。今回は，2026年10月28日のメンテナンス後に開始する新イベント「StartYourEngines!〜183号よ永遠に！〜」や，限定生徒のヒフミとアズサ，6周年フェスなどが明らかにされた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-25T21:53:08+09:00"
+  },
+  {
+   "id": "65a95a5ded81a45e",
+   "url": "https://www.4gamer.net/games/519/G051983/20261025007/",
+   "title": "「ブルアカ」，日本国内におけるパブリッシャがYostarからネクソンに変更。変更時期は2027年1月頃を予定",
+   "summary": "Yostarは2026年10月25日，スマホとPC向けに展開する「ブルーアーカイブ」について，日本国内におけるパブリッシャを同社からネクソンに変更すると発表した。今回の決定はNEXONGamesとネクソンのグループ間連携を深めて，本作の開発，運営，IP展開を一元的に行う体制構築を目的としたものだとしている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-25T21:49:23+09:00"
+  },
+  {
+   "id": "a5f167f3448b8e12",
+   "url": "https://automaton-media.com/articles/newsjp/20261025-475480/",
+   "title": "『ブルーアーカイブ』が来年1月にYostarを“卒業”へ。以後はネクソンが国内パブリッシングを担当",
+   "summary": "ネクソンは10月25日、同社が開発する『ブルーアーカイブ』について、日本国内でのパブリッシャーをYostarからネクソンに変更すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261025-475480-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-25T21:43:12+09:00"
+  },
   {
    "id": "0e173abff2c1f6f4",
    "url": "https://www.4gamer.net/games/991/G999110/20261025005/",
@@ -1676,17 +1709,6 @@
    "published": "2026-10-22T14:16:56+09:00"
   },
   {
-   "id": "da419d8d84e197d5",
-   "url": "https://www.4gamer.net/games/037/G103744/20261022020/",
-   "title": "「Football Manager 27」，PC向けローンチプレビュー版を10月30日から無料公開。製品版へセーブデータ引き継ぎ可能",
-   "summary": "セガは本日，サッカークラブ経営シミュレーション「FootballManager27」のPC向けローンチプレビュー版を2026年10月30日から11月4日まで無料公開すると発表した。事前登録は不要で，セーブデータは11月11日発売予定の製品版へ引き継げる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T14:11:45+09:00"
-  },
-  {
    "id": "838cfd13ccdcb1fa",
    "url": "https://automaton-media.com/articles/newsjp/20261022-474927/",
    "title": "Nintendo Switch 2/Switch向けセール今日も大量約630本追加。人気ソウルライク『Lies of P』や『モンハンストーリーズ3』、ガソスタ経営シムなど最安値級",
@@ -1696,17 +1718,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-22T14:01:52+09:00"
-  },
-  {
-   "id": "c436c658ee492032",
-   "url": "https://www.4gamer.net/games/658/G065821/20261022015/",
-   "title": "「Once Human」，無料大型アップデート「禁断の島」を配信。自らの船を造り，危険な海域に挑む",
-   "summary": "NetEaseGamesとStarryStudioは2026年10月22日，「OnceHuman」で，無料大型アップデート「禁断の島」を配信した。プレイヤーは自身の船を造り，危険な海域を冒険していく。そして，各海域の異常現象を浄化し，巨大な生命体「海墟の王」に挑む。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T13:45:58+09:00"
   },
   {
    "id": "f4f830002a178fff",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-20T12:14:38+09:00"
-  },
-  {
-   "id": "e640c8bdb5376e3f",
-   "url": "https://automaton-media.com/articles/newsjp/20261020-474385/",
-   "title": "無料デモ一斉配信イベント「Steam Nextフェス」開幕で、空島スローライフや“協力おならボート漕ぎ”などが人気上昇中。注目作をいろいろ紹介",
-   "summary": "Steamにて10月20日、「Steam Nextフェス2026年10月エディション」が開始された。同時接続プレイヤー数や好評レビューの多いタイトルなどを中心に、注目作を紹介していく。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261020-474385-header-4.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-20T12:10:09+09:00"
   }
  ]
 }
