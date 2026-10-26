@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T06:52:00+09:00",
+ "generated_at": "2026-10-26T09:26:25+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "8a3dfa9a695750a9",
+   "url": "https://www.4gamer.net/games/036/G003691/20261023037/",
+   "title": "Access Accepted第876回：名門BioWareの終焉と，EAが描く「次の時代」",
+   "summary": "「マスエフェクト」や「ドラゴンエイジ」などの名作RPGを生み出してきたBioWareが，31年の歴史に幕を下ろした。ElectronicArtsは名門スタジオの閉鎖とともに新たな経営戦略を発表し，収益性の高い事業への投資集中を鮮明にしている。過去にも数々の開発スタジオを閉鎖してきたEAは，非公開化を経てどこへ向かおうとしているのか。BioWareの終焉から，変わりゆくゲーム産業と北米ゲーム業界の巨人の姿を考えてみたい。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-26T08:35:00+09:00"
+  },
+  {
+   "id": "1c0d45a5da937eb2",
+   "url": "https://www.4gamer.net/games/954/G095479/20261025001/",
+   "title": "【今週のモチベ】カンフーパンク「Phantom Blade Zero」や「アノマリス」が発売される 2026年10月26日〜11月1日",
+   "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，中国武術とスチームパンクを融合させた「カンフーパンク」の世界を舞台とする「PhantomBladeZero」や，昭和レトロの雰囲気が漂うTPS「アノマリス／ANOMALITH」がリリースされる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-26T08:00:00+09:00"
+  },
+  {
+   "id": "81396ccd8decfe32",
+   "url": "https://www.4gamer.net/games/040/G004099/20261025006/",
+   "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年10月19日〜10月25日",
+   "summary": "2026年10月19日〜10月25日，4Gamerに掲載された記事は291本でした。ポーランドで開催されたゲームイベント「PoznańGameArena」（ポズナン・ゲームアリーナ）のレポートなど，さまざまな記事を掲載した4Gamerと世界のゲーム業界の1週間を振り返りましょう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-26T07:00:00+09:00"
+  },
   {
    "id": "5b69e2f9a05526c0",
    "url": "https://www.4gamer.net/games/519/G051983/20261025004/",
@@ -1665,28 +1698,6 @@
    "published": "2026-10-22T15:00:45+09:00"
   },
   {
-   "id": "b4bca4d81aaa1d4e",
-   "url": "https://www.4gamer.net/games/612/G061218/20261021046/",
-   "title": "「Brookhaven RP」は課金圧が低くても収益トップ10に入る。Robloxの推薦アルゴリズムが見ているものとは",
-   "summary": "アメリカのサンノゼで開かれたRobloxの開発者向けカンファレンス「RobloxDevelopersConference2026」で，同社はゲームの推薦順位を決める仕組みについて，その評価軸を解説する講演を行った。判定期間は公開後7日間から28日間へ延び，新たな指標が2つ加わっている。また，その評価で収益化より重く見られる継続率をソーシャル機能でどう作るかが，「Fisch」の立て直しを例に語られた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T15:00:00+09:00"
-  },
-  {
-   "id": "3577776de425f47d",
-   "url": "https://www.4gamer.net/games/037/G103744/20261022017/",
-   "title": "「Football Manager 27」特設ブースがMUFGスタジアムに登場。元日本代表の中澤佑二さんが，選手をその気にさせる監督の共通点を語った",
-   "summary": "セガは2026年10月21日，MUFGスタジアム（国立競技場）で開催された「2026／27明治安田J1リーグ『MUFGTHE国立DAY』第11節：横浜F・マリノスvs東京ヴェルディ」の試合会場に，「FootballManager27」の特設ブースを出展した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T14:36:40+09:00"
-  },
-  {
    "id": "213a764ff9fe3805",
    "url": "https://automaton-media.com/articles/newsjp/20261022-474917/",
    "title": "一人称ダークファンタジーARPG『フェイトキーパー』約4か月で売上“50万本”突破。ドでかスキルツリーで脳筋から属性特化まで、剣と魔法と錬金術の自由ビルド",
@@ -1696,17 +1707,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-22T14:26:08+09:00"
-  },
-  {
-   "id": "abc190e0663da1dc",
-   "url": "https://www.4gamer.net/games/052/G105226/20261022018/",
-   "title": "カラオケ店の仕事を1人でこなすアクションゲーム「ワンオペ！カラオケ」本日発売。何から手を付けるかを判断しながら店を切り盛りしよう",
-   "summary": "SAT-BOXは本日，PC/Switch向けの新作「ワンオペ！カラオケ」を発売した。本作は，カラオケ店のスタッフとなって，店内で次々に舞い込む仕事を1人でこなしていくアクションゲームだ。マイクの交換やカラオケマシンの修理など，予定外の仕事も発生する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-22T14:16:56+09:00"
   },
   {
    "id": "838cfd13ccdcb1fa",
