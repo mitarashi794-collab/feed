@@ -1,8 +1,30 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T23:21:18+09:00",
+ "generated_at": "2026-10-27T05:34:02+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "7d80bac9229679e3",
+   "url": "https://automaton-media.com/articles/newsjp/20261027-475730/",
+   "title": "新型「iPad mini」発表、11月6日発売へ。11万9800円から。iPad史上もっとも軽い",
+   "summary": "Appleは10月26日、新型iPad miniを発表し、11月6日に発売すると告知した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261027-475730-header-scaled.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-27T00:01:23+09:00"
+  },
+  {
+   "id": "6acd547ad6732c5d",
+   "url": "https://www.4gamer.net/games/990/G999014/20261026058/",
+   "title": "有機EL！ 防水防塵！ A20 Pro搭載！ 史上最大の進化を遂げた「iPad mini」2026年モデルが10月29日予約開始",
+   "summary": "2026年10月26日，Appleは，「iPadmini」2026年モデルを11月6日に発売すると発表した。予約受付は10月29日2：10に開始する予定だ。iPadminiシリーズ初の有機ELディスプレイ搭載や防水防塵対応など，見どころの多いタブレットだ。価格は11万9800円からとなっている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-26T23:25:19+09:00"
+  },
   {
    "id": "f245f2bd29bb2179",
    "url": "https://automaton-media.com/articles/newsjp/20261026-475716/",
@@ -1786,17 +1808,6 @@
    "published": "2026-10-23T12:00:00+09:00"
   },
   {
-   "id": "3c710a996262f4a1",
-   "url": "https://www.4gamer.net/games/041/G104110/20261022038/",
-   "title": "「続ポートピア連続殺人事件:忘却の埋葬」，2027年3月4日に発売決定。パッケージ版にはファミコン版「ポートピア連続殺人事件」を同梱",
-   "summary": "ジー・モードは本日（2026年10月23日），アドベンチャーゲーム「続ポートピア連続殺人事件:忘却の埋葬」を2027年3月4日に発売すると発表した。また，Switch2とSwitch向けパッケージには，ファミコン版「ポートピア連続殺人事件」が同梱され，丸ごと遊べるという。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-23T12:00:00+09:00"
-  },
-  {
    "id": "02621a66d6a47268",
    "url": "https://automaton-media.com/articles/newsjp/20261023-475097/",
    "title": "Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲良く雑談、“後方腕組み観戦”もできる",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-21T15:00:34+09:00"
-  },
-  {
-   "id": "47bbe438b53de6d2",
-   "url": "https://automaton-media.com/articles/newsjp/20261021-474645/",
-   "title": "Nintendo Switch 2/Switch向けセールに約380本どどんと追加。『ユニコーンオーバーロード』が半額、『超探偵事件簿 レインコード』は最安値更新、軽トラねこ配達ゲームなど高評価インディーも安い",
-   "summary": "Nintendo Switch 2/Nintendo Switch向けタイトルの新たなセールが開始された。対象タイトルは約380本。本記事では、その中から注目タイトルをいくつか紹介する。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261021-474645-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-21T14:46:57+09:00"
   }
  ]
 }
