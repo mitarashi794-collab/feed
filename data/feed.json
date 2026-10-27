@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T05:34:02+09:00",
+ "generated_at": "2026-10-27T09:31:41+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "5f97118cd34221ec",
+   "url": "https://www.4gamer.net/games/991/G999104/20261026036/",
+   "title": "散逸する企業研修用や自治体製作のゲームを収集・保存し“評価の物差し”を作る。石神康秀氏が語った「シリアスゲームミュージアム」の設立構想",
+   "summary": "大阪電気通信大学寝屋川キャンパスで10月24日に開催された「大阪シリアスゲームデイ」にて，ボードゲーム編集者の石神康秀氏によるセッション「シリアスゲームミュージアムの目指すべき成果について」が行われた。150作以上に携わった同氏がなぜ学芸員資格を取得し，来年2月に埼玉・西所沢で博物館を立ち上げるのか。比較研究の課題や運営の仕組みを語った。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-27T09:00:00+09:00"
+  },
+  {
+   "id": "f54b5df68658d546",
+   "url": "https://www.4gamer.net/games/946/G094686/20261026049/",
+   "title": "「大戦略SSB2」，中国・北朝鮮による対馬占拠を描く新シナリオを10月29日配信。五稜郭を舞台にしたフリーマップも追加",
+   "summary": "システムソフト・ベータは，戦略シミュレーション「大戦略SSB2」の無料アップデートを2026年10月29日10：00に配信すると発表した。中国と北朝鮮が対馬北部を占拠し，日本が奪還を目指す新シナリオ「対馬海峡危機」と，函館の五稜郭を舞台にしたフリーマップ「五稜郭からの侵略者II」を追加する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-27T08:00:00+09:00"
+  },
+  {
+   "id": "5d4ab0ec4fca367b",
+   "url": "https://www.4gamer.net/games/421/G042182/20261026053/",
+   "title": "HoYoverse初のスローライフゲーム「プチプラネット」，リリース予告番組を11月1日20：00から配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "summary": "HoYoverse初のスローライフゲーム「プチプラネット」のリリース予告番組が11月1日20：00から配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-27T08:00:00+09:00"
+  },
+  {
+   "id": "04179ac39c1e4e3d",
+   "url": "https://automaton-media.com/articles/newsjp/20261026-475710/",
+   "title": "硬派戦略シム『大戦略SSB2』10月29日の無料アプデは日本の新マップ2連発。「対馬奪還」シナリオマップ、そして北海道の「五稜郭」で戦う新フリーマップ実装へ",
+   "summary": "システムソフト・ベータは10月27日、戦略シム『大戦略SSB2』向けの無料アップデートを10月29日に配信することを発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261026-475710-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-27T08:00:00+09:00"
+  },
+  {
+   "id": "f3e7588bfa2d2a3d",
+   "url": "https://www.4gamer.net/games/991/G999110/20261026020/",
+   "title": "TGS 2026 コンパニオン＆コスプレイヤー写真集（ZIPファイルなし）をお届け。10年に1度の豊潤なみずみずしさに恵まれた258枚！",
+   "summary": "東京ゲームショウ2026を彩ってくれた，コンパニオンさんやコスプレイヤーさんの写真集をお届けします。10年に1度の豊潤なみずみずしさに恵まれた258枚を一挙掲載。かつての恒例の「ZIPでくれ」はなしです。時代とかPHP？ のせいにしてね！",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-27T07:00:00+09:00"
+  },
+  {
+   "id": "f1fc7b5fe513bfeb",
+   "url": "https://www.4gamer.net/games/999/G999901/20261027002/",
+   "title": "まさかの「復路」があるリズムアクション!? 「DYU/TAN」で気づかされた，自らの足跡を振り返り，共鳴する楽しさ",
+   "summary": "インディーゲーム展示イベント「DREAMSCAPE#5」で試遊した「DYU/TAN」は，オートランのジャンプアクションとリズムゲームを融合させた作品だ。本作の特徴は，ステージを進む「往路」だけでなく，来た道を戻る「復路」が存在すること。過去の自分が残した痕跡と「共鳴」する，独特のプレイ体験を紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-27T07:00:00+09:00"
+  },
   {
    "id": "7d80bac9229679e3",
    "url": "https://automaton-media.com/articles/newsjp/20261027-475730/",
@@ -1720,17 +1786,6 @@
    "published": "2026-10-23T13:03:30+09:00"
   },
   {
-   "id": "e0101b44d9ffc397",
-   "url": "https://www.4gamer.net/games/948/G094822/20261023005/",
-   "title": "「プチプラネット」，リリース予告番組を11月1日20：00から配信。ゲームコンテンツや今後展開予定のイベント・キャンペーン情報を紹介",
-   "summary": "HoYoverseは本日，今冬のリリースを予定しているスローライフゲーム「プチプラネット」のリリース予告番組をYouTubeと公式Xで2026年11月1日20：00から配信すると発表した。番組では，ゲームコンテンツや今後展開予定のイベント・キャンペーン情報を紹介する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-23T12:49:45+09:00"
-  },
-  {
    "id": "37e25933eb2d36bd",
    "url": "https://automaton-media.com/articles/newsjp/20261023-475115/",
    "title": "『アズールレーン』開発元新作『アズールプロミリア』11月26日リリースへ。期待のモンスター育成美少女ファンタジーRPG、まもなく",
@@ -1740,39 +1795,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-23T12:29:02+09:00"
-  },
-  {
-   "id": "893e4cb544d785d6",
-   "url": "https://www.4gamer.net/games/014/G101429/20261023007/",
-   "title": "ダーク三國アクションRPG「Wo Long 2: Wings of Ember」，α体験版のフィードバックレポートを公開。改善方針も発表",
-   "summary": "コーエーテクモゲームスは本日（2026年10月23日），ダーク三國アクションRPG「WoLong2:WingsofEmber」の最新情報として，α体験版のフィードバックレポートを公開した。同社はプレイヤーからの意見をもとにゲームのブラッシュアップに努めるとしている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-23T12:10:14+09:00"
-  },
-  {
-   "id": "23542c73570f63f5",
-   "url": "https://www.4gamer.net/games/051/G105143/20261023008/",
-   "title": "「モンスター娘サバイバル&クラフト2040」，体験版をアップデート。クラフトや操作を改善し，捕獲率も上昇",
-   "summary": "Ludoreagamesは2026年10月22日，「モンスター娘サバイバル&クラフト2040」の体験版をアップデートした。プレイヤーから寄せられた意見をもとに，クラフトや操作を改善し，全モンスター娘の捕獲率を引き上げた。そのほか，方角表示の追加や不具合の修正なども行われている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-23T12:09:44+09:00"
-  },
-  {
-   "id": "51b250f49dc10b08",
-   "url": "https://www.4gamer.net/games/630/G063087/20261023006/",
-   "title": "次々と襲来する敵を撃退するサバイバルFPS「Sker Ritual」と，選択によって物語の展開が変化していくホラーADV「Home - A Unique Horror Adventure」がEpic Games Storeで無料配布中",
-   "summary": "EpicGamesは，PCゲーム配信プラットフォームEpicGamesStoreにて，「SkerRitual」と「Home-AUniqueHorrorAdventure」の無料配布を実施している。期間は2026年10月30日0：00まで。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-23T12:03:29+09:00"
   },
   {
    "id": "53a96fa9e0b0c72e",
@@ -1795,17 +1817,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-23T12:00:03+09:00"
-  },
-  {
-   "id": "ba8d857419dd2f53",
-   "url": "https://www.4gamer.net/games/042/G104273/20261016060/",
-   "title": "ガンホーの新作オンラインゲーム「B.L.U.E. NOVA」は，最大30人でカジュアルに楽しめる“共闘弾幕”シューター［プレイレポ］",
-   "summary": "ガンホー・オンライン・エンターテイメントは2026年10月30日から11月1日まで，PC向け新作オンラインゲーム「B.L.U.E.NOVA」のテクニカルテストを実施する。今回，テクニカルテストのバージョンを試遊する機会を得たので，ファーストインプレッションをお伝えしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-23T12:00:00+09:00"
   },
   {
    "id": "02621a66d6a47268",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-21T15:38:53+09:00"
-  },
-  {
-   "id": "a8ac5602b42a8fe7",
-   "url": "https://automaton-media.com/articles/interviewsjp/chronoscript-20261021-474646/",
-   "title": "国産大型メトロイドヴァニア『Chronoscript』、体験版「85%好評」だけど延期した理由。開発者を動かしたユーザーの“質の高いフィードバック”と『Hollow Knight』『Constance』開発者の助言",
-   "summary": "集英社ゲームズのプロデューサー山本正美氏、デスクワークスのディレクター藤井トム氏、メインアーティストの南場ナム氏にインタビューを実施。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/chronoscript-20261021-474646-001.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-21T15:00:34+09:00"
   }
  ]
 }
