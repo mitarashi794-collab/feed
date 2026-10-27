@@ -1,8 +1,30 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T22:18:36+09:00",
+ "generated_at": "2026-10-28T04:28:07+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "a071eb3c7c369c8a",
+   "url": "https://www.4gamer.net/games/990/G099022/20261027038/",
+   "title": "「Remothered: 赤き修道女の遺産」本日発売。失踪した娘を捜す母親が悪夢に挑む，サバイバルホラー三部作の完結編",
+   "summary": "StormindGamesは本日，サバイバルホラー「Remothered:赤き修道女の遺産」を発売した。「Remothered」シリーズ三部作の完結編となる作品で，失踪した娘を捜す主人公スーザンが，執拗に追跡してくる敵から逃れながら，赤き修道女の起源と秘密を解き明かしていく。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-27T23:00:00+09:00"
+  },
+  {
+   "id": "e042cb229b294d3a",
+   "url": "https://automaton-media.com/articles/newsjp/20261027-475970/",
+   "title": "任天堂のインディーゲーム紹介番組「Indie World 2026.10.28」10月28日23時より放送へ。放送時間は約25分",
+   "summary": "任天堂は10月27日、「Indie World 2026.10.28」を10月28日23時より配信すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261027-475970-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-27T22:52:33+09:00"
+  },
   {
    "id": "0095a17b5c9d5480",
    "url": "https://automaton-media.com/articles/newsjp/20261027-475944/",
@@ -1676,17 +1698,6 @@
    "published": "2026-10-24T17:08:43+09:00"
   },
   {
-   "id": "07d45ccfe597c814",
-   "url": "https://www.4gamer.net/games/008/G100854/20261014061/",
-   "title": "麗しき［Endelore］は意外に愉快なチーム!? ディズニーゲーム最新作「ディズニー スパークリンク・スターズ」を先行体験［プレイレポ］",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-24T17:00:00+09:00"
-  },
-  {
    "id": "83431993df5ea0cf",
    "url": "https://automaton-media.com/articles/newsjp/20261024-475385/",
    "title": "『Factorio』が「最後の大型アプデ」配信、反転配置や宇宙プラットフォームなどいろいろ便利に。“やり切った”開発チームは新作開発へ注力",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-22T14:01:52+09:00"
-  },
-  {
-   "id": "f4f830002a178fff",
-   "url": "https://automaton-media.com/articles/newsjp/20261022-474906/",
-   "title": "リズムゲーム×ダーク恋愛ビジュアルノベル『Serial Lover』最新アプデで日本語に対応。6人の連続殺人鬼たちの心を掴む、異色好評作品が遊びやすく",
-   "summary": "Sugar Slipは10月22日、ビジュアルノベル『Serial Lover』に向け、アップデートを配信した。同アップデートでは、日本語を含むローカライズに対応している。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474906-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-22T13:33:35+09:00"
   }
  ]
 }
