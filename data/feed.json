@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T03:53:58+09:00",
+ "generated_at": "2026-10-29T08:16:54+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "3ac8ab21af3d4654",
+   "url": "https://www.4gamer.net/games/338/G033856/20261027035/",
+   "title": "そうだ アニメ，見よう：第271回は待望のTVアニメ第3期「薬屋のひとりごと」。蝗害と白娘々，数々の新たな難題が猫猫の前に立ちふさがる",
+   "summary": "「そうだアニメ，見よう」第271回のタイトルは待望のTVアニメ第3期「薬屋のひとりごと」。制作はOLM，シリーズ構成を「鬼灯の冷徹」や「魔法使いの嫁」の長沼範裕氏が担当。監督を「迷家-マヨイガ-」や「ガーリッシュナンバー」などの筆坂明規氏が務めている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-29T08:00:00+09:00"
+  },
   {
    "id": "495bf37371f6d0eb",
    "url": "https://automaton-media.com/articles/newsjp/20261029-476250/",
@@ -1760,17 +1771,6 @@
    "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261026-475695-001.jpg",
    "source": "AUTOMATON",
    "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-26T20:00:00+09:00"
-  },
-  {
-   "id": "0b56b8e7f78c7034",
-   "url": "https://www.4gamer.net/games/715/G071564/20261026035/",
-   "title": "鳥の足で歩く魔法の家と旅するADV「REKA」，正式版1.0を本日配信。物語の結末や新たな家具，クエストなどを追加",
-   "summary": "松竹ゲームズは本日，「REKA」の正式版1.0をPC（Steam）向けに配信開始した。本作は，鳥の足で歩く魔法の家とともに秋の森を旅する魔女探索アドベンチャーだ。正式版では主人公レカの物語が完結するほか，新たな家具や建築素材，クエスト，動物などが追加された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
    "category": "news",
    "published": "2026-10-26T20:00:00+09:00"
   },
