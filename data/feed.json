@@ -1,8 +1,195 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T22:05:43+09:00",
+ "generated_at": "2026-10-29T03:53:58+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "495bf37371f6d0eb",
+   "url": "https://automaton-media.com/articles/newsjp/20261029-476250/",
+   "title": "『No Man’s Sky』無料大型アプデで「宇宙の運び屋」になれる。荷物配達、不気味な遺物や幼虫集め、銀河を股にかける怪しいお仕事",
+   "summary": "Hello Gamesは10月28日、『No Man's Sky』に大型アップデート「FORSAKEN」を配信した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476250-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-29T01:09:20+09:00"
+  },
+  {
+   "id": "9f08da7aca3f3e22",
+   "url": "https://www.4gamer.net/games/053/G105389/20261029004/",
+   "title": "「Indie World 2026.10.28」発表情報まとめ。話題作「Order of the Sinking Star」やSwitch2版「都市伝説解体センター」がいきなり発売！",
+   "summary": "任天堂は2026年10月28日，NintendoSwitch2/NintendoSwitch向けに発売予定の新作インディーゲームを紹介する番組「IndieWorld2026.10.28」を配信した。本稿では，番組内で紹介されたタイトルの情報をまとめつつ，関連する記事やリンクを掲載していく。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-29T01:08:54+09:00"
+  },
+  {
+   "id": "da1e023ebaad7fff",
+   "url": "https://automaton-media.com/articles/newsjp/20261029-476236/",
+   "title": "『NTE』大型アプデVer.1.5では“戦車バトル”開幕へ。おっとり電脳お姉さん「イェルム」に、クール系ハッカー男子「Exe」もいよいよプレイアブル実装",
+   "summary": "『NTE: Neverness to Everness』Ver.1.5「リダイヤル # 空想の君へ」の予告番組にてさまざまな詳細が明かされた。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476236-header2.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-29T00:41:20+09:00"
+  },
+  {
+   "id": "fafc2da80b2feb9c",
+   "url": "https://www.4gamer.net/games/040/G104090/20261029003/",
+   "title": "「めっちゃカメレオン」，無料アップデート配信開始。新モード「チーム戦」に加え，新ステージや新ボディを追加",
+   "summary": "個人ゲーム開発者のLEMORION氏は2026年10月28日，お絵かきかくれんぼゲーム「めっちゃカメレオン」の無料アップデートを配信した。最大24人で遊べる新モード「チーム戦」に加え，新ステージや新ボディタイプが追加されている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-29T00:39:15+09:00"
+  },
+  {
+   "id": "52ae469eb5714913",
+   "url": "https://www.4gamer.net/games/053/G105389/20261029002/",
+   "title": "狐の少女と蛙が不気味な島を彷徨う。「狐ト蛙ノ旅 アダシノ島のコトロ鬼」がSwitch2 / Switch向けに2027年春に配信決定",
+   "summary": "room6とヨカゼは2026年10月28日，インディーゲーム紹介番組「IndieWorld2026.10.28」にて，「狐ト蛙ノ旅アダシノ島のコトロ鬼」をNintendoSwitch2/NintendoSwitch向けに2027年春に配信すると発表した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-29T00:23:45+09:00"
+  },
+  {
+   "id": "62605f823a52dc34",
+   "url": "https://www.4gamer.net/games/901/G090155/20261029001/",
+   "title": "ノルマを達成するまで，怪物だらけの廃墟でお宝さがし。オンライン協力型ホラーゲーム「R.E.P.O. 」（レポ），Nintendo Switch 2版は2027年発売",
+   "summary": "semiworkは2026年10月28日，インディーゲーム情報番組「IndieWorld2026.10.28」にて，オンライン協力型ホラーゲーム「R.E.P.O.」（レポ）のNintendoSwitch2版を2027年に発売すると発表した。怪物が徘徊する廃墟でお宝を集め，ノルマ達成を目指す協力型タイトルだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-29T00:11:17+09:00"
+  },
+  {
+   "id": "fca0164454b85d60",
+   "url": "https://automaton-media.com/articles/newsjp/20261029-476166/",
+   "title": "『Dead by Daylight』に新キラー「アート・ザ・クラウン」参戦へ、PTB始動。人気映画「テリファー」の残酷スプラッタ狂気ピエロが『DbD』に殴り込み",
+   "summary": "『Dead by Daylight』にてホラー映画「テリファー」とのコラボレーションが正式発表された。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476166-001-2.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-29T00:00:10+09:00"
+  },
+  {
+   "id": "c340614e4668e6bb",
+   "url": "https://www.4gamer.net/games/895/G089563/20261028055/",
+   "title": "海辺の魔法学校で，新生活を満喫するシミュレータ「Witchbrook」，2027年1月28日に発売決定",
+   "summary": "本日配信の「IndieWorld2026.10.28」にて，Robotalityが手掛ける魔法学校生活シミュレーション「Witchbrook」の発売日が2027年1月28日に決定した。海辺の街にある魔法学校で，授業やアルバイトなどをこなしながら，自由な学校生活を楽しめる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-28T23:51:50+09:00"
+  },
+  {
+   "id": "bc1493c7247f67b1",
+   "url": "https://www.4gamer.net/games/005/G100594/20261028054/",
+   "title": "TRPGなど卓上ゲームがSwitch2で手軽に遊べる！ 「テーブルゲームワールド CCFOLIA」の配信日が11月10日に決定",
+   "summary": "ココフォリアは本日（2026年10月28日），インディーゲーム紹介番組「IndieWorld2026.10.28」にて，NintendoSwitch2用ソフト「テーブルゲームワールドCCFOLIA」の配信日が11月10日に決定したと発表した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-28T23:47:27+09:00"
+  },
+  {
+   "id": "84cb07d62863b352",
+   "url": "https://automaton-media.com/articles/newsjp/witchbrook-20261028-476222/",
+   "title": "“開発10年”かかった魔法学校生活シム『Witchbrook』来年1月28日発売へ。最大4人マルチ、延期重ねた期待作がついに出る",
+   "summary": "Chucklefishは10月28日、『Witchbrook』を2027年1月28日に発売すると発表した。本作は魔法学校の生活を体験できるライフシミュレーションゲーム。延期を経て、発売日がとうとう発表されたかたちだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/witchbrook-20261028-476222-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-28T23:40:36+09:00"
+  },
+  {
+   "id": "f841ad22901a1403",
+   "url": "https://automaton-media.com/articles/newsjp/20261028-476197/",
+   "title": "もちもちタヌキ暴走配達ゲーム『タヌキ： ポンの夏』11月10日配信へ。日本の町をチャリンコで爆走、トリック決めまくり",
+   "summary": "CRITICAL REFLEXは10月28日、『TANUKI: Pon's Summer - タヌキ：ポンの夏』を11月10日に配信すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476197-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-28T23:37:19+09:00"
+  },
+  {
+   "id": "aeea0e70918b0dd1",
+   "url": "https://automaton-media.com/articles/newsjp/20261028-476212/",
+   "title": "『めっちゃカメレオン』無料大型アプデで「チーム戦」登場、いきなり配信開始。ステージから“ボディ”まで新要素めっちゃ満載",
+   "summary": "個人開発者のLEMORION氏は10月28日、「Indie World 2026.10.28」にて『めっちゃカメレオン』の無料大型アップデートを発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476212-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-28T23:34:42+09:00"
+  },
+  {
+   "id": "773bd0b022f7a0ba",
+   "url": "https://www.4gamer.net/games/753/G075368/20261028053/",
+   "title": "廻屋やあざみたちの未公開シーンを鑑賞できるギャラリーを収録する「都市伝説解体センター Nintendo Switch 2 Edition」，本日配信",
+   "summary": "2026年10月28日配信の「IndieWorld2026.10.28」にて，集英社ゲームズは「都市伝説解体センターNintendoSwitch2Edition」を発表した。廻屋やあざみたちの未公開シーンを鑑賞できるギャラリー機能を新たに収録し，放送終了後に配信を開始する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-28T23:32:20+09:00"
+  },
+  {
+   "id": "928a4d96c9d43166",
+   "url": "https://www.4gamer.net/games/841/G084126/20261028052/",
+   "title": "BMXに乗ったタヌキの夏休み！ アクションADV「TANUKI: Pon's Summer - タヌキ：ポンの夏」の配信日が11月10日に決定",
+   "summary": "CRITICALREFLEXは本日（2026年10月28日），インディーゲーム紹介番組「IndieWorld2026.10.28」にて，「TANUKI:Pon'sSummer-タヌキ：ポンの夏」の配信日が11月10日に決定したと発表した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-28T23:28:34+09:00"
+  },
+  {
+   "id": "af9339b218747538",
+   "url": "https://automaton-media.com/articles/newsjp/20261028-476203/",
+   "title": "『The Witness』開発者の新作パズル『Order of the Sinking Star』PS5/Switch 2版突然配信。Steamで「圧倒的好評」の1000問超えパズル地獄",
+   "summary": "任天堂は10月28日、パズルアドベンチャーゲーム『Order of the Sinking Star』を番組終了後に配信開始すると案内した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476203-header.jpeg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-28T23:27:05+09:00"
+  },
+  {
+   "id": "2f4b7c6a6b9e7263",
+   "url": "https://automaton-media.com/articles/newsjp/20261028-476201/",
+   "title": "人気協力ホラー『R.E.P.O.』Nintendo Switch 2版発表。Steamでの大人気作がまたしてもSwitch 2に",
+   "summary": "デベロッパーのsemiworkは10月28日、『R.E.P.O.』のNintendo Switch 2版を発表した。2027年発売予定。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476201-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-28T23:24:54+09:00"
+  },
+  {
+   "id": "a6d20ab65f44ee72",
+   "url": "https://automaton-media.com/articles/newsjp/20261028-476151/",
+   "title": "パンツ1枚あればいい、注目の異界裸おっさんローグライト『ゲンナジー』配信開始。全コマ手描きで無駄にぬるぬる、ブチギレ暴走中年",
+   "summary": "Feed 64は10月28日、ローグライトアクションゲーム『Gennady（ゲンナジー）』を配信した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476151-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-28T23:00:02+09:00"
+  },
   {
    "id": "cc16d7b001d657af",
    "url": "https://www.4gamer.net/games/817/G081722/20261028047/",
@@ -1588,94 +1775,6 @@
    "published": "2026-10-26T20:00:00+09:00"
   },
   {
-   "id": "c27c44defcb96409",
-   "url": "https://www.4gamer.net/games/006/G100681/20261026048/",
-   "title": "60秒のタイムループに巻き込まれた男が密室からの脱出を目指すホラーゲーム「60病」，Steamでリリース",
-   "summary": "マトリックスは本日（2026年10月26日），PC向け新作タイトル「60病」をSteamでリリースした。価格は680円（税込）。本作は，わずか60秒のタイムループに巻き込まれた男が，密室からの脱出を目指すホラーゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-26T19:43:55+09:00"
-  },
-  {
-   "id": "a176ec2f138e6159",
-   "url": "https://www.4gamer.net/games/053/G105308/20261026044/",
-   "title": "カラフルな電脳世界が問う，AIたちの“ココロ”とは？ ビジュアルプログラミングがモチーフのパズルアクション「Re:Connect」",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-26T19:41:51+09:00"
-  },
-  {
-   "id": "0f30e65a807b4dbc",
-   "url": "https://www.4gamer.net/games/053/G105309/20261026047/",
-   "title": "3つのモードで故郷に食糧を送り出す。「FANTASTIC JUNCTION」でユルくてハマるサバイバル生活！",
-   "summary": "インディーゲーム展示会「DREAMSCAPE#5」に，STUDIOえんが「FANTASTICJUNCTION」を出展していた。本作は“星を旅するchill-popサバイバル”。主人公は故郷のために過酷な惑星探査に挑むのだが，なんだかビジュアルがユルい……！",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-26T19:33:38+09:00"
-  },
-  {
-   "id": "630224582eb26e22",
-   "url": "https://www.4gamer.net/games/345/G034579/20261026045/",
-   "title": "「Fallout Shelter」を題材にしたリアリティーショー番組「Fallout Shelter: The Experiment」，2027年1月13日から配信決定",
-   "summary": "Amazonは2026年10月24日，プライム会員向けのサービス「PrimeVideo」にて，「FalloutShelter」を題材にしたリアリティーショー番組「FalloutShelter:TheExperiment」を，2027年1月13日から配信すると発表した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-26T19:26:35+09:00"
-  },
-  {
-   "id": "be0800138ecce24f",
-   "url": "https://www.4gamer.net/games/053/G105307/20261026043/",
-   "title": "ユニークなパズルアクション「表面迷宮 くるまぶ」。立体の上に貼り付けられた2Dの迷宮を，あちらの面からこちらの面へと多脚メカで走破する",
-   "summary": "インディーゲームイベント「DREAMSCAPE#5」に出展されたパズルアクション「SurfaceLabyrinthKURUMABU（表面迷宮くるまぶ）」のインプレッションをお届け。サイコロのような立体の表面に作られた迷宮を，クモのような多脚メカで突破していく。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-26T19:24:32+09:00"
-  },
-  {
-   "id": "5b4aa068a6c4d514",
-   "url": "https://www.4gamer.net/games/041/G104129/20261026028/",
-   "title": "「ロマンシング サガ3 デスティニーユナイテッド」，登場キャラクター，ゲームシステム，バトルにフォーカスした最新情報が一挙公開に",
-   "summary": "スクウェア・エニックスは本日（2026年10月26日），RPG「ロマンシングサガ3デスティニーユナイテッド」について，「キャラクター」「ゲームシステム」「バトル」にフォーカスした情報を公開した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-26T19:00:00+09:00"
-  },
-  {
-   "id": "b5628752ffd4646e",
-   "url": "https://www.4gamer.net/games/476/G047609/20261026042/",
-   "title": "「プロセカ」，リズムゲーム楽曲「ディスコティックブルー」を追加",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-26T18:50:38+09:00"
-  },
-  {
-   "id": "4f3bad51a4154721",
-   "url": "https://www.4gamer.net/games/990/G999027/20261026038/",
-   "title": "PlayStationアカウントに無許可で第三者が子供アカウントを作れてしまう問題が発生中",
-   "summary": "PS5/4でのゲームプレイやPlayStationNetworkの利用に欠かせない「PlayStationアカウント」で，承認していない「子供アカウント」を何者かに作成されたという報告が，「X」上で相次いでいる。ログイン認証を回避して，第三者が子供アカウントを作れてしまうようだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-26T18:48:44+09:00"
-  },
-  {
    "id": "c5ffb1aa481222ce",
    "url": "https://automaton-media.com/articles/newsjp/20261026-475685/",
    "title": "カフカの不条理小説が“倉庫番風ゲーム”化、『贋作・掟の門（習作）』Steamで無料配信中。遊べるアート",
@@ -2103,105 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-23T21:02:15+09:00"
-  },
-  {
-   "id": "4a83570468f5d854",
-   "url": "https://automaton-media.com/videos/20261023-475281/",
-   "title": "【動画】Steam列車暴走ローグライト『トロッコ問題は、問題じゃない。』早期アクセス配信開始。育てた列車で巨大ボスに突撃",
-   "summary": "個人開発者のsoyukke氏は『トロッコ問題は、問題じゃない。』の早期アクセスを開始した。 ・トロッコ問題を題材としたローグライトゲーム・線路の上のものに積極的にぶつかっていこう・複線ドリフトでまとめて轢くことも可能！・ […]",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/S_VrElLxj4M.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-23T20:50:57+09:00"
-  },
-  {
-   "id": "1c4cc0bedce57bf2",
-   "url": "https://automaton-media.com/videos/20261023-475279/",
-   "title": "【動画】Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲良く雑談、“後方腕組み観戦”もできる",
-   "summary": "デベロッパーのPart Time Monkeyが10月5日にリリースしたアクションゲーム『Jono』が、改めて注目を集めている。 ・シンプルな2Dのジャンプアクションゲーム・ただしプレイできるのは、世界でひとりだけ・ほか […]",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/qydinupIK3c.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-23T20:48:41+09:00"
-  },
-  {
-   "id": "96f8d66bda25af77",
-   "url": "https://automaton-media.com/videos/20261023-475276/",
-   "title": "【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士とドリフト、乗客を300m先まで吹っ飛ばす“自由奔放”ドライブアクション",
-   "summary": "本動画では、『クレイジータクシー：ワールドツアー』の先行プレイ映像をお届けします。『クレイジータクシー：ワールドツアー』は、PS5/Xbox Series X|S/Nintendo Switch 2/PC向けに2027年 […]",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/tlZYnRq5NfI.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-23T20:46:24+09:00"
-  },
-  {
-   "id": "57fc2849a67dae53",
-   "url": "https://automaton-media.com/videos/20261023-475274/",
-   "title": "【動画】『ファイナルファンタジーVII リベレーション』先行プレイ映像。シド＆ヴィンセント参戦の新バトル、飛空艇で世界を自由に飛び回る高密度フィールドも体験",
-   "summary": "本動画では、『ファイナルファンタジーVII リベレーション』の先行プレイ映像をお届けします。『ファイナルファンタジーVII リベレーション』は、PS5/Xbox Series X|S/Nintendo Switch 2/ […]",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/Vw28ldS_P04.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-23T20:44:31+09:00"
-  },
-  {
-   "id": "5fe813c37574d169",
-   "url": "https://automaton-media.com/articles/newsjp/20261023-475207/",
-   "title": "『Call of Duty: Modern Warfare 4』、Steamで「非常に好評」の大盛況。新作はキャンペーンがアツい、新米兵士とプライス大尉が世界の戦場を駆けるド派手銃撃戦",
-   "summary": "Activisionは10月23日、『Call of Duty: Modern Warfare 4』（以下、CoD: MW4）を発売した。対応プラットフォームはPC（Steam/Microsoft Store/Battl […]",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475207-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-23T20:40:38+09:00"
-  },
-  {
-   "id": "74d9f447c9c76bd3",
-   "url": "https://automaton-media.com/videos/20261023-475261/",
-   "title": "【動画】『鳴潮』Ver.3.7新キャラ映像がこっそりお披露目。狐のお姉さん「心」は妖艶、傘少女「サメイ」はグルグル回る",
-   "summary": "『鳴潮』Ver.3.7の新キャラクター実機映像がこっそり先行公開された。 『鳴潮』はiOS/Android/PS5/XBOX Series X|S/PC（Windows/Steam/Epic Gamesストア/Mac A […]",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/S1zBnId0adw.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-23T20:35:33+09:00"
-  },
-  {
-   "id": "37c84f51d5400c92",
-   "url": "https://automaton-media.com/articles/newsjp/20261023-475245/",
-   "title": "マイクロソフトによる「シェーダーコンパイル要らず」の新技術、ついにNVIDIAグラボ向けに解禁。ゲーム起動時の“あの待ち時間”とおさらば",
-   "summary": "Microsoftは10月21日、同社が提供するシェーダー配信技術「Advanced Shader Delivery」の対応ハードウェアを拡大したことを発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475245-004.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-23T20:24:29+09:00"
-  },
-  {
-   "id": "dde848304e1fada0",
-   "url": "https://automaton-media.com/articles/newsjp/20261023-475236/",
-   "title": "『マーベル ウルヴァリン』が米国で爆売れ、SIE作品では『ヘルダイバー2』以来の大ヒットに。PS5本体の売上増にも寄与か",
-   "summary": "ソニー・インタラクティブエンタテインメントの作品として『HELLDIVERS 2』以来最高の発売初月売り上げを記録したという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475236-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-23T20:01:15+09:00"
-  },
-  {
-   "id": "b849010180f661c2",
-   "url": "https://automaton-media.com/articles/newsjp/20261023-475229/",
-   "title": "最大3人マルチ対応ローグライトアクション『Windblown』正式リリース前の最後の大型アプデ「0.9999999」配信。ギリギリ早期アクセス",
-   "summary": "Motion Twinは10月23日、ローグライトアクションゲーム『Windblown』向けに最新大型アップデートを配信した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-4752290-header.jpeg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-23T19:49:06+09:00"
   }
  ]
 }
