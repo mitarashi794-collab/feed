@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T00:59:32+09:00",
+ "generated_at": "2026-10-31T05:51:34+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "917894cf1eb9726b",
+   "url": "https://www.4gamer.net/games/054/G105471/20261031004/",
+   "title": "「日本事故物件監視協会4」の発売日が2027年2月10日に決定。これを記念して，過去3作品のセールも開始",
+   "summary": "日本事故物件監視協会（JSP）は2026年10月30日，「日本事故物件監視協会」シリーズの最新作「日本事故物件監視協会4」を2027年2月10日に発売すると発表した。これを記念して，発売中のシリーズ3作品を15〜20％オフで販売するセールも開始している。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-31T03:39:19+09:00"
+  },
+  {
+   "id": "4be3f0075c78b0ae",
+   "url": "https://www.4gamer.net/games/916/G091625/20261031003/",
+   "title": "「マーベル闘魂」，DLC第1弾「フェニックス・サイクロップス」ガイド動画を公開。オプティック・ブラストとフェニックスの火力で敵を焼き尽くせ！",
+   "summary": "ソニー・インタラクティブエンタテインメントは本日（2026年10月31日），対戦格闘ゲーム「MARVELTōkon:FightingSouls」で，11月2日にリリース予定のDLCキャラクター第1弾「フェニックス・サイクロップス」を紹介するキャラクターガイド動画を公開した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-31T02:07:20+09:00"
+  },
+  {
+   "id": "586fc849bc815b10",
+   "url": "https://www.4gamer.net/games/966/G096640/20261029057/",
+   "title": "「キングスフィールド」から強い影響を受けたレトロファンタジーアクションRPG「Queen's Domain」，本日発売",
+   "summary": "FutureFriendsGamesとFreshlyBakedGamesは2026年10月31日，新作「Queen'sDomain」を発売する。対応機種はPC（Steam），Switch2，PS5，XBOXSeriesX|Sだ。本作は，聖剣「Endu」を駆使した移動アクションが特徴のレトロファンタジーアクションRPGだ。開発にあたって「キングスフィールド」から強い影響を受けたという。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-31T02:00:00+09:00"
+  },
   {
    "id": "d03f8fd18e666078",
    "url": "https://www.4gamer.net/games/402/G040245/20261031002/",
@@ -1742,28 +1775,6 @@
    "published": "2026-10-29T00:00:10+09:00"
   },
   {
-   "id": "c340614e4668e6bb",
-   "url": "https://www.4gamer.net/games/895/G089563/20261028055/",
-   "title": "海辺の魔法学校で，新生活を満喫するシミュレータ「Witchbrook」，2027年1月28日に発売決定",
-   "summary": "本日配信の「IndieWorld2026.10.28」にて，Robotalityが手掛ける魔法学校生活シミュレーション「Witchbrook」の発売日が2027年1月28日に決定した。海辺の街にある魔法学校で，授業やアルバイトなどをこなしながら，自由な学校生活を楽しめる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-28T23:51:50+09:00"
-  },
-  {
-   "id": "bc1493c7247f67b1",
-   "url": "https://www.4gamer.net/games/005/G100594/20261028054/",
-   "title": "TRPGなど卓上ゲームがSwitch2で手軽に遊べる！ 「テーブルゲームワールド CCFOLIA」の配信日が11月10日に決定",
-   "summary": "ココフォリアは本日（2026年10月28日），インディーゲーム紹介番組「IndieWorld2026.10.28」にて，NintendoSwitch2用ソフト「テーブルゲームワールドCCFOLIA」の配信日が11月10日に決定したと発表した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-28T23:47:27+09:00"
-  },
-  {
    "id": "84cb07d62863b352",
    "url": "https://automaton-media.com/articles/newsjp/witchbrook-20261028-476222/",
    "title": "“開発10年”かかった魔法学校生活シム『Witchbrook』来年1月28日発売へ。最大4人マルチ、延期重ねた期待作がついに出る",
@@ -1795,17 +1806,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-28T23:34:42+09:00"
-  },
-  {
-   "id": "773bd0b022f7a0ba",
-   "url": "https://www.4gamer.net/games/753/G075368/20261028053/",
-   "title": "廻屋やあざみたちの未公開シーンを鑑賞できるギャラリーを収録する「都市伝説解体センター Nintendo Switch 2 Edition」，本日配信",
-   "summary": "2026年10月28日配信の「IndieWorld2026.10.28」にて，集英社ゲームズは「都市伝説解体センターNintendoSwitch2Edition」を発表した。廻屋やあざみたちの未公開シーンを鑑賞できるギャラリー機能を新たに収録し，放送終了後に配信を開始する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-28T23:32:20+09:00"
   },
   {
    "id": "af9339b218747538",
