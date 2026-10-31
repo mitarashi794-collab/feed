@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T16:03:38+09:00",
+ "generated_at": "2026-10-31T22:41:53+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "019ad8b21f083bf2",
+   "url": "https://www.4gamer.net/games/010/G101096/20261030034/",
+   "title": "「地獄降輪」，AGF2026出展情報をまとめて紹介。特典お渡し会で野上 翔さん，沢城千春さん，益山武明さんに会える",
+   "summary": "別府市公営事業局は本日（2026年10月31日），IPプロジェクト「地獄降輪（じごくこうりん）」について，11月7日と8日に池袋・サンシャインシティで開催される「アニメイトガールズフェスティバル2026（AGF2026）」の出展情報をまとめて紹介した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-31T21:00:00+09:00"
+  },
+  {
+   "id": "31a8232875dd69e2",
+   "url": "https://automaton-media.com/articles/newsjp/20261031-476924/",
+   "title": "PS5/PC・話題の大作『Phantom Blade Zero』、「武器の“弾き音”フェチ」から謎の脚光浴びる。爆音カキィン愛好会",
+   "summary": "『Phantom Blade Zero』にて、一風変わったオプション設定のアドバイスが話題になっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261031-476924-header-1.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-31T19:03:31+09:00"
+  },
+  {
+   "id": "ed04e9ad0d757f5c",
+   "url": "https://automaton-media.com/articles/newsjp/20261031-476949/",
+   "title": "『プロセカ』のColorful Paletteがアニメ制作スタジオ「LATENT ONE」を設立。さっそく『プロセカ』6周年アニバーサリーソングMVをお披露目",
+   "summary": "『プロセカ』を手がけるColorful Paletteは10月31日、子会社「株式会社LATENT ONE」を設立したと発表した。アニメーションの企画・制作およびプロデュースをおこなうといい、早速MVがお披露目されている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261031-476949-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-31T18:35:23+09:00"
+  },
+  {
+   "id": "e9c31801c910d6a6",
+   "url": "https://www.4gamer.net/games/038/G003821/20261031007/",
+   "title": "週刊Steam広場 第177号：サイバーパンクな売店シム「Probably Stolen」や，キャンピングカーサバイバル「Nomad Drive」が発売に",
+   "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，サイバーパンクな店舗経営シミュレーション「ProbablyStolen」や，キャンピングカーでのサバイバルゲーム「NomadDrive」が発売された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-31T18:00:00+09:00"
+  },
+  {
+   "id": "e7a86c8d77cb0218",
+   "url": "https://automaton-media.com/articles/newsjp/20261031-476916/",
+   "title": "BioWare閉鎖は「EAが『STAR WARS バトルフロント』の新作を優先したから」との関係者証言。「新作不振続き」もあってか、『Mass Effect』新作は幻に",
+   "summary": "BioWareの閉鎖の背景には、EAが『STAR WARS バトルフロント』シリーズの新作を優先した判断があったという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261031-476916-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-31T17:32:27+09:00"
+  },
+  {
+   "id": "293849d8e7259a0b",
+   "url": "https://automaton-media.com/articles/newsjp/20261031-476929/",
+   "title": "『ぽこ あ ポケモン』で「イオンモール」を建築したユーザーが登場。素材もちゃんと集められる、実利&景観両立“まっさらな街店”",
+   "summary": "『ぽこ あ ポケモン』にて、イオンモールを建築したユーザーが登場したという。弊誌は作者のデネネ氏に話をうかがった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261031-476929-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-10-31T16:52:34+09:00"
+  },
   {
    "id": "b56d00e59c4f957e",
    "url": "https://automaton-media.com/articles/newsjp/graveyard-keeper-2-20261031-476908/",
@@ -1764,28 +1830,6 @@
    "published": "2026-10-29T12:00:01+09:00"
   },
   {
-   "id": "39914b2427f67132",
-   "url": "https://www.4gamer.net/games/053/G105393/20261029008/",
-   "title": "学園SF×ボールスポーツのボスラッシュアクション「BAKUDO」，Switch2版を発表。学園生活や強敵とのバトルを描く新トレイラーも公開",
-   "summary": "集英社ゲームズは，学園SFとボールスポーツを融合させたボスラッシュアクション「BAKUDO」のSwitch2版を発表した。本作は，少女ユーリアが10日以内に学園の頂点「澈日八星」を打ち破る試練に挑む作品だ。学園生活や強敵とのバトルを描く新トレイラーのほか，キービジュアル，主要キャラクター3人の情報も公開された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T11:05:39+09:00"
-  },
-  {
-   "id": "c3f81b40cecf2fd6",
-   "url": "https://www.4gamer.net/games/667/G066758/20261022012/",
-   "title": "「モンスターハンターアウトランダーズ」1ボタンで武器種の魅力を引き出す，野心作のモバイル向けモンハン［プレイレポ］",
-   "summary": "「モンスターハンターアウトランダーズ」のプレイレポートをお届けしよう。2026年10月29日に配信を開始した本作は，快適なタッチパネル操作で，オープンフィールド探索とモンスター狩猟を存分に楽しめる，新たなモバイル向けモンハンだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T11:00:00+09:00"
-  },
-  {
    "id": "ca3b4d198c99f77c",
    "url": "https://automaton-media.com/articles/newsjp/20261029-476291/",
    "title": "『マインクラフト』アプデで水上移動に革命起きる。「氷渡り」化サルファーキューブを殴って“ヒエヒエ爆速航海”",
@@ -2158,50 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-28T11:34:59+09:00"
-  },
-  {
-   "id": "f1f278f0d21264f3",
-   "url": "https://automaton-media.com/articles/newsjp/20261027-475938/",
-   "title": "『マインクラフト』で“スイス全土”を完全再現した人現る。アルプス山脈も氷河も原寸大、高さ4000ブロック超の絶景",
-   "summary": "スイス連邦工科大学の学生であるManifold氏は10月19日、スイス全土を実物大で『マインクラフト』内に再現したマップを公開した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261027-475938-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T10:53:16+09:00"
-  },
-  {
-   "id": "ea7189f4d87e4342",
-   "url": "https://automaton-media.com/articles/newsjp/20261028-475993/",
-   "title": "Discord、人気公開サーバー内の投稿が「Web上に公開される」新仕様発表。FAQや告知などが“掲示板”化、サーバー参加しなくても読める",
-   "summary": "Discordで、1000人以上メンバーがいる大規模サーバーについて、12月半ばより公開チャンネルのメッセージがWeb上でも確認できるようになるようだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/07/20260707-453640-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T10:08:17+09:00"
-  },
-  {
-   "id": "b84065ea6bb49861",
-   "url": "https://automaton-media.com/articles/newsjp/20261028-475987/",
-   "title": "アクション重視・開拓MMORPG『ArcheAge Chronicles』11月4日早期アクセス配信へ。戦闘狂でも脇道にそれまくってもな自由オープンワールド",
-   "summary": "XLGAMESは10月28日、『ArcheAge Chronicles』を日本時間11月4日に早期アクセス配信すると発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-475987-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T09:35:44+09:00"
-  },
-  {
-   "id": "8f45b26ebcc67e5f",
-   "url": "https://automaton-media.com/articles/newsjp/20261028-475981/",
-   "title": "新作放置型RPG『デスティニーチャイルド：アッセンブル』発表。『デスティニーチャイルド』サ終から約3年、“黄泉の花”とともに再び花開く",
-   "summary": "Com2uS Japanは10月27日、『デスティニーチャイルド：アッセンブル』を発表した。SHIFT UPの手がけた『デスティニーチャイルド』をもとに、放置型RPGとして蘇るようだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-475981-header-1.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T09:07:20+09:00"
   }
  ]
 }
