@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T22:41:53+09:00",
+ "generated_at": "2026-11-01T03:37:05+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "18e669fe78a78783",
+   "url": "https://www.4gamer.net/games/040/G104087/20261031013/",
+   "title": "セーブデータを引き継げるSwitch 2版「ピクミン4」の体験版が11月2日に配信開始",
+   "summary": "2026年10月31日，任天堂は，宮本茂氏が出演する動画「PikminDayDirect」を公開。同社が毎年11月1日を「ピクミンデー」と定めたことと，11月12日に発売予定の「ピクミン4NintendoSwitch2Edition+だれでもチャレンジ!ダンドリ検定」の体験版を，11月2日に配信することが発表された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-31T23:39:38+09:00"
+  },
   {
    "id": "019ad8b21f083bf2",
    "url": "https://www.4gamer.net/games/010/G101096/20261030034/",
@@ -1696,17 +1707,6 @@
    "source_id": "4gamer",
    "category": "news",
    "published": "2026-10-29T14:29:52+09:00"
-  },
-  {
-   "id": "ed0f5f61daf63e94",
-   "url": "https://www.4gamer.net/games/054/G105404/20261029025/",
-   "title": "絵を描くことが禁止された未来世界で，絵を描いて革命を起こす。AI×お絵描き×ノベルゲーム「愛よさらば」，Steam版は2027年春に登場",
-   "summary": "UZZは2026年10月28日，AI×お絵描き×ノベルゲーム「愛よさらば」のSteamストアページと公式PVを公開した。Steam版は2027年春のリリースを予定している。絵を描くことが禁止された世界で，絵を描いて革命を起こす作品だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T14:27:54+09:00"
   },
   {
    "id": "99a330ec9c459108",
