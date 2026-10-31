@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T05:51:34+09:00",
+ "generated_at": "2026-10-31T09:52:21+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "ff8d5b78a5b9654e",
+   "url": "https://www.4gamer.net/games/759/G075951/20261030045/",
+   "title": "コジマプロダクション10周年展「BEYOND THE STRAND」が本日開幕。小島秀夫監督の創作の原点から新作「OD」まで，その展示内容を紹介",
+   "summary": "コジマプロダクションの設立10周年を記念する展覧会「BEYONDTHESTRAND：創造と挑戦の航路」が，本日10月31日，東京・麻布台ヒルズギャラリーで開幕した。小島秀夫監督の創作の原点から新作「OD-KNOCK」までをたどる展示を，前日のメディア内覧会から紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-31T09:00:00+09:00"
+  },
+  {
+   "id": "0aa29240200a2d58",
+   "url": "https://www.4gamer.net/games/991/G999110/20261020027/",
+   "title": "愛とアイデアにあふれたドット絵作品が「Pixel Art Park 9」に集結。ドット絵は懐かしいものではなく，いま現在も盛り上がっているカルチャーだ！",
+   "summary": "日本最大級のドット絵の祭典「PixelArtPark9」が10月11日にパシフィコ横浜にて開催された。ドット絵アーティストたちが集まってグッズやゲームの展示，さらにはチップチューンのライブまで楽しめる催しだ。幅広い年齢層の人々が来場していた会場で，気になったブースを紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-31T09:00:00+09:00"
+  },
+  {
+   "id": "bfc5c06b04f29f22",
+   "url": "https://www.4gamer.net/games/925/G092590/20261031008/",
+   "title": "「ウィッチャー3」がこんなに面白いってもっと早く知りたかった。リマスター版で知った色あせない名作の魅力【放課後れびゅあーず！】",
+   "summary": "発売から11年，ついに「ウィッチャー3」デビューを遂げた穂香。泥臭い人間ドラマ，正解のない選択，そして尽きない寄り道と，リマスターで名作RPGを堪能するも，その印象は思っていたものと違ったようで……？ 今回の「放課後れびゅあーず！」では「ウィッチャー3ワイルドハントリマスター」を紹介。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-10-31T09:00:00+09:00"
+  },
   {
    "id": "917894cf1eb9726b",
    "url": "https://www.4gamer.net/games/054/G105471/20261031004/",
@@ -1729,39 +1762,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-29T00:41:20+09:00"
-  },
-  {
-   "id": "fafc2da80b2feb9c",
-   "url": "https://www.4gamer.net/games/040/G104090/20261029003/",
-   "title": "「めっちゃカメレオン」，無料アップデート配信開始。新モード「チーム戦」に加え，新ステージや新ボディを追加",
-   "summary": "個人ゲーム開発者のLEMORION氏は2026年10月28日，お絵かきかくれんぼゲーム「めっちゃカメレオン」の無料アップデートを配信した。最大24人で遊べる新モード「チーム戦」に加え，新ステージや新ボディタイプが追加されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T00:39:15+09:00"
-  },
-  {
-   "id": "52ae469eb5714913",
-   "url": "https://www.4gamer.net/games/053/G105389/20261029002/",
-   "title": "狐の少女と蛙が不気味な島を彷徨う。「狐ト蛙ノ旅 アダシノ島のコトロ鬼」がSwitch2 / Switch向けに2027年春に配信決定",
-   "summary": "room6とヨカゼは2026年10月28日，インディーゲーム紹介番組「IndieWorld2026.10.28」にて，「狐ト蛙ノ旅アダシノ島のコトロ鬼」をNintendoSwitch2/NintendoSwitch向けに2027年春に配信すると発表した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T00:23:45+09:00"
-  },
-  {
-   "id": "62605f823a52dc34",
-   "url": "https://www.4gamer.net/games/901/G090155/20261029001/",
-   "title": "ノルマを達成するまで，怪物だらけの廃墟でお宝さがし。オンライン協力型ホラーゲーム「R.E.P.O. 」（レポ），Nintendo Switch 2版は2027年発売",
-   "summary": "semiworkは2026年10月28日，インディーゲーム情報番組「IndieWorld2026.10.28」にて，オンライン協力型ホラーゲーム「R.E.P.O.」（レポ）のNintendoSwitch2版を2027年に発売すると発表した。怪物が徘徊する廃墟でお宝を集め，ノルマ達成を目指す協力型タイトルだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T00:11:17+09:00"
   },
   {
    "id": "fca0164454b85d60",
