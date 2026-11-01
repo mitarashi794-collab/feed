@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-01T19:35:37+09:00",
+ "generated_at": "2026-11-02T02:09:52+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "9c5e7dba38b71d16",
+   "url": "https://www.4gamer.net/games/916/G091623/20261027003/",
+   "title": "十数年ぶりにインディーへ“帰還”したグラスホッパー・マニファクチュア。須田剛一氏が語る独立の経緯とゲーム作りの考え，“面白いこと”への意欲",
+   "summary": "グラスホッパー・マニファクチュアが再独立。“インディーゲーム”という言葉が使われる前から独自性のあるゲームを送り出してきた同スタジオは，十数年ぶりの独立で何を目指すのだろうか。代表の須田剛一氏に話を聞いた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-02T00:00:00+09:00"
+  },
   {
    "id": "431b02f9e59cfc83",
    "url": "https://automaton-media.com/articles/now-gaming/20261101-477034/",
@@ -1762,17 +1773,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-29T17:02:47+09:00"
-  },
-  {
-   "id": "9e9508beb89aa3af",
-   "url": "https://www.4gamer.net/games/999/G999905/20261029034/",
-   "title": "60年前のクレーンゲーム機「クラウン603」が稼働可能な状態でお披露目に。復元に成功したタイトーの技術部門「TAITO TECH」とは，どんな組織なのか",
-   "summary": "タイトーは10月29日，約60年前のクレーンゲーム機「クラウン603」を，完全に稼働する状態に復元したと発表した。本稿では，復元された実機のお披露目とともに，作業を手がけた技術部門「TAITOTECH」の取り組みが紹介されたメディア向け説明会の模様をお伝えする。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T16:58:16+09:00"
   },
   {
    "id": "ba19aa6cba9fb2bc",
