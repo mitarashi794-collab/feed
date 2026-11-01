@@ -1,8 +1,52 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-01T07:33:01+09:00",
+ "generated_at": "2026-11-01T11:18:28+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "88782d4590df65c0",
+   "url": "https://automaton-media.com/articles/newsjp/20261101-476977/",
+   "title": "Nintendo Switch 2・協力型パズルパーティーゲーム『みんなで探せ！マドリカ不動産の出口』発表。紙と“仲間”も準備して、息をあわせる間取り作成パズル",
+   "summary": "ギフトテンインダストリは10月31日、協力型パズルパーティーゲーム『みんなで探せ！マドリカ不動産の出口』を発表した。本作は『マドリカ不動産』シリーズの最新作で、複数人で協力して謎を解くパズルゲームとなっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-476977-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-01T11:13:55+09:00"
+  },
+  {
+   "id": "3211129ed4850707",
+   "url": "https://automaton-media.com/articles/newsjp/20261101-476972/",
+   "title": "対戦カードバトル『ゴッドフィールド』にて、“19年間誰も気づかなかった”誤字アイテムが見つかる。ステルス誤字",
+   "summary": "『ゴッドフィールド』の開発者グウジ氏は、同作内に“19年間”そのままだった誤字があると明かした。近日中に修正予定とのことだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-476972-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-01T09:46:13+09:00"
+  },
+  {
+   "id": "de7e39f36405fe9f",
+   "url": "https://www.4gamer.net/games/199/G019924/20261101002/",
+   "title": "「FFXIV：白銀のワンダラー」吉田直樹氏への合同インタビューを掲載。物語のテンポ感から新ジョブ「ゼファー」，レイド改革の狙いまでを聞いた",
+   "summary": "10月31日と11月1日に幕張メッセで開催されている「ファイナルファンタジーXIVファンフェスティバル2026in東京」にて，プロデューサー兼ディレクターの吉田直樹氏へのメディア合同インタビューが実施された。基調講演で明かされた数々の新要素について，さらに一歩踏み込んだ話をお届けする。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-01T09:00:00+09:00"
+  },
+  {
+   "id": "83756ee41d655f98",
+   "url": "https://www.4gamer.net/games/199/G019924/20261101001/",
+   "title": "“零式”の報酬からロットが廃止され，個人宝箱からの入手へ。「FFXIV：白銀のワンダラー」の最新情報が公開された“東京ファンフェス”基調講演レポート",
+   "summary": "スクウェア・エニックスは，2026年10月31日と11月1日に千葉・幕張メッセで「ファイナルファンタジーXIVファンフェスティバル2026in東京」を開催中だ。本稿では，次期拡張パッケージ「白銀のワンダラー」の最新情報が紹介されたプロデューサー兼ディレクター吉田直樹氏による基調講演の模様をレポートしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-01T08:00:00+09:00"
+  },
   {
    "id": "18e669fe78a78783",
    "url": "https://www.4gamer.net/games/040/G104087/20261031013/",
@@ -1687,28 +1731,6 @@
    "published": "2026-10-29T15:19:16+09:00"
   },
   {
-   "id": "7d71a95dd70bb462",
-   "url": "https://www.4gamer.net/games/022/G102226/20261029021/",
-   "title": "麻雀ゲーム「ぎゅわんぶらあ自己中心派 ドランプ帝国をわからせろ！」，発売日が11月19日に決定。原作者の片山まさゆき氏が脚本を担当",
-   "summary": "サクセスは本日，NintendoSwitch向けダウンロードソフト「ぎゅわんぶらあ自己中心派ドランプ帝国をわからせろ！」の発売日が11月19日に決定したと発表した。本作は，片山まさゆき氏の漫画「ぎゅわんぶらあ自己中心派」を原作とする麻雀ゲームシリーズの最新作だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T14:54:44+09:00"
-  },
-  {
-   "id": "146be27e4479f717",
-   "url": "https://www.4gamer.net/games/010/G101087/20261029023/",
-   "title": "「CoD: Modern Warfare 4」「CoD: Warzone」のシーズン1が11月7日に開幕。新マップや武器が多数追加され，DMZには謎の秘密施設「X01」が登場",
-   "summary": "Activisionは，「CallofDuty:ModernWarfare4」と「CallofDuty:Warzone」のシーズン1を日本時間11月7日に開始すると発表した。マルチプレイには新マップが6種類以上と新モード，DMZには秘密施設「X01」が登場。「Warzone」にも新マップが2種類加わる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T14:29:52+09:00"
-  },
-  {
    "id": "99a330ec9c459108",
    "url": "https://automaton-media.com/articles/newsjp/20261029-476396/",
    "title": "基本プレイ無料SRPG×SLG『三國志 戦棋版』、『ファイナルファンタジータクティクス – イヴァリース クロニクルズ』とのコラボ決定。異なる2つの世界が盤上で交わる",
@@ -2180,28 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-28T12:30:22+09:00"
-  },
-  {
-   "id": "1801f36ce56b0b5a",
-   "url": "https://automaton-media.com/articles/interviewsjp/hono-20261028-476010/",
-   "title": "『ほの暮しの庭』ネタバレあり開発者インタビュー。エンディングの意図は？高好感度のあのイベントの意図は？雷雨の確率は？怪異は今後増える？ いっぱい訊いた",
-   "summary": "本稿は後編にあたり、作品のネタバレを含む内容となっている。プレイ中の方や未プレイの方は注意してほしい。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/honogurashi-interview2-01.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T12:01:16+09:00"
-  },
-  {
-   "id": "53d6a1ead393c3b8",
-   "url": "https://automaton-media.com/articles/newsjp/20261028-476001/",
-   "title": "基本プレイ無料『クリスタル・オブ・アトラン』に「攻殻機動隊S.A.C.」コラボ大型アプデが本日配信。草薙素子がちびキャラ化、自律戦車「タチコマ」にも乗れるし“4人対戦モード”まで",
-   "summary": "パブリッシャーのNuverseは10月28日、『クリスタル・オブ・アトラン』にてアニメ「攻殻機動隊 STAND ALONE COMPLEX」とのコラボレーションを配信する。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476001-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T11:34:59+09:00"
   }
  ]
 }
