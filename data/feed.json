@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T06:14:00+09:00",
+ "generated_at": "2026-11-02T09:52:11+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "8239adc9e480ba0d",
+   "url": "https://www.4gamer.net/games/036/G003691/20261030033/",
+   "title": "Access Accepted第877回：AI革命にフルベットするEpic Gamesの新戦略とジレンマ",
+   "summary": "EpicGamesは生成AIを全面的に活用する「AIファースト」の開発体制へと舵を切っている。一方で，AIを用いた既存ゲームの無断複製問題なども浮上しており，著作権への対応も迫られている。EpicGamesが描く未来と，そのジレンマを追う。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-02T09:00:00+09:00"
+  },
+  {
+   "id": "c93ddb2c9ad41d0c",
+   "url": "https://www.4gamer.net/games/954/G095479/20261031009/",
+   "title": "【今週のモチベ】リメイク版「ゼルダの伝説 時のオカリナ」が発売される 2026年11月2日〜11月8日",
+   "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，NintendoSwitch2向けにフルリメイクされた「ゼルダの伝説時のオカリナ」や，「ArcheAge」の約50年後の世界を描く「ArcheAgeChronicles」が発売される。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-02T08:00:00+09:00"
+  },
+  {
+   "id": "ab70bc26ed6836aa",
+   "url": "https://www.4gamer.net/games/040/G004099/20261101010/",
+   "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年10月26日〜11月1日",
+   "summary": "2026年10月26日〜11月1日，4Gamerに掲載された記事は315本でした。タイのバンコクで開催されたゲームイベント「gamescomasiaxThailandGameShow2026」の現地レポートなど，調子に乗ってたくさんの記事を掲載した4Gamerと世界のゲーム業界の1週間を振り返りましょう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-02T07:00:00+09:00"
+  },
   {
    "id": "9c5e7dba38b71d16",
    "url": "https://www.4gamer.net/games/916/G091623/20261027003/",
@@ -1729,39 +1762,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-29T17:41:51+09:00"
-  },
-  {
-   "id": "658f354137f2ecb1",
-   "url": "https://www.4gamer.net/games/915/G091522/20261029037/",
-   "title": "「サカつく2026」，ポルトガル国籍の選手が登場する「プレミアムSP選手スカウト」を11月25日まで開催中",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T17:38:23+09:00"
-  },
-  {
-   "id": "2d226786fc5b1991",
-   "url": "https://www.4gamer.net/games/974/G097473/20261029035/",
-   "title": "デジタルカードゲーム「ヴァイスシュヴァルツ オンライン」，発売日が2027年3月25日に決定。Switch2向けパッケージ版の予約受付を開始",
-   "summary": "ブシロードは本日，「ヴァイスシュヴァルツオンライン」（PC/Switch2/Switch）の発売日が2027年3月25日に決定したと発表した。あわせて，Switch2向けパッケージ版の予約受付を開始している。本作は，キャラクターカードゲーム「ヴァイスシュヴァルツ」のデジタル版だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T17:22:46+09:00"
-  },
-  {
-   "id": "f72ce5d3e2a9cee6",
-   "url": "https://www.4gamer.net/games/054/G105417/20261029033/",
-   "title": "ボロボロのRV車を修理しながら終末世界を冒険。最大4人協力型サバイバルドライブゲーム「Nomad Drive」，配信開始",
-   "summary": "IndieDevilは本日（2026年10月29日），新作タイトル「NomadDrive」をリリースした。本作は，ランダム生成されたポストアポカリプスの世界を，ボロボロのRV車を修理しながら探索する最大4人協力型のサバイバルドライブゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-29T17:10:16+09:00"
   },
   {
    "id": "3c8945d20137bd91",
