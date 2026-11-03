@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T02:54:20+09:00",
+ "generated_at": "2026-11-04T08:28:18+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "2a6464d295c02c28",
+   "url": "https://automaton-media.com/articles/newsjp/20261104-477270/",
+   "title": "Unreal Engine 6では「ブループリント」が一転して“削除”へ。C++ゲームプレイフレームワーク廃止など大ナタ、“痛みを伴う”刷新に",
+   "summary": "Unreal Engineの公式大型イベント「Unreal Fest Tokyo 2026」にて、Unreal Engine 6に関する情報が明かされた。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/06/20260618-450312-header2.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-04T07:22:54+09:00"
+  },
   {
    "id": "1dcac8cae915f0b0",
    "url": "https://automaton-media.com/articles/newsjp/2026tes-477262/",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-29T12:41:58+09:00"
-  },
-  {
-   "id": "ba83ce3823d841f6",
-   "url": "https://automaton-media.com/articles/reportjp/psmatsuri-20261029-476356/",
-   "title": "大阪・梅田で開催された「PlayStation祭」を現地レポート。TGS2026出展作が遊べるリアルイベントで、来場者多数の大盛況。『グランツーリスモ７』のタイムアタック企画も注目集める",
-   "summary": "大阪・梅田にて10月24日、SIEのリアルイベント「PlayStation祭」が開催された。TGS2026出展作が遊べた会場の盛り上がりや、ステージイベントの様子をお伝えする。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/psmatsuri_01.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T12:39:07+09:00"
   }
  ]
 }
