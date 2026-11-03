@@ -1,8 +1,118 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T10:38:39+09:00",
+ "generated_at": "2026-11-03T18:39:46+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "6f0a1f80de5547b5",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477239/",
+   "title": "ナムコの傑作『ミスタードリラーグレート』にて、理論上の限界「32767m」に到達した猛者あらわる。再起動に怯え、尿意や終電と戦う“極限の2時間”",
+   "summary": "本稿では、アーケード版『ミスタードリラーグレート』宇宙ステージにて、理論上の最深部とされる「32767m」に到達した人物にインタビューをおこなった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477239-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T18:20:33+09:00"
+  },
+  {
+   "id": "160c42650d812dec",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477232/",
+   "title": "ソウルライクARPG『ロード・オブ・ザ・フォールン II』開発元、「約50億円」の資金調達を報告。Epic Gamesのもとを離れ、“自社パブリッシング”の覚悟を決める",
+   "summary": "CI Gamesは10月30日、『Lords of the Fallen II』の完成に向けて、2860万ユーロ（約50億円）にものぼる資金調達に成功したと発表した。なお本作は2027年第1四半期に発売予定だ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477232-header.jpeg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T17:30:45+09:00"
+  },
+  {
+   "id": "77e270eeaaa2f84d",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477226/",
+   "title": "『ファイナルファンタジー レゾナンス』の“高解像度化Mod”が注目を集めるも、「むしろ悪化している」との指摘相次ぐ。“綺麗”になって失われるドット絵の魅力",
+   "summary": "『ファイナルファンタジー レゾナンス』のドット絵を高解像度化するModについて、注目を集めつつ否定的な意見も寄せられているようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477226-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T16:48:50+09:00"
+  },
+  {
+   "id": "f0dcf8f774fd761f",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477220/",
+   "title": "Googleで「時のオカリナ」と検索すると時を越える。ちょっと越えすぎて28年前へ",
+   "summary": "『ゼルダの伝説 時のオカリナ』についてGoogleで検索すると、ギミックが出現するようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477220-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T15:50:34+09:00"
+  },
+  {
+   "id": "854aff09e9c7e5b8",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477214/",
+   "title": "Nintendo Switch 2向けパッケージソフトが“キーカードかどうか”を一覧で確認できるサイトが登場。日本版も確認できる「草の根データベース」",
+   "summary": "Nintendo Switch 2向けのパッケージ版ソフトの方式を確認できるサイトが登場したようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477214-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T14:58:45+09:00"
+  },
+  {
+   "id": "3d2c95a56a41ecb8",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477193/",
+   "title": "『スーパーマリオブラザーズ』RTA走者、「マリオのモノマネ」配信中に“うっかり”世界記録を更新。「無茶振りモノマネ」でほどよく力が抜けたので",
+   "summary": "RTA走者のNiftski氏は11月1日、『スーパーマリオブラザーズ』Any%部門にて、世界記録を更新。記録を更新したのは、“無茶振り”によってマリオの仮装とモノマネをしていた最中だった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477193-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T14:01:29+09:00"
+  },
+  {
+   "id": "6f6c2ac3add02035",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477143/",
+   "title": "日本語の「原っぱ」とは無関係なゲーム『Harappa』、日本人からの謎の注目に開発者困惑。不意打ち空耳マーケティング",
+   "summary": "『Harappa』というタイトルをきっかけに日本ユーザーから風変わりな注目を集めることになったようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477143-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T12:53:42+09:00"
+  },
+  {
+   "id": "c8b47bb2a21bc196",
+   "url": "https://www.4gamer.net/games/055/G105509/20261102051/",
+   "title": "主人公だけでなく敵までもプレイヤーが操る。人形劇の舞台で戦うターン制パズル「The Lamb Chop Show」",
+   "summary": "サンフランシスコを拠点とするインディースタジオAbyssalBornStudioが，ターン制バトルとパズルを組み合わせた「TheLambChopShow」を開発している。バンコクで開催されたgamescomasiaxThailandGameShow2026の会場で，3DアーティストのIanLeung氏に話を聞いた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-03T12:00:00+09:00"
+  },
+  {
+   "id": "90992c1fcdb006e3",
+   "url": "https://www.4gamer.net/games/760/G076035/20261102031/",
+   "title": "「Shadowverse: Worlds Beyond」と「ゴジラ」のミニコラボが決定。11月6日のメンテナンス後に開幕",
+   "summary": "Cygamesは本日（2026年11月3日），デジタルカードゲーム「Shadowverse:WorldsBeyond」と「ゴジラ」のミニコラボを，11月6日のメンテナンス後に開始すると発表した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-03T12:00:00+09:00"
+  },
+  {
+   "id": "62279dd0f4c2f713",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477187/",
+   "title": "『Bloodborne』、今年に入ってからなんと“約25万本”も売れていたとの推計。リリース10年以上経っても冷めやらぬ人気、まだまだ売れる",
+   "summary": "市場調査会社Alinea Analyticsによれば、『Bloodborne』は今年に入ってから約25万本追加で売り上げたのだという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477187-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T11:49:19+09:00"
+  },
   {
    "id": "55b79fa296c9b94f",
    "url": "https://automaton-media.com/articles/newsjp/20261103-477178/",
@@ -1621,17 +1731,6 @@
    "published": "2026-10-30T15:20:24+09:00"
   },
   {
-   "id": "fd63089b2116def8",
-   "url": "https://www.4gamer.net/games/991/G999110/20261030021/",
-   "title": "ゲームを作るのに許可はいらない。John Romero氏が自作をたどって語った，今もゲームを作り続ける理由",
-   "summary": "2026年10月29日，タイ・バンコクで開幕した「gamescomasiaxThailandGameShow2026」で，「DOOM」「Quake」の生みの親の1人であるJohnRomero氏の基調講演「WhyWeStillMakeGames」が行われた。自作を順にたどりながら，なぜ今もゲームを作るのかを語った。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-30T15:19:14+09:00"
-  },
-  {
    "id": "6f990d2c7d752c3f",
    "url": "https://automaton-media.com/articles/newsjp/20261030-476718/",
    "title": "「クイズ正解」が必殺技になる『クイズアクションRPG ウィズジェネレーション』12月1日配信へ。プレイヤー同時参加型の“ライブクイズ”も定期開催予定",
@@ -1641,17 +1740,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-30T14:59:35+09:00"
-  },
-  {
-   "id": "110e66ab0e7f9e02",
-   "url": "https://www.4gamer.net/games/547/G054739/20261030018/",
-   "title": "「IDOLY PRIDE」，2027年3月1日をもってサービス終了。オフライン版へアップデート予定",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-30T14:25:05+09:00"
   },
   {
    "id": "1134a9b785292064",
@@ -2114,94 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-29T12:10:03+09:00"
-  },
-  {
-   "id": "d6cbc893b9c61527",
-   "url": "https://automaton-media.com/articles/newsjp/20261029-476273/",
-   "title": "『ドカポン』約23年ぶりの完全新作『ドカポンキングダム コネクト2』発表。共闘したのに報酬は“独り占め”できる新要素で、もっと友情壊れる金奪いバトル",
-   "summary": "コンパイルハートは10月29日、『ドカポンキングダム コネクト2』を発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476273-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T12:00:01+09:00"
-  },
-  {
-   "id": "ca3b4d198c99f77c",
-   "url": "https://automaton-media.com/articles/newsjp/20261029-476291/",
-   "title": "『マインクラフト』アプデで水上移動に革命起きる。「氷渡り」化サルファーキューブを殴って“ヒエヒエ爆速航海”",
-   "summary": "Mojang Studiosは10月27日、『マインクラフト』Java版に26.4 Snapshot 6を配信した。また、28日にはBedrock版にPreview - 26.70.22を配信した。水上移動に革命が起きたと話題になっている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476291-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T10:34:03+09:00"
-  },
-  {
-   "id": "c2aa778726e5459f",
-   "url": "https://automaton-media.com/articles/newsjp/20261029-476264/",
-   "title": "硬派戦略シム『大戦略SSB2』シーズン2では無料アプデで「技術力」実装。国ごとに戦い方変化、北朝鮮は先手必勝、日本は大器晩成型、なおアメリカはずっと強い",
-   "summary": "システムソフト・ベータは10月29日、戦略シム『大戦略SSB2』にて11月26日より開始する「シーズン2」の続報を公開した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476264-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T10:00:00+09:00"
-  },
-  {
-   "id": "495bf37371f6d0eb",
-   "url": "https://automaton-media.com/articles/newsjp/20261029-476250/",
-   "title": "『No Man’s Sky』無料大型アプデで「宇宙の運び屋」になれる。荷物配達、不気味な遺物や幼虫集め、銀河を股にかける怪しいお仕事",
-   "summary": "Hello Gamesは10月28日、『No Man's Sky』に大型アップデート「FORSAKEN」を配信した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476250-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T01:09:20+09:00"
-  },
-  {
-   "id": "da1e023ebaad7fff",
-   "url": "https://automaton-media.com/articles/newsjp/20261029-476236/",
-   "title": "『NTE』大型アプデVer.1.5では“戦車バトル”開幕へ。おっとり電脳お姉さん「イェルム」に、クール系ハッカー男子「Exe」もいよいよプレイアブル実装",
-   "summary": "『NTE: Neverness to Everness』Ver.1.5「リダイヤル # 空想の君へ」の予告番組にてさまざまな詳細が明かされた。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476236-header2.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T00:41:20+09:00"
-  },
-  {
-   "id": "fca0164454b85d60",
-   "url": "https://automaton-media.com/articles/newsjp/20261029-476166/",
-   "title": "『Dead by Daylight』に新キラー「アート・ザ・クラウン」参戦へ、PTB始動。人気映画「テリファー」の残酷スプラッタ狂気ピエロが『DbD』に殴り込み",
-   "summary": "『Dead by Daylight』にてホラー映画「テリファー」とのコラボレーションが正式発表された。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476166-001-2.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T00:00:10+09:00"
-  },
-  {
-   "id": "84cb07d62863b352",
-   "url": "https://automaton-media.com/articles/newsjp/witchbrook-20261028-476222/",
-   "title": "“開発10年”かかった魔法学校生活シム『Witchbrook』来年1月28日発売へ。最大4人マルチ、延期重ねた期待作がついに出る",
-   "summary": "Chucklefishは10月28日、『Witchbrook』を2027年1月28日に発売すると発表した。本作は魔法学校の生活を体験できるライフシミュレーションゲーム。延期を経て、発売日がとうとう発表されたかたちだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/witchbrook-20261028-476222-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T23:40:36+09:00"
-  },
-  {
-   "id": "f841ad22901a1403",
-   "url": "https://automaton-media.com/articles/newsjp/20261028-476197/",
-   "title": "もちもちタヌキ暴走配達ゲーム『タヌキ： ポンの夏』11月10日配信へ。日本の町をチャリンコで爆走、トリック決めまくり",
-   "summary": "CRITICAL REFLEXは10月28日、『TANUKI: Pon's Summer - タヌキ：ポンの夏』を11月10日に配信すると発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476197-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T23:37:19+09:00"
   }
  ]
 }
