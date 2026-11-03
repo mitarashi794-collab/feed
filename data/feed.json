@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T03:29:33+09:00",
+ "generated_at": "2026-11-03T10:38:39+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "55b79fa296c9b94f",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477178/",
+   "title": "最大4人協力・デッキ構築ローグライク『HARMA 亡国のエデン』11月17日早期アクセス配信へ。カードの効果は“調律”次第、「運の任せどころ」もまた戦略",
+   "summary": "Astrolabe Gamesは11月3日、『HARMA 亡国のエデン』を11月17日に早期アクセス配信すると発表した。本作は最大4人協力プレイに対応するデッキ構築型ローグライクゲームだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477178-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T10:00:03+09:00"
+  },
+  {
+   "id": "adedba7cf921adfe",
+   "url": "https://automaton-media.com/articles/newsjp/rain98-20261103-477172/",
+   "title": "世紀末サスペンスロマンス『Rain98』、リリースは2027年に延期へ。土屋李央さん演じる謎の少女とともに進める“世界滅亡の儀式”",
+   "summary": "C#4R4CT3Rは11月2日、『Rain98』のリリースを2027年に延期すると発表した。本作は少女とともに世界滅亡の儀式を進める、サイコサスペンス&ロマンスADVだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/rain98-20261103-477172-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T09:37:19+09:00"
+  },
+  {
+   "id": "6d10bc04a17a5640",
+   "url": "https://www.4gamer.net/games/421/G042182/20261102037/",
+   "title": "「鳴潮」のVer3.8予告特別通信は11月6日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "summary": "オープンワールドアクションRPG「鳴潮」のVer3.8予告特別通信が11月6日20：00から配信となる。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-03T08:00:00+09:00"
+  },
   {
    "id": "9eede392ecced702",
    "url": "https://www.4gamer.net/games/952/G095288/20261102049/",
@@ -1621,17 +1654,6 @@
    "published": "2026-10-30T14:25:05+09:00"
   },
   {
-   "id": "3ee2197ed8440974",
-   "url": "https://www.4gamer.net/games/935/G093520/20261030019/",
-   "title": "大規模RTS「Ashes of the Singularity II」の最新開発者ビデオダイアリーが公開。狭い峠道で激突する装甲部隊と，迫撃砲による防衛戦をフィーチャー",
-   "summary": "StardockEntertainmentは，大規模RTS「AshesoftheSingularityII」の最新開発者ビデオダイアリーを公開した。今回の映像では，社内マルチプレイテストで行われた地球連合軍同士の戦闘を通して，狭い峠道での部隊の配置や迫撃砲陣地を利用した戦術の重要性が紹介されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-30T14:22:05+09:00"
-  },
-  {
    "id": "1134a9b785292064",
    "url": "https://automaton-media.com/articles/newsjp/20261030-476709/",
    "title": "サッカークラブ経営シム『Football Manager 27』発売直前に、“ほぼ製品版”な無料プレビュー版配信開始。最新作の進化をお先に体験、11月4日まで",
@@ -2180,28 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-28T23:37:19+09:00"
-  },
-  {
-   "id": "aeea0e70918b0dd1",
-   "url": "https://automaton-media.com/articles/newsjp/20261028-476212/",
-   "title": "『めっちゃカメレオン』無料大型アプデで「チーム戦」登場、いきなり配信開始。ステージから“ボディ”まで新要素めっちゃ満載",
-   "summary": "個人開発者のLEMORION氏は10月28日、「Indie World 2026.10.28」にて『めっちゃカメレオン』の無料大型アップデートを発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476212-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T23:34:42+09:00"
-  },
-  {
-   "id": "af9339b218747538",
-   "url": "https://automaton-media.com/articles/newsjp/20261028-476203/",
-   "title": "『The Witness』開発者の新作パズル『Order of the Sinking Star』PS5/Switch 2版突然配信。Steamで「圧倒的好評」の1000問超えパズル地獄",
-   "summary": "任天堂は10月28日、パズルアドベンチャーゲーム『Order of the Sinking Star』を番組終了後に配信開始すると案内した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476203-header.jpeg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-28T23:27:05+09:00"
   }
  ]
 }
