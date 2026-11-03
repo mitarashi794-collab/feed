@@ -1,8 +1,63 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T18:39:46+09:00",
+ "generated_at": "2026-11-04T02:54:20+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "1dcac8cae915f0b0",
+   "url": "https://automaton-media.com/articles/newsjp/2026tes-477262/",
+   "title": "『The Elder Scrolls VI: Sentinel』正式発表。『スカイリム』の5年後の世界",
+   "summary": "『The Elder Scrolls VI: Sentinel』の舞台は、第4期206年とのこと。前作である『The Elder Scrolls V: Skyrim』の5年後の世界となる。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/tesy6.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-04T00:52:49+09:00"
+  },
+  {
+   "id": "cffd5784564b35f4",
+   "url": "https://www.4gamer.net/games/422/G042263/20261104001/",
+   "title": "Elder Scrollsシリーズの第6作の名は噂どおり「The Elder Scrolls VI: Sentinel」！ 舞台はタムリエル西方のハンマーフェルか",
+   "summary": "米国時間2026年11月3日，BethesdaSoftworksは，開発中のRPG「TheElderScrollsVI」の正式名称が，「TheElderScrollsVI:Sentinel」であると発表した。なお，発売時期や対応プラットフォームについては公表されていない。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-04T00:36:55+09:00"
+  },
+  {
+   "id": "13f2c3e9630e8b34",
+   "url": "https://www.4gamer.net/games/834/G083422/20261102040/",
+   "title": "「ガールズバンドクライ First Riff」で事前登録の受付がスタート。描き下ろしのキービジュアルやPV第1弾も公開に",
+   "summary": "DONUTSは2026年11月3日，スマホアプリ「ガールズバンドクライFirstRiff」の事前登録受付を開始した。これに合わせてゲーム公式サイトがリニューアルオープンしたほか，手島nari氏による描き下ろしキービジュアルとプロモーションムービー第1弾も公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-03T21:30:00+09:00"
+  },
+  {
+   "id": "9f816d2ab2729542",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477252/",
+   "title": "いたずらペンギンのお騒がせ探索ゲーム『ちょっと失礼。』発表。仲間とともに人間“で”遊びつつ、動物園脱出を目論む",
+   "summary": "Renka氏は11月3日、『ちょっと失礼。』のSteamストアページを公開した。本作は世界征服をたくらむペンギンが、人間にいたずらしつつ動物園脱出を目指すゲームだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477252-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T19:13:19+09:00"
+  },
+  {
+   "id": "42bf75392dbf6d68",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477243/",
+   "title": "“謎文字”解読ゲーム『Message From Aliens』が歯ごたえありすぎて大好評。「ゲーム終了」もままならない、激ムズSF言語パズル",
+   "summary": "Artless Gamesは11月2日、言語解読ゲーム『Message From Aliens』をリリースした。本作は宇宙からやってきたとされる大量の謎の記号を解読するゲームで、リリース後早速好評を博している。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477243-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-03T18:47:36+09:00"
+  },
   {
    "id": "6f0a1f80de5547b5",
    "url": "https://automaton-media.com/articles/newsjp/20261103-477239/",
@@ -1709,28 +1764,6 @@
    "published": "2026-10-30T15:37:39+09:00"
   },
   {
-   "id": "140f00c057e27d3a",
-   "url": "https://www.4gamer.net/games/054/G105459/20261030024/",
-   "title": "怪異に襲われても麻雀をやめたくない！ キョンシーや幽霊を退治しながら牌を打ち続けるサバイバルホラー「Horror Mahjong」発表，2026年第4四半期に発売予定",
-   "summary": "Kongotoは2026年10月29日，PC向け新作「HorrorMahjong」を発表し，Steamストアページを公開した。本作は，怪異が出る茶楼で，キョンシーや幽霊を退治しながら麻雀を打ち続けるサバイバルホラーだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-30T15:34:31+09:00"
-  },
-  {
-   "id": "588b5c0ac98891e0",
-   "url": "https://www.4gamer.net/games/054/G105458/20261030022/",
-   "title": "動物たちと森でキッチンカーを経営。「ちいさな森のごちそう屋」，G123で本日サービス開始。料理やお店の装飾を楽しめる",
-   "summary": "CTWは本日，経営シミュレーション「ちいさな森のごちそう屋」の正式サービスをG123で開始した。本作は，かわいい動物たちが暮らす森でキッチンカーを切り盛りする作品だ。レシピの開発やお店の装飾に加え，ミニゲームやコレクション要素なども楽しめる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-10-30T15:20:24+09:00"
-  },
-  {
    "id": "6f990d2c7d752c3f",
    "url": "https://automaton-media.com/articles/newsjp/20261030-476718/",
    "title": "「クイズ正解」が必殺技になる『クイズアクションRPG ウィズジェネレーション』12月1日配信へ。プレイヤー同時参加型の“ライブクイズ”も定期開催予定",
@@ -2169,39 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-29T12:39:07+09:00"
-  },
-  {
-   "id": "9435b2ebe62fe2cb",
-   "url": "https://automaton-media.com/articles/newsjp/20261029-476345/",
-   "title": "PS5/PS4向け「PS Plusフリープレイ」11月は“非対称5v1”ステルスホラー『Secret Neighbor』など配布へ。総額1万円超え",
-   "summary": "ソニー・インタラクティブエンタテインメントは10月29日、PlayStation Plus加入者向けの11月のフリープレイ提供コンテンツ情報を公開した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476345-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T12:20:08+09:00"
-  },
-  {
-   "id": "11e2e9989601e041",
-   "url": "https://automaton-media.com/articles/newsjp/20261029-476334/",
-   "title": "Steam運営元Valveが「AIでゲームをパクられる問題」について回答。模倣は昔からあったとして、“地道な対抗策”示す",
-   "summary": "Steamを運営するValveは、既存作品をAIで模倣したクローンゲームの増加が懸念されている点について見解を示している。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476334-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T12:11:04+09:00"
-  },
-  {
-   "id": "2fce0d60a529b38e",
-   "url": "https://automaton-media.com/articles/columnjp/jonathan-20261029-476298/",
-   "title": "レジェンド・インディーゲーム開発者ジョナサン・ブロウは、何故レジェンドなのか？『Braid』『The Witness』含めた歴史から見えてくるその理由、「ビデオゲームの求道者」たる源泉",
-   "summary": "ここではジョナサン・ブロウとは一体何者なのか、その哲学と作風はどのように構築されてきたのかについて、簡単ではあるが解説したいと思う。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/jonathan-blow-001.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-29T12:10:03+09:00"
   }
  ]
 }
