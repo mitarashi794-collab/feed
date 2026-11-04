@@ -1,8 +1,30 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T00:29:58+09:00",
+ "generated_at": "2026-11-05T06:56:52+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "0c35b121d1811bec",
+   "url": "https://automaton-media.com/articles/newsjp/20261105-477526/",
+   "title": "『Escape from Tarkov』生みの親による新作『Fragmentary Order』、長編ゲームプレイ映像ついにお披露目。“宇宙タルコフ”みっちり14分間",
+   "summary": "Rant Gamingは11月5日、『Fragmentary Order』の14分間にわたるゲームプレイ映像を公開した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477526-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-05T04:49:11+09:00"
+  },
+  {
+   "id": "d7ef9af65bb984e0",
+   "url": "https://automaton-media.com/articles/newsjp/20261105-477518/",
+   "title": "PS5『ゴッド・オブ・ウォー ラウフェイ』発売延期、来年5月20日にリリースへ。約3か月延ばして作りこむ",
+   "summary": "Santa Monica Studioは11月5日、『ゴッド・オブ・ウォー ラウフェイ』の発売日を2027年5月20日に延期すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477518-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-05T03:33:36+09:00"
+  },
   {
    "id": "1ac83534e43e699d",
    "url": "https://www.4gamer.net/games/002/G100206/20261104055/",
@@ -2180,28 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-10-30T11:00:48+09:00"
-  },
-  {
-   "id": "d0edd3fcb2c98ad6",
-   "url": "https://automaton-media.com/articles/newsjp/20261030-476605/",
-   "title": "『崩壊：スターレイル』の“未公開テストデータ”を不正入手した人物に「約2400万円」の賠償判決。導入方法まで広める悪質行為に鉄槌",
-   "summary": "miHoYoの法務部は10月28日、『崩壊：スターレイル』の営業秘密の侵害を巡った訴訟について、第一審の判決が下されたと発表した。判決に際しては、被告二人に連帯して約2370万円にのぼる賠償の支払いも命じられている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476605-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-30T10:50:44+09:00"
-  },
-  {
-   "id": "8118746463615ed7",
-   "url": "https://automaton-media.com/articles/newsjp/20261030-476592/",
-   "title": "『ゼルダの伝説 時のオカリナ』リメイク版には「原作未プレイ世代」の若手も携わる。だからこそ生まれる新しさ",
-   "summary": "『ゼルダの伝説』シリーズプロデューサーの青沼英二氏は10月23日、フランスにて芸術文化勲章の授与式に参加した。その際のインタビューによると中には“オリジナル版未経験”のスタッフもいるという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476592-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-10-30T10:29:01+09:00"
   }
  ]
 }
