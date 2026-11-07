@@ -1,8 +1,85 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T17:52:33+09:00",
+ "generated_at": "2026-11-08T00:43:32+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "11c5f50def901301",
+   "url": "https://automaton-media.com/articles/newsjp/20261107-478056/",
+   "title": "文学少女との作業集中アプリ『Chill with You : Lo-Fi Story』、「サトネの1年後」が描かれる無料大型アプデを11月25日配信へ。“作業場所追加DLC”もお披露目",
+   "summary": "ネストピは11月7日、『Chill with You : Lo-Fi Story』の発売1周年記念として、無料大型ストーリーアプデ「君と見る夢」と、有料DLC「Room & Cozy Activity」を発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478056-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T23:00:01+09:00"
+  },
+  {
+   "id": "088dce9a6e6513e7",
+   "url": "https://www.4gamer.net/games/834/G083422/20261106040/",
+   "title": "「ガールズバンドクライ First Riff」のゲーム内容が公開に。トゲナシトゲアリのゲームKVもお披露目",
+   "summary": "DONUTSと東映アニメーションは本日，スマートフォン向けゲーム「ガールズバンドクライFirstRiff」のゲーム内容を公開した。「ストーリー」「ライブゲーム」「全国ツアー」の3要素に加え，トゲナシトゲアリのゲームKVも披露された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T21:30:00+09:00"
+  },
+  {
+   "id": "62078676ca37f8ac",
+   "url": "https://automaton-media.com/articles/newsjp/fate-grand-order-20261107-478057/",
+   "title": "『Fate/Grand Order（FGO）』全世界1億DL記念で、星5サーヴァントが「お好きに1体」もらえる。今回は「43騎」から",
+   "summary": "FGO PROJECTは11月7日、『Fate/Grand Order（FGO）』の最新情報を公開。11月7日21時から「全世界1億DL突破キャンペーン」として、星5サーヴァントのプレゼントキャンペーンが実施される。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/fate-grand-order-20261107-478057-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T20:41:23+09:00"
+  },
+  {
+   "id": "5fb28e77795ac4c4",
+   "url": "https://automaton-media.com/articles/newsjp/20261107-478052/",
+   "title": "アニプレックス、新作ADV『LunaReverse（ルナリバース）』を発表。「イケメンシリーズ」などのサイバードとの強力タッグで描かれる、魔法使いの復讐劇",
+   "summary": "アニプレックスは11月7日、『LunaReverse（ルナリバース）』を発表した。「イケメンシリーズ」などを手がけるサイバードとのタッグによる、新たなADVなのだという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478052-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T19:23:21+09:00"
+  },
+  {
+   "id": "63cf962d2061de0d",
+   "url": "https://www.4gamer.net/games/056/G105632/20261106044/",
+   "title": "復讐の果てに待つ運命のADV「LunaReverse（ルナリバース）」発表。「終遠のヴィルシュ」の中山智美氏らがシナリオを担当",
+   "summary": "サイバードは本日（2026年11月7日），新作タイトル「LunaReverse（ルナリバース）」（PC/NintendoSwitch）を発表した。本作は同社がアニプレックスとタッグを組んで送り出す初のタイトルだ。ジャンルは「復讐の果てに待つ運命のADV」とされている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T18:35:00+09:00"
+  },
+  {
+   "id": "fd0c1c18b0b0b5fe",
+   "url": "https://www.4gamer.net/games/056/G105625/20261106035/",
+   "title": "「イケメンシリーズ」，15周年を記念した新作を2027年内にリリース決定。公式特設サイトと特報PVを公開",
+   "summary": "サイバードは本日（2026年11月7日），恋愛ゲーム「イケメンシリーズ」について，15周年を記念した新作アプリのリリースが決定したと発表した。イケメンシリーズファンクラブで本作の事前登録を受け付けている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T18:30:00+09:00"
+  },
+  {
+   "id": "ffdc8d1bf3a16523",
+   "url": "https://www.4gamer.net/games/038/G003821/20261107001/",
+   "title": "週刊Steam広場 第178号：オープンワールド農業シム「Lightyear Frontier」や，アクションMMORPG「ArcheAge Chronicles」が発売に",
+   "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，銀河の辺境にある惑星を舞台とする農業シム「LightyearFrontier」や，開拓者時代を迎えた伝説の地「オーロリア」を舞台とする「ArcheAgeChronicles」が発売された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T18:00:00+09:00"
+  },
   {
    "id": "3fe070a9c4db9741",
    "url": "https://www.4gamer.net/games/015/G001524/20261107002/",
@@ -1665,28 +1742,6 @@
    "published": "2026-11-04T19:56:06+09:00"
   },
   {
-   "id": "7372ed88bb4d925b",
-   "url": "https://www.4gamer.net/games/393/G039361/20261104042/",
-   "title": "「D2メガテン」，本日から「RAIDOU Remastered: 超力兵団奇譚」との復刻コラボを開催",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T19:43:20+09:00"
-  },
-  {
-   "id": "03e77daef3f5c469",
-   "url": "https://www.4gamer.net/games/202/G020261/20261104041/",
-   "title": "「ぷよクエ」，イベント「祝！13.5周年記念プワープ特別リーグ」を開催",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T19:21:33+09:00"
-  },
-  {
    "id": "423296a04608341b",
    "url": "https://automaton-media.com/articles/interviewsjp/20261104-477467/",
    "title": "「ゲームをより良い日本語で遊ぶために」開発者へ直談判したゲーマーが、フリーランスのゲーム翻訳者になるまで。“遊んで訳す”仕事、そのシビアな舞台裏を訊いた",
@@ -1696,28 +1751,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-04T19:17:27+09:00"
-  },
-  {
-   "id": "0f67ccc665f03483",
-   "url": "https://www.4gamer.net/games/004/G100451/20261104040/",
-   "title": "「にじスプラDREAM MATCH」，本日（11月4日）20：00に配信。「にじイカ祭り2026」の予選リーグは11月7日に開催",
-   "summary": "バーチャルライバーグループ「にじさんじ」所属の長尾景さんは本日（2026年11月4日）20：00に，「スプラトゥーン3」の大会「にじイカ祭り2026」の外伝として「にじスプラDREAMMATCH」を開催する。ライバーのなかでも「スプラトゥーン3」経験者が参加している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T19:16:13+09:00"
-  },
-  {
-   "id": "3386defd9c7258d4",
-   "url": "https://www.4gamer.net/games/053/G105394/20261104037/",
-   "title": "1988年の日本の山奥を舞台にしたホラーゲーム「深夜ドライブイン」，体験版をSteamで配信開始。製品版は11月13日発売",
-   "summary": "RAYBISGAMESは本日，サイコロジカルホラー「MidnightRestStop|深夜ドライブイン」の体験版をSteamで配信開始した。本作は，1988年の日本の山奥にあるドライブインを舞台に，プレイヤーが奇妙な出来事に巻き込まれていく作品だ。製品版は2026年11月13日に発売される。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T19:09:36+09:00"
   },
   {
    "id": "6c30a06d4268dd9c",
@@ -2169,39 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-02T14:48:05+09:00"
-  },
-  {
-   "id": "bb85ee7ca5ba3764",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477097/",
-   "title": "Nintendo Switch 2/Switch向けセールで大粒多めの170本追加。『ライザのアトリエ』決定版が最安値更新、『モンハンライズ：サンブレイク』や『ロマサガ2』リメイクなども最安値級",
-   "summary": "ニンテンドーeショップにて11月2日、Nintendo Switch 2/Nintendo Switch向けタイトルの新たなセールが開始された。対象タイトルは約170本。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477097-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T14:29:53+09:00"
-  },
-  {
-   "id": "1c6e7b5c93a6ac3d",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477101/",
-   "title": "話題のAI「Claude Opus 5.5」に、「既存ゲームの模倣を禁止」する新ルール導入。AI産クローンが大量出現するなか、“そもそも生成させない”根本対策",
-   "summary": "対話型AI「Claude」を展開するAnthropicは、同社のAIモデル「Claude Opus 5.5」に、既存のゲームの模倣を防ぐための制限をくわえたことを明らかにした。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477101-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T13:58:40+09:00"
-  },
-  {
-   "id": "ad08dc5cbeefc039",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477090/",
-   "title": "“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。しかしSteamはすぐさま「低評価レビュー爆撃」状態に",
-   "summary": "VRChat社は10月29日、「AI生成」というラベルや、AI生成コンテンツを除外する検索フィルターを追加する予定はないことを明らかにした。この決定に対してユーザーからの反発が相次いでいる。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477090-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T13:05:33+09:00"
   }
  ]
 }
