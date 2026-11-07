@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T06:34:25+09:00",
+ "generated_at": "2026-11-07T10:58:54+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "1b55f1369bde291d",
+   "url": "https://automaton-media.com/articles/newsjp/20261107-477955/",
+   "title": "500日以上監禁されていた少女、『Among Us』がきっかけとなり救助される。オンラインゲームが誘拐事件解決の糸口に",
+   "summary": "アメリカにて、500日以上にわたり行方不明となっていた17歳の少女が『Among Us』をきっかけとして救出されたようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477955-Header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T10:19:18+09:00"
+  },
+  {
+   "id": "841ada51db523186",
+   "url": "https://www.4gamer.net/games/921/G092147/20261104029/",
+   "title": "初期版から何が変わった？ 「DRAPLINE」Ver.1.0の新要素と，アーリーアクセスで追加された内容まとめ。正式版で広がった育成と戦闘，その先の物語",
+   "summary": "2026年9月24日に正式リリースを迎えた，“なんでも食べちゃうドラゴン娘”が主人公の「DRAPLINE」。アーリーアクセスからこれまで「圧倒的に好評」でゲーマーに受け入れられている本作は，どんな歩みを経て現在に至ったのか。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T10:00:00+09:00"
+  },
+  {
+   "id": "bc11c54017686a2c",
+   "url": "https://automaton-media.com/articles/newsjp/20261107-477950/",
+   "title": "『Path of Exile 2』正式リリースでさらなる新クラス「シャドウ」実装へ。ACT5＆6がどどんと追加、“大規模戦闘”が楽しめる新リーグなど新情報いろいろお披露目",
+   "summary": "Grinding Gear Gamesは11月7日、『Path of Exile 2』の新たな情報を発表。新クラスや新リーグの詳細がお披露目された。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477950-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T09:20:00+09:00"
+  },
+  {
+   "id": "070f4176ab89e9c3",
+   "url": "https://www.4gamer.net/games/991/G999110/20261106027/",
+   "title": "インディーゲーム展示会「東京ゲームダンジョン14」レポート（前編）。ロボ暴走族に花札バトル，限界集落まで揃った“ゲームの迷宮”",
+   "summary": "340団体という，募集枠を大幅に上回る出展者が集った「東京ゲームダンジョン14」。4Gamerは今回も，前後編に分けて，注目タイトルや作者の強い個性を感じたゲームを紹介する。まず前編は，インディーゲームらしい振れ幅の広さを感じる作品から。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T09:00:00+09:00"
+  },
+  {
+   "id": "7e20f25553c5c9ea",
+   "url": "https://www.4gamer.net/games/199/G019924/20261106033/",
+   "title": "吉田氏とのバトル（？）に注目のLIVE Q＆Aから，THE PRIMALSのライブまで，熱い展開が目白押しの「FFXIV ファンフェスティバル 2026 in 東京」DAY2のレポートをお届け",
+   "summary": "スクウェア・エニックスは，10月31日と11月1日にMMORPG「ファイナルファンタジーXIV」のリアルイベント，「FFXIVファンフェスティバル2026in東京」を開催した。LIVEQ＆Aや直樹の部屋，そしてTHEPRIMALSのライブまで熱いステージが目白押しだったDAY2の模様をレポートしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T09:00:00+09:00"
+  },
+  {
+   "id": "af7ad8790673e1f4",
+   "url": "https://www.4gamer.net/games/054/G105425/20261106036/",
+   "title": "「jubeat」新筐体を「アミューズメント エキスポ 2026」でチェック。120fps対応やタッチパネルなど，18年ぶりの刷新で何が変わった？",
+   "summary": "2008年の登場から18年。KONAMIの音楽ゲーム「jubeat」に，待望の新筐体が登場した。フルHD・120fps対応のディスプレイをはじめ，タッチパネルや新たな演出機能を搭載し，大幅な進化を遂げている。「アミューズメントエキスポ2026」で展示された実機の特徴を，制作スタッフへの取材を交えて紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T07:00:00+09:00"
+  },
   {
    "id": "f348549bb92f4263",
    "url": "https://www.4gamer.net/games/634/G063420/20261106056/",
@@ -1698,28 +1764,6 @@
    "published": "2026-11-04T14:59:48+09:00"
   },
   {
-   "id": "cb462567c0387a66",
-   "url": "https://www.4gamer.net/games/022/G002212/20261104019/",
-   "title": "「AMD Software 26.10.2」が登場。バグフィックスが中心のOptional版",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T14:33:40+09:00"
-  },
-  {
-   "id": "eb8eeaecf159ee18",
-   "url": "https://www.4gamer.net/games/055/G105521/20261104018/",
-   "title": "「SKULD」，体験版がSteamで配信開始。北欧神話のワルキューレとなり，剣と砲塔で敵の大群を迎え撃つアクション・タワーディフェンス",
-   "summary": "DevelupGamesは，スペインのSuperMonkeyStudioが開発する「SKULD」の体験版をSteamで公開した。北欧神話の世界を舞台に，ワルキューレとなった主人公が剣や砲塔を駆使して敵の大群を迎え撃つ。三人称視点の近接戦闘と拠点防衛を組み合わせたアクション・タワーディフェンスだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T14:33:26+09:00"
-  },
-  {
    "id": "b8a549395ef672b1",
    "url": "https://automaton-media.com/articles/newsjp/20261104-477349/",
    "title": "『コントロール レゾナント』が売れまくり、開発元Remedyの売上高が「3倍超」に躍進。“30億円赤字”から黒字転換、息を吹き返す",
@@ -1729,28 +1773,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-04T14:25:48+09:00"
-  },
-  {
-   "id": "4d188a0a60fb6c86",
-   "url": "https://www.4gamer.net/games/015/G101585/20261104014/",
-   "title": "「カリアのアトリエ 〜夜の王国と追憶の道標〜」，特別番組を11月9日21：00から配信。カリア役の浅見香月さんと？？？役の村瀬 歩さんがゲスト",
-   "summary": "コーエーテクモゲームスは本日，錬金術RPG「カリアのアトリエ〜夜の王国と追憶の道標〜」の特別番組を2026年11月9日21：00から配信すると発表した。本番組には，カリア役の浅見香月さんと？？？役の村瀬歩さんがゲストとして登場し，Switch2での実機プレイで本作の魅力を紹介する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T14:22:58+09:00"
-  },
-  {
-   "id": "af4642698c92ce0d",
-   "url": "https://www.4gamer.net/games/210/G021013/20261104013/",
-   "title": "UE6ではブループリントを最初から廃止へ。AIの生産性を優先した方針転換を，Tim Sweeney氏が謝罪とともに明かした「Unreal Fest Tokyo 2026」基調講演",
-   "summary": "「UnrealFestTokyo2026」の基調講演にてTimSweeney氏は，「UnrealEngine6」でブループリントを段階的に廃止する方針を改め，最初から取り除くと発表した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T14:17:10+09:00"
   },
   {
    "id": "87742533cbcc9eb7",
@@ -2180,28 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-01T18:21:21+09:00"
-  },
-  {
-   "id": "6c816d16da1b81a5",
-   "url": "https://automaton-media.com/articles/newsjp/20261101-477026/",
-   "title": "『ロックマン コンプリートパック』は「30作以上」おまとめなのに80％オフでなんと約5000円。『Outlast 2』は90％オフでわずか230円。今週の高割引率PCゲーム",
-   "summary": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-477026-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-01T17:31:32+09:00"
-  },
-  {
-   "id": "38bdf1d82281ed61",
-   "url": "https://automaton-media.com/articles/newsjp/20261101-477017/",
-   "title": "『キングスフィールド』『TES3』に着想を得たARPG『Queen’s Domain』、Steamで“94％好評”の大盛況。「探索で迷う楽しさ」を詰め込んだ、秘密だらけレトロファンタジー",
-   "summary": "Future Friends Gamesは10月31日、Freshly Baked Gamesが手がける『Queen's Domain』を配信開始した。本作はレトロファンタジーの世界を冒険する一人称視点のアクションRPGだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-477017-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-01T16:37:15+09:00"
   }
  ]
 }
