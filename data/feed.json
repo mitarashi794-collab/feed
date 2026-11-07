@@ -1,8 +1,129 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T10:58:54+09:00",
+ "generated_at": "2026-11-07T17:52:33+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "3fe070a9c4db9741",
+   "url": "https://www.4gamer.net/games/015/G001524/20261107002/",
+   "title": "オンライン麻雀「Maru-Jan」への不正アクセスによる個人情報の流出をシグナルトークが発表",
+   "summary": "シグナルトークは本日，運営中のオンライン麻雀ゲーム「Maru-Jan」に対して外部からの不正アクセスがあり，会員情報が流出したと発表した。流出したのは会員185万5578人分のメールアドレスおよびパスワードで，クレジットカード番号は含まれないとのことだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T17:45:29+09:00"
+  },
+  {
+   "id": "12afead39e5ab14f",
+   "url": "https://automaton-media.com/articles/newsjp/20261107-478035/",
+   "title": "約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。最大4人オンライン対戦搭載、オリジナル版開発元が手がける懐かしの怪獣バトル",
+   "summary": "Atariは11月3日、『Godzilla: Destroy All Monsters Melee Remastered』を配信開始した。Steamユーザーレビューで「圧倒的に好評」ステータスを獲得するなど、注目を集めている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478035-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T17:02:40+09:00"
+  },
+  {
+   "id": "d2e7bcd1753531be",
+   "url": "https://www.4gamer.net/games/055/G105594/20261106002/",
+   "title": "PC/Switch版「アルカナ・ファミリア 幽霊船の魔術師」が2027年発売へ。さらちよみ氏が手掛けるイベントCGがフルHD化",
+   "summary": "ヒューネックスは本日（2026年11月7日），「アルカナ・ファミリア幽霊船の魔術師」のPC/NintendoSwitch版を2027年にリリースすると発表した。本作は，2012年のPSP作品を移植し，CGをフルHD化したものだ。幽霊船を巡る物語が，コミック風の演出で描かれる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T17:00:00+09:00"
+  },
+  {
+   "id": "e85152df773a7023",
+   "url": "https://automaton-media.com/articles/newsjp/20261107-478030/",
+   "title": "“沼系”恋愛サスペンス『Algorithm Prescription』2028年リリース、Nintendo Switch 2向けにも登場。好かれすぎても「監禁」「束縛」が待ち受けるドロドロ展開",
+   "summary": "松竹ゲームズは11月7日、『Algorithm Prescription』について、Nintendo Switch 2/PC（Steam）向けに2028年リリース予定と発表した。本作は完全AI管理都市でのストーリーが描かれるという、沼系恋愛サスペンスノベルゲームだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478030-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T15:55:29+09:00"
+  },
+  {
+   "id": "9e134d272745914b",
+   "url": "https://automaton-media.com/articles/special-column/20261107-478011/",
+   "title": "『アークナイツ：エンドフィールド』の新オペレーター「ミンホ」は物理・アーツ両対応。“相棒と一緒”なら攻撃から補助までなんでもできる、使い方や編成を解説",
+   "summary": "『アークナイツ：エンドフィールド』の新オペレーター「ミンホ」は物理/アーツといったダメージ種別どころか、サポーター/アタッカーといった役割の垣根も超えて活躍可能だ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478011-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T15:06:27+09:00"
+  },
+  {
+   "id": "1b942a5bfcc444f9",
+   "url": "https://automaton-media.com/articles/newsjp/20261106-477933/",
+   "title": "『ゼルダの伝説 時のオカリナ』リメイクのオカリナ音声入力、「もはやなんでもあり」の無法演奏会に。オタマトーン、空きビン、“謎のおじいちゃん”までオカリナと化す",
+   "summary": "『ゼルダの伝説 時のオカリナ』リメイク版ではオカリナを音声入力で演奏できる。鼻歌どころではないあらゆる音声入力チャレンジがおこなわれている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477933-heade2.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T14:03:34+09:00"
+  },
+  {
+   "id": "553f1bdeb015a0f8",
+   "url": "https://automaton-media.com/articles/newsjp/snow-panic-20261107-477963/",
+   "title": "最大8人対戦・武装スキーレースバトル『Snow Panic』発表、2027年初頭配信へ。銃撃、空爆、さらには“疾走ヤギ爆弾”で相手を妨害",
+   "summary": "KAFIは11月7日、『Snow Panic』を発表した。本作は最大8人プレイに対応するオンライン対戦型スキーレースゲームだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/snow-panic-20261107-477963-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T13:09:31+09:00"
+  },
+  {
+   "id": "b8f7fefe5c0d754e",
+   "url": "https://www.4gamer.net/games/991/G999110/20261106043/",
+   "title": "「東京ゲームダンジョン14」レポート（後編）。誰に頼まれたわけでもないのにこだわってしまう？ そんな癖（へき）な作品たちを発掘！",
+   "summary": "2026年のハロウィンの日に開催された「東京ゲームダンジョン14」は，毎度のごとく作者の“癖”（へき）が強く出ているゲームばかり！ そのすべてをカバーしたいが，原稿には常識的なボリュームと締切が……泣く泣く絞って癖なゲームを紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T13:00:00+09:00"
+  },
+  {
+   "id": "9de6bd3acbf29a2f",
+   "url": "https://www.4gamer.net/games/968/G096869/20261030036/",
+   "title": "伝説のTPS「ギアーズ」は“唯一無二”！ 最新作「Gears of War: E-Day」で味わうカバーシューターの真髄，「バイオ4」から「スプラ」へ続く系譜",
+   "summary": "「ギアーズ」は名前だけ知っている，という人も多いかもしれない。初代発売から20年，その撃ち合いは今も刺激的だ。シリーズの始まりを描く最新作「GearsofWar:E-Day」を入り口に，独特のカバーアクションや熱い協力プレイ，TPSの歴史を変えた魅力を紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-07T12:00:00+09:00"
+  },
+  {
+   "id": "5c44b6db94ccdb45",
+   "url": "https://automaton-media.com/articles/special-column/20261107-477962/",
+   "title": "新作『Football Manager 27』を100時間先行プレイして“前作で批判の多かったところ”を徹底検証。「操作のクリック数は？」「ロナウド見るまで何秒？」、調べまくった",
+   "summary": "前作で不満だった要素が新作でどのように改善されたのか。シリーズを5000時間以上プレイしてきた筆者が、『Football Manager 27』を先行プレイして検証した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477962-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T12:00:00+09:00"
+  },
+  {
+   "id": "6664e6919bbd62e6",
+   "url": "https://automaton-media.com/articles/newsjp/20261107-477965/",
+   "title": "“圧倒的に好評”サイバーパンク質屋シム『Probably Stolen』、売上100万本突破。発売10日で大台到達、自由すぎる怪しげショップ経営が一躍大ヒット",
+   "summary": "tinyBuildは11月7日、『Probably Stolen』の売上が100万本を突破したと発表した。発売から約10日での大台到達となる。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477965-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-07T11:16:23+09:00"
+  },
   {
    "id": "1b55f1369bde291d",
    "url": "https://automaton-media.com/articles/newsjp/20261107-477955/",
@@ -1599,28 +1720,6 @@
    "published": "2026-11-04T19:09:36+09:00"
   },
   {
-   "id": "ed8fab6bca2a0408",
-   "url": "https://www.4gamer.net/games/947/G094765/20261104038/",
-   "title": "「龍が如く 極3 / 龍が如く3外伝 Dark Ties」が60％オフ。セガの「Black Friday Sale Part1」が開催中",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T19:03:07+09:00"
-  },
-  {
-   "id": "09b0238e35d2fbca",
-   "url": "https://www.4gamer.net/games/055/G105539/20261104028/",
-   "title": "1985年にタイトーから発売された家庭用「エレベーターアクション」，コンソールアーカイブスで11月5日に配信決定",
-   "summary": "ハムスターは本日，「コンソールアーカイブスエレベーターアクション」を2026年11月5日に配信すると発表した。今回配信されるのは，1985年にタイトーから8ビット家庭用ゲーム機向けに発売された「エレベーターアクション」を復刻したものだ。スパイとなってビルに潜入し，機密書類を回収して脱出を目指す。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T19:00:00+09:00"
-  },
-  {
    "id": "6c30a06d4268dd9c",
    "url": "https://automaton-media.com/articles/newsjp/20261104-477468/",
    "title": "『Fate/Grand Order（FGO）』「真冬の水着スペシャル ぐだぐだぷにぷにウォーズ！ ～史上最低の爆弾娘～」開催決定。まさかの冬に水着イベントで、美少女松永弾正が配布",
@@ -1720,17 +1819,6 @@
    "published": "2026-11-04T16:18:49+09:00"
   },
   {
-   "id": "0cd164d0bdd85fcc",
-   "url": "https://www.4gamer.net/games/008/G100854/20261104020/",
-   "title": "「ディズニー スパークリンク・スターズ」，配信開始。不思議な輝きに満ちた島を舞台にした，夢を叶えるスパークライダー育成ADV",
-   "summary": "colyは本日，スマホゲーム「ディズニースパークリンク・スターズ」の配信を開始した。サービス形態は基本プレイ無料＋アイテム課金。本作は，不思議な輝きに満ちた島「スパークル諸島・ルミナステア」を舞台にした，夢を叶えるスパークライダー育成ADVだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T15:34:04+09:00"
-  },
-  {
    "id": "3c1a6c27c6d11843",
    "url": "https://automaton-media.com/articles/newsjp/20261104-477375/",
    "title": "Mod共有サイト「Nexus Mods」、AIの利用開示を義務化。「AIの是非」にコミュニティ揺れるも、ひとまず“禁止”はしない",
@@ -1740,17 +1828,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-04T15:32:06+09:00"
-  },
-  {
-   "id": "d8204e6069cf8d28",
-   "url": "https://www.4gamer.net/games/055/G105524/20261104024/",
-   "title": "「アクションゲームツクールG」がmacOSとLinuxをサポート。最新アップデート「バージョン2.1」が公開に",
-   "summary": "GotchaGotchaGamesは2026年11月4日，「アクションゲームツクールG」の最新アップデート「バージョン2.1」を公開した。本アップデートでは，対応環境が見直され，macOSとLinuxでも動作するようになった。さらに，制作したゲームをmacOS，iOS，Linux向けに出力できるようになった。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T15:17:34+09:00"
   },
   {
    "id": "2e34f38f8f2bc593",
@@ -2125,83 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-02T13:05:33+09:00"
-  },
-  {
-   "id": "f865d62293b5fd15",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477084/",
-   "title": "“光”が大事なドット絵ホラー『Asleep: Act 1』がSteamで無料配布中。「非常に好評」な作品",
-   "summary": "CriticalLeapは10月31日、Black Hole Gamesが手がけるホラーゲーム『Asleep: Act 1』の無料配布を開始した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477084-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T12:58:31+09:00"
-  },
-  {
-   "id": "d0ecbfffbe7b5f59",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477078/",
-   "title": "Steamで10月発売の新作ゲーム、「約半数が生成AI使用を開示していた」との調査報告。1年でほぼ倍増、ただし“使い道”は千差万別",
-   "summary": "Steamにて2026年10月に出た新作ゲームでのAI使用の開示率は49.9％であったという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477078-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T12:40:53+09:00"
-  },
-  {
-   "id": "ea65ef02bc5f228e",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477071/",
-   "title": "名越スタジオ解散。資金打ち切りなどが報じられてきたなかで",
-   "summary": "11月2日に公開された官報で、名越稔洋氏率いる名越スタジオが解散したことが明らかとなった。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/03/c170a48bd8f55e0c1f2c19eed77ccdf3.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T12:10:57+09:00"
-  },
-  {
-   "id": "4e037cd3263b2aad",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477061/",
-   "title": "マルチ月面掃除シム『Moon Sweepers』マッハで60万本売れていた。はてしなく過酷で気持ちいい労働、Steamの新たなヒット作に",
-   "summary": "DragDrop Gamesは10月30日、『Moon Sweepers』の累計プレイヤー数が60万人を突破したと発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477061-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T11:48:03+09:00"
-  },
-  {
-   "id": "66d03c53c94665bf",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477052/",
-   "title": "『テイルズ オブ デスティニー』、約30年越しに「リリスを正式に仲間にする方法」が新発見される。老舗攻略ファンサイトが急に報告、盛り上がる",
-   "summary": "『テイルズ オブ デスティニー』にて約29年越しに「リリスを正式に仲間にする」新発見が報告され、話題を博している。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477052-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T11:02:05+09:00"
-  },
-  {
-   "id": "19e2f7396178558d",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477047/",
-   "title": "『キングダムカム』シリーズ開発元、サイバー攻撃によって「開発が完全に止まっている」との関係者証言。“PC起動禁止令”の噂も出回る",
-   "summary": "Warhorse Studiosは10月27日、サイバー攻撃を受けたことを報告した。一部の関係者証言によると現在は開発が完全にストップする事態になっているとのことだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477047-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T10:33:33+09:00"
-  },
-  {
-   "id": "431b02f9e59cfc83",
-   "url": "https://automaton-media.com/articles/now-gaming/20261101-477034/",
-   "title": "『Phantom Blade Zero』はいろんなエッセンスも感じて面白い……けどルビが欲しい。『ファイナルファンタジー レゾナンス』はRPGの幕の内弁当。『Nintendo Switch Sports Resort』ゆび相撲は実質格闘ゲーム。今週のゲーミング",
-   "summary": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。568回目です。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-477034-004.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-01T18:21:21+09:00"
   }
  ]
 }
