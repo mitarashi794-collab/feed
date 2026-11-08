@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-08T22:36:30+09:00",
+ "generated_at": "2026-11-09T03:52:22+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "5a51fb9287e59e33",
+   "url": "https://www.4gamer.net/games/055/G105589/20261105059/",
+   "title": "「ヒロアカUR」のスマホ版「僕のヒーローアカデミア ULTRA RUMBLE モバイル」が発表。人気キャラのコスチュームが手に入る事前登録キャンペーンがスタート",
+   "summary": "バンダイナムコエンターテインメントは本日（2026年11月9日），スマートフォン向けアプリ「僕のヒーローアカデミアULTRARUMBLEモバイル」を発表し，事前登録受付を開始した。これに合わせ，事前登録者数に応じてゲーム開始時にもらえる報酬が増える事前登録キャンペーンも実施されている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "df439f72fb57618f",
    "url": "https://automaton-media.com/articles/newsjp/20261108-478163/",
@@ -1839,17 +1850,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-04T20:00:23+09:00"
-  },
-  {
-   "id": "ea0d8809578e43b5",
-   "url": "https://www.4gamer.net/games/043/G104367/20261104043/",
-   "title": "シューティングゲーム「Karous -The Blur of Re:venant- New Order」，ゲームの魅力や限定版パッケージを紹介するPVが公開に",
-   "summary": "RS34は2026年11月4日，シューティングゲーム「Karous-TheBlurofRe:venant-NewOrder」の新規プロモーションムービーを公開した。今回のPVでは，ステージにさまざまなクリア条件が存在する点や，使えば使うほど武器が成長する点など，本作が持つ数々の魅力が紹介されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T19:59:52+09:00"
   },
   {
    "id": "423296a04608341b",
