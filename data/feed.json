@@ -1,8 +1,63 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-08T08:42:31+09:00",
+ "generated_at": "2026-11-08T15:12:54+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "d882a94eaa4065d3",
+   "url": "https://automaton-media.com/articles/special-column/20261108-478121/",
+   "title": "子どもの五感と好奇心、そして行動で世界を見つめ直す。“自分なりの答え”を持つ大切さを教えてくれる、平成レトロ団地ADV『Danchi Days』をもう遊んだか",
+   "summary": "『Danchi Days』は、日々の生活の中で大事な「感じて、想像して、行動する」ことを、そしてその面白さを再び提示してくれる。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478121-image1.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-08T14:59:23+09:00"
+  },
+  {
+   "id": "9353077cdc5fb294",
+   "url": "https://automaton-media.com/articles/newsjp/20261108-478108/",
+   "title": "『ゼルダの伝説 時のオカリナ』リメイク版の「仮面」の新要素が“闇たっぷり”でえげつない。いろんなキャラの裏の顔、バレバレ",
+   "summary": "『ゼルダの伝説 時のオカリナ』リメイク版で追加された要素の闇が深いとして話題になっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478108-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-08T14:03:19+09:00"
+  },
+  {
+   "id": "0e60eaf407da5e30",
+   "url": "https://automaton-media.com/articles/interviewsjp/20261108-478098/",
+   "title": "日本の町でドリブルしまくるゲーム『Kick』を手がけるスイス人開発者は、アニメとYouTubeで「生の日本」に惚れ込んだ。異国から描く“日本の日常”、ボールと共に駆け抜ける",
+   "summary": "日本の通学路をドリブルで駆け抜ける『Kick』の開発経緯や、本作でこだわった“日本らしさ”について話を訊いた。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478098-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-08T13:00:21+09:00"
+  },
+  {
+   "id": "ea2944213eb8444d",
+   "url": "https://automaton-media.com/articles/special-column/20261108-478084/",
+   "title": "基本プレイ無料『NTE』新バージョンに「戦車」が来る。乗り物の“治安悪すぎる遊び方”を試しまくった",
+   "summary": "『NTE: Neverness to Everness』Ver.1.5で戦車が登場する。その前に、今ある乗り物で“やってみたかったこと”を試しつつ、先行試遊で戦車とライオンの遊具にも乗ってみた。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478084-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-08T12:03:38+09:00"
+  },
+  {
+   "id": "f74d513b01706caf",
+   "url": "https://automaton-media.com/articles/newsjp/20261108-478078/",
+   "title": "ポケモンカードを「換金用の景品」にしていた違法賭博場が摘発される。ゲットしたカードで“ポケモン三店方式”",
+   "summary": "テキサス州当局は11月4日、賭博行為の疑いで地元の複数のゲームセンターを摘発した。摘発された店舗では、『ポケモンカードゲーム』のカードが景品として用いられていたという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478078-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-08T10:45:33+09:00"
+  },
   {
    "id": "bf37c48ecadb084c",
    "url": "https://www.4gamer.net/games/982/G098281/20261107003/",
@@ -2147,61 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-02T22:15:01+09:00"
-  },
-  {
-   "id": "af4aea24f3d103e8",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477148/",
-   "title": "Nintendo Switch 2『ゼルダの伝説』40周年記念モデル、高額転売に“空振り”続出か。予約困難から一転、普通に買える",
-   "summary": "少なくとも本稿執筆時点では意外と定価で購入できるストアも複数見受けられる。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477148-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T21:00:45+09:00"
-  },
-  {
-   "id": "0a5293d66bbfa2e4",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477140/",
-   "title": "生産終了済み「Valve Index」を5000時間以上愛用した猛者、コントローラーが壊れて絶望するもValveが救済。保証期間とっくにオーバーでも救いの手",
-   "summary": "生産終了されたばかりの「Valve Index」のコントローラーが壊れたというユーザーが、Valveに交換対応をおこなってもらったという投稿が注目を集めている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261014-473332-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T18:40:02+09:00"
-  },
-  {
-   "id": "d5d17199c093f501",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477130/",
-   "title": "50体のAIに『マインクラフト』で文明づくりさせたらどうなるか。“ビビリお役所仕事集団”が誕生した",
-   "summary": "Y CombinatorおよびOlam Labsは10月30日、多数のAIエージェントの振る舞いについての研究「Agents in Games」を公開した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477130-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T17:01:18+09:00"
-  },
-  {
-   "id": "8e5b16bbfdb263b3",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477124/",
-   "title": "PCゲーム誰でも公開サイトitch.io公式が“新規ゲームがさすがに増えすぎ”と悲しげに報告。「遊ばれてないAI製ゲーム」が大量か",
-   "summary": "ゲーム配信プラットフォームitch.ioにて、新規作成されるゲームページの1日あたりの数が、2か月の間で倍に増加しているという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477124-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T15:39:14+09:00"
-  },
-  {
-   "id": "1605fcf0fa77134f",
-   "url": "https://automaton-media.com/articles/newsjp/20261102-477115/",
-   "title": "Valveがボツにした『Portal』の前日譚ゲーム、有志の手で復元される。Steam旧システムの漏洩と、“謎のデータ提供者”登場によって",
-   "summary": "Valveがかつて企画し、お蔵入りとなった未発売のプロジェクト、通称「F-Stop」が有志の手によって復元されたという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477115-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-02T14:48:05+09:00"
   }
  ]
 }
