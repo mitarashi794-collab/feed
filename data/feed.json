@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T03:52:22+09:00",
+ "generated_at": "2026-11-09T07:56:18+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "57000e9763b4d47b",
+   "url": "https://www.4gamer.net/games/040/G004099/20261108001/",
+   "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年11月2日〜11月8日",
+   "summary": "2026年11月2日〜11月8日，4Gamerに掲載された記事は230本でした。タイのバンコクで開催された「gamescomasiaxThailandGameShow2026」のレポートや，「グランド・セフト・オートVI」のまとめ記事などを掲載した，4Gamerと世界のゲーム業界の1週間を振り返ってみましょう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-09T07:00:00+09:00"
+  },
   {
    "id": "5a51fb9287e59e33",
    "url": "https://www.4gamer.net/games/055/G105589/20261105059/",
@@ -1828,17 +1839,6 @@
    "source_id": "4gamer",
    "category": "news",
    "published": "2026-11-04T20:10:05+09:00"
-  },
-  {
-   "id": "7275ca9b363f2797",
-   "url": "https://www.4gamer.net/games/983/G098332/20261104047/",
-   "title": "「ブリガンダイン アビス」，無料アップデートのロードマップを公開。2027年4月には自由な編成で全国統一を目指す「フリーモード」を追加",
-   "summary": "ハピネットは本日，ターン制ストラテジー「ブリガンダインアビス」の無料アップデートロードマップを公開した。2027年4月までに全4回のアップデートを予定しており，第4弾では「フリーモード」などを追加する。また，PC（Steam）/PS5/XBOXSeriesX|S向けに第1弾アップデートを配信開始した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-04T20:09:03+09:00"
   },
   {
    "id": "b8933ee35bb28988",
