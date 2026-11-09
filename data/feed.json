@@ -1,8 +1,118 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T20:43:32+09:00",
+ "generated_at": "2026-11-10T07:28:15+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "a7bef81af54ef2e0",
+   "url": "https://www.4gamer.net/games/056/G105682/20261110002/",
+   "title": "シリーズ最新作「Beholder 4」が発表。国家に忠実な若手職員を装い，地下組織を支援する“二重スパイ”アドベンチャーゲーム",
+   "summary": "Alawarは本日（2026年11月10日），同社が展開する「Beholder」シリーズの10周年に合わせて，最新作「Beholder4」を発表した。新たな主役は，省庁職員でありながら地下組織のために機密情報を集める工作員。警察に気付かれないように証拠を集め，監視社会の打倒を目指して活動することになる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T07:00:00+09:00"
+  },
+  {
+   "id": "2e29a33fd0e30275",
+   "url": "https://www.4gamer.net/games/915/G091599/20261110001/",
+   "title": "「シーオブレムナンツ」，クローズドβテストを12月4日からスタート。今回はPCだけでなく，PS5やスマートフォンからでも参加可能",
+   "summary": "NetEaseGamesは2026年11月9日，ターン制ローグライクアドベンチャー「シーオブレムナンツ」のクローズドβテスト「ドーンブレイカー号テスト」を12月4日から18日まで開催すると発表した。PC版だけでなく，PS5版やスマートフォン版なども対象で，テスト開始後に参加コードなしで参加できる先着枠も用意される。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T06:09:07+09:00"
+  },
+  {
+   "id": "b579828f2bc544b1",
+   "url": "https://www.4gamer.net/games/048/G104899/20261105036/",
+   "title": "推しの声に励まされ，牌を切る。「ホロライブ麻雀 -ホロじゃん-」のメディア先行体験会で，最新の“推し活”を体験してきた【オリジナル雀卓コード付】",
+   "summary": "「ホロライブ麻雀-ホロじゃん-」は，ホロライブのタレントたちと一緒に麻雀が楽しめるオンラインゲームだ。同作のメディア先行プレイ会に参加してきたので，その模様をレポートする。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T00:00:00+09:00"
+  },
+  {
+   "id": "80a3dee2f85e050c",
+   "url": "https://www.4gamer.net/games/056/G105681/20261109050/",
+   "title": "オンラインロビーに集まり，世界中のプレイヤーのピアノ演奏を聴こう。「PianoGlow」，Steamで配信開始",
+   "summary": "TheAlanskiは2026年11月6日，新作タイトル「PianoGlow」をリリースした。本作は，オンライン上のマルチプレイロビーでピアノを演奏したり，ほかのプレイヤーの演奏を聴いたりする，マルチプレイシミュレーションゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-09T21:42:14+09:00"
+  },
+  {
+   "id": "ad98ffe8ae64a059",
+   "url": "https://www.4gamer.net/games/056/G105680/20261109049/",
+   "title": "人類滅亡後，虫の民“インセクタ”が暮らす世界では“進化”が絶対の法則となっている。ストーリー重視の百合ADV「Argent Cocoon」，体験版配信開始",
+   "summary": "中国のインディー開発スタジオ白鸢尾剧团WhiteIrisStudioは，PC向け百合ADV「ArgentCocoon」の体験版をSteamで配信開始した。本作は，人類滅亡後の世界を舞台に，進化を絶対の法則とする社会で，自らの運命に疑問を抱き始める主人公の姿を描く作品だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-09T21:19:47+09:00"
+  },
+  {
+   "id": "37e0267c10b6f69c",
+   "url": "https://www.4gamer.net/games/949/G094998/20261109047/",
+   "title": "石川界人さんや岡本信彦さんらのボイスを収録。本格クライムサスペンス恋愛ADV「アストライアの罪咎」，第2弾PVを公開",
+   "summary": "エディアは本日（2026年11月9日），2027年3月25日発売予定のNintendoSwitch用ソフト「アストライアの罪咎」の第2弾PVを公開した。石川界人さんや岡本信彦さんらメインキャスト6名のボイスを収録している。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-09T21:19:42+09:00"
+  },
+  {
+   "id": "5861c3998c755f74",
+   "url": "https://automaton-media.com/articles/newsjp/20261109-478310/",
+   "title": "『ゼルダの伝説 時のオカリナ』リメイク版で、モリブリンの「立派すぎる尻」に熱い注目。決意の丸出しバキバキ美尻",
+   "summary": "モリブリンが装備する鎧のデザインが変更された結果、筋骨隆々の背中と臀部があらわになっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478310-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-09T21:10:31+09:00"
+  },
+  {
+   "id": "358437741b4ed93d",
+   "url": "https://www.4gamer.net/games/056/G105644/20261109046/",
+   "title": "ゆったりとした空間で，色とりどりのブロックを組み立てよう。「Brick Buddies」，配信開始",
+   "summary": "BunnyhopHomeは本日（2026年11月9日），新作タイトル「BrickBuddies」をリリースした。本作は，作業台いっぱいに広がる色とりどりのブロックを説明書どおりに組み合わせていく，3Dブロック組み立てゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-09T21:04:59+09:00"
+  },
+  {
+   "id": "6cdfbb3448f45906",
+   "url": "https://www.4gamer.net/games/476/G047609/20261109039/",
+   "title": "「プロセカ」，チアフルカーニバルイベントテストイベントを開催中",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-09T21:00:00+09:00"
+  },
+  {
+   "id": "7096786f9614b9fb",
+   "url": "https://www.4gamer.net/games/056/G105679/20261109043/",
+   "title": "麻雀にカードバトルを組み合わせた「雀札」，体験版を公開。ロンを無効化したり，相手が捨てる牌を指定したりできる対戦ゲーム",
+   "summary": "個人ゲーム開発者のやまとなでしこ氏は，麻雀とカードバトルを組み合わせた対戦ゲーム「雀札（じゃんふだ）」の体験版を公開した。ロンを無効化したり，相手が捨てる牌を指定したりと，カードの効果で局面を変えられるのが特徴だ。PCやスマートフォンのブラウザから，登録不要でプレイできる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-09T20:45:21+09:00"
+  },
   {
    "id": "89bf580bf8e02d60",
    "url": "https://automaton-media.com/articles/newsjp/20261109-478299/",
@@ -337,7 +447,7 @@
    "id": "a71022cd0fdd19b7",
    "url": "https://automaton-media.com/articles/newsjp/20261109-478205/",
    "title": "『ドラゴンクエストRPG 魔界樹と導かれし島』突然発表、スマホ向け新作。まだ謎だらけ、明日20時に詳細公開へ",
-   "summary": "スクウェア・エニックスは11月9日、スマートフォン向け新作タイトル『ドラゴンクエストRPG 魔界樹と導かれし島』を発表した。ゲームの詳細は明日11月10日20時にYouTubeにて動画がプレミア公開される 現時点では、新 […]",
+   "summary": "スクウェア・エニックスは11月9日、スマートフォン向け新作タイトル『ドラゴンクエストRPG 魔界樹と導かれし島』を発表した。",
    "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/header-2.jpg",
    "source": "AUTOMATON",
    "source_id": "automaton",
@@ -1577,17 +1687,6 @@
    "published": "2026-11-05T20:32:52+09:00"
   },
   {
-   "id": "199f47c46fb245c3",
-   "url": "https://www.4gamer.net/games/637/G063740/20261105057/",
-   "title": "オープンワールド農業ゲーム「Lightyear Frontier」，本日正式リリース。過去最大の難題に挑み，物語の壮大なフィナーレを見届けよう",
-   "summary": "FRAMEBREAKとCoffeeStainは本日，早期アクセスを実施していた「LightyearFrontier」のVer1.0を配信し，正式リリースした。正式版では，メインストーリーが完結し，壮大なフィナーレを迎えられるようになったほか，新たなエリアが追加され，過去最大の難題がプレイヤーを待ち受けている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T20:30:37+09:00"
-  },
-  {
    "id": "0d70e46c25aee066",
    "url": "https://automaton-media.com/articles/interviewsjp/crymelight-mugenzakura-20261105-477793/",
    "title": "「11月5日」は、実はゲームにとってちょうどいい発売日だった。同日発売美少女ローグライク『夢幻桜楼閣』『クライムライト』開発者に、「なぜGTA6間近にしたのか」訊いた",
@@ -1610,61 +1709,6 @@
    "published": "2026-11-05T20:11:30+09:00"
   },
   {
-   "id": "89d9c65d03eb8df1",
-   "url": "https://www.4gamer.net/games/055/G105586/20261105047/",
-   "title": "夜のキッチンを舞台に，200万匹以上のゴキブリを駆除していく「Too Many Roaches」，体験版配信開始",
-   "summary": "HeavyFeatherGamesは本日，PC向け新作「TooManyRoaches」の体験版をSteamで配信開始した。本作は，夜のキッチンに潜む200万匹以上のゴキブリを駆除し，その数をゼロにすることを目指すゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T20:07:07+09:00"
-  },
-  {
-   "id": "21ef7015db1664e8",
-   "url": "https://www.4gamer.net/games/797/G079769/20261105055/",
-   "title": "「ソニックランブル パーティ」，1周年記念イベントを開催",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T20:05:19+09:00"
-  },
-  {
-   "id": "5072f771e0d6183c",
-   "url": "https://www.4gamer.net/games/003/G100323/20261105048/",
-   "title": "「コードネーム：神不言」で目指すのはリアルでありながらもデフォルメされた美。開発陣へのインタビューを公開",
-   "summary": "ARCHOSAURGAMESは2026年11月2日，女性向けゲーム「コードネーム：神不言」のキャラクター表現に関する開発者インタビューを公開した。キャラクターの造形や表情，レンダリング技術について解説されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T20:02:21+09:00"
-  },
-  {
-   "id": "ffcec4fa83c18748",
-   "url": "https://www.4gamer.net/games/991/G999112/20261105032/",
-   "title": "わしゃがなTVの最新動画では，ゲーム攻略本福箱の開封動画をお届け。「スパロボF完結編」をはじめ名作タイトルのレア本が登場",
-   "summary": "本日，声優の中村悠一さんと，フリーライターのマフィア梶田さんによるWeb番組「わしゃがなTV」の最新動画が公開された。今回は，中村さんが購入した「ゲーム攻略本福箱」の開封動画をお届け。懐かしのタイトルの攻略本が続々と登場する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T20:00:00+09:00"
-  },
-  {
-   "id": "f4c6e2eed585538b",
-   "url": "https://www.4gamer.net/games/434/G043434/20261105053/",
-   "title": "「『ぷよぷよeスポーツ』オールスタードラフトマッチ」，出場選手と内容が決定",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T19:55:48+09:00"
-  },
-  {
    "id": "d3e6ed42ab603abc",
    "url": "https://automaton-media.com/articles/newsjp/20261105-477783/",
    "title": "「クマのプーさん」を美少女化したサイコホラーゲームがひそかに話題に。どういう発想",
@@ -1674,39 +1718,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-05T19:41:46+09:00"
-  },
-  {
-   "id": "0aec68bcab4f7702",
-   "url": "https://www.4gamer.net/games/035/G103503/20261105052/",
-   "title": "「Japanese Ramen Simulator」，新たなメニュー“唐揚げ”が登場。お客が自分で水を汲む“セルフ式ウォーターサーバー”も",
-   "summary": "ワイルドドッグは2026年10月28日，Steamで配信中の「JapaneseRamenSimulator」にアップデートを配信した。今回は，新たなメニュー「唐揚げ」や「セルフ式ウォーターサーバー」，多数の装飾品などが追加されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T19:40:55+09:00"
-  },
-  {
-   "id": "786571dd4425e9b0",
-   "url": "https://www.4gamer.net/games/348/G034868/20261105051/",
-   "title": "「PUBG」，K-POPアイドルグループ「IVE」とのコラボを開始",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T19:37:44+09:00"
-  },
-  {
-   "id": "0d40ea1e8066411f",
-   "url": "https://www.4gamer.net/games/055/G105584/20261105043/",
-   "title": "レトロゲームのような画面で遊ぶオンラインかくれんぼゲーム「MONO CHAMELEON」，Steamで配信開始。最大10人でプレイ可能",
-   "summary": "PocketStudioは本日，PC用ソフト「MONOCHAMELEON」の配信をSteamで開始した。本作は，レトロゲームのような画面で遊ぶオンラインかくれんぼゲームだ。プレイ人数は2人から10人。配信者向けの機能も収録されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T19:25:13+09:00"
   },
   {
    "id": "084a8e6b607516ce",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-04T11:39:55+09:00"
-  },
-  {
-   "id": "79830ed4a4d6fce0",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477309/",
-   "title": "『Stardew Valley』次の大型アプデ1.7は「本作史上最大規模」になりそう。新結婚候補は“氷山の一角”、来年リリース予定",
-   "summary": "『Stardew Valley』に向けて予定されている1.7アップデートは“史上最大のアップデート”になるという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477309-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T10:50:34+09:00"
   }
  ]
 }
