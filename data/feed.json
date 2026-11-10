@@ -1,8 +1,382 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T13:39:24+09:00",
+ "generated_at": "2026-11-10T22:33:00+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "8315a138dc3b7632",
+   "url": "https://www.4gamer.net/games/869/G086971/20261110048/",
+   "title": "「Arkheron」はフレンドパス対応で1人買えば3人遊べる。価格やサポーターエディションなどの情報が公開に",
+   "summary": "BonfireStudiosは本日（2026年11月10日），日本時間の11月28日に早期アクセスの開始を予定している新作タイトル「Arkheron」の最新情報を発表した。リリースから3日間は誰でも無料でプレイできるほか，1人買えば3人遊べる“フレンドパス”の内容も明かされた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T21:32:00+09:00"
+  },
+  {
+   "id": "c474ea7505724882",
+   "url": "https://www.4gamer.net/games/348/G034868/20261110046/",
+   "title": "KRAFTON，2026年第3四半期の業績を発表。「PUBG」10周年記念アップデートの計画や新作「PUBG: DED.NET」の開発状況を公開",
+   "summary": "KRAFTONは本日，2026年第3四半期の業績を発表した。2027年に「PUBG」シリーズ10周年を記念した過去最大規模のアップデートを計画しているほか，「サブノーティカ2」の年末の大型アップデートや，新作シューター「PUBG:DED.NET」の開発状況なども明らかになっている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T21:24:25+09:00"
+  },
+  {
+   "id": "234efe61852e83b8",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478512/",
+   "title": "AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前に、“AIフレンドリー”なゲームエンジンへと様変わり",
+   "summary": "Epic Gamesは11月10日、「Unreal Engine 5.9 MegaJam Preview」を配信開始した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478512-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T20:54:44+09:00"
+  },
+  {
+   "id": "5cc841fb1badb9e5",
+   "url": "https://www.4gamer.net/games/719/G071932/20261110045/",
+   "title": "記憶のない殺人の罪を問われるアンドロイドが事件の真相を追う。ポイント＆クリック型ADV「Neo Junk City」，本日リリース",
+   "summary": "StarbladeGamesは本日（2026年11月10日），新作タイトル「NeoJunkCity」をリリースした。本作は，水没したニューヨークの上に築き上げられた都市を舞台とする，ポイント＆クリック型のサイバーパンクアドベンチャーだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T20:39:00+09:00"
+  },
+  {
+   "id": "404c3577ce5a95b8",
+   "url": "https://www.4gamer.net/games/442/G044288/20261110043/",
+   "title": "「アークナイツ」と「モンスターハンター」がコラボ。詳細は後日案内",
+   "summary": "2026年11月10日，Yostarが運営する「アークナイツ」の公式Xで，カプコンが手掛ける「モンスターハンター」とのコラボレーション決定が告知された。現在はプロモーションムービーが公開されており，後日，詳細が案内されるとのこと。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T20:28:45+09:00"
+  },
+  {
+   "id": "45a9c9fec2bc566a",
+   "url": "https://www.4gamer.net/games/056/G105640/20261109024/",
+   "title": "「ドラゴンクエストRPG 魔界樹と導かれし島」，クローズドβテストを12月8日から15日まで開催。テスター2万5000人の募集を開始",
+   "summary": "スクウェア・エニックスは本日（2026年11月10日），スマホアプリ「ドラゴンクエストRPG 魔界樹と導かれし島」の概要を公開した。本作は，「ドラゴンクエスト」シリーズが持つ「探索する・コマンドで戦う・育てる」というRPGの冒険体験を，スマホ向けに設計した作品だ。また，クローズドβテストの開催も決定した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T20:18:26+09:00"
+  },
+  {
+   "id": "8d894939e4127655",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478473/",
+   "title": "『ドラゴンクエストRPG 魔界樹と導かれし島』正式発表。堀井雄二氏が“あえてRPGと付けた”、ドラクエらしい基本プレイ無料ゲーム",
+   "summary": "スクウェア・エニックスは11月10日、コマンドRPG『ドラゴンクエストRPG 魔界樹と導かれし島』を正式発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478473-header.jpeg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T20:15:32+09:00"
+  },
+  {
+   "id": "7f8fac0211d0b4eb",
+   "url": "https://www.4gamer.net/games/841/G084126/20261110041/",
+   "title": "BMXで島を駆け巡り，郵便を届けよう。「TANUKI: Pon's Summer - タヌキ：ポンの夏」，本日発売。100種類以上のBMXチャレンジも楽しめる",
+   "summary": "CRITICALREFLEXは本日，オープンワールドADV「TANUKI:Pon'sSummer-タヌキ：ポンの夏」を発売した。郵便配達員のタヌキ「ポン」となり，BMXで日本の島を駆け巡りながら配達や住民との交流を楽しむ作品だ。100種類以上のBMXチャレンジや多彩なアクティビティも用意され，その報酬で神社の再建を目指す。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T20:13:44+09:00"
+  },
+  {
+   "id": "92ef0d84f5b387ec",
+   "url": "https://www.4gamer.net/games/057/G105719/20261110038/",
+   "title": "実際の課金要素がないのに，廃課金気分を味わえるシム「Test Your Luck: Gacha Simulator」発表，2027年に発売予定",
+   "summary": "Mojibakeは本日，新作「TestYourLuck:GachaSimulator」を発表した。本作は，ゲーム内で稼いだコインをさまざまなガチャにつぎ込むシミュレーションゲームだ。実際の課金要素は一切存在しないのに，廃課金気分を味わえる作品となっている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T20:12:49+09:00"
+  },
+  {
+   "id": "057a6f73667e9fa1",
+   "url": "https://www.4gamer.net/games/057/G105715/20261110037/",
+   "title": "お金を破壊するインクリメンタルゲーム「What the Buck?!」，Steamで本日発売。炎や雷が紙幣から紙幣へ連鎖する",
+   "summary": "LoertingGamesは本日，kohlgamesが開発したPCゲーム「WhattheBuck?!」をSteamで発売した。本作は，お金を破壊するインクリメンタルゲームだ。プレイヤーはATMにクレジットカードを通し，テーブルに落ちてくる紙幣を破壊していく。破壊した分だけお金が手に入り，それを元手にアップグレードを取得できる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T19:56:56+09:00"
+  },
+  {
+   "id": "f9e30a402c1fa9fd",
+   "url": "https://www.4gamer.net/games/057/G105708/20261110039/",
+   "title": "廃れてしまった故郷の家々を巡ってリノベーション。「Hozy」のPS5 / XBOX Series X|S版が本日リリース",
+   "summary": "tinyBuildは本日（2026年11月10日），ComeOnStudioが開発したシミュレーションゲーム「Hozy」のPlayStation5/XBOXSeriesX|S版をリリースした。本作は，忘れ去られ廃れてしまった故郷の家々を探索し，掃除や塗装をして蘇らせる空き家リノベーションゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T19:41:18+09:00"
+  },
+  {
+   "id": "bf816d1bba1ff876",
+   "url": "https://automaton-media.com/articles/reportjp/beyondthedark-20261110-478481/",
+   "title": "Nintendo Switch 2向け2人協力プレイホラー『Beyond the Dark: ナイトウォッチ』プレイ感想。思ったよりかなり高難度、怖くて難しく次第に無言になる協力ゲーム",
+   "summary": "『Beyond the Dark: ナイトウォッチ』は、Atlantis Studioが手がけ、日本を含むアジア地域ではキュー・ゲームスが販売を担当する2人協力プレイ専用のホラーゲームだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/beyond-the-dark-night-watch-20261110-478481-001.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T19:37:21+09:00"
+  },
+  {
+   "id": "4ba00e7e27c29477",
+   "url": "https://www.4gamer.net/games/057/G105717/20261110040/",
+   "title": "宇宙ヒツジの群れを追い立てて金を稼ぐドタバタ宇宙西部劇「Ranchonauts」，2027年内にSteamで発売",
+   "summary": "GoldFireStudiosは2026年11月10日，「Ranchonauts」を2027年内にSteamで発売すると発表した。本作は，宇宙船が大破して未知の惑星で立ち往生している探検家が，莫大な修理費を稼ぐために「宇宙ヒツジ」の群れを追い立て，町から町へと移動して金を稼ぐ「宇宙西部劇協力アクション」だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T19:36:30+09:00"
+  },
+  {
+   "id": "1630143639f21f6a",
+   "url": "https://www.4gamer.net/games/056/G105683/20261110036/",
+   "title": "先生の目を盗んでイタズラを仕掛けろ。最大8人で遊べる対戦ゲーム「Worst Class Ever」，Steamで本日発売",
+   "summary": "2PGamesは本日，対戦型パーティーゲーム「WorstClassEver」をSteamで発売した。最大8人で先生と生徒に分かれ，授業中のイタズラをめぐって対戦する作品だ。開発元によると，10月のSteamNextフェスでは体験版がプレイヤー数ランキングで1位を獲得し，累計ダウンロード数も100万回を突破したという。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T19:03:17+09:00"
+  },
+  {
+   "id": "5799b5c261c8dd80",
+   "url": "https://www.4gamer.net/games/999/G999905/20261110027/",
+   "title": "ネクソン，2026年度第3四半期の連結業績を発表。「ARC Raiders」の累計販売本数が1700万本を突破。「メイプルストーリー」フランチャイズが好調で業績をけん引",
+   "summary": "ネクソンは本日，2026年度第3四半期の連結業績を発表した。「メイプルストーリー」フランチャイズの好調が業績をけん引したほか，「ARCRaiders」の累計販売本数が1700万本を突破したことも明らかになった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T18:42:53+09:00"
+  },
+  {
+   "id": "b0738c35aa94fc06",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478465/",
+   "title": "『ゼルダの伝説 時のオカリナ』フルリメイク版、「平均クリア時間が原作より10時間以上短い」と話題に。時を超え、ハイラル救済高速化",
+   "summary": "『ゼルダの伝説 時のオカリナ』フルリメイク版の平均クリア時間が、オリジナル版よりもかなり短めであることが注目されている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476592-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T18:26:58+09:00"
+  },
+  {
+   "id": "1eb38f255d3246c7",
+   "url": "https://www.4gamer.net/games/999/G999902/20261110034/",
+   "title": "スマートグラスのEven Realitiesがブラックフライデー＆クリスマスキャンペーンを開催。アクセサリーが最大半額に",
+   "summary": "2026年11月10日，スマートグラスメーカーのEvenRealitiesは，11月13日から12月26日まで，ブラックフライデーおよびクリスマスキャンペーンを開催すると発表した。期間中は，スマートグラス「EvenG2」用の指輪型操作デバイス「EvenR1」を特別価格で購入できる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T18:17:06+09:00"
+  },
+  {
+   "id": "2751c16c9c477e17",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478459/",
+   "title": "Steam無料・マインスイーパーRPG『Battle Sweeper』まもなく配信終了へ。今入手すればずっと遊べる",
+   "summary": "AlpaSun Gamesは11月9日、無料ゲーム『Battle Sweeper』を配信終了すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478459-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T18:16:11+09:00"
+  },
+  {
+   "id": "4f73042c7c43a0dc",
+   "url": "https://www.4gamer.net/games/941/G094178/20261110030/",
+   "title": "3〜6人用の正体隠匿パーティゲーム「人狼バーガー」，Steamで本日発売。1つのハンバーガーを作りながら，厨房に紛れたスパイを見つけ出す",
+   "summary": "タカラトミーは本日，uraconが開発したPCゲーム「人狼バーガー」をSteamで発売した。本作は，みんなで1つのハンバーガーを作りながら，厨房に紛れたスパイを見つけ出す3〜6人用の正体隠匿パーティゲームだ。プレイヤーは秘密裏に「店員」と「スパイ」のチームに分かれる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T18:06:05+09:00"
+  },
+  {
+   "id": "8db0d707d2b7cdf1",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478443/",
+   "title": "終末東京ホラー『NIGHTMARE OPERATOR』正式発表。沢城みゆきさん主演、「銃」で撃ちまくるハイテクコンボ妖怪退治",
+   "summary": "集英社ゲームズは11月10日、DDDistortionが手がけるTPSアクションホラーゲーム『NIGHTMARE OPERATOR』を正式発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478443-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T18:00:01+09:00"
+  },
+  {
+   "id": "5c90a7fbcc6939e7",
+   "url": "https://www.4gamer.net/games/903/G090342/20261109044/",
+   "title": "「NIGHTMARE OPERATOR」のパブリッシャが集英社ゲームズに決定。新たなキービジュアルとティザートレイラーも解禁",
+   "summary": "集英社ゲームズは2026年11月10日，「NIGHTMAREOPERATOR」のパブリッシングを担当すると発表した。本作は，渋谷を拠点とするゲームスタジオDDDistortionが開発を進めるTPSアクションホラーだ。また，新たなキービジュアルとティザートレイラーも公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T18:00:00+09:00"
+  },
+  {
+   "id": "776784a23d29be4d",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478451/",
+   "title": "『アークナイツ』にて『モンスターハンター』と新コラボ開催決定。カムラ装備っぽいアイルーやガルクらしき影も",
+   "summary": "Yostarは11月10日、Hypergryphが開発する『アークナイツ』にて、『モンスターハンター』シリーズとのコラボを開催すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478451-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T17:53:55+09:00"
+  },
+  {
+   "id": "189bb0a4bab71f8b",
+   "url": "https://www.4gamer.net/games/011/G001163/20261110028/",
+   "title": "「メイプルストーリー」23周年記念アニメ「DEAR MY HERO」を鑑賞。可愛らしい絵柄と対照的に，シリアスな物語が描かれる",
+   "summary": "ネクソンは11月7日，アニメ「DEARMYHERO」の特別上映会を東京・109シネマズプレミアム新宿にて開催した。オンラインRPG「メイプルストーリー」の23周年を記念して制作された日本語吹替版アニメの内容と，あわせて発表された冬ショーケース「OVERDRIVE」の情報をお届けしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T17:46:40+09:00"
+  },
+  {
+   "id": "ef91ed38fb0e2dda",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478434/",
+   "title": "ケモノ過酷すぎ死にゲー『Casualties: Unknown』いきなり圧倒的な人気。骨折・出血・四肢欠損、リアル負傷システムで体ボロボロ地獄旅",
+   "summary": "Oro Interactiveは11月9日、Orsoniksが手がける『Casualties: Unknown』を配信開始した。Steamユーザーレビューで「圧倒的に好評」ステータスを獲得するなど、高い注目を集めている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478434-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T17:34:33+09:00"
+  },
+  {
+   "id": "9b43892bd4f7a27b",
+   "url": "https://www.4gamer.net/games/775/G077563/20261021003/",
+   "title": "供犠として差し出された少女を待っていたのは，麗しき5人の吸血鬼。「薄桜鬼異聞 ベレジンスキーの魔女」で描かれる恋と大罪［プレイレポ］",
+   "summary": "「薄桜鬼」のスピンオフ作品「薄桜鬼異聞ベレジンスキーの魔女」が12月10日に発売される。19世紀初頭の東欧を舞台に，供犠として差し出された主人公と，麗しき5人の吸血鬼との出会いや恋，その先に待つ物語をプレイレポートで紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T17:00:00+09:00"
+  },
+  {
+   "id": "3eb0ebf2d33f28b3",
+   "url": "https://www.4gamer.net/games/784/G078437/20261110011/",
+   "title": "「勇者パーティはぜんめつしました。」の製品版がSteamでリリース。10％オフセールも開催中",
+   "summary": "FlashlightGamesは，「勇者パーティはぜんめつしました。」の製品版を本日（2026年11月10日）Steamでリリースした。価格は1980円（税込）。本作は，壊滅状態に陥った勇者パーティから1人を選び，ともにダンジョンからの脱出を目指すRPGだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T17:00:00+09:00"
+  },
+  {
+   "id": "6ce5eb7b3156a948",
+   "url": "https://www.4gamer.net/games/989/G098960/20261110026/",
+   "title": "「みんなでポイっと！プリニーすごろく」，投げ，転生，積み，議会などの独自システムを紹介する最新ムービーを公開",
+   "summary": "日本一ソフトウェアは本日，パーティーゲーム「みんなでポイっと！プリニーすごろく」のシステム紹介ムービーを公開した。コマンドRPGとすごろくを組み合わせた本作の基本的な流れに加え，「投げ」「転生」「積み」「議会」といった独自のゲームシステムを映像で紹介している。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T17:00:00+09:00"
+  },
+  {
+   "id": "d9e3ceebd1dacbd2",
+   "url": "https://www.4gamer.net/games/031/G103109/20261110010/",
+   "title": "今夜22時から放送の「RADIO 4Gamer Tap（仮）」では，音声で妹に指示を出す運転教習シミュレーション「妹に運転を教える」を紹介します",
+   "summary": "2026年11月10日22：00より，声優の岡本信彦さんと，フリーライターのマフィア梶田さんがパーソナリティを務めるWeb番組「RADIO4GamerTap（仮）」第311回のライブ配信を行います。今回は，音声で指示を出す運転教習シミュレーション「妹に運転を教える」を紹介します。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T17:00:00+09:00"
+  },
+  {
+   "id": "4087e0efa0dee39b",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478425/",
+   "title": "Steam無料・異界ボウリング球アクション『Sadball』近日中に配信終了へ。もらえるのは今だけ",
+   "summary": "ライブラリに追加しておけば、配信終了後もダウンロードしてプレイすることが可能だ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478425-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T16:33:26+09:00"
+  },
+  {
+   "id": "35409b033ab13dbe",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478420/",
+   "title": "バンダイナムコ、傘下Reflector Entertainmentを閉鎖に。野心作『Unknown 9: Awakening』を手がけるも大不振、ゲームたった1本で10年の歴史に幕",
+   "summary": "バンダイナムコホールディングスは11月10日、連結子会社であるReflector Entertainmentの解散および清算を発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478420-header.jpeg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T16:18:34+09:00"
+  },
+  {
+   "id": "f9b9348c130770b1",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478405/",
+   "title": "アトリエ最新作『カリアのアトリエ』の主人公は樽を食べれば“たーる顔”になる。体型変化だけじゃない、気になる「見た目変化」の詳細などいろいろお披露目",
+   "summary": "ガスト/コーエーテクモは11月9日、『カリアのアトリエ ～夜の王国と追憶の道標～（以下、カリアのアトリエ）』のデジタルプレオーダーを開始した。各種ストアで購入することができる。また、あわせて特別番組を放送し、新たな要素や […]",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478405-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T16:06:57+09:00"
+  },
+  {
+   "id": "895078fd8514d8a6",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478398/",
+   "title": "最大6人協力・Steam“夜逃げ”アクション『PICK A BOO』配信開始。家具を根こそぎ回収大作戦、「欲張りすぎ注意」それでもまだ運びたい",
+   "summary": "Game & Co.は11月9日、Toydiumが手がける協力アクションゲーム『PICK A BOO』を発売した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478398-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T15:26:06+09:00"
+  },
+  {
+   "id": "83d1670b573f931e",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478391/",
+   "title": "『グランド・セフト・オートVI（GTA 6）』発売元、10月から12月の売上は“約5500億円”見込み。前年のほぼ倍、出る前から怪物級",
+   "summary": "Take-Two Interactiveは11月10日、2027会計年度第2四半期（2026年7月～9月）の決算を発表した。Rockstar Gamesが手がける『グランド・セフト・オートVI』の発売により、第3四半期の純予約額は最大35億ドルになると見込まれている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478391-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T14:47:26+09:00"
+  },
+  {
+   "id": "4020ad20a0d2ea00",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478385/",
+   "title": "AMDのRadeonグラボドライバーに「SSD無限酷使」不具合発生中。一日に数百ギガバイト書き込み、SSDの寿命を削りとる",
+   "summary": "AMD製GPU向けのドライバー「AMD Software: Adrenalin Edition」において、一部の環境で不必要なSSD書き込みがおこなわれる不具合が報告されている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478385-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T13:41:03+09:00"
+  },
   {
    "id": "15d71c6190a14b21",
    "url": "https://www.4gamer.net/games/999/G999905/20261110009/",
@@ -1412,17 +1786,6 @@
    "published": "2026-11-06T19:19:00+09:00"
   },
   {
-   "id": "d823e07eb7300cda",
-   "url": "https://www.4gamer.net/games/056/G105626/20261106038/",
-   "title": "ダンジョンRPG「デモンキルデモン 〜黄泉1984〜」，PC（Steam），PS5，PS4版を2027年2月25日に発売",
-   "summary": "エクスペリエンスは2026年11月6日，「デモンキルデモン〜黄泉1984〜」のPC（Steam），PS5，PS4版を2027年2月25日に発売すると発表した。本作は，異界〈黄泉〉に突如転移させられた生徒たちが，生き残るために危険な迷宮に挑むダンジョンRPGだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T19:12:06+09:00"
-  },
-  {
    "id": "d551a516919e9d05",
    "url": "https://automaton-media.com/articles/newsjp/20261106-477913/",
    "title": "『VRChat』、Unityの新描画基盤「URP」移行に向けようやく動き出す。「ビルトインRP」卒業のため、まずは“自動変換”実験中",
@@ -1434,28 +1797,6 @@
    "published": "2026-11-06T19:03:30+09:00"
   },
   {
-   "id": "2a06dec692dfb361",
-   "url": "https://www.4gamer.net/games/215/G021539/20261105046/",
-   "title": "FPSからチャンバラアクション，そしてトゥームレイダーへ。多彩なアクションゲームを手がけるポーランドのFlying Wild Hog",
-   "summary": "「HardReset」「ShadowWarrior」シリーズなど，アクションゲームを作り続けてきたポーランドのFlyingWildHog。現在は「TombRaider:LegacyofAtlantis」の開発にも携わる同社のワルシャワスタジオを訪問した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T18:40:00+09:00"
-  },
-  {
-   "id": "aa493260f68a6555",
-   "url": "https://www.4gamer.net/games/940/G094046/20261106024/",
-   "title": "「崩壊：ネクサスアニマ」はPvEメインのオートチェスや，長期運営タイトルでのシナリオ分岐を盛り込む挑戦的なタイトルに",
-   "summary": "HoYoverseが2026年11月3日から韓国・ソウルで実施したメディアツアーにて，新作RPG「崩壊：ネクサスアニマ」のプレゼンテーションが行われた。PvEメインのオートチェスや，長期運営タイトルでのシナリオ分岐など，挑戦的な要素についてプロデューサーが説明した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T16:57:35+09:00"
-  },
-  {
    "id": "9b69ec5ab16de88d",
    "url": "https://automaton-media.com/articles/newsjp/20261106-477905/",
    "title": "『ゼルダの伝説 時のオカリナ』リメイク版にて「へっぽこ落下選手権」盛り上がる。動きはベテラン、ジャンプは忘れる",
@@ -1465,61 +1806,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-06T16:52:43+09:00"
-  },
-  {
-   "id": "2a150037ae2f60ba",
-   "url": "https://www.4gamer.net/games/758/G075801/20261104050/",
-   "title": "「グランド・セフト・オートVI」発売直前ガイド。「DL版とパッケージ版，どっちを選べばいい？」「どんなストーリー？」「PC版は？」などなど，悩む前にこれを読んで！",
-   "summary": "2026年11月19日，ついにRockstarGamesからシリーズ最新作「グランド・セフト・オートVI」が発売される。現在までに分かっているGTA6の情報をまとめたうえで，予約・購入時のガイド記事をお届けしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T16:45:00+09:00"
-  },
-  {
-   "id": "efbcba837eeb57a9",
-   "url": "https://www.4gamer.net/games/999/G999901/20261106019/",
-   "title": "名作の復刻からゲームランチャーのLinux対応，インディーパブリッシングまで。GOGが初の配信イベント「GOG Showcase」で今後の展開を紹介",
-   "summary": "GOGは日本時間2026年11月6日，初のオンラインイベント「GOGShowcase」を配信した。「ウィングコマンダー」シリーズなどの名作ゲーム復刻や「GOGGALAXY」のLinux対応，インディーゲームのパブリッシング事業「RetrovibebyGOG」のタイトルラインナップなど，さまざまな情報が公開されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T15:43:05+09:00"
-  },
-  {
-   "id": "a810c516c7a9da65",
-   "url": "https://www.4gamer.net/games/056/G105608/20261106020/",
-   "title": "小さなクリーチャーが，大陸まで食べ尽くす存在に成長する。「たまごっち」に着想を得た育成要素と「塊魂」風のゲームプレイを融合させた「In Full Bloom」が発売中",
-   "summary": "obleakgamesが手掛けるPC向け新作「InFullBloom」がSteamで発売中だ。本作は，「たまごっち」に着想を得た育成要素と「塊魂」風のゲームプレイを融合させた作品となっている。プレイヤーは小さなクリーチャーに餌を与え，やがて大陸まで食べ尽くす存在へと成長させていく。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T15:35:15+09:00"
-  },
-  {
-   "id": "cb369827a56365d1",
-   "url": "https://www.4gamer.net/games/993/G099310/20261106016/",
-   "title": "「PAYDAY」シリーズ最新作「PAYDAY: Aces High」，配信開始。最大4人協力型のVR専用クライムFPS",
-   "summary": "FastTravelGamesは本日（2026年11月6日），新作タイトル「PAYDAY:AcesHigh」をリリースした。本作は，銀行強盗をテーマにした協力型クライムFPS「PAYDAY」シリーズの最新作だ。今回はVR専用のゲームになっており，さまざまなアクションを，実際に身体を動かして楽しめる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T15:19:35+09:00"
-  },
-  {
-   "id": "dbfbe84b2de376e8",
-   "url": "https://www.4gamer.net/games/056/G105600/20261106017/",
-   "title": "提案にスタンプを押して帝国を治める街づくりゲーム「スタンペラー」，Steamで発売。皇帝になった道化師として，承認か拒否かを決めよう",
-   "summary": "VsooGamesは11月5日，MoonMindStudioが開発したPCゲーム「スタンペラー」をSteamで発売した。本作は，提案にスタンプを押して帝国を治める街づくりゲームだ。プレイヤーは，皇帝になった異星人の道化師となり，提案を承認するか拒否するかを決めていく。帝国の崩壊を食い止めることが目的だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T14:48:18+09:00"
   },
   {
    "id": "1e9f29fa9a9a9a9b",
@@ -1544,28 +1830,6 @@
    "published": "2026-11-06T14:34:56+09:00"
   },
   {
-   "id": "7d5831fbd4eeb82c",
-   "url": "https://www.4gamer.net/games/392/G039265/20261106015/",
-   "title": "ゴミで埋め尽くされた海に浮かぶ街を築く都市ビルダー「Flotsam 漂流ガラクタウン」と，放置型ストラテジー「Idle Champions of the Forgotten Realms」のゲーム内特典がEpic Games Storeで無料配布中",
-   "summary": "EpicGamesは，PCゲーム配信プラットフォームEpicGamesStoreにて，「Flotsam漂流ガラクタウン」と「IdleChampionsoftheForgottenRealms」の無料配布を実施している。期間は2026年11月13日0：00まで。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T14:14:08+09:00"
-  },
-  {
-   "id": "b66470d233eb4862",
-   "url": "https://www.4gamer.net/games/449/G044914/20261106014/",
-   "title": "「Apex Legends」にゴジラ襲来。11月11日からコラボイベントを開催。熱線を放つ特殊武器や歴代怪獣をモチーフにしたスキン10種類が登場",
-   "summary": "ElectronicArtsとRespawnEntertainmentは本日，「ApexLegends」と東宝の「ゴジラ」によるコラボイベントを，2026年11月11日から開催すると発表した。ゴジラが襲来したストームポイントを舞台に，熱線を放つ特殊武器での戦闘を楽しめるほか，歴代怪獣をモチーフにしたスキン10種類などが登場する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T14:07:37+09:00"
-  },
-  {
    "id": "3f2cfaee963179c4",
    "url": "https://automaton-media.com/articles/newsjp/20261106-477882/",
    "title": "Steam無料・終末ビジュアルノベル『ナツノカナタ ―PROLOGUE―』発表、12月15日配信へ。『ナツノカナタ』開発者自ら執筆した“小説版の冒頭”がゲーム化",
@@ -1575,17 +1839,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-06T13:55:55+09:00"
-  },
-  {
-   "id": "6f5a6996a76e8e0a",
-   "url": "https://www.4gamer.net/games/055/G105598/20261106013/",
-   "title": "隣人の騒音に耐えかねて壁を壊すアクション「BIGGER BANG」，Steamで本日発売。ハンマーで穴を掘り進めて，騒音の正体を追おう",
-   "summary": "HSSolutionは本日，同社のゲームレーベルであるNoligoGamesが開発したPCゲーム「BIGGERBANG」をSteamで発売した。本作は，午前3時に隣人が立てる騒音に耐えかねて，壁をハンマーで壊していくアクションゲームだ。開けた穴は次のプレイにもそのまま残るので，同じ穴をさらに深く掘り進めていく。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T13:32:16+09:00"
   },
   {
    "id": "2e4c6de1b569a8ce",
@@ -1599,39 +1852,6 @@
    "published": "2026-11-06T13:10:18+09:00"
   },
   {
-   "id": "f327e9c8785f04f6",
-   "url": "https://www.4gamer.net/games/367/G036702/20261106012/",
-   "title": "PC，PS5，XBOX Series X|S，PS4版「メタファー：リファンタジオ」，価格改定を11月12日に実施",
-   "summary": "アトラスは本日（2026年11月6日），NintendoSwitch2版「メタファー：リファンタジオ」の発売に合わせて，PC，PS5，XBOXSeriesX|S，PS4版の価格改定を11月12日に実施すると発表した。また，「120秒でわかる『メタファー：リファンタジオ』」と題した映像も公開された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:53:19+09:00"
-  },
-  {
-   "id": "d9ca974055824856",
-   "url": "https://www.4gamer.net/games/040/G104056/20261106011/",
-   "title": "「Rain World」の開発元が手掛けたバトルレーシング「Airframe Ultra」がリリース。ホバーバイクで疾走しながら，ライバルを叩きのめせ！",
-   "summary": "AkuparaGamesは，「RainWorld」で知られるVIDEOCULTの新作バトルレーシング「AirframeUltra」をSteamでリリースし，ローンチトレイラーを公開した。サイバーパンクな巨大都市を舞台に，ホバーバイクで疾走しながら，バットやチェーンなどの武器でライバルを叩きのめすルール無用のレースが楽しめる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:45:46+09:00"
-  },
-  {
-   "id": "5283899b8467c029",
-   "url": "https://www.4gamer.net/games/990/G999027/20261106008/",
-   "title": "ソニーグループ，2026年度第2四半期連結業績を発表。ゲーム＆ネットワークサービス分野の通期業績予想を上方修正，PS5の累計販売台数は9790万台で1億台に迫る",
-   "summary": "ソニーグループは2026年11月5日，2026年度第2四半期の連結業績を発表した。ゲーム＆ネットワークサービス分野の通期業績予想を上方修正したほか，PS5の累計販売台数は9790万台となり，1億台に迫っている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:39:12+09:00"
-  },
-  {
    "id": "1d9c3c15776d8777",
    "url": "https://automaton-media.com/articles/newsjp/20261106-477869/",
    "title": "閉鎖したBioWareの共同創設者、『Mass Effect』を“救う”には320億円以上必要そうとの見解。プレイヤーが欲しいのは“最高のAAA“、ライセンス以外にも高いハードル",
@@ -1643,28 +1863,6 @@
    "published": "2026-11-06T12:30:50+09:00"
   },
   {
-   "id": "2c7385c919ea3efc",
-   "url": "https://www.4gamer.net/games/023/G002318/20261106010/",
-   "title": "アクティブノイズキャンセリング対応のUSB Type-C有線イヤフォン「Hammerhead V3 Chroma」がRazerから",
-   "summary": "2026年11月6日，Razerは，USBType-C接続型のワイヤードイヤフォン「HammerheadV3Chroma」を発表した。カナル型イヤフォンにフィードフォワード方式のアクティブノイズキャンセリング機能を搭載しているのが特徴だ。税込直販価格は1万4280円。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:22:04+09:00"
-  },
-  {
-   "id": "950080a4f9c8db4f",
-   "url": "https://www.4gamer.net/games/055/G105596/20261106009/",
-   "title": "川尻こだま氏，現在開発中の脱出ゲーム「GoblinGnomeHorn'2」の映像を公開。ネックビが「出してください」「無実です」と獄中で叫ぶ",
-   "summary": "漫画家の川尻こだま氏は，現在開発中の脱出ゲーム「GoblinGnomeHorn'2」の映像を公開した。新たなゲームは，川尻氏が2025年5月に発売したアクションゲーム「ゴブリン・ノーム・ホーン」に登場するキャラクター「ネックビ」が活躍する内容になるようだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:12:14+09:00"
-  },
-  {
    "id": "8d58b50f1fda131e",
    "url": "https://automaton-media.com/articles/newsjp/20261106-477859/",
    "title": "戦国リアル城下町づくり『Jyoka -城下-』正式発表、11月16日配信へ。防衛戦も攻城戦もあり、とにかく“お米は大事”なストラテジー",
@@ -1674,50 +1872,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-06T12:05:22+09:00"
-  },
-  {
-   "id": "416290c3de2d4563",
-   "url": "https://www.4gamer.net/games/864/G086409/20261106005/",
-   "title": "吉田修平氏らがホストを務める「吉Pラジオ・吉Pナイト」，11月29日に渋谷で開催。ゲストは「ダレカレ」のyona氏と講談社ゲームラボの片山裕貴氏",
-   "summary": "渋谷のクリエイターハブ「404NotFound」は，吉田修平氏と村上雅彦氏がホストを務めるトークイベント「吉Pラジオ・吉Pナイト」を11月29日に開催する。今回のゲストは「ダレカレ」を手掛けたインディーゲームクリエイターのyona氏と，講談社ゲームラボで総合チーフを務める片山裕貴氏だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:01:17+09:00"
-  },
-  {
-   "id": "f6cdd5dce87a6e7a",
-   "url": "https://www.4gamer.net/games/657/G065776/20261105049/",
-   "title": "「『龍が如く』冠婚贈祭展 -極-」レポート。お歳暮を渡してスジモンゲットを体験できるエリア，「STRANGER THAN HEAVEN」の展示など，見どころが目白押し",
-   "summary": "セガは本日，「龍が如く」シリーズのイベント「『龍が如く』冠婚贈祭展-極-」をYOKOHAMACOASTにて開催した。シリーズ20周年を記念して行われた「冠婚葬祭展」のリバイバルである本展は，新たなエリアや「STRANGERTHANHEAVEN」の特別展示と試遊ブースが設けられている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:00:47+09:00"
-  },
-  {
-   "id": "fe2fb6cdf1e8c5d9",
-   "url": "https://www.4gamer.net/games/144/G014484/20261102026/",
-   "title": "「フォートナイト」で「ONE PIECE」コラボが実現！ 人気YouTuber，LiaqNさんが新シーズンの魅力を語る【PR】",
-   "summary": "人気オンラインアクションシューティング「フォートナイト」の新シーズン「トレジャーハンターズ」が2026年11月1日にスタートした。目玉となる「ONEPIECE」とのコラボについて，人気YouTuberのLiaqN（りあん）さんが語ったインタビューをお届けしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:00:00+09:00"
-  },
-  {
-   "id": "2a0e6084548eeb85",
-   "url": "https://www.4gamer.net/games/142/G014279/20261104002/",
-   "title": "マウスの動きをユーザーごとに最適化!? 斬新な機能を搭載したCorsairのマウス「SABRE v3 PRO PureVector」で勝利をつかもう【PR】",
-   "summary": "Corsairから登場した新型ワイヤレスマウス「SABREv3PROPureVector」は，エイムトレーニングサービス「Aimlabs」と組み合わせて，ユーザー1人1人の手の動きに合わせた最適化を手軽に行えるという製品だ。実機を紹介しつつ実力を検証してみよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:00:00+09:00"
   },
   {
    "id": "734327edaa4afef5",
@@ -2048,160 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-05T09:01:50+09:00"
-  },
-  {
-   "id": "0c35b121d1811bec",
-   "url": "https://automaton-media.com/articles/newsjp/20261105-477526/",
-   "title": "『Escape from Tarkov』生みの親による新作『Fragmentary Order』、長編ゲームプレイ映像ついにお披露目。“宇宙タルコフ”みっちり14分間",
-   "summary": "Rant Gamingは11月5日、『Fragmentary Order』の14分間にわたるゲームプレイ映像を公開した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477526-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-05T04:49:11+09:00"
-  },
-  {
-   "id": "d7ef9af65bb984e0",
-   "url": "https://automaton-media.com/articles/newsjp/20261105-477518/",
-   "title": "PS5『ゴッド・オブ・ウォー ラウフェイ』発売延期、来年5月20日にリリースへ。約3か月延ばして作りこむ",
-   "summary": "Santa Monica Studioは11月5日、『ゴッド・オブ・ウォー ラウフェイ』の発売日を2027年5月20日に延期すると発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477518-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-05T03:33:36+09:00"
-  },
-  {
-   "id": "9da97e31d701c1b7",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477511/",
-   "title": "『ぽこ あ ポケモン』エキスパンションパス第2弾「どきどきデコレーション」正式発表、12月9日配信へ。新要素「アクセサリー」実装、新ポケモンも登場へ",
-   "summary": "株式会社ポケモンは11月4日、『ぽこ あ ポケモン』のエキスパンションパス第２弾「どきどきデコレーション」を正式発表し、12月9日に配信すると告知した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477511-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T23:06:31+09:00"
-  },
-  {
-   "id": "5bf2d630006736f7",
-   "url": "https://automaton-media.com/articles/reportjp/20261103-477192/",
-   "title": "基本プレイ無料「美形罪人だらけ」RPG『無期迷途』新バージョンで、4年遊び続けた強火オタクが“もてあそばれる”。育成も限界突破、推しをもっと重く愛せる",
-   "summary": "、『無期迷途』にて4周年特別メインストーリーイベント「絶響」を含む新バージョンがリリースされる。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477192-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T21:38:58+09:00"
-  },
-  {
-   "id": "46f8567a9d37a829",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477491/",
-   "title": "『カオスゼロナイトメア』新キャラ「ブレイズベル」は“正義の火力”盛りまくり、APとドローをどんどん生み出すサポート。11月11日のアプデで実装へ",
-   "summary": "『カオスゼロナイトメア』の銀河系災害シーズン5 第2章のアップデートについて詳細が発表された。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477491-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T20:53:04+09:00"
-  },
-  {
-   "id": "b8933ee35bb28988",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477484/",
-   "title": "Steamの釣りゲーム開発者、作品ページに「なぜか現実で釣った魚を自慢する人」が出没して困惑。場違いリアル釣り人、魚は立派",
-   "summary": "ある開発者が「なぜかうちの釣りゲームに、現実で釣った魚を自慢し続けてくる人がいる」と、困惑を交えながらその存在を紹介している。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477484-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T20:00:23+09:00"
-  },
-  {
-   "id": "423296a04608341b",
-   "url": "https://automaton-media.com/articles/interviewsjp/20261104-477467/",
-   "title": "「ゲームをより良い日本語で遊ぶために」開発者へ直談判したゲーマーが、フリーランスのゲーム翻訳者になるまで。“遊んで訳す”仕事、そのシビアな舞台裏を訊いた",
-   "summary": "数多くのゲームの翻訳に携わってきたToyoch氏に、きっかけやシビアな裏側を訊いた。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477467-001.png",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T19:17:27+09:00"
-  },
-  {
-   "id": "6c30a06d4268dd9c",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477468/",
-   "title": "『Fate/Grand Order（FGO）』「真冬の水着スペシャル ぐだぐだぷにぷにウォーズ！ ～史上最低の爆弾娘～」開催決定。まさかの冬に水着イベントで、美少女松永弾正が配布",
-   "summary": "FGO PROJECTは11月4日、『Fate/Grand Order（FGO）』の最新情報を公開した。「真冬の水着スペシャル ぐだぐだぷにぷにウォーズ！ ～史上最低の爆弾娘～」が11月中旬に開催予定。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477468-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T18:57:31+09:00"
-  },
-  {
-   "id": "5c7fdc4f8e346925",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477455/",
-   "title": "サービス終了近づく『ポケモンユナイト』の「長年のフレンド」を捜索する人あらわる。ゲーム内でしか知らない友達",
-   "summary": "『ポケモンユナイト』でしかやり取りをしていないフレンドについて、同作以外でも連絡を取りたいユーザーの投稿が注目を集めている。「人探し」にはある種の抜け道のようなアドバイスも寄せられている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477455-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T18:42:31+09:00"
-  },
-  {
-   "id": "2ef863c0a21e94b3",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477452/",
-   "title": "Windows 11を「メモリ128MB」で無理やり動かした人あらわる。そこまで節約したいとは言ってない",
-   "summary": "開発者のNTDEV氏は11月1日、Windows 11をわずか128MBのメモリで動作させることに成功したと発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477452-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T18:24:18+09:00"
-  },
-  {
-   "id": "d4cd6d1cd5c293be",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477459/",
-   "title": "Nintendo Switchの「ゲームカード」製造を支えてきた大手マクロニクス、ROM事業から段階的に撤退へ。AI時代に変わる主力",
-   "summary": "Macronixは10月27日、ROMの製造事業を段階的に縮小していく方針を明らかにした。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477459-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T18:10:46+09:00"
-  },
-  {
-   "id": "866ff37ddb13ce5e",
-   "url": "https://automaton-media.com/articles/interviewsjp/20261104-477390/",
-   "title": "マダガスカルの開発元による“マダガスカル魂”炸裂アクション『Kalanoro（カラノロ）』には、僕らが知らない現地の大切なことがぎゅっと詰まってる。たとえば「ゲームに込めた文化」や「人気ゲームと開発シーン」など、開発陣にきちんと教えてもらった",
-   "summary": "セガは9月24日、Red Raketa Studioが手がける『Kalanoro（カラノロ）』を発売した。対応プラットフォームはPC（Steam）/Nintendo Switch/PS5/XBOX Series X|Sで […]",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477390-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T18:04:17+09:00"
-  },
-  {
-   "id": "48c41b8b8e0a01af",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477386/",
-   "title": "Steamの新作ゲームが爆発的に増加中、先週は「6分に1本」ペースに。審査は大渋滞、“遊ばれないゲーム”も増え続ける",
-   "summary": "Steamでは年々登場するゲーム数が増加しているが、ここ数か月ではその傾向がさらに強まっている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/09/20260930-470746-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T17:53:40+09:00"
-  },
-  {
-   "id": "2e6189647e902336",
-   "url": "https://automaton-media.com/articles/special-column/anomalith-20261104-477435/",
-   "title": "フリュー新作SCP風サバイバルTPS『アノマリス』は、スロースターターだけどちゃんと戦闘もおもしろい。楽しみ方の鍵は、武器強化と“追加ルール”にあり",
-   "summary": "フリューの新作サバイバルTPS『アノマリス』は、序盤こそ戦闘が淡泊に感じられるものの、武器の開発・カスタマイズが進む中盤以降は銃撃が主役に。アノマリーごとの“追加ルール”が絡む集団戦は格別の緊張感だ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477435-001.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T17:13:51+09:00"
   }
  ]
 }
