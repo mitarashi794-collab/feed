@@ -1,8 +1,206 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T07:28:15+09:00",
+ "generated_at": "2026-11-10T13:39:24+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "15d71c6190a14b21",
+   "url": "https://www.4gamer.net/games/999/G999905/20261110009/",
+   "title": "GPUとAI半導体の巨人NVIDIAに激震。ジェンスン・フアンCEOを標的とする中国のスパイ工作疑惑で独立調査を開始。不倫関係を認め謝罪",
+   "summary": "NVIDIAは，CEOのジェンスン・フアン氏が中国の情報機関によるスパイ工作の標的になっていたとする報道を受け，独立調査を開始すると発表した。フアン氏は不倫関係を認めて謝罪しており，米議会も説明を要求している。AI半導体をめぐる米中対立のなか，企業機密への影響が注目される。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T13:14:29+09:00"
+  },
+  {
+   "id": "9e665d61db9c49c5",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478374/",
+   "title": "Steamストアで「ゲームの平均フレームレート」を確認できるように、まずはSteam Deck向けに。だいたい何fps出るか、買う前にわかる",
+   "summary": "Valveは11月10日、Steamストアページのアップデートを実施。各タイトルのSteam Deckでの平均フレームレートを確認できるようになった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/04/steam-next-fes-20260424-439515-header.webp",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T13:05:59+09:00"
+  },
+  {
+   "id": "b59d0ae9db83f531",
+   "url": "https://www.4gamer.net/games/978/G097898/20261110006/",
+   "title": "レーザーで剛毛を焼き払う「脱毛サロンシミュレーター」，Steamで本日発売。客に毛を植える「デザイン植毛」など，体験版にはなかった要素も",
+   "summary": "2PGamesは本日，ヨシオゲームズが開発したPCゲーム「脱毛サロンシミュレーター」をSteamで発売した。本作は，美意識の高い男性専門の脱毛サロンを経営するシミュレーションゲームだ。製品版では，体験版にはなかった「デザイン植毛」が加わった。来店する超VIPの体に，植毛銃で好きなデザインの毛を植えられる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T12:39:35+09:00"
+  },
+  {
+   "id": "197aaa76abf793a8",
+   "url": "https://www.4gamer.net/games/990/G999030/20261110008/",
+   "title": "任天堂がSwitch 2 / Switch向けに本体機能の更新データを配信。新機能「プレゼント」が追加され，2026年11月17日から利用可能に",
+   "summary": "任天堂は本日，NintendoSwitch2およびNintendoSwitch向けに本体機能の更新データを配信した。ファミリーグループに参加している家族にニンテンドーeショップの商品を贈れる新機能「プレゼント」が追加され，11月17日から利用可能になる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T12:35:43+09:00"
+  },
+  {
+   "id": "51be20c170db4d74",
+   "url": "https://www.4gamer.net/games/056/G105640/20261110007/",
+   "title": "「ドラゴンクエストRPG 魔界樹と導かれし島」，2027年にグローバル同時リリース予定。WFSとスクウェア・エニックスが共同開発",
+   "summary": "グリーホールディングスは本日（2026年11月10日），WFSがスクウェア・エニックスと共同開発する「ドラゴンクエストRPG 魔界樹と導かれし島」に関するIR情報を公開した。2027年にグローバル同時リリースを予定している。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T12:28:30+09:00"
+  },
+  {
+   "id": "509fb8ff8315e277",
+   "url": "https://www.4gamer.net/games/056/G105685/20261110005/",
+   "title": "「メダロット クラシックス プラス」，Steam版が12月に発売決定。シリーズ初のSteam展開で，過去作8タイトルをまとめて楽しめる",
+   "summary": "イマジニアは本日，「メダロットクラシックスプラス」のSteam版を2026年12月に発売すると発表した。「メダロット」シリーズがSteamに登場するのは今回が初めてだ。本作は過去作8タイトルを収録し，最大8倍速やロボトルスキップなど，快適にプレイするための機能も搭載している。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T12:12:34+09:00"
+  },
+  {
+   "id": "a3ee1fe8ff58754a",
+   "url": "https://automaton-media.com/articles/newsjp/imagica-20261110-477499/",
+   "title": "ゲームフリーク・Cygames・コナミなど“応募1回だけで一斉選考”、転職イベント「経験者版 ゲームクリエイターズドラフト2026（3DCGデザイナー）」始動。ゲーム業界未経験でもOK",
+   "summary": "IMAGICA GEEQは11月9日、ゲーム業界の求人を対象とした、3DCGデザイナー経験者向けの転職イベント「経験者版 ゲームクリエイターズドラフト2026（3DCGデザイナー）」のエントリー受付を開始した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/imagica-20261110-477499-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T12:00:39+09:00"
+  },
+  {
+   "id": "6c874e6e7fdee9f9",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478358/",
+   "title": "「手札が動き回る」デッキ構築ローグライク『鳥斗突破！バード・アリーナ』公開プレイテストを開始。勝手に“共食い”したり強くなったり、手札がすでに予測不能",
+   "summary": "OKJOYは11月10日、個人開発者のWill Cheng氏が手掛けるデッキ構築ローグライクゲーム『鳥斗突破！バード・アリーナ』の公開プレイテストを開始した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478358-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T12:00:11+09:00"
+  },
+  {
+   "id": "36b647148e6c879d",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478360/",
+   "title": "『メダロット』初期8作品入り『メダロット クラシックス プラス』Steam向けに発表。オンライン対戦・交換にも対応、人気シリーズがSteam初進出",
+   "summary": "イマジニアは11月10日、『メダロット クラシックス プラス カブトVer.』および『メダロット クラシックス プラス クワガタVer.』のSteam版を発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478360-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T12:00:06+09:00"
+  },
+  {
+   "id": "6eec0533f77c2d22",
+   "url": "https://www.4gamer.net/games/813/G081367/20261109028/",
+   "title": "PC向けホラーアドベンチャー「1999トコヨビル」，Steamで配信開始。2ndPVやグッズ情報も公開に",
+   "summary": "講談社ゲームラボは本日（2026年11月10日），PC向けホラーアドベンチャー「1999トコヨビル」をSteamでリリースした。価格は1420円（税込）。また，2ndPVやアニメイトで展開されるグッズの全ラインナップが公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T12:00:00+09:00"
+  },
+  {
+   "id": "54a4d56eee76ce33",
+   "url": "https://www.4gamer.net/games/999/G999904/20261110004/",
+   "title": "日本におけるモバイル向けソートパズルのトレンドは矢印からバスへ。Sensor Towerが分析レポートを公開",
+   "summary": "SensorTowerは本日，日本におけるモバイル向けソートパズルの分析レポートを公式ブログで公開した。同社のデータによると，ダウンロード数の成長量1位は，2026年第2四半期が矢印を消していく「AmazeGO!」，第3四半期がバスを誘導する「BusTrafficFever!」だったという。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T11:42:16+09:00"
+  },
+  {
+   "id": "27b6c98af24e32ed",
+   "url": "https://www.4gamer.net/games/015/G101585/20261110003/",
+   "title": "「カリアのアトリエ」，新キャラクター5人や拠点建築，友好度による個別エンディングなどの新情報を公開。ストーリートレイラーも披露",
+   "summary": "コーエーテクモゲームスは，錬金術RPG「カリアのアトリエ〜夜の王国と追憶の道標〜」の新情報を公開した。カリアたちの前に立ちはだかる2人の錬金術士を含む新キャラクター5人のほか，拠点建築や仲間との交流，物語の分岐に関するシステムが明らかになった。ストーリートレイラーも公開されている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T11:35:48+09:00"
+  },
+  {
+   "id": "7c829f5a37cccc77",
+   "url": "https://www.4gamer.net/games/991/G999110/20261109030/",
+   "title": "レトロゲーム文化を未来へつなぐ「RETRO GAME SUMMIT Lv.6」開催。ディープな同人誌からレトロゲーム機で動作する新作，ゲーム大会までレトロゲーム満載の1日",
+   "summary": "2026年11月7日，東京たま未来メッセで「RETROGAMESUMMITLv.6」が行われた。「レトロゲーム文化を未来へ！」をキャッチフレーズに，多くの来場者たちがレトロゲームへの愛を分かち合う催しだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T11:00:00+09:00"
+  },
+  {
+   "id": "8690175c0e387bad",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478346/",
+   "title": "『マインクラフト』公式サーバー「Realms」に、“最大50人対応”最上位プラン「Pro」発表。月額4730円で本格大規模マルチ",
+   "summary": "Mojang Studiosは11月10日、『Minecraft』の公式プライベートサーバーサービス「Realms」のProプランを発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478346-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T10:46:57+09:00"
+  },
+  {
+   "id": "d03e1eaa239ccb50",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478342/",
+   "title": "Nintendo Switch 2/Switch本日のアプデで新機能「プレゼント」実装、ニンテンドーeショップの商品を家族に贈れるように。11月17日から利用可能",
+   "summary": "任天堂は11月10日、Nintendo Switch 2およびNintendo Switchに本体アップデートを実施。新機能「プレゼント」が追加された。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478342.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T10:28:40+09:00"
+  },
+  {
+   "id": "1d514d85eb494e02",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478324/",
+   "title": "暴力的「口喧嘩」で戦うゲーム『Re:Burn ～台湾デッドヒート～』ではDNA鑑定書や離婚合意書が武器になる。生々しくてしんどい口論バトル、12月2日開幕へ",
+   "summary": "Toii Gamesは11月10日、Eastasiasoft Limitedがパブリッシングを担当するクライムノベルゲーム『Re:Burn ～台湾デッドヒート～』を、12月2日にSteamで配信開始することを発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478324-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T10:00:01+09:00"
+  },
+  {
+   "id": "a102217b72265be4",
+   "url": "https://automaton-media.com/articles/newsjp/20261110-478330/",
+   "title": "広さ“『GTA5』の約9倍”オープンワールド鳩シム『COO』無料公開。トロントの街丸ごと再現巨大マップで、鳩が暗躍する",
+   "summary": "オープンワールド鳩シミュレーションゲーム『COO（Covert Ornithological Operations）』が公開された。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478330-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-10T09:28:23+09:00"
+  },
+  {
+   "id": "205fecbe4a1bc628",
+   "url": "https://www.4gamer.net/games/421/G042182/20261109038/",
+   "title": "「Golden Joystick Awards 2026」通訳字幕付き生放送が11月12日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "summary": "「GoldenJoystickAwards2026」通訳字幕付き生放送が11月12日3：00に配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-10T08:00:00+09:00"
+  },
   {
    "id": "a7bef81af54ef2e0",
    "url": "https://www.4gamer.net/games/056/G105682/20261110002/",
@@ -1522,28 +1720,6 @@
    "published": "2026-11-06T12:00:00+09:00"
   },
   {
-   "id": "47f9ff918d117ea0",
-   "url": "https://www.4gamer.net/games/055/G105592/20261105064/",
-   "title": "「スーパーリアル麻雀AC」，2026年冬に稼働予定。麻雀コンパネを新造し，ゲームセンターに復活。全国での体験イベントに向けたクラファンも開始",
-   "summary": "ILLUMINATIONとインフィニットループは本日（2026年11月6日），アーケード向け「スーパーリアル麻雀AC」を発表した。Steam版「スーパーリアル麻雀VenusReturns」をベースに，2026年冬の稼働を予定している。全国での体験イベント開催に向けたクラウドファンディングも，11月12日にスタートする。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:00:00+09:00"
-  },
-  {
-   "id": "3ba2606d834e4b6e",
-   "url": "https://www.4gamer.net/games/484/G048410/20261105006/",
-   "title": "Switch2版「バイオハザード レクイエム」が30％オフ！「Pogostuck: Rage With Your Friends」は288円！「今週のすべり込みセール情報」",
-   "summary": "セール終了間際のタイトルから，名作や特にお買い得なタイトルを厳選して紹介する連載「今週のすべり込みセール情報」。今週は「バイオハザードレクイエム」がNintendoStoreで30％オフの6293円，「Pogostuck:RageWithYourFriends」が60％オフの288円と，お買い得になっています！",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T12:00:00+09:00"
-  },
-  {
    "id": "734327edaa4afef5",
    "url": "https://automaton-media.com/articles/newsjp/20261106-477853/",
    "title": "EAを買収したサウジ系ファンドなどの、次なる狙いはゲームエンジン「Unity」か。評価額約4兆円で買収協議中との報道",
@@ -1588,72 +1764,6 @@
    "published": "2026-11-06T08:40:30+09:00"
   },
   {
-   "id": "a0f3f2573a0017b7",
-   "url": "https://www.4gamer.net/games/975/G097529/20261105039/",
-   "title": "韓国のサブカルチャー総合展示会「アニメ×ゲームフェスティバル2026」（AGF 2026）にゲーム企業が集結。NCは最大規模の150ブースで「アストラエ・オラティオ」を出展，ネクソンは「ファレイドリア」の韓国初試遊を実施",
-   "summary": "12月4日から6日までの3日間，韓国・京畿道高陽市のKINTEXで，サブカルチャー総合展示会「アニメ×ゲームフェスティバル2026」（AGF2026）が開催される。NCがメインスポンサーを務め，国内外の主要ゲーム企業が年末のオフラインマーケティングの拠点としてKINTEXに集まる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T08:00:00+09:00"
-  },
-  {
-   "id": "72e550cd4e5ee75f",
-   "url": "https://www.4gamer.net/games/999/G999905/20261105062/",
-   "title": "ガンホー，森下一喜会長への提訴を求める請求書を株主から受領",
-   "summary": "ガンホー・オンライン・エンターテイメントは2026年11月2日，森下一喜会長への提訴を求める請求書を株主から受領したと発表した。本請求書は，元従業員の不正行為で会社が被った損害について，当時代表取締役社長だった森下氏に対し，3億5600万円と遅延損害金の支払いを求める訴訟を起こすよう求める内容だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T22:08:29+09:00"
-  },
-  {
-   "id": "1501903343e031ba",
-   "url": "https://www.4gamer.net/games/055/G105588/20261105060/",
-   "title": "人類の復讐のため，エイリアンの襲撃に耐えながら宇宙船を動かし続ける。基地運営型ローグライトタワーディフェンス「Hull Rupture」，配信開始",
-   "summary": "tinyBuildは2026年11月4日，KonfaGamesが開発した新作タイトル「HullRupture」をリリースした。本作は，地球が滅び，人類最後の拠点となってしまった宇宙船を管理する基地運営型ローグライトタワーディフェンスだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T21:16:18+09:00"
-  },
-  {
-   "id": "cc71fb8616cd2008",
-   "url": "https://www.4gamer.net/games/999/G999904/20261104011/",
-   "title": "タイGMMTVのファンダムゲーム「GMMTV FANARIUM」，新映像が公開に。2027年初めのプレイ開始を目指すも日本展開は未発表",
-   "summary": "タイのGMMTVは11月3日の発表会で，ファンダムゲーム「GMMTVFANARIUM」の最新映像を公開し，2027年初めのプレイ開始を見込んでいるとした。カードゲーム「GEMMQUEST」も発表され，12月に予約受付を開始する。日本展開は未発表。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T21:15:38+09:00"
-  },
-  {
-   "id": "017d2054e01930df",
-   "url": "https://www.4gamer.net/games/745/G074550/20261022016/",
-   "title": "「フラガリアメモリーズ」新シリーズ「キズナ結ビ編」開幕！ 小笠原 仁さん＆畠中 祐さんに，チャコ＆アルペックの“高め合える関係”を聞く［インタビュー］",
-   "summary": "サンリオの「フラガリアメモリーズ」で，キズナバディの関係性を描く新シリーズ「キズナ結ビ編」が開幕。第1弾のチャコ＆アルペックを演じる小笠原仁さんと畠中祐さん，プロデューサーの村上一馬氏に，物語や楽曲，2人の関係性について聞いた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T21:00:00+09:00"
-  },
-  {
-   "id": "53ab6f99f4bf229d",
-   "url": "https://www.4gamer.net/games/226/G022696/20261105058/",
-   "title": "「セガNET麻雀 MJ」，公式オフイベントを12月26日にセガ本社で開催",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T20:43:22+09:00"
-  },
-  {
    "id": "e5b65382625ade65",
    "url": "https://automaton-media.com/articles/newsjp/20261105-477811/",
    "title": "ロバート山本博さんの『ファイアーエムブレム 万紫千紅』実況プレイが“仲間死にすぎて悲惨”とブームに。世界救えるか心配",
@@ -1663,28 +1773,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-05T20:36:09+09:00"
-  },
-  {
-   "id": "7408515e9c9dc4a2",
-   "url": "https://www.4gamer.net/games/882/G088214/20261105056/",
-   "title": "「ソニックレーシング クロスワールド」，The k4senやオートバックスとのコラボステッカーが登場",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T20:32:53+09:00"
-  },
-  {
-   "id": "ffa013f9d315662c",
-   "url": "https://www.4gamer.net/games/055/G105587/20261105054/",
-   "title": "部屋に閉じ込められたのは，あなたと故障したアンドロイドだけ。謎解き脱出ゲーム「おはようレメーナ」，unityroomで11月7日19：00に無料公開",
-   "summary": "（ナマエ）氏は本日，謎解き脱出ゲーム「おはようレメーナ」をunityroomで11月7日19：00に無料公開すると発表した。本作は，故障したアンドロイド「レメーナ」と話しながら手がかりを集め，部屋からの脱出を目指すゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-05T20:32:52+09:00"
   },
   {
    "id": "0d70e46c25aee066",
@@ -2114,94 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-04T17:13:51+09:00"
-  },
-  {
-   "id": "c0603a2bc09f286b",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477426/",
-   "title": "『Slay the Spire 2』で“もっとも完璧なカードは「強打」だ”と開発者が断言。弱くはないし強くもない、“パッとしない”最高傑作",
-   "summary": "『Slay the Spire 2』の開発者が考える「最も完璧なカード」は、アイアンクラッドの初期カード「強打」だという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477426-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T17:04:48+09:00"
-  },
-  {
-   "id": "73b3ffadd75d2578",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477368/",
-   "title": "空島スローライフMMO『Loftia』が人気爆発。自由な服とお家でエコな農業楽しむ“戦わない”MMO",
-   "summary": "Qloud Gamesは11月4日、ライフシムMMO『Loftia』を早期アクセス配信した。さっそく多くのプレイヤーが集まり、好評を博しているようだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477368-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T16:18:49+09:00"
-  },
-  {
-   "id": "3c1a6c27c6d11843",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477375/",
-   "title": "Mod共有サイト「Nexus Mods」、AIの利用開示を義務化。「AIの是非」にコミュニティ揺れるも、ひとまず“禁止”はしない",
-   "summary": "Mod共有サイト「Nexus Mods」は11月3日、AI生成コンテンツに関する声明を発表した。新たにAI利用の開示が必須となる。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477375-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T15:32:06+09:00"
-  },
-  {
-   "id": "2e34f38f8f2bc593",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477359/",
-   "title": "社会主義国家運営シム『Workers & Resources: Soviet Republic』大型DLC「Space Program」発表、11月24日配信へ。社会主義、宇宙に飛び立つ",
-   "summary": "Hooded Horseは11月3日、『Workers & Resources: Soviet Republic』向けのDLC「Space Program 宇宙開発」を11月23日に配信すると発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477359-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T14:59:48+09:00"
-  },
-  {
-   "id": "b8a549395ef672b1",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477349/",
-   "title": "『コントロール レゾナント』が売れまくり、開発元Remedyの売上高が「3倍超」に躍進。“30億円赤字”から黒字転換、息を吹き返す",
-   "summary": "Remedy Entertainmentは11月3日、第3四半期決算を発表した。『CONTROL Resonant』の好調が影響し、昨年の同じ期間と比較し、3倍以上もの売上を記録したという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477349-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T14:25:48+09:00"
-  },
-  {
-   "id": "87742533cbcc9eb7",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477339/",
-   "title": "Nintendo Switch 2/Switch向けセールに約370本どどんと追加。『FF7 リメイク』と『リバース』が激安、『龍が如く 極３』最安更新、他にも『空の軌跡 the 1st』など大作いっぱいお安い",
-   "summary": "ニンテンドーeショップにて11月4日、Nintendo Switch 2/Nintendo Switch向けタイトルの新たなセールが開始された。対象タイトルは約370本。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477339-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T13:40:55+09:00"
-  },
-  {
-   "id": "d84d80c2f9060ef3",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477333/",
-   "title": "『NIKKE』PCランチャーが「第三者に改ざんされた可能性」と公式発表。現在影響を調査中",
-   "summary": "『勝利の女神：NIKKE』の運営は11月4日、同社のPCランチャーのスクリプトファイルが第三者によって改ざんされた可能性があるとして注意を呼びかけた。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477333-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T12:48:06+09:00"
-  },
-  {
-   "id": "91d724f511980b87",
-   "url": "https://automaton-media.com/articles/newsjp/20261104-477326/",
-   "title": "PS5/PS4向けに「ブラックフライデーセール」開幕。『FF7リバース』が「85％オフ」、『エースコンバット8』が早くも初セール",
-   "summary": "PS StoreにてPS5/PS4向けタイトルを対象とした「BLACK FRIDAY SALE」が開始された。期間は11月20日まで。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477326-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-04T11:39:55+09:00"
   }
  ]
 }
