@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T01:16:09+09:00",
+ "generated_at": "2026-11-12T07:49:45+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "f4676e91bbeec858",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478795/",
+   "title": "“今年最初のGOTY”は『バイオハザード レクイエム』が受賞、『めっちゃカメレオン』も4部門受賞で存在感放つ。「Golden Joystick Awards 2026」まとめ",
+   "summary": "「Golden Joystick Awards 2026」が日本時間11月12日に開催され、各部門の受賞作品が発表された。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478795-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T05:16:57+09:00"
+  },
   {
    "id": "e11a57bcbb3b7c03",
    "url": "https://automaton-media.com/articles/newsjp/20261112-478789/",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-06T10:29:20+09:00"
-  },
-  {
-   "id": "3f767625c05f5e08",
-   "url": "https://automaton-media.com/articles/newsjp/20261106-477820/",
-   "title": "『ニーア オートマタ』Steam版、突然「366GB」の超巨大ゲームに。久々のアプデ後に、謎のストレージ大食い現象",
-   "summary": "『NieR:Automata（ニーア オートマタ）』のSteam版にて、本作の必要ストレージ容量が366.56GBになるという奇妙な不具合が発生している。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477820-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-06T08:40:30+09:00"
   }
  ]
 }
