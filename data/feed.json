@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T05:52:35+09:00",
+ "generated_at": "2026-11-11T10:17:04+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "d0ec7f9a83997b43",
+   "url": "https://www.4gamer.net/games/057/G105723/20261111002/",
+   "title": "3部作の完結編「NAIRI: Blinding Light」が2027年発売へ。柔らかな手描きアート＆アニメーションが特徴のパズルアドベンチャーゲーム",
+   "summary": "HomeBearStudioは2026年11月10日，「NAIRI」シリーズ3部作の完結編「NAIRI:BlindingLight」を2027年にリリースすると発表した。地上の街と，パズルでいっぱいの地下迷宮を行き来し，その奥底に眠る謎を解き明かしていくパズルアドベンチャーゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-11T09:59:17+09:00"
+  },
+  {
+   "id": "700fdc4f8274abb4",
+   "url": "https://automaton-media.com/articles/newsjp/20261111-478528/",
+   "title": "PS5/PS4向け「ゲームカタログ」11月もだいぶ豪華、『デス・ストランディング2』や『ドラゴンクエストIII』リメイクなど新しめ大型タイトル揃う。総額5万5000円超え",
+   "summary": "ソニー・インタラクティブエンタテインメントは11月11日、PlayStation Plus エクストラおよびプレミアム加入者向け「ゲームカタログ」の11月追加タイトルを発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261111-478528-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-11T09:26:50+09:00"
+  },
+  {
+   "id": "0ef0eef4e0e1a599",
+   "url": "https://www.4gamer.net/games/990/G999007/20261105042/",
+   "title": "本日発売20周年を迎えたPS3は，“何でも再生できる”稀代のエンタテインメントコンピュータだった",
+   "summary": "本日（2026年11月11日），発売から20周年を迎えたPlayStation3は，単なるゲーム機の枠を超えた，ホームサーバーのような役割が期待されていた。家庭内のデジタルデータはすべて扱えたといっても過言ではないほど，対応メディアやファイルが充実していたのだ。この機会に改めて振り返ってみよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-11T07:00:00+09:00"
+  },
   {
    "id": "f8e511828ec22a5f",
    "url": "https://www.4gamer.net/games/057/G105712/20261110031/",
@@ -1786,28 +1819,6 @@
    "published": "2026-11-06T20:07:48+09:00"
   },
   {
-   "id": "730816b23289d013",
-   "url": "https://www.4gamer.net/games/056/G105629/20261106037/",
-   "title": "2本のナイフを携えた赤ずきんが，童話に登場する魔女や怪物を残酷に葬っていく。2Dアクション「Once Upon a Kill」，2027年1月15日に発売予定",
-   "summary": "LogiKは，PC向け2Dアクションゲーム「OnceUponaKill」を2027年1月15日に発売すると発表した。本作は，2本のナイフを携えた赤ずきんが，童話に登場する魔女や怪物を残酷な方法で葬っていく作品だ。ボスとの戦いでは，それぞれの童話にちなんだ方法でとどめを刺すことが特徴となっている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T20:00:44+09:00"
-  },
-  {
-   "id": "6b8448a990c127b2",
-   "url": "https://www.4gamer.net/games/056/G105634/20261106045/",
-   "title": "「TALESWEAVER MOBILE」，韓国向けの新作として発表",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-06T19:56:55+09:00"
-  },
-  {
    "id": "d551a516919e9d05",
    "url": "https://automaton-media.com/articles/newsjp/20261106-477913/",
    "title": "『VRChat』、Unityの新描画基盤「URP」移行に向けようやく動き出す。「ビルトインRP」卒業のため、まずは“自動変換”実験中",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-05T11:10:23+09:00"
-  },
-  {
-   "id": "4882ae312d670740",
-   "url": "https://automaton-media.com/articles/newsjp/20261105-477547/",
-   "title": "Steamもちもち猫放置釣りゲーム『ニャンびり釣り日和』リリース。最大6人プレイ対応、ゆるく繋がるサボりの輪",
-   "summary": "Kunpan Gamesは11月5日、Lumenexが手掛ける『ニャンびり釣り日和』をリリースした。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477547-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-05T11:00:01+09:00"
   }
  ]
 }
