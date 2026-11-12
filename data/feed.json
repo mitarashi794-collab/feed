@@ -1,8 +1,85 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T21:51:00+09:00",
+ "generated_at": "2026-11-13T05:53:01+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "31e7c3091149b006",
+   "url": "https://www.4gamer.net/games/724/G072455/20261112028/",
+   "title": "行動をプログラムしたゴーレムでダンジョンを攻略するRPG「Algolemeth」，発売日が2027年1月26日に決定。戦闘も探索も全自動",
+   "summary": "架け橋ゲームズとRawFuryは本日，PCゲーム「Algolemeth」の発売日が2027年1月26日に決定したと発表した。本作は，行動をプログラムしたゴーレムを送り込んでダンジョンを攻略するRPGだ。プレイヤーは錬金術師となり，ゴーレムでパーティを編成して，汚染の塔「タワー・オブ・コラプション」の踏破を目指す。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-13T02:00:00+09:00"
+  },
+  {
+   "id": "bf6f6c1cbab1a417",
+   "url": "https://www.4gamer.net/games/897/G089789/20261113001/",
+   "title": "「Pokémon LEGENDS Z-A」，色違いのゼルネアスが手に入る“あいことば”を公開。色違いのイベルタルは12月10日から配布スタート",
+   "summary": "ポケモンは本日（2026年11月12日），RPG「PokémonLEGENDSZ-A」で，「ふしぎなおくりもの」に入力すると色違いのゼルネアスが手に入る“あいことば”を公開した。12月10日からは，色違いのイベルタルも配布される予定だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-13T00:36:10+09:00"
+  },
+  {
+   "id": "78cc339edfe88605",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-479002/",
+   "title": "NVIDIAのジェンスン・フアンCEO辞任。“革ジャン”でおなじみの人物、約33年でトップを降りる",
+   "summary": "NVIDIAは11月12日、同社社長兼CEOのJensen Huang氏が辞任したと発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-479002-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T23:45:13+09:00"
+  },
+  {
+   "id": "46d3889dd6d90201",
+   "url": "https://www.4gamer.net/games/590/G059016/20261112058/",
+   "title": "「The Elder Scrolls V: Skyrim」，認定クリエイターの5作品を収録した15周年記念のMODバンドル「Anniversary Creation Bundle」を発売",
+   "summary": "BethesdaSoftworksは本日（2026年11月12日），アクションRPG「TheElderScrollsV:Skyrim」の発売15周年を記念した「AnniversaryCreationBundle」をリリースした。認定クリエイターが制作した追加コンテンツ5作品をまとめたセットで，ゲーム内のCreationsメニューで12月12日まで提供される。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T23:19:40+09:00"
+  },
+  {
+   "id": "fa94461e5b5885a7",
+   "url": "https://www.4gamer.net/games/999/G999902/20261112001/",
+   "title": "NVIDIAのCEO，ジェンスン・フアン氏が辞任。中国によるスパイ工作疑惑が国家安全保障上の問題にまで発展",
+   "summary": "米国時間2026年11月11日，NVIDIAは，同社創業者兼CEOであるJensenHuang氏が辞任したと発表した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T23:02:27+09:00"
+  },
+  {
+   "id": "5343d18c944290a6",
+   "url": "https://www.4gamer.net/games/649/G064915/20261112048/",
+   "title": "「餓狼伝説 City of the Wolves」，Season 3追加キャラクター第5弾「ラオコーン・ゴーダマス」を11月19日にリリース。新トレイラーも公開",
+   "summary": "SNKは本日（2026年11月12日），対戦格闘ゲーム「餓狼伝説CityoftheWolves」のSeason3追加キャラクター第5弾「ラオコーン・ゴーダマス」を11月19日にリリースすると発表した。それに合わせて，キャラクター紹介トレイラーが公開されている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T23:00:00+09:00"
+  },
+  {
+   "id": "42023c1922194649",
+   "url": "https://www.4gamer.net/games/058/G105814/20261112057/",
+   "title": "人気タワーディフェンス「にゃんこ大戦争」がカードゲームに。新作TCG「にゃんこ・ザ・カードゲーム」が2027年3月26日発売へ",
+   "summary": "ポノスは本日（2026年11月12日），「にゃんこ大戦争」を題材にした新作TCG「にゃんこ・ザ・カードゲーム」を2027年3月26日に発売すると発表した。にゃんこたちを生産して出撃させ，相手の城の撃破を目指す2人対戦のカードゲームで，全カードに描き下ろしイラストが使用される。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T22:26:45+09:00"
+  },
   {
    "id": "875535b3c409ba05",
    "url": "https://automaton-media.com/articles/newsjp/20261112-478961/",
@@ -325,7 +402,7 @@
   {
    "id": "9b6075549aa005ce",
    "url": "https://automaton-media.com/articles/newsjp/20261112-478893/",
-   "title": "対話型AI「Claude」が『ポケモン』関連の生成を拒否するようになったとの報告。“再現ゲーム”だけでなく、ファンアートなどもNGか",
+   "title": "対話型AI「Claude」が『ポケモン』関連の作業を拒否するようになったとの報告。“ゲーム模倣NG”に加え、「アセット」「ロゴ」の使用も拒む",
    "summary": "対話型AI「Claude」について、『ポケモン』シリーズ関連の生成を拒否するようになったとの報告が寄せられている。",
    "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478893-header.jpg",
    "source": "AUTOMATON",
@@ -1654,28 +1731,6 @@
    "published": "2026-11-10T17:00:00+09:00"
   },
   {
-   "id": "6ce5eb7b3156a948",
-   "url": "https://www.4gamer.net/games/989/G098960/20261110026/",
-   "title": "「みんなでポイっと！プリニーすごろく」，投げ，転生，積み，議会などの独自システムを紹介する最新ムービーを公開",
-   "summary": "日本一ソフトウェアは本日，パーティーゲーム「みんなでポイっと！プリニーすごろく」のシステム紹介ムービーを公開した。コマンドRPGとすごろくを組み合わせた本作の基本的な流れに加え，「投げ」「転生」「積み」「議会」といった独自のゲームシステムを映像で紹介している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T17:00:00+09:00"
-  },
-  {
-   "id": "d9e3ceebd1dacbd2",
-   "url": "https://www.4gamer.net/games/031/G103109/20261110010/",
-   "title": "今夜22時から放送の「RADIO 4Gamer Tap（仮）」では，音声で妹に指示を出す運転教習シミュレーション「妹に運転を教える」を紹介します",
-   "summary": "2026年11月10日22：00より，声優の岡本信彦さんと，フリーライターのマフィア梶田さんがパーソナリティを務めるWeb番組「RADIO4GamerTap（仮）」第311回のライブ配信を行います。今回は，音声で指示を出す運転教習シミュレーション「妹に運転を教える」を紹介します。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T17:00:00+09:00"
-  },
-  {
    "id": "4087e0efa0dee39b",
    "url": "https://automaton-media.com/articles/newsjp/20261110-478425/",
    "title": "Steam無料・異界ボウリング球アクション『Sadball』近日中に配信終了へ。もらえるのは今だけ",
@@ -1742,17 +1797,6 @@
    "published": "2026-11-10T13:41:03+09:00"
   },
   {
-   "id": "15d71c6190a14b21",
-   "url": "https://www.4gamer.net/games/999/G999905/20261110009/",
-   "title": "GPUとAI半導体の巨人NVIDIAに激震。ジェンスン・フアンCEOを標的とする中国のスパイ工作疑惑で独立調査を開始。不倫関係を認め謝罪",
-   "summary": "NVIDIAは，CEOのジェンスン・フアン氏が中国の情報機関によるスパイ工作の標的になっていたとする報道を受け，独立調査を開始すると発表した。フアン氏は不倫関係を認めて謝罪しており，米議会も説明を要求している。AI半導体をめぐる米中対立のなか，企業機密への影響が注目される。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T13:14:29+09:00"
-  },
-  {
    "id": "9e665d61db9c49c5",
    "url": "https://automaton-media.com/articles/newsjp/20261110-478374/",
    "title": "Steamストアで「ゲームの平均フレームレート」を確認できるように、まずはSteam Deck向けに。だいたい何fps出るか、買う前にわかる",
@@ -1762,39 +1806,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-10T13:05:59+09:00"
-  },
-  {
-   "id": "b59d0ae9db83f531",
-   "url": "https://www.4gamer.net/games/978/G097898/20261110006/",
-   "title": "レーザーで剛毛を焼き払う「脱毛サロンシミュレーター」，Steamで本日発売。客に毛を植える「デザイン植毛」など，体験版にはなかった要素も",
-   "summary": "2PGamesは本日，ヨシオゲームズが開発したPCゲーム「脱毛サロンシミュレーター」をSteamで発売した。本作は，美意識の高い男性専門の脱毛サロンを経営するシミュレーションゲームだ。製品版では，体験版にはなかった「デザイン植毛」が加わった。来店する超VIPの体に，植毛銃で好きなデザインの毛を植えられる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T12:39:35+09:00"
-  },
-  {
-   "id": "197aaa76abf793a8",
-   "url": "https://www.4gamer.net/games/990/G999030/20261110008/",
-   "title": "任天堂がSwitch 2 / Switch向けに本体機能の更新データを配信。新機能「プレゼント」が追加され，2026年11月17日から利用可能に",
-   "summary": "任天堂は本日，NintendoSwitch2およびNintendoSwitch向けに本体機能の更新データを配信した。ファミリーグループに参加している家族にニンテンドーeショップの商品を贈れる新機能「プレゼント」が追加され，11月17日から利用可能になる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T12:35:43+09:00"
-  },
-  {
-   "id": "51be20c170db4d74",
-   "url": "https://www.4gamer.net/games/056/G105640/20261110007/",
-   "title": "「ドラゴンクエストRPG 魔界樹と導かれし島」，2027年にグローバル同時リリース予定。WFSとスクウェア・エニックスが共同開発",
-   "summary": "グリーホールディングスは本日（2026年11月10日），WFSがスクウェア・エニックスと共同開発する「ドラゴンクエストRPG 魔界樹と導かれし島」に関するIR情報を公開した。2027年にグローバル同時リリースを予定している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T12:28:30+09:00"
   },
   {
    "id": "a3ee1fe8ff58754a",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-07T19:23:21+09:00"
-  },
-  {
-   "id": "12afead39e5ab14f",
-   "url": "https://automaton-media.com/articles/newsjp/20261107-478035/",
-   "title": "約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。最大4人オンライン対戦搭載、オリジナル版開発元が手がける懐かしの怪獣バトル",
-   "summary": "Atariは11月3日、『Godzilla: Destroy All Monsters Melee Remastered』を配信開始した。Steamユーザーレビューで「圧倒的に好評」ステータスを獲得するなど、注目を集めている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478035-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T17:02:40+09:00"
   }
  ]
 }
