@@ -1,8 +1,404 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T12:51:46+09:00",
+ "generated_at": "2026-11-12T21:51:00+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "875535b3c409ba05",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478961/",
+   "title": "Steamの新たなパチンコ風ローグライク『スプラット・パチンコ』配信開始、“気持ちいい瞬間”がいっぱい。連鎖がとにかく大げさ、銀河破壊シナジー",
+   "summary": "Stratos Gamingは11月12日、インディースタジオ・Stupidi Pixel開発によるローグライクゲーム『スプラット・パチンコ』の配信を開始した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478961-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T21:46:46+09:00"
+  },
+  {
+   "id": "1256125c5835b19d",
+   "url": "https://www.4gamer.net/games/045/G104592/20261112056/",
+   "title": "それぞれのティア表を予想して順番を当てよう。最大10人で遊べるパーティーゲーム「みんなでティア表！」，配信開始",
+   "summary": "BookBookは本日（2026年11月12日），新作タイトル「みんなでティア表！」をリリースした。本作は，それぞれのプレイヤーがお題に合わせてS〜Dのティア表を作成し，ほかのプレイヤーがその並び順を当てる，最大10人でのオンラインプレイに対応したパーティーゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T21:44:33+09:00"
+  },
+  {
+   "id": "1570d9d73a53631f",
+   "url": "https://www.4gamer.net/games/991/G999110/20261112055/",
+   "title": "ゲーム開発者向けイベント「GTMF 2026」，大阪で12月2日，東京で12月8日に開催。各会場の参加登録を受付中",
+   "summary": "ゲーム開発者向けの展示会およびセミナーイベント「GameTools&MiddlewareForum2026」が，大阪会場は12月2日，東京会場は12月8日に開催される。会場では，開発者向けツールやミドルウェアなどの提供者がブースを出展し，製品のデモを見ながら各社の担当者に直接相談できる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T21:32:24+09:00"
+  },
+  {
+   "id": "67adb89fbfb65430",
+   "url": "https://www.4gamer.net/games/981/G098198/20261112053/",
+   "title": "「WARDOGS」，シーズン3のパッチノートを公開。市街地戦を主体とする新マップが登場。赤外線距離計は一時的に削除へ",
+   "summary": "BULKHEADは本日（2026年11月12日），配信中の大規模FPS「WARDOGS」で日本時間の11月13日に開始するシーズン3のパッチノートを公開するとともに，アップデートに伴うメンテナンスを11月12日22：00から13日0：00まで実施すると発表した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T21:07:01+09:00"
+  },
+  {
+   "id": "eb3bf7bb49a112a3",
+   "url": "https://www.4gamer.net/games/548/G054848/20261112054/",
+   "title": "「ドルフロ2：エクシリウム」，コミックマーケット109に出展決定",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T21:01:37+09:00"
+  },
+  {
+   "id": "11e03947eec56db6",
+   "url": "https://www.4gamer.net/games/136/G013687/20261112031/",
+   "title": "人はなぜモノを集めるのか。殺意に勝るコレクションの業を描きぬいた傑作ミステリ「古本屋探偵の事件簿」（ゲーマーのためのブックガイド：第73回）",
+   "summary": "人なぜモノを集めてしまうのか。本であれゲームであれ，あるいはデジタルであっても，コレクションには昔から人の業が詰め込まれている。そして，それはときに殺意に転じることも。今回は，そうした深すぎる業に迫ったミステリ小説，紀田順一郎の〈古本屋探偵・須藤康平〉シリーズを紹介する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T21:00:27+09:00"
+  },
+  {
+   "id": "051defa217b617ae",
+   "url": "https://www.4gamer.net/games/915/G091522/20261112052/",
+   "title": "「サカつくTV ハーフタイムSP'26冬」，11月19日に配信決定",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T20:54:10+09:00"
+  },
+  {
+   "id": "bb272d5676cad9ce",
+   "url": "https://www.4gamer.net/games/848/G084886/20261112051/",
+   "title": "「サブノーティカ 2」，Golden Joystick Awards 2026のBest Early Access Game部門を受賞",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T20:46:02+09:00"
+  },
+  {
+   "id": "8f820b6b633a6a17",
+   "url": "https://www.4gamer.net/games/036/G103632/20261112047/",
+   "title": "「Exterminauts」，PC向けのクローズドβテストを日本時間11月13日11：00から開催",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T20:40:34+09:00"
+  },
+  {
+   "id": "496867791cdf0740",
+   "url": "https://www.4gamer.net/games/058/G105810/20261112042/",
+   "title": "魔女狩りが横行する時代にわけありの薬草医となり，あらゆる手段を駆使して生き延びていく。物語重視のADV「我不是女巫」（I Am Not a Witch）発表",
+   "summary": "中国のインディー開発スタジオPinkScytheは本日，PC向け新作「我不是女巫」（IAmNotaWitch）を発表した。本作は，魔女狩りが横行する時代を舞台に，薬草医の女性となって薬の調合や情報収集などを行いながら生き延びる，物語重視のアドベンチャーゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T20:39:08+09:00"
+  },
+  {
+   "id": "d0c0376e9620d904",
+   "url": "https://www.4gamer.net/games/999/G999902/20261112044/",
+   "title": "背面にもディスプレイがあるXiaomiの最新ハイエンドスマホ「Xiaomi 18 Pro」シリーズを一足お先に体験してみた",
+   "summary": "2026年11月12日，Xiaomiは，11月17日に世界市場向けの発表を予定しているハイエンドスマートフォン「Xiaomi18Pro」シリーズの，メディアおよびインフルエンサー向け体験会を東京都内で開催した。背面に小型のディスプレイを備えているのが最大の特徴だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T20:34:43+09:00"
+  },
+  {
+   "id": "7722ee34bfbfadc4",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478954/",
+   "title": "大ヒット『黄泉に落ちても麻雀』開発元の新作『ドリームダイバーズ』は、協力型リミナルスペース探索。仕掛けたっぷりの“夢”は綺麗、綺麗すぎてむしろ怖い",
+   "summary": "Pilot GamesはOMEGAMES STUDIOが手掛ける『ドリームダイバーズ』を発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478954-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T20:15:52+09:00"
+  },
+  {
+   "id": "313647eec0a3e347",
+   "url": "https://www.4gamer.net/games/991/G999112/20261112024/",
+   "title": "わしゃがなTVの最新動画では，月刊ニュータイプの1993年9月号を振り返る。「機動戦士Vガンダム」や「幽遊白書」など名作が続々登場",
+   "summary": "本日，声優の中村悠一さんと，フリーライターのマフィア梶田さんによるWeb番組「わしゃがなTV」の最新動画が公開された。今回は，アニメ雑誌「月刊ニュータイプ」の1993年9月号を振り返る。劇場版「機動警察パトレイバー2theMovie」や「機動戦士Vガンダム」など，懐かしの番組が続々登場する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T20:00:00+09:00"
+  },
+  {
+   "id": "d217402eadec6349",
+   "url": "https://www.4gamer.net/games/635/G063507/20261112039/",
+   "title": "「バイオハザード RE:4」のアクションフィギュア「ねんどろいどどーる レオン・S・ケネディ」が発売決定",
+   "summary": "グッドスマイルカンパニーは本日，サバイバルホラーゲーム「バイオハザードRE:4」のアクションフィギュア「ねんどろいどどーるレオン・S・ケネディ」を発売すると発表し，予約受付を開始した。価格は9800円（税込）。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T19:56:25+09:00"
+  },
+  {
+   "id": "f710e22beb9b884f",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478932/",
+   "title": "進化をたどる壮大クリッカー『Cell to Singularity』超大型アプデで過去最高レベルの盛り上がり。月面基地・遺伝子治療にサイボーグ、“特異点”に手をかける未来すぎ技術たっぷり",
+   "summary": "Computer Lunchは11月12日、クリッカーゲーム『Cell to Singularity – Evolution Never Ends（進化は終わらない）』向けに大型アップデート「The Future」を配信した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478932-header.png",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T19:49:02+09:00"
+  },
+  {
+   "id": "93b568a4e0b0d094",
+   "url": "https://www.4gamer.net/games/324/G032445/20261112041/",
+   "title": "「メイプルストーリーM」で「テイルズウィーバー」とのコラボを開催",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T19:41:40+09:00"
+  },
+  {
+   "id": "ba931e278f55fae3",
+   "url": "https://www.4gamer.net/games/058/G105809/20261112038/",
+   "title": "ロボットバトルシミュレーター「ロボガンビット」，体験版をSteamでリリース。ロボットを組み立て，戦い方をプログラムしよう",
+   "summary": "DrixDevは11月11日，PCゲーム「ロボガンビット」の体験版をSteamでリリースした。本作は，おもちゃのロボットを組み立て，戦い方をプログラムして戦わせるロボットバトルシミュレーターだ。プレイヤーはチームを編成し，対戦相手が徐々に強くなるトーナメントを勝ち抜いていく。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T19:22:19+09:00"
+  },
+  {
+   "id": "52083400651d54a7",
+   "url": "https://www.4gamer.net/games/058/G105807/20261112037/",
+   "title": "ただトラクターに乗るだけ。あまり考えずに楽しめる農業ゲーム「Just Farm」，Steamで配信開始。リリース記念セールも",
+   "summary": "DasiGamesは本日，PC用ソフト「JustFarm」の配信をSteamで開始した。リアルさを目指していない本作は，ただトラクターに乗るだけで楽しめる農業ゲームだ。収穫した農作物を売って，稼いだお金でトラクターを強化していく。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T19:13:31+09:00"
+  },
+  {
+   "id": "18d209475db1a962",
+   "url": "https://www.4gamer.net/games/058/G105808/20261112036/",
+   "title": "「Million Depth」，Switch向け体験版を配信開始。本編3ルートのうち「αルート」を最後までプレイ可能。製品版へのセーブデータ引き継ぎにも対応",
+   "summary": "PLAYISMは本日，深層墜下アクションストラテジー「MillionDepth」のSwitch向け体験版を配信開始した。本編に用意された3つのルートのうち，「αルート」を最後までプレイでき，選択によって結末が変化するマルチエンディングも体験可能だ。あわせて，オリジナルサウンドトラックの試聴動画も公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T19:03:58+09:00"
+  },
+  {
+   "id": "457cee8d389ca78e",
+   "url": "https://www.4gamer.net/games/015/G101544/20261112034/",
+   "title": "Nintendo Switch 2版「メタファー：リファンタジオ」，本日発売。プレイ環境や好みに合わせて動作モードを選択できる",
+   "summary": "アトラスは本日（2026年11月12日），NintendoSwitch2版「メタファー：リファンタジオ」を発売した。本作は，「ペルソナ」シリーズのクリエイター陣が手掛けたRPGだ。Switch2版は，携帯モード・TVモードのいずれでも，プレイ環境や好みに合わせて動作モードを選択できる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T18:54:34+09:00"
+  },
+  {
+   "id": "7180b2f1eb5a469b",
+   "url": "https://www.4gamer.net/games/058/G105805/20261112035/",
+   "title": "地球にいながら月面のローバーを遠隔操作し，資源を採掘していく。片道1.3秒の通信遅延が特徴の採掘シム「MOONWRIGHT」発表，2026年第4四半期にリリース予定",
+   "summary": "インディー開発者のOlegFedorov氏は本日，PC向け新作「MOONWRIGHT」を発表した。本作は，地球から月面のローバーを遠隔操作して資源を採掘し，その売却益で借金を返済していくシミュレーションゲームで，片道1.3秒の通信遅延が特徴だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T18:37:34+09:00"
+  },
+  {
+   "id": "2750449b18ab8056",
+   "url": "https://www.4gamer.net/games/013/G101380/20261112032/",
+   "title": "ソニックとコラボした協力型アクションパズル「SONIC PICO PARK」，本日発売。新キャラクターとして「スーパーソニック」を公開",
+   "summary": "PICOPARKは本日，新作タイトル「SONICPICOPARK」（PC/Switch2/PS5/XBOXSeriesX|S/Switch/XBOXOne）を発売した。本作は，協力型アクションパズルゲーム「PICOPARK」シリーズの最新作で，セガの「ソニック・ザ・ヘッジホッグ」の35周年を記念したコラボレーション作品だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T18:31:03+09:00"
+  },
+  {
+   "id": "b09fe59651e1e1da",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478941/",
+   "title": "『ゼルダの伝説 時のオカリナ』リメイク版の“斬れる霧”表現が脚光浴びる。さっそく真似するゲーム開発者たち、ゆらゆら霧にブームの兆し",
+   "summary": "『ゼルダの伝説 時のオカリナ』リメイク版の「霧」の表現が注目を浴び、その表現を早速参考にするゲーム開発者もいるようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478941-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T18:30:25+09:00"
+  },
+  {
+   "id": "9463c8f691151d5b",
+   "url": "https://www.4gamer.net/games/058/G105806/20261112033/",
+   "title": "西部開拓サバイバル「Westlanders」のクローズドプレイテストがスタート。馬車を移動拠点に荒野を旅し，入植地を築いて経済圏を拡大しよう",
+   "summary": "Team17は，西部開拓サバイバル「Westlanders」のクローズドプレイテストを開始し，最新トレイラーを公開した。馬車を拠点に荒野を探索し，採集やクラフト，入植地の建設を通じて経済圏を拡大する。最大4人の協力プレイに対応し，序盤の6〜8時間を体験できる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-12T18:27:52+09:00"
+  },
+  {
+   "id": "a0db6326ee13d3df",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478924/",
+   "title": "サービス終了予定の『モンスターハンターパズル アイルーアイランド』買い切り版発売、その名も『いつまでも版』。アイルーたちと、どこでもずっと一緒",
+   "summary": "カプコンは11月12日、パズルゲーム『モンスターハンターパズル アイルーアイランド いつまでも版』を配信した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478924-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T18:10:32+09:00"
+  },
+  {
+   "id": "ad1d045e34bffce6",
+   "url": "https://automaton-media.com/articles/reportjp/deadly-days-roadtrip-20261112-478630/",
+   "title": "高評価サバイバー×バッグ整理ローグライト『デッドリーデイズ：ロードトリップ』は、ゾンビの大群より空きマスひとつに頭を抱える“なぎ倒し系弾幕アクション”だった。バッグの整理は丁寧に、ゾンビの処分は容赦なく",
+   "summary": "本稿では『デッドリーデイズ：ロードトリップ』がどのようなゲームであるか、どういった点が面白いのかをお届けしよう。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/deadly-days-roadtrip-20261112-478630-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T18:00:10+09:00"
+  },
+  {
+   "id": "3bd78704a38d92ff",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478916/",
+   "title": "最大6人対戦“視界ゼロ”ホラーFPS『BLIND x FOLD』発表。環境音や足音を頼りにするまっ暗闇サバイバル、じっとしてるとハエがたかって「位置バレ」",
+   "summary": "Onion Soup Interactiveは11月11日、『BLIND x FOLD』を正式発表した。本作は最大6人プレイに対応し、「音だけ」でプレイするホラーPvPシューターだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478916-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T17:49:01+09:00"
+  },
+  {
+   "id": "a679f3e426e4cc2f",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478892/",
+   "title": "『フットボールマネージャー 27 Touch』Apple Arcade向けに配信開始、iPhoneやiPadで遊び放題。『プリンス オブ ペルシャ 失われた王冠+』もまもなく来る",
+   "summary": "Apple Arcadeにて、『Football Manager 27 Touch』が配信開始。12月3日に配信予定の新作ラインナップも発表されている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478892-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T17:32:41+09:00"
+  },
+  {
+   "id": "37ee7ef9b6107041",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478885/",
+   "title": "基本プレイ無料“地形ぶっ壊し”STG『カオス★スマッシュ』いきなり公式が暴走、怪しいゆるキャラ「ずーしーほっきー」参戦。初コラボ相手が想像の斜め上",
+   "summary": "株式会社ムーンラビットは11月12日、『カオス★スマッシュ』（以下、カオスマ）にて、北海道・北斗市の公式キャラクター「ずーしーほっきー」とのコラボイベントを開始した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478885-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T17:18:26+09:00"
+  },
+  {
+   "id": "9b6075549aa005ce",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478893/",
+   "title": "対話型AI「Claude」が『ポケモン』関連の生成を拒否するようになったとの報告。“再現ゲーム”だけでなく、ファンアートなどもNGか",
+   "summary": "対話型AI「Claude」について、『ポケモン』シリーズ関連の生成を拒否するようになったとの報告が寄せられている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478893-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T17:03:12+09:00"
+  },
+  {
+   "id": "d56382d141b26a58",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478887/",
+   "title": "『ロマサガ3』フルリメイク『ロマンシング サガ3 デスティニーユナイテッド』発売日が「約2週間」も前倒しに。来年2月4日発売へ",
+   "summary": "スクウェア・エニックスは11月12日、『ロマンシング サガ3 デスティニーユナイテッド』について、2027年2月4日の発売に前倒しすると発表した。Steam版については2月5日の発売となる。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478887-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T16:36:38+09:00"
+  },
+  {
+   "id": "6b6e8c24c90cdd2e",
+   "url": "https://automaton-media.com/articles/newsjp/steams-20261112-478874/",
+   "title": "「Steam審査が終わらない」多数のゲームで発売延期続出。待っている間にAIクローン発生、Steam上の露出機会も減少リスク",
+   "summary": "Steamで提出されるゲームの本数自体が大幅に増加していることにくわえ、提出されたゲームの再審査が頻発しているためだという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/steams-20261112-478874-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T15:41:30+09:00"
+  },
+  {
+   "id": "d5ba2f9a8c223256",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478866/",
+   "title": "好評武装少女ローグライクACT 『Million Depth』Nintendo Switch向け体験版配信開始。Switchでも「1ルート」お試しできる、セーブデータも引き継ぎ可",
+   "summary": "PLAYISMは11月12日、『Million Depth』のNintendo Switch体験版の配信を開始した。体験版のセーブデータは製品版への引き継ぎも可能となっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478866-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T15:17:31+09:00"
+  },
+  {
+   "id": "6cd67393a286be77",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478858/",
+   "title": "本格ギター型コントローラー「Drakong InfinaKore テレキャスター・エディション」国内正規販売決定。『Guitar Hero』や『Fortnite Festival』などに対応、カスタマイズも自在",
+   "summary": "エヌケー貿易株式会社は11月12日、「Drakong InfinaKore テレキャスター・エディション」の国内正規販売を開始した。本製品は、Telecaster（テレキャスター）の形状が再現されたギターコントローラーだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478858-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T14:50:28+09:00"
+  },
+  {
+   "id": "93cbf53eb644863b",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478848/",
+   "title": "任天堂、Nintendo Switchの「改造チップ用プログラム」にごっそり削除要請。改造チップを“動かす手段”にも追及の手、海賊版対策さらに進む",
+   "summary": "ソフトウェア開発プラットフォームGitHubは、任天堂から11月6日に送付された複数のDMCAを公開した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478848-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T14:20:16+09:00"
+  },
+  {
+   "id": "69c663f603dc6f2d",
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478838/",
+   "title": "「聖徳太子」と恋愛できる話題の乙女ゲーム『なら☆こい 〜古代人なれど恋したひ〜』12月17日に配信決定。主人公は、ごく普通の“女子”高生・小野妹子",
+   "summary": "サイバーステップは11月12日、乙女ゲーム『なら☆こい 〜古代人なれど恋したひ〜』を12月17日に配信すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478838-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-12T13:25:03+09:00"
+  },
   {
    "id": "560c330256ec51f9",
    "url": "https://www.4gamer.net/games/057/G105778/20261112009/",
@@ -1401,17 +1797,6 @@
    "published": "2026-11-10T12:28:30+09:00"
   },
   {
-   "id": "509fb8ff8315e277",
-   "url": "https://www.4gamer.net/games/056/G105685/20261110005/",
-   "title": "「メダロット クラシックス プラス」，Steam版が12月に発売決定。シリーズ初のSteam展開で，過去作8タイトルをまとめて楽しめる",
-   "summary": "イマジニアは本日，「メダロットクラシックスプラス」のSteam版を2026年12月に発売すると発表した。「メダロット」シリーズがSteamに登場するのは今回が初めてだ。本作は過去作8タイトルを収録し，最大8倍速やロボトルスキップなど，快適にプレイするための機能も搭載している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T12:12:34+09:00"
-  },
-  {
    "id": "a3ee1fe8ff58754a",
    "url": "https://automaton-media.com/articles/newsjp/imagica-20261110-477499/",
    "title": "ゲームフリーク・Cygames・コナミなど“応募1回だけで一斉選考”、転職イベント「経験者版 ゲームクリエイターズドラフト2026（3DCGデザイナー）」始動。ゲーム業界未経験でもOK",
@@ -1443,50 +1828,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-10T12:00:06+09:00"
-  },
-  {
-   "id": "6eec0533f77c2d22",
-   "url": "https://www.4gamer.net/games/813/G081367/20261109028/",
-   "title": "PC向けホラーアドベンチャー「1999トコヨビル」，Steamで配信開始。2ndPVやグッズ情報も公開に",
-   "summary": "講談社ゲームラボは本日（2026年11月10日），PC向けホラーアドベンチャー「1999トコヨビル」をSteamでリリースした。価格は1420円（税込）。また，2ndPVやアニメイトで展開されるグッズの全ラインナップが公開された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T12:00:00+09:00"
-  },
-  {
-   "id": "54a4d56eee76ce33",
-   "url": "https://www.4gamer.net/games/999/G999904/20261110004/",
-   "title": "日本におけるモバイル向けソートパズルのトレンドは矢印からバスへ。Sensor Towerが分析レポートを公開",
-   "summary": "SensorTowerは本日，日本におけるモバイル向けソートパズルの分析レポートを公式ブログで公開した。同社のデータによると，ダウンロード数の成長量1位は，2026年第2四半期が矢印を消していく「AmazeGO!」，第3四半期がバスを誘導する「BusTrafficFever!」だったという。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T11:42:16+09:00"
-  },
-  {
-   "id": "27b6c98af24e32ed",
-   "url": "https://www.4gamer.net/games/015/G101585/20261110003/",
-   "title": "「カリアのアトリエ」，新キャラクター5人や拠点建築，友好度による個別エンディングなどの新情報を公開。ストーリートレイラーも披露",
-   "summary": "コーエーテクモゲームスは，錬金術RPG「カリアのアトリエ〜夜の王国と追憶の道標〜」の新情報を公開した。カリアたちの前に立ちはだかる2人の錬金術士を含む新キャラクター5人のほか，拠点建築や仲間との交流，物語の分岐に関するシステムが明らかになった。ストーリートレイラーも公開されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T11:35:48+09:00"
-  },
-  {
-   "id": "7c829f5a37cccc77",
-   "url": "https://www.4gamer.net/games/991/G999110/20261109030/",
-   "title": "レトロゲーム文化を未来へつなぐ「RETRO GAME SUMMIT Lv.6」開催。ディープな同人誌からレトロゲーム機で動作する新作，ゲーム大会までレトロゲーム満載の1日",
-   "summary": "2026年11月7日，東京たま未来メッセで「RETROGAMESUMMITLv.6」が行われた。「レトロゲーム文化を未来へ！」をキャッチフレーズに，多くの来場者たちがレトロゲームへの愛を分かち合う催しだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T11:00:00+09:00"
   },
   {
    "id": "8690175c0e387bad",
@@ -1533,83 +1874,6 @@
    "published": "2026-11-10T09:28:23+09:00"
   },
   {
-   "id": "205fecbe4a1bc628",
-   "url": "https://www.4gamer.net/games/421/G042182/20261109038/",
-   "title": "「Golden Joystick Awards 2026」通訳字幕付き生放送が11月12日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-   "summary": "「GoldenJoystickAwards2026」通訳字幕付き生放送が11月12日3：00に配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T08:00:00+09:00"
-  },
-  {
-   "id": "a7bef81af54ef2e0",
-   "url": "https://www.4gamer.net/games/056/G105682/20261110002/",
-   "title": "シリーズ最新作「Beholder 4」が発表。国家に忠実な若手職員を装い，地下組織を支援する“二重スパイ”アドベンチャーゲーム",
-   "summary": "Alawarは本日（2026年11月10日），同社が展開する「Beholder」シリーズの10周年に合わせて，最新作「Beholder4」を発表した。新たな主役は，省庁職員でありながら地下組織のために機密情報を集める工作員。警察に気付かれないように証拠を集め，監視社会の打倒を目指して活動することになる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T07:00:00+09:00"
-  },
-  {
-   "id": "2e29a33fd0e30275",
-   "url": "https://www.4gamer.net/games/915/G091599/20261110001/",
-   "title": "「シーオブレムナンツ」，クローズドβテストを12月4日からスタート。今回はPCだけでなく，PS5やスマートフォンからでも参加可能",
-   "summary": "NetEaseGamesは2026年11月9日，ターン制ローグライクアドベンチャー「シーオブレムナンツ」のクローズドβテスト「ドーンブレイカー号テスト」を12月4日から18日まで開催すると発表した。PC版だけでなく，PS5版やスマートフォン版なども対象で，テスト開始後に参加コードなしで参加できる先着枠も用意される。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T06:09:07+09:00"
-  },
-  {
-   "id": "b579828f2bc544b1",
-   "url": "https://www.4gamer.net/games/048/G104899/20261105036/",
-   "title": "推しの声に励まされ，牌を切る。「ホロライブ麻雀 -ホロじゃん-」のメディア先行体験会で，最新の“推し活”を体験してきた【オリジナル雀卓コード付】",
-   "summary": "「ホロライブ麻雀-ホロじゃん-」は，ホロライブのタレントたちと一緒に麻雀が楽しめるオンラインゲームだ。同作のメディア先行プレイ会に参加してきたので，その模様をレポートする。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T00:00:00+09:00"
-  },
-  {
-   "id": "80a3dee2f85e050c",
-   "url": "https://www.4gamer.net/games/056/G105681/20261109050/",
-   "title": "オンラインロビーに集まり，世界中のプレイヤーのピアノ演奏を聴こう。「PianoGlow」，Steamで配信開始",
-   "summary": "TheAlanskiは2026年11月6日，新作タイトル「PianoGlow」をリリースした。本作は，オンライン上のマルチプレイロビーでピアノを演奏したり，ほかのプレイヤーの演奏を聴いたりする，マルチプレイシミュレーションゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T21:42:14+09:00"
-  },
-  {
-   "id": "ad98ffe8ae64a059",
-   "url": "https://www.4gamer.net/games/056/G105680/20261109049/",
-   "title": "人類滅亡後，虫の民“インセクタ”が暮らす世界では“進化”が絶対の法則となっている。ストーリー重視の百合ADV「Argent Cocoon」，体験版配信開始",
-   "summary": "中国のインディー開発スタジオ白鸢尾剧团WhiteIrisStudioは，PC向け百合ADV「ArgentCocoon」の体験版をSteamで配信開始した。本作は，人類滅亡後の世界を舞台に，進化を絶対の法則とする社会で，自らの運命に疑問を抱き始める主人公の姿を描く作品だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T21:19:47+09:00"
-  },
-  {
-   "id": "37e0267c10b6f69c",
-   "url": "https://www.4gamer.net/games/949/G094998/20261109047/",
-   "title": "石川界人さんや岡本信彦さんらのボイスを収録。本格クライムサスペンス恋愛ADV「アストライアの罪咎」，第2弾PVを公開",
-   "summary": "エディアは本日（2026年11月9日），2027年3月25日発売予定のNintendoSwitch用ソフト「アストライアの罪咎」の第2弾PVを公開した。石川界人さんや岡本信彦さんらメインキャスト6名のボイスを収録している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T21:19:42+09:00"
-  },
-  {
    "id": "5861c3998c755f74",
    "url": "https://automaton-media.com/articles/newsjp/20261109-478310/",
    "title": "『ゼルダの伝説 時のオカリナ』リメイク版で、モリブリンの「立派すぎる尻」に熱い注目。決意の丸出しバキバキ美尻",
@@ -1621,39 +1885,6 @@
    "published": "2026-11-09T21:10:31+09:00"
   },
   {
-   "id": "358437741b4ed93d",
-   "url": "https://www.4gamer.net/games/056/G105644/20261109046/",
-   "title": "ゆったりとした空間で，色とりどりのブロックを組み立てよう。「Brick Buddies」，配信開始",
-   "summary": "BunnyhopHomeは本日（2026年11月9日），新作タイトル「BrickBuddies」をリリースした。本作は，作業台いっぱいに広がる色とりどりのブロックを説明書どおりに組み合わせていく，3Dブロック組み立てゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T21:04:59+09:00"
-  },
-  {
-   "id": "6cdfbb3448f45906",
-   "url": "https://www.4gamer.net/games/476/G047609/20261109039/",
-   "title": "「プロセカ」，チアフルカーニバルイベントテストイベントを開催中",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T21:00:00+09:00"
-  },
-  {
-   "id": "7096786f9614b9fb",
-   "url": "https://www.4gamer.net/games/056/G105679/20261109043/",
-   "title": "麻雀にカードバトルを組み合わせた「雀札」，体験版を公開。ロンを無効化したり，相手が捨てる牌を指定したりできる対戦ゲーム",
-   "summary": "個人ゲーム開発者のやまとなでしこ氏は，麻雀とカードバトルを組み合わせた対戦ゲーム「雀札（じゃんふだ）」の体験版を公開した。ロンを無効化したり，相手が捨てる牌を指定したりと，カードの効果で局面を変えられるのが特徴だ。PCやスマートフォンのブラウザから，登録不要でプレイできる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T20:45:21+09:00"
-  },
-  {
    "id": "89bf580bf8e02d60",
    "url": "https://automaton-media.com/articles/newsjp/20261109-478299/",
    "title": "平成レトロ団地ゲーム『Danchi Days』開発者が「想定の3分の1しか売れてない」と悲痛な告白。“カワイイけど重い“ゲームの難しさ、数字への過信など自ら徹底分析",
@@ -1663,61 +1894,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-09T20:20:36+09:00"
-  },
-  {
-   "id": "80da469770b1c701",
-   "url": "https://www.4gamer.net/games/029/G102993/20261109042/",
-   "title": "魔法工学ファンタジー世界でダンジョンに挑む最大4人協力ローグライトFPS「Guns and Dragons」，第2章を遊べるプレイテストをスタート",
-   "summary": "ABUTTONは本日（2026年11月9日），開発中の新作タイトル「GunsandDragons」のプレイテストを開始した。本作は，魔法工学ファンタジーの世界を舞台に，銃を強化しながら戦い抜いていくローグライトFPSだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T20:12:45+09:00"
-  },
-  {
-   "id": "76cf690b44008091",
-   "url": "https://www.4gamer.net/games/272/G027222/20261109040/",
-   "title": "舞台「PERSONA5 the Stage」，11月14日から期間限定で無料公開",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T20:04:23+09:00"
-  },
-  {
-   "id": "8adbd4480ed0633d",
-   "url": "https://www.4gamer.net/games/022/G102271/20261109041/",
-   "title": "1906年のパリから始まり，100年以上にわたる映画史を追体験。映画館経営シム「Cinema Theater Tycoon」，本日配信開始",
-   "summary": "フランスのインディー開発チームSouthWestGamesは本日，映画館経営シム「CinemaTheaterTycoon」をPC向けに配信開始した。本作は，1906年のパリから100年以上にわたる映画史をたどりながら，映画館のカスタマイズや上映作品の選定，スタッフの管理などを行う作品だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T20:00:20+09:00"
-  },
-  {
-   "id": "58b5ad57b58904e6",
-   "url": "https://www.4gamer.net/games/991/G999106/20261109027/",
-   "title": "わしゃがなTVの最新動画では，いろいろなカプセルトイを開封する模様をお届け",
-   "summary": "2026年11月9日，声優の中村悠一さんと，フリーライターのマフィア梶田さんによるWeb番組「わしゃがなTV」の最新回が公開された。今回は，中村さんが購入したさまざまなカプセルトイを開封する様子をお届けする。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T20:00:00+09:00"
-  },
-  {
-   "id": "81ba4b910972bc3d",
-   "url": "https://www.4gamer.net/games/004/G100451/20261109037/",
-   "title": "にじさんじ女性ライバー6人のクラシカルロリータ風衣装を描いたグッズ「Dolly Patchwork」が11月10日発売",
-   "summary": "2026年11月9日，「にじさんじ」を運営するANYCOLORは，新グッズ「DollyPatchwork」全6種類を，にじさんじオフィシャルストアで11月10日18：00に発売すると発表した。ソフィア・ヴァレンタインや葉加瀬冬雪ら6人がクラシカルロリータ風の衣装をまとった姿をイラスト化したグッズだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-09T19:43:25+09:00"
   },
   {
    "id": "4e1768f7d7dacad0",
@@ -2026,182 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-07T17:02:40+09:00"
-  },
-  {
-   "id": "e85152df773a7023",
-   "url": "https://automaton-media.com/articles/newsjp/20261107-478030/",
-   "title": "“沼系”恋愛サスペンス『Algorithm Prescription』2028年リリース、Nintendo Switch 2向けにも登場。好かれすぎても「監禁」「束縛」が待ち受けるドロドロ展開",
-   "summary": "松竹ゲームズは11月7日、『Algorithm Prescription』について、Nintendo Switch 2/PC（Steam）向けに2028年リリース予定と発表した。本作は完全AI管理都市でのストーリーが描かれるという、沼系恋愛サスペンスノベルゲームだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478030-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T15:55:29+09:00"
-  },
-  {
-   "id": "9e134d272745914b",
-   "url": "https://automaton-media.com/articles/special-column/20261107-478011/",
-   "title": "『アークナイツ：エンドフィールド』の新オペレーター「ミンホ」は物理・アーツ両対応。“相棒と一緒”なら攻撃から補助までなんでもできる、使い方や編成を解説",
-   "summary": "『アークナイツ：エンドフィールド』の新オペレーター「ミンホ」は物理/アーツといったダメージ種別どころか、サポーター/アタッカーといった役割の垣根も超えて活躍可能だ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478011-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T15:06:27+09:00"
-  },
-  {
-   "id": "1b942a5bfcc444f9",
-   "url": "https://automaton-media.com/articles/newsjp/20261106-477933/",
-   "title": "『ゼルダの伝説 時のオカリナ』リメイクのオカリナ音声入力、「もはやなんでもあり」の無法演奏会に。オタマトーン、空きビン、“謎のおじいちゃん”までオカリナと化す",
-   "summary": "『ゼルダの伝説 時のオカリナ』リメイク版ではオカリナを音声入力で演奏できる。鼻歌どころではないあらゆる音声入力チャレンジがおこなわれている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477933-heade2.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T14:03:34+09:00"
-  },
-  {
-   "id": "553f1bdeb015a0f8",
-   "url": "https://automaton-media.com/articles/newsjp/snow-panic-20261107-477963/",
-   "title": "最大8人対戦・武装スキーレースバトル『Snow Panic』発表、2027年初頭配信へ。銃撃、空爆、さらには“疾走ヤギ爆弾”で相手を妨害",
-   "summary": "KAFIは11月7日、『Snow Panic』を発表した。本作は最大8人プレイに対応するオンライン対戦型スキーレースゲームだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/snow-panic-20261107-477963-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T13:09:31+09:00"
-  },
-  {
-   "id": "5c44b6db94ccdb45",
-   "url": "https://automaton-media.com/articles/special-column/20261107-477962/",
-   "title": "新作『Football Manager 27』を100時間先行プレイして“前作で批判の多かったところ”を徹底検証。「操作のクリック数は？」「ロナウド見るまで何秒？」、調べまくった",
-   "summary": "前作で不満だった要素が新作でどのように改善されたのか。シリーズを5000時間以上プレイしてきた筆者が、『Football Manager 27』を先行プレイして検証した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477962-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T12:00:00+09:00"
-  },
-  {
-   "id": "6664e6919bbd62e6",
-   "url": "https://automaton-media.com/articles/newsjp/20261107-477965/",
-   "title": "“圧倒的に好評”サイバーパンク質屋シム『Probably Stolen』、売上100万本突破。発売10日で大台到達、自由すぎる怪しげショップ経営が一躍大ヒット",
-   "summary": "tinyBuildは11月7日、『Probably Stolen』の売上が100万本を突破したと発表した。発売から約10日での大台到達となる。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477965-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T11:16:23+09:00"
-  },
-  {
-   "id": "1b55f1369bde291d",
-   "url": "https://automaton-media.com/articles/newsjp/20261107-477955/",
-   "title": "500日以上監禁されていた少女、『Among Us』がきっかけとなり救助される。オンラインゲームが誘拐事件解決の糸口に",
-   "summary": "アメリカにて、500日以上にわたり行方不明となっていた17歳の少女が『Among Us』をきっかけとして救出されたようだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477955-Header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T10:19:18+09:00"
-  },
-  {
-   "id": "bc11c54017686a2c",
-   "url": "https://automaton-media.com/articles/newsjp/20261107-477950/",
-   "title": "『Path of Exile 2』正式リリースでさらなる新クラス「シャドウ」実装へ。ACT5＆6がどどんと追加、“大規模戦闘”が楽しめる新リーグなど新情報いろいろお披露目",
-   "summary": "Grinding Gear Gamesは11月7日、『Path of Exile 2』の新たな情報を発表。新クラスや新リーグの詳細がお披露目された。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477950-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T09:20:00+09:00"
-  },
-  {
-   "id": "2bc10513911bd095",
-   "url": "https://automaton-media.com/articles/newsjp/20261106-477938/",
-   "title": "『鳴潮』大型アプデ「Ver3.8」は11月12日配信へ。新共鳴者は儚げ少女「リリー」、“学園アドベンチャー風”新イベントで青春謳歌も",
-   "summary": "KURO GAMESは11月6日、『鳴潮』の大型アップデートVer3.8「旧夢で朽ちゆく小百合花」を11月12日に配信することを発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477938-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-06T21:30:31+09:00"
-  },
-  {
-   "id": "7cfa30c1a9bf147c",
-   "url": "https://automaton-media.com/articles/newsjp/geforce-8800-gtx-20261106-477923/",
-   "title": "NVIDIAの20年前の名グラボ「GeForce 8800 GTX」を“ひたすら愛でる”奇ゲーがSteamで無料配信。推奨グラボはRTX 5080、グラボを見るためのグラボが要る",
-   "summary": "Dylan Browne氏は11月5日、グラボを鑑賞するゲーム『GeForce 8800 GTX - 20 Years of a Legend』をSteamで無料配信した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477923-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-06T21:08:34+09:00"
-  },
-  {
-   "id": "d551a516919e9d05",
-   "url": "https://automaton-media.com/articles/newsjp/20261106-477913/",
-   "title": "『VRChat』、Unityの新描画基盤「URP」移行に向けようやく動き出す。「ビルトインRP」卒業のため、まずは“自動変換”実験中",
-   "summary": "VRChat社は現地11月5日、『VRChat』について、「ビルトインRP」から「URP」へ移行する計画があることを明かした。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477913-004.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-06T19:03:30+09:00"
-  },
-  {
-   "id": "9b69ec5ab16de88d",
-   "url": "https://automaton-media.com/articles/newsjp/20261106-477905/",
-   "title": "『ゼルダの伝説 時のオカリナ』リメイク版にて「へっぽこ落下選手権」盛り上がる。動きはベテラン、ジャンプは忘れる",
-   "summary": "『ゼルダの伝説 時のオカリナ』リメイク版が発売された。原作を愛するベテランほど、追加されたジャンプ操作に苦戦し、情けなく落下する様子がXなどで披露されている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477905-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-06T16:52:43+09:00"
-  },
-  {
-   "id": "1e9f29fa9a9a9a9b",
-   "url": "https://automaton-media.com/articles/newsjp/20261106-477891/",
-   "title": "基本プレイ無料・地形破壊STG『カオス★スマッシュ』に北海道から“歩くホッキ貝寿司”参戦。攻めすぎ初コラボは11月12日開始",
-   "summary": "ムーンラビットは11月5日、『カオス★スマッシュ』（以下、カオスマ）にて、北海道・北斗市の公式キャラクター「ずーしーほっきー」とのコラボイベントを11月12日より開催すると発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477891-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-06T14:45:18+09:00"
-  },
-  {
-   "id": "1ec5299733e68ac4",
-   "url": "https://automaton-media.com/articles/newsjp/20261106-477890/",
-   "title": "老舗MMORPG『テイルズウィーバー』新作、『テイルズウィーバー モバイル』発表。『マビノギ』に続いて“新生”か",
-   "summary": "ネクソンは11月6日、新作MMORPG『TALESWEAVER MOBILE』を発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477890-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-06T14:34:56+09:00"
-  },
-  {
-   "id": "3f2cfaee963179c4",
-   "url": "https://automaton-media.com/articles/newsjp/20261106-477882/",
-   "title": "Steam無料・終末ビジュアルノベル『ナツノカナタ ―PROLOGUE―』発表、12月15日配信へ。『ナツノカナタ』開発者自ら執筆した“小説版の冒頭”がゲーム化",
-   "summary": "河出書房新社は11月6日、岡一秀氏が手がけるビジュアルノベルゲーム『ナツノカナタ ―PROLOGUE―』を発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477882-header.jpeg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-06T13:55:55+09:00"
-  },
-  {
-   "id": "2e4c6de1b569a8ce",
-   "url": "https://automaton-media.com/articles/newsjp/20261106-477875/",
-   "title": "『メタファー：リファンタジオ』、価格改定で“半額どころじゃない”大幅値下げへ。ダウンロード通常版が3990円に",
-   "summary": "アトラスは11月6日、『メタファー：リファンタジオ』ダウンロード版の価格改定を発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477875-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-06T13:10:18+09:00"
   }
  ]
 }
