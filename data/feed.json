@@ -1,8 +1,129 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T05:53:01+09:00",
+ "generated_at": "2026-11-13T10:53:48+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "0a40787b151981b9",
+   "url": "https://automaton-media.com/articles/newsjp/20261113-479037/",
+   "title": "マルチ対応・日本ガソスタ夜勤ホラー『SANKAN』発表。頭に響く“客を殺せ”の声に抗うか従うか、死体を埋めたらまた接客",
+   "summary": "YTKA GAMESは11月13日、Dany Rexton氏が手がけるホラーゲーム『SANKAN』を発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479037-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-13T10:41:00+09:00"
+  },
+  {
+   "id": "64b1bd9a2644f80b",
+   "url": "https://automaton-media.com/articles/newsjp/20261113-479030/",
+   "title": "『ゼルダの伝説 時のオカリナ』リメイク版の「リーデット」、開発中に怖くなりすぎたので“自主規制”されていた。それでもだいぶ怖い",
+   "summary": "『ゼルダの伝説 時のオカリナ』リメイク版の「リーデット」は、開発中にはもっと怖く作られていたようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479030-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-13T10:14:20+09:00"
+  },
+  {
+   "id": "1e22b8226f24857e",
+   "url": "https://www.4gamer.net/games/008/G100845/20261112043/",
+   "title": "三国志の武将を率いて戦うオートバトラー「三国志BOND」，無料版をSteamで配信開始。使用できる軍師などに制限はあるが，対人戦大会にも参加可能",
+   "summary": "ゲラッパは，オートチェス・オートバトラー「三国志BOND」の無料版をSteamで配信開始した。使用できる軍師や武将，一部モードの進行には制限があるものの，ゲーム内のほぼすべての機能を体験できる。対人戦大会「天命戦」にも参加可能で，12月には同大会と連動した抽選キャンペーンも予定されている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-13T10:00:00+09:00"
+  },
+  {
+   "id": "93473f0742cdc1c6",
+   "url": "https://automaton-media.com/articles/newsjp/20261113-479025/",
+   "title": "AMDのRadeonグラボドライバーで発生していた「SSD無限酷使」不具合、修正バージョンがさっそく配信。RX 7000シリーズ以上の方は特に要チェック",
+   "summary": "一部の環境で発生していた不必要なSSD書き込みがおこなわれる不具合が修正されている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479025-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-13T09:53:25+09:00"
+  },
+  {
+   "id": "74afdf61182f05dc",
+   "url": "https://www.4gamer.net/games/817/G081722/20261111021/",
+   "title": "都市型オープンワールド「NTE」を，PCでもモバイルでもスムーズに動かす舞台裏。読み込みの1msまで制御する，ロード，NPC，影の最適化［Unreal Fest Tokyo 2026］",
+   "summary": "「UnrealFestTokyo2026」で，「NTE」の巨大な街をPCとモバイルで動かすための最適化が解説された。シームレスなテレポートやNPCの制御，影のキャッシュといった工夫を紹介する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-13T09:00:00+09:00"
+  },
+  {
+   "id": "7a450199abc2f6df",
+   "url": "https://www.4gamer.net/games/989/G098948/20261112046/",
+   "title": "3D言語解読パズルアドベンチャー「ピックアドベンチャー」，全世界でのパブリッシングを松竹ゲームズが担当",
+   "summary": "松竹ゲームズは2026年11月13日，「ピックアドベンチャー」について，全世界でのパブリッシングを担当すると発表した。本作は，イタリア・ミラノを拠点とする個人のインディーゲームスタジオ「PikkuStudios」が開発する3D言語解読パズルアドベンチャーだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-13T09:00:00+09:00"
+  },
+  {
+   "id": "7c9fb54afd327aca",
+   "url": "https://automaton-media.com/articles/newsjp/20261113-479008/",
+   "title": "XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば30分間プレイ可能",
+   "summary": "マイクロソフトは11月13日、広告付きのクラウドゲーミングサービスを利用した「XBOX Video for Brands」を広告主向けに正式発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/07/20260702-452949-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-13T08:45:51+09:00"
+  },
+  {
+   "id": "b580a62358e9bc1a",
+   "url": "https://automaton-media.com/articles/newsjp/20261113-479009/",
+   "title": "『Slay the Spire 2』に超大型ベータアプデ到来、待望の新キャラ「フール」実装。さらに新ゲームモードが2つも追加、サクッと遊べるor超高難度",
+   "summary": "のMega Critは11月13日、『Slay the Spire 2』ベータブランチ向けのアップデートv0.113.0を配信した。過去最大規模のアップデートなっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479009-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-13T08:40:26+09:00"
+  },
+  {
+   "id": "0c0089918b3850d6",
+   "url": "https://www.4gamer.net/games/857/G085718/20261111006/",
+   "title": "開発終盤でもう大きな変更はできない。「モンギル」のリリース半年前に合流したテクニカルアーティストは，アニメ調の魅力をどう足したのか［Unreal Fest Tokyo 2026］",
+   "summary": "「モンギル：STARDIVE」のアニメ調表現の舞台裏。リリース前の制約の中，いかに魅力を高めていったのか，UnrealFestTokyo2026での講演をレポート。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-13T08:00:00+09:00"
+  },
+  {
+   "id": "1beb95e2de0b396d",
+   "url": "https://www.4gamer.net/games/010/G101055/20261105050/",
+   "title": "「ドラゴンクエストモンスターズ4」，冒険序盤の詳細を公開。ビアンカとフローラのどちらかを主人公に選択。モンスターの配合やカレキ地方の探索も紹介",
+   "summary": "スクウェア・エニックスは本日，「ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ」の冒険序盤に関する最新情報を公開した。ビアンカとフローラのどちらかを主人公に選べることや，冒険の拠点となるカレキの国の施設，フィールド探索，モンスターの配合など，ゲーム序盤の流れが明らかになった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-13T07:00:00+09:00"
+  },
+  {
+   "id": "52b0f43903284320",
+   "url": "https://www.4gamer.net/games/983/G098371/20261110012/",
+   "title": "「ラグナロクオンライン３」が長く続くMMOを目指して「シーズン制」を採用する理由。放置型の新作「Ragnarok Online: Together」も紹介",
+   "summary": "「RagnarokFesta2026」で，JoymakerCEOのDahei氏が「ラグナロクオンライン３」のシーズンと，放置型の新作「RagnarokOnline:Together」を紹介したステージを紹介。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-13T07:00:00+09:00"
+  },
   {
    "id": "31e7c3091149b006",
    "url": "https://www.4gamer.net/games/724/G072455/20261112028/",
@@ -1621,17 +1742,6 @@
    "published": "2026-11-10T18:26:58+09:00"
   },
   {
-   "id": "1eb38f255d3246c7",
-   "url": "https://www.4gamer.net/games/999/G999902/20261110034/",
-   "title": "スマートグラスのEven Realitiesがブラックフライデー＆クリスマスキャンペーンを開催。アクセサリーが最大半額に",
-   "summary": "2026年11月10日，スマートグラスメーカーのEvenRealitiesは，11月13日から12月26日まで，ブラックフライデーおよびクリスマスキャンペーンを開催すると発表した。期間中は，スマートグラス「EvenG2」用の指輪型操作デバイス「EvenR1」を特別価格で購入できる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T18:17:06+09:00"
-  },
-  {
    "id": "2751c16c9c477e17",
    "url": "https://automaton-media.com/articles/newsjp/20261110-478459/",
    "title": "Steam無料・マインスイーパーRPG『Battle Sweeper』まもなく配信終了へ。今入手すればずっと遊べる",
@@ -1641,17 +1751,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-10T18:16:11+09:00"
-  },
-  {
-   "id": "4f73042c7c43a0dc",
-   "url": "https://www.4gamer.net/games/941/G094178/20261110030/",
-   "title": "3〜6人用の正体隠匿パーティゲーム「人狼バーガー」，Steamで本日発売。1つのハンバーガーを作りながら，厨房に紛れたスパイを見つけ出す",
-   "summary": "タカラトミーは本日，uraconが開発したPCゲーム「人狼バーガー」をSteamで発売した。本作は，みんなで1つのハンバーガーを作りながら，厨房に紛れたスパイを見つけ出す3〜6人用の正体隠匿パーティゲームだ。プレイヤーは秘密裏に「店員」と「スパイ」のチームに分かれる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T18:06:05+09:00"
   },
   {
    "id": "8db0d707d2b7cdf1",
@@ -1665,17 +1764,6 @@
    "published": "2026-11-10T18:00:01+09:00"
   },
   {
-   "id": "5c90a7fbcc6939e7",
-   "url": "https://www.4gamer.net/games/903/G090342/20261109044/",
-   "title": "「NIGHTMARE OPERATOR」のパブリッシャが集英社ゲームズに決定。新たなキービジュアルとティザートレイラーも解禁",
-   "summary": "集英社ゲームズは2026年11月10日，「NIGHTMAREOPERATOR」のパブリッシングを担当すると発表した。本作は，渋谷を拠点とするゲームスタジオDDDistortionが開発を進めるTPSアクションホラーだ。また，新たなキービジュアルとティザートレイラーも公開された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T18:00:00+09:00"
-  },
-  {
    "id": "776784a23d29be4d",
    "url": "https://automaton-media.com/articles/newsjp/20261110-478451/",
    "title": "『アークナイツ』にて『モンスターハンター』と新コラボ開催決定。カムラ装備っぽいアイルーやガルクらしき影も",
@@ -1687,17 +1775,6 @@
    "published": "2026-11-10T17:53:55+09:00"
   },
   {
-   "id": "189bb0a4bab71f8b",
-   "url": "https://www.4gamer.net/games/011/G001163/20261110028/",
-   "title": "「メイプルストーリー」23周年記念アニメ「DEAR MY HERO」を鑑賞。可愛らしい絵柄と対照的に，シリアスな物語が描かれる",
-   "summary": "ネクソンは11月7日，アニメ「DEARMYHERO」の特別上映会を東京・109シネマズプレミアム新宿にて開催した。オンラインRPG「メイプルストーリー」の23周年を記念して制作された日本語吹替版アニメの内容と，あわせて発表された冬ショーケース「OVERDRIVE」の情報をお届けしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T17:46:40+09:00"
-  },
-  {
    "id": "ef91ed38fb0e2dda",
    "url": "https://automaton-media.com/articles/newsjp/20261110-478434/",
    "title": "ケモノ過酷すぎ死にゲー『Casualties: Unknown』いきなり圧倒的な人気。骨折・出血・四肢欠損、リアル負傷システムで体ボロボロ地獄旅",
@@ -1707,28 +1784,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-10T17:34:33+09:00"
-  },
-  {
-   "id": "9b43892bd4f7a27b",
-   "url": "https://www.4gamer.net/games/775/G077563/20261021003/",
-   "title": "供犠として差し出された少女を待っていたのは，麗しき5人の吸血鬼。「薄桜鬼異聞 ベレジンスキーの魔女」で描かれる恋と大罪［プレイレポ］",
-   "summary": "「薄桜鬼」のスピンオフ作品「薄桜鬼異聞ベレジンスキーの魔女」が12月10日に発売される。19世紀初頭の東欧を舞台に，供犠として差し出された主人公と，麗しき5人の吸血鬼との出会いや恋，その先に待つ物語をプレイレポートで紹介しよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T17:00:00+09:00"
-  },
-  {
-   "id": "3eb0ebf2d33f28b3",
-   "url": "https://www.4gamer.net/games/784/G078437/20261110011/",
-   "title": "「勇者パーティはぜんめつしました。」の製品版がSteamでリリース。10％オフセールも開催中",
-   "summary": "FlashlightGamesは，「勇者パーティはぜんめつしました。」の製品版を本日（2026年11月10日）Steamでリリースした。価格は1980円（税込）。本作は，壊滅状態に陥った勇者パーティから1人を選び，ともにダンジョンからの脱出を目指すRPGだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-10T17:00:00+09:00"
   },
   {
    "id": "4087e0efa0dee39b",
@@ -2147,61 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-08T13:00:21+09:00"
-  },
-  {
-   "id": "ea2944213eb8444d",
-   "url": "https://automaton-media.com/articles/special-column/20261108-478084/",
-   "title": "基本プレイ無料『NTE』新バージョンに「戦車」が来る。乗り物の“治安悪すぎる遊び方”を試しまくった",
-   "summary": "『NTE: Neverness to Everness』Ver.1.5で戦車が登場する。その前に、今ある乗り物で“やってみたかったこと”を試しつつ、先行試遊で戦車とライオンの遊具にも乗ってみた。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478084-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-08T12:03:38+09:00"
-  },
-  {
-   "id": "f74d513b01706caf",
-   "url": "https://automaton-media.com/articles/newsjp/20261108-478078/",
-   "title": "ポケモンカードを「換金用の景品」にしていた違法賭博場が摘発される。ゲットしたカードで“ポケモン三店方式”",
-   "summary": "テキサス州当局は11月4日、賭博行為の疑いで地元の複数のゲームセンターを摘発した。摘発された店舗では、『ポケモンカードゲーム』のカードが景品として用いられていたという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478078-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-08T10:45:33+09:00"
-  },
-  {
-   "id": "11c5f50def901301",
-   "url": "https://automaton-media.com/articles/newsjp/20261107-478056/",
-   "title": "文学少女との作業集中アプリ『Chill with You : Lo-Fi Story』、「サトネの1年後」が描かれる無料大型アプデを11月25日配信へ。“作業場所追加DLC”もお披露目",
-   "summary": "ネストピは11月7日、『Chill with You : Lo-Fi Story』の発売1周年記念として、無料大型ストーリーアプデ「君と見る夢」と、有料DLC「Room & Cozy Activity」を発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478056-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T23:00:01+09:00"
-  },
-  {
-   "id": "62078676ca37f8ac",
-   "url": "https://automaton-media.com/articles/newsjp/fate-grand-order-20261107-478057/",
-   "title": "『Fate/Grand Order（FGO）』全世界1億DL記念で、星5サーヴァントが「お好きに1体」もらえる。今回は「43騎」から",
-   "summary": "FGO PROJECTは11月7日、『Fate/Grand Order（FGO）』の最新情報を公開。11月7日21時から「全世界1億DL突破キャンペーン」として、星5サーヴァントのプレゼントキャンペーンが実施される。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/fate-grand-order-20261107-478057-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T20:41:23+09:00"
-  },
-  {
-   "id": "5fb28e77795ac4c4",
-   "url": "https://automaton-media.com/articles/newsjp/20261107-478052/",
-   "title": "アニプレックス、新作ADV『LunaReverse（ルナリバース）』を発表。「イケメンシリーズ」などのサイバードとの強力タッグで描かれる、魔法使いの復讐劇",
-   "summary": "アニプレックスは11月7日、『LunaReverse（ルナリバース）』を発表した。「イケメンシリーズ」などを手がけるサイバードとのタッグによる、新たなADVなのだという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478052-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-07T19:23:21+09:00"
   }
  ]
 }
