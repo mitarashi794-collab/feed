@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-15T04:14:43+09:00",
+ "generated_at": "2026-11-15T08:05:19+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "4b66f1725882a3c6",
+   "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316/",
+   "title": "『League of Legends』大規模アップデートの内容チラ見せ。ビジュアル大刷新&ゲームプレイ変更いろいろありそう",
+   "summary": "Riot Gamesは11月15日、『League of Legends』向けの大型アップデート「New Dawn」の内容をお披露目した。ビジュアル刷新のほか、ゲームプレイにも変更が加えられそうだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/league-of-legends-20261115-479316-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T07:24:15+09:00"
+  },
   {
    "id": "cba52984b6e180eb",
    "url": "https://automaton-media.com/articles/newsjp/star-wars-galactic-racer-20261114-479191/",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-10T13:05:59+09:00"
-  },
-  {
-   "id": "a3ee1fe8ff58754a",
-   "url": "https://automaton-media.com/articles/newsjp/imagica-20261110-477499/",
-   "title": "ゲームフリーク・Cygames・コナミなど“応募1回だけで一斉選考”、転職イベント「経験者版 ゲームクリエイターズドラフト2026（3DCGデザイナー）」始動。ゲーム業界未経験でもOK",
-   "summary": "IMAGICA GEEQは11月9日、ゲーム業界の求人を対象とした、3DCGデザイナー経験者向けの転職イベント「経験者版 ゲームクリエイターズドラフト2026（3DCGデザイナー）」のエントリー受付を開始した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/imagica-20261110-477499-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T12:00:39+09:00"
   }
  ]
 }
