@@ -1,8 +1,85 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-14T15:36:11+09:00",
+ "generated_at": "2026-11-14T23:14:20+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "cba52984b6e180eb",
+   "url": "https://automaton-media.com/articles/newsjp/star-wars-galactic-racer-20261114-479191/",
+   "title": "『スター・ウォーズ：ギャラクティック・レーサー』、「ポッドレーサー」の最高速度は“1000km/h”に迫る。速すぎる機体を「エアブレーキ」でねじ曲げる新映像公開",
+   "summary": "パブリッシャーのSecret Modeは9月30日、Lucasfilm Gamesとの協力のもと、Fuse Gamesが手がける『スター・ウォーズ：ギャラクティック・レーサー』の新映像「Under the Hood with Hibi - Episode 4: Podracers」を公開した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/star-wars-galactic-racer-20261114-479191-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-14T18:01:30+09:00"
+  },
+  {
+   "id": "dff91cf3e2c9fc47",
+   "url": "https://www.4gamer.net/games/038/G003821/20261114005/",
+   "title": "週刊Steam広場 第179号：釣りADV「DREADMOOR」や，ローグライク王国ビルダー「9 Kings」が正式リリースに",
+   "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，人類の過ちによる大災害で水没した世界を舞台とする釣りアドベンチャー「DREADMOOR」や，9人の王が覇権を争うローグライク王国ビルダー「9Kings」が正式にリリースされた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-14T18:00:00+09:00"
+  },
+  {
+   "id": "810b73a4e1f608a1",
+   "url": "https://automaton-media.com/articles/newsjp/paradox-20261114-479296/",
+   "title": "Paradox Interactive「CEO交代」で新体制へ、来年1月から。『Vic2』『Stellaris』『HoI4』などに携わった副CEOが昇進",
+   "summary": "Paradox Interactiveは11月11日、CEOをFredrik Wester氏からMattias Lilja氏に交代すると発表した。Lilja氏は『Victoria II』や『Stellaris』、『Hearts of Iron IV』などのタイトルに携わった人物で、2027年1月4日から新CEOに就任するようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/paradox-20261114-479296.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-14T17:38:52+09:00"
+  },
+  {
+   "id": "b35ce66c8c5b76d1",
+   "url": "https://www.4gamer.net/games/991/G999111/20261113054/",
+   "title": "ゲーセンとスナックが融合したら？ 秋葉原に「GiGO NEO SNACK」が期間限定オープン",
+   "summary": "GENDAGiGOEntertainmentは2026年11月13日，東京・秋葉原のGiGO秋葉原5号館に「GiGONEOSNACK（ギーゴネオスナック）」をオープンした。ゲームセンターと昭和のスナック文化を融合させた施設で，11月30日までの期間限定営業となる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-14T17:00:00+09:00"
+  },
+  {
+   "id": "32533f9c6f8e3cc0",
+   "url": "https://automaton-media.com/articles/newsjp/20261114-479284/",
+   "title": "『Factorio』に“Mod不要”の「音楽プレーヤー」を建設した謎の技術者あらわる。約2000個以上のスピーカーで大合奏の「超巨大音楽再生工場」",
+   "summary": "『Factorio』にて、Modを使わずにゲーム内で“音楽”を奏でられるようにしたユーザーがあらわれ、話題となっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261114-479284-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-14T16:48:57+09:00"
+  },
+  {
+   "id": "33a9c778513c1126",
+   "url": "https://www.4gamer.net/games/784/G078437/20261114004/",
+   "title": "「勇者パーティはぜんめつしました。」と「病能探偵」がコラボバンドルセールを実施。Steamで高評価を獲得した2作品がセット購入で20％オフに",
+   "summary": "FlashlightGamesは，同社がパブリッシングを手がける高湿度・激重感情RPG「勇者パーティはぜんめつしました。」と，デスゲーム推理アドベンチャー「病能探偵」のコラボバンドルセールを，本日（2026年11月14日）16：00から実施すると発表した。両作品の発売記念セールに加え，バンドル購入でさらに10％オフとなる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-14T16:00:00+09:00"
+  },
+  {
+   "id": "69c71708334f9dae",
+   "url": "https://automaton-media.com/articles/newsjp/20261114-479277/",
+   "title": "人気オープンワールド『風燕伝：Where Winds Meet』、「新マップ追加」1周年記念アプデ到来。荒れた戦場を舞台に、今一度“義侠”の心に迫る",
+   "summary": "NetEase Gamesは11月14日、『風燕伝：Where Winds Meet』について、グローバル版配信開始1周年を記念してアプデを配信。新エリア「滹沱」や新たなボスの追加などがおこなわれている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261114-479277-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-14T15:40:41+09:00"
+  },
   {
    "id": "3ffda6dae3f16d68",
    "url": "https://automaton-media.com/articles/newsjp/bitcraft-20261114-479269/",
@@ -1709,39 +1786,6 @@
    "published": "2026-11-11T20:19:46+09:00"
   },
   {
-   "id": "b2ba5ebb67d89303",
-   "url": "https://www.4gamer.net/games/202/G020261/20261111047/",
-   "title": "「ぷよクエ」，最大1124回分のガチャが引ける「いいぷよの日キャンペーン」を開催",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-11T20:17:40+09:00"
-  },
-  {
-   "id": "facc9f602a1097c3",
-   "url": "https://www.4gamer.net/games/001/G000189/20261111045/",
-   "title": "エヌシージャパン，創立25周年記念特設サイトを公開。総額100万円分の「PURPLEコイン」が当たる記念生放送を11月20日に配信",
-   "summary": "エヌシージャパンは本日（2026年11月11日），創立25周年記念特設サイトを公開した。11月20日20：00からは，「エヌシージャパン25周年記念PURPLEコイン100万円分争奪戦」を配信予定だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-11T20:12:50+09:00"
-  },
-  {
-   "id": "a81e1c995af17d01",
-   "url": "https://www.4gamer.net/games/831/G083189/20261111044/",
-   "title": "「Project Motor Racing」，耐久レースDLC「World Endurance Pack」を配信開始。1966年当時のバンクを再現した富士スピードウェイを走れる",
-   "summary": "セガは，レーシングシミュレータ「ProjectMotorRacing」のDLC「WorldEndurancePack」の配信を開始した。新旧の耐久レースマシン11台に加え，1966年当時，第1コーナーにあったバンクを再現した富士スピードウェイなどを収録する。あわせて，各車両やコースを紹介するローンチトレイラーも公開されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-11T20:08:26+09:00"
-  },
-  {
    "id": "e53f381bb0e92ca6",
    "url": "https://automaton-media.com/articles/newsjp/20261110-478479/",
    "title": "「部屋が日本っぽくならない」と悩む海外ゲーム開発者に、アドバイス100件超。ベッドは畳に置かない、もっと狭い、洋室がいい、など“和風すぎない”日本らしさ",
@@ -2158,50 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-10T12:00:39+09:00"
-  },
-  {
-   "id": "6c874e6e7fdee9f9",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478358/",
-   "title": "「手札が動き回る」デッキ構築ローグライク『鳥斗突破！バード・アリーナ』公開プレイテストを開始。勝手に“共食い”したり強くなったり、手札がすでに予測不能",
-   "summary": "OKJOYは11月10日、個人開発者のWill Cheng氏が手掛けるデッキ構築ローグライクゲーム『鳥斗突破！バード・アリーナ』の公開プレイテストを開始した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478358-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T12:00:11+09:00"
-  },
-  {
-   "id": "36b647148e6c879d",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478360/",
-   "title": "『メダロット』初期8作品入り『メダロット クラシックス プラス』Steam向けに発表。オンライン対戦・交換にも対応、人気シリーズがSteam初進出",
-   "summary": "イマジニアは11月10日、『メダロット クラシックス プラス カブトVer.』および『メダロット クラシックス プラス クワガタVer.』のSteam版を発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478360-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T12:00:06+09:00"
-  },
-  {
-   "id": "8690175c0e387bad",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478346/",
-   "title": "『マインクラフト』公式サーバー「Realms」に、“最大50人対応”最上位プラン「Pro」発表。月額4730円で本格大規模マルチ",
-   "summary": "Mojang Studiosは11月10日、『Minecraft』の公式プライベートサーバーサービス「Realms」のProプランを発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478346-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T10:46:57+09:00"
-  },
-  {
-   "id": "d03e1eaa239ccb50",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478342/",
-   "title": "Nintendo Switch 2/Switch本日のアプデで新機能「プレゼント」実装、ニンテンドーeショップの商品を家族に贈れるように。11月17日から利用可能",
-   "summary": "任天堂は11月10日、Nintendo Switch 2およびNintendo Switchに本体アップデートを実施。新機能「プレゼント」が追加された。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478342.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T10:28:40+09:00"
   }
  ]
 }
