@@ -1,8 +1,30 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-15T08:05:19+09:00",
+ "generated_at": "2026-11-15T11:45:13+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "683339914360cfea",
+   "url": "https://automaton-media.com/articles/newsjp/20261115-479328/",
+   "title": "不正アクセスを受けたセガのアーケード向けネットワークサービス「ALL․Net」一部復旧。『オンゲキ』『セガNET麻雀 MJ Arcade』など、一部タイトルが稼働再開",
+   "summary": "セガ フェイブは11月15日、「ALL․Net」および「Aime」の各種サービスについて、一部機能が復旧したと発表した。『オンゲキ』『カードメイカー』などをはじめとした一部タイトルが稼働再開している。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479328-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T10:31:16+09:00"
+  },
+  {
+   "id": "72355c22bea8d88e",
+   "url": "https://automaton-media.com/articles/newsjp/20261115-479322/",
+   "title": "『マインクラフト』に新武器“投擲ディスク”追加へ。統合版には「オフハンド」完全実装、来年最初のアプデが早くもお披露目",
+   "summary": "Mojang Studiosは11月15日、2027年の最初のゲームドロップを公開した。新武器の実装や、Bedrock版へのオフハンド完全実装が明かされた。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479322-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T09:07:17+09:00"
+  },
   {
    "id": "4b66f1725882a3c6",
    "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316/",
@@ -2180,28 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-10T14:47:26+09:00"
-  },
-  {
-   "id": "4020ad20a0d2ea00",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478385/",
-   "title": "AMDのRadeonグラボドライバーに「SSD無限酷使」不具合発生中。一日に数百ギガバイト書き込み、SSDの寿命を削りとる",
-   "summary": "AMD製GPU向けのドライバー「AMD Software: Adrenalin Edition」において、一部の環境で不必要なSSD書き込みがおこなわれる不具合が報告されている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478385-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T13:41:03+09:00"
-  },
-  {
-   "id": "9e665d61db9c49c5",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478374/",
-   "title": "Steamストアで「ゲームの平均フレームレート」を確認できるように、まずはSteam Deck向けに。だいたい何fps出るか、買う前にわかる",
-   "summary": "Valveは11月10日、Steamストアページのアップデートを実施。各タイトルのSteam Deckでの平均フレームレートを確認できるようになった。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/04/steam-next-fes-20260424-439515-header.webp",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T13:05:59+09:00"
   }
  ]
 }
