@@ -1,8 +1,30 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T02:47:22+09:00",
+ "generated_at": "2026-11-16T07:55:05+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "09001205c49a2fca",
+   "url": "https://www.4gamer.net/games/040/G004099/20261115006/",
+   "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年11月9日〜11月15日",
+   "summary": "2026年11月9日〜11月15日，4Gamerに掲載された記事は269本でした。アメリカのビッグテックでは，あんなことやこんなことが報道されていますが，それはともかく，今回もはりきって4Gamerと世界のゲーム業界の1週間を振り返ってみましょう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-16T07:00:00+09:00"
+  },
+  {
+   "id": "0c61605b192e2a3f",
+   "url": "https://www.4gamer.net/games/036/G003691/20261113042/",
+   "title": "Access Accepted第879回：「GTA6」をプレイする前に知っておきたい10のこと。犯罪者カップルの歴史から，進化したゲームシステムまで",
+   "summary": "2026年11月19日，「グランド・セフト・オートVI」がついに発売される。進化した自動車窃盗や強盗のシステム，RockstarGamesの新しい開発体制，そして発売直前に明らかになった技術的な仕様まで，プレイ前に知っておきたい10の話題を紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-16T07:00:00+09:00"
+  },
   {
    "id": "81349f25bfeb678e",
    "url": "https://automaton-media.com/articles/newsjp/20261115-479388/",
@@ -1861,28 +1883,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-11T20:47:34+09:00"
-  },
-  {
-   "id": "5415c06d76eac1db",
-   "url": "https://www.4gamer.net/games/057/G105772/20261111042/",
-   "title": "廃墟と化した塔の地下でオークを繁殖させるローグライトRPG「Breeding Pit」が発売中。世代を重ねて遺伝子を厳選し，軍勢を育てて「光の領地」へ侵攻",
-   "summary": "BLYTHEは2026年11月10日，ローグライトRPG「BreedingPit」をSteamで発売した。本作は，廃墟と化した塔の地下でオークを繁殖させ，世代を重ねながら強力な軍勢を育てていく作品だ。130種類以上の遺伝子が登場し，優性・劣性などの遺伝の仕組みが取り入れられている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-11T20:35:10+09:00"
-  },
-  {
-   "id": "b5dc58d59cff6888",
-   "url": "https://www.4gamer.net/games/857/G085718/20261111051/",
-   "title": "「モンギル：STAR DIVE」，DMM GAMES PLAYER版のサービスを開始。スマートフォン版とのデータ連携にも対応",
-   "summary": "EXNOAは本日（2026年11月11日），Netmarbleが開発・運営するアクションRPG「モンギル：STARDIVE」について，DMMGAMESPLAYER版のサービス開始を発表した。DMMGAMESPLAYER版は，4月にリリースされたスマートフォン版とのデータ連携に対応する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-11T20:34:33+09:00"
   },
   {
    "id": "e2e89ba9cd44ca61",
