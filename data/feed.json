@@ -1,8 +1,118 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-15T11:45:13+09:00",
+ "generated_at": "2026-11-15T20:06:18+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "81349f25bfeb678e",
+   "url": "https://automaton-media.com/articles/newsjp/20261115-479388/",
+   "title": "『ウマ娘』の「デアリングタクト」、発表から“4年越し”に突如実装決定。明日から育てられる",
+   "summary": "Cygamesは11月15日、『ウマ娘 プリティーダービー』の最新情報を公開した。デアリングタクトが11月16日12時より実装されるとのこと。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479388-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T18:47:47+09:00"
+  },
+  {
+   "id": "c3353f0e3a21bb20",
+   "url": "https://automaton-media.com/articles/now-gaming/20261115-479380/",
+   "title": "『テーブルゲームワールド CCFOLIA』は「GM気質」の人には楽しいおもちゃになりそう。『LoL』来るリニューアルはバグが怖いが新システムは気になる。今週のゲーミング",
+   "summary": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。570回目です。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479380-003.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T18:07:01+09:00"
+  },
+  {
+   "id": "523928b8ffb9dcd5",
+   "url": "https://automaton-media.com/articles/reportjp/hogwarts-legacy-dlss5-20261115-479361/",
+   "title": "NVIDIAの新技術「DLSS 5」を『ホグワーツ・レガシー』で体験。AIが見慣れた景色をフォトリアルに“味変”",
+   "summary": "先日DLSS 5に対応した『ホグワーツ・レガシー』で、オン・オフを切り替えながら校内や屋外を歩き回った。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/hogwarts-legacy-dlss5-20261115-479361-001.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T17:06:32+09:00"
+  },
+  {
+   "id": "a7a74cb0e85b4dcc",
+   "url": "https://automaton-media.com/articles/newsjp/20261115-479352/",
+   "title": "『エルシャダイ』リマスター版が75％オフで1000円切り。『ダンガンロンパ』が90％オフでわずか213円。“雪山人狼” 『Project Winter』は80％オフで202円とかなりお手頃。今週の高割引率PCゲーム",
+   "summary": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479352-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T16:38:10+09:00"
+  },
+  {
+   "id": "9acf25460ac1dbe8",
+   "url": "https://automaton-media.com/articles/special-column/20261115-479344/",
+   "title": "悪意が渦巻くネットの向こうに、善性を見つけられるか。SNSのリアルな人間模様を描く推理ADV『ミカクテイ事件の観測者-Demons’Timeline-』をもう遊んだか",
+   "summary": "『ミカクテイ事件の観測者』では、インターネットの醜さに直面することになるが、そこではときに善意も生まれうる。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479344-image2.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T15:02:53+09:00"
+  },
+  {
+   "id": "48b068b6913cf41f",
+   "url": "https://automaton-media.com/articles/newsjp/20261115-479303/",
+   "title": "“ドラクエ新作”スマホ向けゲーム『ドラゴンクエストRPG 魔界樹と導かれし島』発表。『メダロット』初期8作品入りコレクションがSteam向けに発表。今週の見逃せないゲーム記事7選",
+   "summary": "今週のAUTOMATONにて反響の大きかったゲーム紹介系記事を中心に、7本の記事をピックアップ。今週は『ドラゴンクエストRPG 魔界樹と導かれし島』のほか、『Wolfenstein 3』や『NIGHTMARE OPERATOR』などが話題となった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479303-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T13:31:52+09:00"
+  },
+  {
+   "id": "942e8d99151a90b4",
+   "url": "https://www.4gamer.net/games/865/G086590/20261115003/",
+   "title": "ハッシュタグは「#ストザン」でポスト！ 「STRANGER THAN HEAVEN」の全国体験会レポート＆開発陣合同インタビューをお届け",
+   "summary": "セガは2026年11月14日，「STRANGERTHANHEAVEN」の全国体験会およびクリエイターサイン会を，東京・池袋のヨドバシカメラマルチメディア池袋で開催した。体験会に加えて，開発陣へのインタビューの模様もあわせてお伝えしたい。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-15T12:12:46+09:00"
+  },
+  {
+   "id": "c6b101be46d55633",
+   "url": "https://automaton-media.com/articles/newsjp/20261115-479333/",
+   "title": "20年越しに“幻のポケモン釣りゲーム”が見つかるも、その「保存方法」で大議論巻き起こる。プレイ不可の“カプセル化”に、コミュニティから非難の嵐も",
+   "summary": "“失われたゲーム”と目されていた『ポケモン釣り大会DS』を所持しているというユーザーが現れた。しかし、そのゲームソフトの「保存方法」が物議を呼んでいるようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479333-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-15T12:06:40+09:00"
+  },
+  {
+   "id": "18ad6a40b3eab03f",
+   "url": "https://www.4gamer.net/games/902/G090227/20261115002/",
+   "title": "「レインボーシックス シージ」Y12ではランクマッチへのセキュアブート導入を目指す。オペレーター制作の舞台裏も明らかに［インタビュー］",
+   "summary": "「レインボーシックスシージ」の世界大会「BLASTR6OSAKAMAJOR」に先立ち，メディア向けイベントが開催された。本稿では，オペレーター制作の舞台裏を紹介するセッションと，ランクマッチの改修や今後の展望などを聞いた開発陣への合同インタビューの模様をお届けする。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-15T12:00:00+09:00"
+  },
+  {
+   "id": "5b14ca63fe0bbc8f",
+   "url": "https://www.4gamer.net/games/902/G090227/20261115001/",
+   "title": "「レインボーシックス シージ」Year11 Season4の情報が公開。Docのリマスターやランクマッチのマッチメイキング改修などを予定。貴重なスキンを獲得できるチャンスも",
+   "summary": "ユービーアイソフトは，「レインボーシックスシージ」のイヤー11シーズン4「OperationVitalSignal」のアップデート情報を公開した。新シーズンでは，ランクマッチのマッチメイキング改修やオペレーター「Doc」のリマスター，新武器の追加などが予定されている。本稿では，メディア向けに実施されたプレゼンテーションと先行ハンズオンをもとに，その内容を紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-15T12:00:00+09:00"
+  },
   {
    "id": "683339914360cfea",
    "url": "https://automaton-media.com/articles/newsjp/20261115-479328/",
@@ -1775,39 +1885,6 @@
    "published": "2026-11-11T20:34:33+09:00"
   },
   {
-   "id": "52321201239a9c71",
-   "url": "https://www.4gamer.net/games/057/G105775/20261111048/",
-   "title": "大量のおもちゃブロックを完成モデル別に分けていく整理シミュレーション「色で仕分けるな」，配信開始",
-   "summary": "個人開発者のBryanLivingston氏は本日（2026年11月11日），新作タイトル「色で仕分けるな」（NeverSortByColor）をリリースした。本作は，工房の中に山のように積み上がったブロックを仕分けていく整理シミュレーションゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-11T20:31:10+09:00"
-  },
-  {
-   "id": "6f78d2af9b4f14ef",
-   "url": "https://www.4gamer.net/games/402/G040221/20261111050/",
-   "title": "「サカつくRTW」，ハーランド選手らノルウェーのスーパースターが登場する「FEVER STAR FES」を開催",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-11T20:28:43+09:00"
-  },
-  {
-   "id": "ed97a042e569ab92",
-   "url": "https://www.4gamer.net/games/476/G047609/20261111049/",
-   "title": "「プロジェクトセカイ」，リズムゲーム楽曲「ノーモアフィクション」を追加",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-11T20:23:04+09:00"
-  },
-  {
    "id": "e2e89ba9cd44ca61",
    "url": "https://automaton-media.com/articles/newsjp/20261111-478735/",
    "title": "「うぶごえ」クラファンで1093万円未送金問題にあった『パーガトリー・ブルー』、資金回収を目指す民事訴訟へ。着手金は自腹、残りの弁護士費用を募るクラファンが始動",
@@ -2125,83 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-10T18:00:01+09:00"
-  },
-  {
-   "id": "776784a23d29be4d",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478451/",
-   "title": "『アークナイツ』にて『モンスターハンター』と新コラボ開催決定。カムラ装備っぽいアイルーやガルクらしき影も",
-   "summary": "Yostarは11月10日、Hypergryphが開発する『アークナイツ』にて、『モンスターハンター』シリーズとのコラボを開催すると発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478451-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T17:53:55+09:00"
-  },
-  {
-   "id": "ef91ed38fb0e2dda",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478434/",
-   "title": "ケモノ過酷すぎ死にゲー『Casualties: Unknown』いきなり圧倒的な人気。骨折・出血・四肢欠損、リアル負傷システムで体ボロボロ地獄旅",
-   "summary": "Oro Interactiveは11月9日、Orsoniksが手がける『Casualties: Unknown』を配信開始した。Steamユーザーレビューで「圧倒的に好評」ステータスを獲得するなど、高い注目を集めている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478434-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T17:34:33+09:00"
-  },
-  {
-   "id": "4087e0efa0dee39b",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478425/",
-   "title": "Steam無料・異界ボウリング球アクション『Sadball』近日中に配信終了へ。もらえるのは今だけ",
-   "summary": "ライブラリに追加しておけば、配信終了後もダウンロードしてプレイすることが可能だ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478425-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T16:33:26+09:00"
-  },
-  {
-   "id": "35409b033ab13dbe",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478420/",
-   "title": "バンダイナムコ、傘下Reflector Entertainmentを閉鎖に。野心作『Unknown 9: Awakening』を手がけるも大不振、ゲームたった1本で10年の歴史に幕",
-   "summary": "バンダイナムコホールディングスは11月10日、連結子会社であるReflector Entertainmentの解散および清算を発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478420-header.jpeg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T16:18:34+09:00"
-  },
-  {
-   "id": "f9b9348c130770b1",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478405/",
-   "title": "アトリエ最新作『カリアのアトリエ』の主人公は樽を食べれば“たーる顔”になる。体型変化だけじゃない、気になる「見た目変化」の詳細などいろいろお披露目",
-   "summary": "ガスト/コーエーテクモは11月9日、『カリアのアトリエ ～夜の王国と追憶の道標～（以下、カリアのアトリエ）』のデジタルプレオーダーを開始した。各種ストアで購入することができる。また、あわせて特別番組を放送し、新たな要素や […]",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478405-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T16:06:57+09:00"
-  },
-  {
-   "id": "895078fd8514d8a6",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478398/",
-   "title": "最大6人協力・Steam“夜逃げ”アクション『PICK A BOO』配信開始。家具を根こそぎ回収大作戦、「欲張りすぎ注意」それでもまだ運びたい",
-   "summary": "Game & Co.は11月9日、Toydiumが手がける協力アクションゲーム『PICK A BOO』を発売した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478398-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T15:26:06+09:00"
-  },
-  {
-   "id": "83d1670b573f931e",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478391/",
-   "title": "『グランド・セフト・オートVI（GTA 6）』発売元、10月から12月の売上は“約5500億円”見込み。前年のほぼ倍、出る前から怪物級",
-   "summary": "Take-Two Interactiveは11月10日、2027会計年度第2四半期（2026年7月～9月）の決算を発表した。Rockstar Gamesが手がける『グランド・セフト・オートVI』の発売により、第3四半期の純予約額は最大35億ドルになると見込まれている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478391-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T14:47:26+09:00"
   }
  ]
 }
