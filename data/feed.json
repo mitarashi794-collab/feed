@@ -1,8 +1,30 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T07:55:05+09:00",
+ "generated_at": "2026-11-16T11:48:48+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "9a85aaae685dae1c",
+   "url": "https://automaton-media.com/articles/newsjp/20261116-479409/",
+   "title": "『ゼルダの伝説 時のオカリナ』リメイク版、「死因第一位」はリーデット。見た目以外もトラウマ級",
+   "summary": "『ゼルダの伝説 時のオカリナ』リメイク版の「ZELDA NOTES」にて“プレイヤーの死因第一位”も明らかにされている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479409-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-16T11:07:44+09:00"
+  },
+  {
+   "id": "bc1d62763922d5ff",
+   "url": "https://www.4gamer.net/games/758/G075801/20261115004/",
+   "title": "【今週のモチベ】「グランド・セフト・オートVI」が発売される 2026年11月16日〜11月22日",
+   "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，架空の都市「バイスシティ」を含むレオナイダ州を舞台に，ルシアとジェイソンという裏社会に身を置く2人の物語を描くオープンワールドクライムアクション「グランド・セフト・オートVI」が発売される。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-16T08:00:00+09:00"
+  },
   {
    "id": "09001205c49a2fca",
    "url": "https://www.4gamer.net/games/040/G004099/20261115006/",
@@ -1863,17 +1885,6 @@
    "published": "2026-11-11T21:08:27+09:00"
   },
   {
-   "id": "b4be92bb32abb246",
-   "url": "https://www.4gamer.net/games/057/G105754/20261111053/",
-   "title": "患者のストレスで発電し，バズーカでトラブルを解決！？ 最大4人で薬局を切り盛りする「Take Care!!!」，2027年4月発売。Steamストアページを公開",
-   "summary": "個人ゲーム開発者のDressing氏は，協力型薬局シミュレーション「TakeCare!!!」のSteamストアページを公開した。最大4人で処方箋の受付や調剤などをこなし，14日間の営業に挑む作品だ。患者のストレスを発電に利用したり，厄介な患者をバズーカで吹き飛ばしたりと，ユニークな要素も用意されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-11T20:54:13+09:00"
-  },
-  {
    "id": "2023fcd6c55be588",
    "url": "https://automaton-media.com/articles/newsjp/20261111-478750/",
    "title": "注目の大型海賊オープンワールド『シーオブレムナンツ』CBTが12月4日より開催へ。『第五人格』開発元が放つ、海で自由冒険×陸で手強いターン制バトルな欲張りゲーム",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-10T18:16:11+09:00"
-  },
-  {
-   "id": "8db0d707d2b7cdf1",
-   "url": "https://automaton-media.com/articles/newsjp/20261110-478443/",
-   "title": "終末東京ホラー『NIGHTMARE OPERATOR』正式発表。沢城みゆきさん主演、「銃」で撃ちまくるハイテクコンボ妖怪退治",
-   "summary": "集英社ゲームズは11月10日、DDDistortionが手がけるTPSアクションホラーゲーム『NIGHTMARE OPERATOR』を正式発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478443-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-10T18:00:01+09:00"
   }
  ]
 }
