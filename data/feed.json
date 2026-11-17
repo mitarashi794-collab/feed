@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T23:33:52+09:00",
+ "generated_at": "2026-11-18T07:57:06+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "22d2395012d87690",
+   "url": "https://automaton-media.com/articles/newsjp/20261118-479707/",
+   "title": "年末GOTYが決まる「The Game Awards 2026」ノミネート作品発表。『GTA6』が8部門で最多、『バイオレクイエム』『ゼルダの伝説 時のオカリナ』など話題作ずらり",
+   "summary": "来月、日本時間12月11日にアメリカ・ロサンゼルスで開催される「The Game Awards 2026」。そのノミネート作品が本日11月18日に発表された。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261118-479707-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-18T02:15:45+09:00"
+  },
   {
    "id": "6d661245bebbd32d",
    "url": "https://www.4gamer.net/games/760/G076023/20261117055/",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-12T10:12:42+09:00"
-  },
-  {
-   "id": "f4676e91bbeec858",
-   "url": "https://automaton-media.com/articles/newsjp/20261112-478795/",
-   "title": "“今年最初のGOTY”は『バイオハザード レクイエム』が受賞、『めっちゃカメレオン』も4部門受賞で存在感放つ。「Golden Joystick Awards 2026」まとめ",
-   "summary": "「Golden Joystick Awards 2026」が日本時間11月12日に開催され、各部門の受賞作品が発表された。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478795-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-12T05:16:57+09:00"
   }
  ]
 }
