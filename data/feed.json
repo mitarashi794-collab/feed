@@ -1,8 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T23:10:07+09:00",
+ "generated_at": "2026-11-19T07:03:26+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "793d597d8f119bf0",
+   "url": "https://www.4gamer.net/games/990/G999019/20261118043/",
+   "title": "最新フラグシップスマートフォン「OPPO Find X10」が12月17日に国内発売。上位モデルは3眼カメラに2億画素センサーを採用",
+   "summary": "2026年11月19日，OPPOは，ハイエンド市場向けAndroidスマートフォン「OPPOFindX10」シリーズを12月17日に国内発売すると発表した。上位モデルの「OPPOFindX10ProMax」とスタンダードモデルの「OPPOFindX10」をラインナップする。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T00:07:05+09:00"
+  },
   {
    "id": "85925f09730c10e8",
    "url": "https://automaton-media.com/articles/newsjp/20261118-479925/",
@@ -1872,17 +1883,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-14T13:14:43+09:00"
-  },
-  {
-   "id": "70bdcb0cccf37a30",
-   "url": "https://www.4gamer.net/games/058/G105838/20261114003/",
-   "title": "カジュアルなスマホ向け麻雀ゲーム「雀皇麻雀2」，特典がもらえる事前登録受付開始",
-   "summary": "スマートフォン向けソフト「雀皇麻雀2」の事前登録受付が始まっている。洗牌なし」などさまざまなモードを搭載し，短時間でサクッと遊べるカジュアルなオンライン麻雀ゲームだ。事前登録することでスキンやコインなどがもらえるという。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-14T12:38:53+09:00"
   },
   {
    "id": "a96d13a806437245",
