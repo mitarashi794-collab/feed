@@ -1,8 +1,173 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T07:03:26+09:00",
+ "generated_at": "2026-11-19T12:36:47+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "51021389b46fa5eb",
+   "url": "https://www.4gamer.net/games/996/G099625/20261119004/",
+   "title": "農業ライフシム「Farmer's Dynasty 2」，2027年1月20日の正式リリース。1960年代と現代の物語が完結し，農場の改装機能や農業機械も拡充へ",
+   "summary": "ToplitzProductionsは，農業＆生活シミュレーション「Farmer'sDynasty2」を2027年1月20日に正式リリースすると発表した。1960年代と現代の物語が完結し，農場の改装機能や農業機械も拡充される。2026年12月には果樹園を追加する無料アップデートも予定している。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T12:19:21+09:00"
+  },
+  {
+   "id": "719695e7d6463bea",
+   "url": "https://automaton-media.com/articles/newsjp/20261119-479967/",
+   "title": "“スロット頼み“防衛ローグライク『スロットバウンド』3日で10万本売れていた。ギャンブル運で敵をしばき倒す、新たなSteamヒット作",
+   "summary": "Optima Archは11月17日、『スロットバウンド（Slotbound）』の累計販売本数が10万本を突破したと明らかにした。配信開始からわずか3日で達成したという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261119-479967-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-19T12:00:52+09:00"
+  },
+  {
+   "id": "b88d1ddef9ad3520",
+   "url": "https://automaton-media.com/articles/newsjp/20261119-479961/",
+   "title": "AMDグラボで報告された「SSD無限酷使」不具合、今度はNVIDIAグラボでも発生か。1日で約1テラバイト書き込まれた事例も、寿命が怖い",
+   "summary": "NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生する不具合が相次いで報告されている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261119-479961-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-19T11:43:37+09:00"
+  },
+  {
+   "id": "7279d488d639da9c",
+   "url": "https://www.4gamer.net/games/968/G096894/20261119003/",
+   "title": "「ロックマン：デュアル オーバーライド」，新ボス「ボートマン」を公開。水中で広範囲の攻撃を仕掛ける気弱な漁業ロボット",
+   "summary": "カプコンは本日，2027年春に発売予定の「ロックマン：デュアルオーバーライド」に登場する新ボス「ボートマン」を公開した。ボートマンは，遠洋漁業に憧れる気弱な近海漁業ロボットだ。水中戦を中心に広範囲の攻撃を仕掛ける。この発表により，8大ボスのうち6体が明らかになった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T11:38:46+09:00"
+  },
+  {
+   "id": "81ceaa2c6e4ba24e",
+   "url": "https://automaton-media.com/articles/newsjp/gta6-20261119-479955/",
+   "title": "『グランド・セフト・オートVI（GTA6）』開発元いわく、60fps実現には“PS5 Proですら力不足”。アプデでの対応も難しそう",
+   "summary": "『GTA6』はPS5/XBOX Series X|Sにて最大30fpsでの動作となっている。開発元によれば、60fps動作の実現はマシンスペックが足りないとのことだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261119-479955-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-19T11:14:00+09:00"
+  },
+  {
+   "id": "13f08b011def956f",
+   "url": "https://automaton-media.com/articles/reportjp/theascent-20261119-479869/",
+   "title": "“サイバーパンク特濃”アクションRPG『アセント』に約4年ぶりのアプデ到来、開発元が本気の磨き直し。やっと言える「今こそ遊びどき」",
+   "summary": "アクションシューティングRPG『アセント（The Ascent）』の、約4年ぶりとなるアップデート「Legacy Patch」では、遊びやすさが大幅改善されている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/He-scaled.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-19T11:00:41+09:00"
+  },
+  {
+   "id": "a8862f64264a5fe8",
+   "url": "https://www.4gamer.net/games/015/G101576/20261118018/",
+   "title": "男色ディーノのゲイムヒヒョー ゼロ：第916回「大義名分が気になって仕方ない」",
+   "summary": "今週の「男色ディーノのゲイムヒヒョーゼロ」は，シリーズ最新作「信長の野望・飛翔」の話題です。「三國志」ほど「信長の野望」にのめり込めなかった理由と，新作への期待をディーノ選手が語ります。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T11:00:00+09:00"
+  },
+  {
+   "id": "38273603bceebf53",
+   "url": "https://www.4gamer.net/games/043/G104316/20261119001/",
+   "title": "ゾンビを増やして東京の街を制圧する「THE FIRST ZOMBIE」，12月17日発売決定。「水ダウ」の藤井健太郎氏が手掛ける“逆ゾンビゲー”",
+   "summary": "Phoenixxは本日，「THEFIRSTZOMBIE」を2026年12月17日に発売すると発表した。本作は，「水曜日のダウンタウン」で知られる藤井健太郎氏がプロデュースするアクションゲームだ。ゾンビとなった主人公が，人間を次々と仲間に変え，東京の街を制圧していく。あわせて，最新のゲームプレイ映像も公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T10:57:42+09:00"
+  },
+  {
+   "id": "7ec1bcecc5d2221e",
+   "url": "https://automaton-media.com/articles/newsjp/20261119-479943/",
+   "title": "『グランド・セフト・オートVI（GTA6）』では「ながらスマホ運転」がちゃんと危ない。“スマホに夢中”が生々しい",
+   "summary": "『グランド・セフト・オートVI（GTA6）』にて「ながらスマホ運転」が過去作よりもいっそう危険になっている点が注目されている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261119-479943-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-19T10:20:34+09:00"
+  },
+  {
+   "id": "9cc9debf49cce861",
+   "url": "https://www.4gamer.net/games/956/G095600/20261117040/",
+   "title": "ストラテジーディフェンスゲーム「Gate of Gates」，スマートフォン＆PC向けクローズドβテストを12月中に開催。参加者を募集中",
+   "summary": "WEBZENは2026年11月19日，ストラテジーディフェンスゲーム「GateofGates（ゲート・オブ・ゲイツ）」について，スマートフォンとPCを対象としたクローズドβテストを12月中に開催すると発表した。また，新たなプロモーションムービーも公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T10:00:00+09:00"
+  },
+  {
+   "id": "a9b15d0a4e413862",
+   "url": "https://www.4gamer.net/games/631/G063178/20261113045/",
+   "title": "「ドルフロ2」車を召喚して戦場を爆走！ バフの積み重ねで高火力を叩き出す新キャラクター“コレダ”の性能をレポート［プレイレポ］",
+   "summary": "タクティカルRPG「ドールズフロントライン2：エクシリウム」に，水属性の新キャラクター“コレダ”が実装された。車を召喚して戦うユニークな性能を，ぜひ体験してほしい。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T10:00:00+09:00"
+  },
+  {
+   "id": "9be0a56efb5329a0",
+   "url": "https://automaton-media.com/articles/newsjp/202611190-479938/",
+   "title": "『グランド・セフト・オートVI（GTA6）』にもおなじみ「チートコード」は完備。ただしクリアするまでは“お預け”",
+   "summary": "『グランド・セフト・オートVI（GTA6）』でもシリーズおなじみのチートコード機能が存在するようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/202611190-479938-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-19T09:21:16+09:00"
+  },
+  {
+   "id": "18a701571864706a",
+   "url": "https://www.4gamer.net/games/456/G045622/20261116002/",
+   "title": "スマホゲームのセルラン分析（2026年11月5日〜11月11日）。今週も1位は「勝利の女神：NIKKE」。7月〜9月に登場した新作の国内ランキングも",
+   "summary": "世界有数のスマホゲーム大国である日本において，現在最も売れているタイトルをはじめ，さまざまなデータを毎週お届けする本連載。今週の国内収益ランキング1位は，前週に続いて「勝利の女神：NIKKE」となった。今回は，7月〜9月に登場した新作の国内ランキングも紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T09:00:00+09:00"
+  },
+  {
+   "id": "e423e4304ac2de48",
+   "url": "https://www.4gamer.net/games/758/G075801/20261118019/",
+   "title": "俺，この仕事が終わったらGTA6するんだ……“発売されたけどまだ遊べない”現実社会のサバイバーに贈る「グランド・セフト・オートVI」これまでの歩み",
+   "summary": "世界中で「今日はGTA休み！」と話題になるなか，気持ちはバイスシティでも現実は通勤電車に揺られ職場へ……という人もいるはず。筆者もそう！ そんな“今日休めない”人たちに，帰宅後の「グランド・セフト・オートVI」のプレイが楽しくなるような，GTA6の歩みや企画記事をまとめました。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T08:30:00+09:00"
+  },
+  {
+   "id": "4957f5829d6cf099",
+   "url": "https://www.4gamer.net/games/991/G999110/20261118023/",
+   "title": "「G-STAR 2026」が11月19日から開幕。41か国1237社が集まり，新設の「G-STAR Global Game Showcase」にコーエーテクモやカプコン，セガが出展",
+   "summary": "「G-STAR2026」が，11月19日から22日までの4日間，釜山のBEXCOで開催される。22回目を迎える今年は，41か国1237社，3445小間の規模での開催だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-19T08:00:00+09:00"
+  },
   {
    "id": "793d597d8f119bf0",
    "url": "https://www.4gamer.net/games/990/G999019/20261118043/",
@@ -1610,39 +1775,6 @@
    "published": "2026-11-16T11:07:44+09:00"
   },
   {
-   "id": "bc1d62763922d5ff",
-   "url": "https://www.4gamer.net/games/758/G075801/20261115004/",
-   "title": "【今週のモチベ】「グランド・セフト・オートVI」が発売される 2026年11月16日〜11月22日",
-   "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，架空の都市「バイスシティ」を含むレオナイダ州を舞台に，ルシアとジェイソンという裏社会に身を置く2人の物語を描くオープンワールドクライムアクション「グランド・セフト・オートVI」が発売される。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-16T08:00:00+09:00"
-  },
-  {
-   "id": "09001205c49a2fca",
-   "url": "https://www.4gamer.net/games/040/G004099/20261115006/",
-   "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年11月9日〜11月15日",
-   "summary": "2026年11月9日〜11月15日，4Gamerに掲載された記事は269本でした。アメリカのビッグテックでは，あんなことやこんなことが報道されていますが，それはともかく，今回もはりきって4Gamerと世界のゲーム業界の1週間を振り返ってみましょう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-16T07:00:00+09:00"
-  },
-  {
-   "id": "0c61605b192e2a3f",
-   "url": "https://www.4gamer.net/games/036/G003691/20261113042/",
-   "title": "Access Accepted第879回：「GTA6」をプレイする前に知っておきたい10のこと。犯罪者カップルの歴史から，進化したゲームシステムまで",
-   "summary": "2026年11月19日，「グランド・セフト・オートVI」がついに発売される。進化した自動車窃盗や強盗のシステム，RockstarGamesの新しい開発体制，そして発売直前に明らかになった技術的な仕様まで，プレイ前に知っておきたい10の話題を紹介しよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-16T07:00:00+09:00"
-  },
-  {
    "id": "81349f25bfeb678e",
    "url": "https://automaton-media.com/articles/newsjp/20261115-479388/",
    "title": "『ウマ娘』の「デアリングタクト」、発表から“4年越し”に突如実装決定。明日から育てられる",
@@ -1709,17 +1841,6 @@
    "published": "2026-11-15T13:31:52+09:00"
   },
   {
-   "id": "942e8d99151a90b4",
-   "url": "https://www.4gamer.net/games/865/G086590/20261115003/",
-   "title": "ハッシュタグは「#ストザン」でポスト！ 「STRANGER THAN HEAVEN」の全国体験会レポート＆開発陣合同インタビューをお届け",
-   "summary": "セガは2026年11月14日，「STRANGERTHANHEAVEN」の全国体験会およびクリエイターサイン会を，東京・池袋のヨドバシカメラマルチメディア池袋で開催した。体験会に加えて，開発陣へのインタビューの模様もあわせてお伝えしたい。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-15T12:12:46+09:00"
-  },
-  {
    "id": "c6b101be46d55633",
    "url": "https://automaton-media.com/articles/newsjp/20261115-479333/",
    "title": "20年越しに“幻のポケモン釣りゲーム”が見つかるも、その「保存方法」で大議論巻き起こる。プレイ不可の“カプセル化”に、コミュニティから非難の嵐も",
@@ -1729,28 +1850,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-15T12:06:40+09:00"
-  },
-  {
-   "id": "18ad6a40b3eab03f",
-   "url": "https://www.4gamer.net/games/902/G090227/20261115002/",
-   "title": "「レインボーシックス シージ」Y12ではランクマッチへのセキュアブート導入を目指す。オペレーター制作の舞台裏も明らかに［インタビュー］",
-   "summary": "「レインボーシックスシージ」の世界大会「BLASTR6OSAKAMAJOR」に先立ち，メディア向けイベントが開催された。本稿では，オペレーター制作の舞台裏を紹介するセッションと，ランクマッチの改修や今後の展望などを聞いた開発陣への合同インタビューの模様をお届けする。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-15T12:00:00+09:00"
-  },
-  {
-   "id": "5b14ca63fe0bbc8f",
-   "url": "https://www.4gamer.net/games/902/G090227/20261115001/",
-   "title": "「レインボーシックス シージ」Year11 Season4の情報が公開。Docのリマスターやランクマッチのマッチメイキング改修などを予定。貴重なスキンを獲得できるチャンスも",
-   "summary": "ユービーアイソフトは，「レインボーシックスシージ」のイヤー11シーズン4「OperationVitalSignal」のアップデート情報を公開した。新シーズンでは，ランクマッチのマッチメイキング改修やオペレーター「Doc」のリマスター，新武器の追加などが予定されている。本稿では，メディア向けに実施されたプレゼンテーションと先行ハンズオンをもとに，その内容を紹介しよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-15T12:00:00+09:00"
   },
   {
    "id": "683339914360cfea",
@@ -1797,17 +1896,6 @@
    "published": "2026-11-14T18:01:30+09:00"
   },
   {
-   "id": "dff91cf3e2c9fc47",
-   "url": "https://www.4gamer.net/games/038/G003821/20261114005/",
-   "title": "週刊Steam広場 第179号：釣りADV「DREADMOOR」や，ローグライク王国ビルダー「9 Kings」が正式リリースに",
-   "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，人類の過ちによる大災害で水没した世界を舞台とする釣りアドベンチャー「DREADMOOR」や，9人の王が覇権を争うローグライク王国ビルダー「9Kings」が正式にリリースされた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-14T18:00:00+09:00"
-  },
-  {
    "id": "810b73a4e1f608a1",
    "url": "https://automaton-media.com/articles/newsjp/paradox-20261114-479296/",
    "title": "Paradox Interactive「CEO交代」で新体制へ、来年1月から。『Vic2』『Stellaris』『HoI4』などに携わった副CEOが昇進",
@@ -1819,17 +1907,6 @@
    "published": "2026-11-14T17:38:52+09:00"
   },
   {
-   "id": "b35ce66c8c5b76d1",
-   "url": "https://www.4gamer.net/games/991/G999111/20261113054/",
-   "title": "ゲーセンとスナックが融合したら？ 秋葉原に「GiGO NEO SNACK」が期間限定オープン",
-   "summary": "GENDAGiGOEntertainmentは2026年11月13日，東京・秋葉原のGiGO秋葉原5号館に「GiGONEOSNACK（ギーゴネオスナック）」をオープンした。ゲームセンターと昭和のスナック文化を融合させた施設で，11月30日までの期間限定営業となる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-14T17:00:00+09:00"
-  },
-  {
    "id": "32533f9c6f8e3cc0",
    "url": "https://automaton-media.com/articles/newsjp/20261114-479284/",
    "title": "『Factorio』に“Mod不要”の「音楽プレーヤー」を建設した謎の技術者あらわる。約2000個以上のスピーカーで大合奏の「超巨大音楽再生工場」",
@@ -1839,17 +1916,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-14T16:48:57+09:00"
-  },
-  {
-   "id": "33a9c778513c1126",
-   "url": "https://www.4gamer.net/games/784/G078437/20261114004/",
-   "title": "「勇者パーティはぜんめつしました。」と「病能探偵」がコラボバンドルセールを実施。Steamで高評価を獲得した2作品がセット購入で20％オフに",
-   "summary": "FlashlightGamesは，同社がパブリッシングを手がける高湿度・激重感情RPG「勇者パーティはぜんめつしました。」と，デスゲーム推理アドベンチャー「病能探偵」のコラボバンドルセールを，本日（2026年11月14日）16：00から実施すると発表した。両作品の発売記念セールに加え，バンドル購入でさらに10％オフとなる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-14T16:00:00+09:00"
   },
   {
    "id": "69c71708334f9dae",
@@ -2136,72 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-13T12:00:30+09:00"
-  },
-  {
-   "id": "d15d0aebf45870ce",
-   "url": "https://automaton-media.com/articles/newsjp/20261113-479045/",
-   "title": "Steamで「まったく同じ名前＆ほぼ同時発売」だった2本のゲーム、今度はSwitch版を“同じ日”に発売へ。仲良しすぎて任天堂もちょっと困惑",
-   "summary": "今年3月、Steamにてまったく同じ名前のゲームが、同じ週にリリースされるという珍事が発生した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479045-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-13T11:19:25+09:00"
-  },
-  {
-   "id": "0a40787b151981b9",
-   "url": "https://automaton-media.com/articles/newsjp/20261113-479037/",
-   "title": "マルチ対応・日本ガソスタ夜勤ホラー『SANKAN』発表。頭に響く“客を殺せ”の声に抗うか従うか、死体を埋めたらまた接客",
-   "summary": "YTKA GAMESは11月13日、Dany Rexton氏が手がけるホラーゲーム『SANKAN』を発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479037-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-13T10:41:00+09:00"
-  },
-  {
-   "id": "64b1bd9a2644f80b",
-   "url": "https://automaton-media.com/articles/newsjp/20261113-479030/",
-   "title": "『ゼルダの伝説 時のオカリナ』リメイク版の「リーデット」、開発中に怖くなりすぎたので“自主規制”されていた。それでもだいぶ怖い",
-   "summary": "『ゼルダの伝説 時のオカリナ』リメイク版の「リーデット」は、開発中にはもっと怖く作られていたようだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479030-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-13T10:14:20+09:00"
-  },
-  {
-   "id": "93473f0742cdc1c6",
-   "url": "https://automaton-media.com/articles/newsjp/20261113-479025/",
-   "title": "AMDのRadeonグラボドライバーで発生していた「SSD無限酷使」不具合、修正バージョンがさっそく配信。RX 7000シリーズ以上の方は特に要チェック",
-   "summary": "一部の環境で発生していた不必要なSSD書き込みがおこなわれる不具合が修正されている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479025-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-13T09:53:25+09:00"
-  },
-  {
-   "id": "7c9fb54afd327aca",
-   "url": "https://automaton-media.com/articles/newsjp/20261113-479008/",
-   "title": "XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば30分間プレイ可能",
-   "summary": "マイクロソフトは11月13日、広告付きのクラウドゲーミングサービスを利用した「XBOX Video for Brands」を広告主向けに正式発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/07/20260702-452949-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-13T08:45:51+09:00"
-  },
-  {
-   "id": "b580a62358e9bc1a",
-   "url": "https://automaton-media.com/articles/newsjp/20261113-479009/",
-   "title": "『Slay the Spire 2』に超大型ベータアプデ到来、待望の新キャラ「フール」実装。さらに新ゲームモードが2つも追加、サクッと遊べるor超高難度",
-   "summary": "のMega Critは11月13日、『Slay the Spire 2』ベータブランチ向けのアップデートv0.113.0を配信した。過去最大規模のアップデートなっている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479009-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-13T08:40:26+09:00"
   }
  ]
 }
