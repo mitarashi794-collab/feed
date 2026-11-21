@@ -1,8 +1,96 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-21T06:13:38+09:00",
+ "generated_at": "2026-11-21T11:27:51+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "4391b2215ea5a5f0",
+   "url": "https://automaton-media.com/articles/newsjp/20261120-480222/",
+   "title": "『グランド・セフト・オートVI（GTA6）』ではついに「列車を止められる」ように。ぜんぶ跳ね飛ばす“列車不敗伝説”、終わる",
+   "summary": "『GTA6』では、過去作品にて“無敵の存在”とされてきた列車が止められるようになっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480222-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-21T10:34:49+09:00"
+  },
+  {
+   "id": "2ef07157e273c3b2",
+   "url": "https://www.4gamer.net/games/011/G101187/20261121003/",
+   "title": "幽霊をカメラで撮影して戦うサバイバルホラー「Echograph」，日本語対応の体験版をSteamで配信。ゲームの冒頭約45分をプレイできる",
+   "summary": "Pappy'sPipeDreamは本日（2026年11月21日），呪いに満ちた屋敷を探索するサバイバルホラーゲーム「Echograph」の体験版をSteamで配信した。体験版にはゲーム冒頭の約45分が収録され，日本語の画面表示と字幕に対応する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-21T10:33:08+09:00"
+  },
+  {
+   "id": "088b8900265b5bcd",
+   "url": "https://www.4gamer.net/games/758/G075801/20261121002/",
+   "title": "「グランド・セフト・オートVI」，発売“前”に全世界で3250万本を販売。初日の売上高は推計37億9000万ドル（約6030億円）に達する",
+   "summary": "RockstarGamesは本日（2026年11月21日），オープンワールドクライムアクション「グランド・セフト・オートVI」について，発売前の販売本数が3250万本に達したと発表した。売上高については，発売日の11月19日終了時点で推計37億9000万ドル（約6030億円）となっている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-21T09:34:49+09:00"
+  },
+  {
+   "id": "52142d7f25082d83",
+   "url": "https://automaton-media.com/articles/newsjp/20261121-480255/",
+   "title": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題",
+   "summary": "NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480255-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-21T09:23:16+09:00"
+  },
+  {
+   "id": "ddfb9343830e43ef",
+   "url": "https://www.4gamer.net/games/968/G096854/20261112021/",
+   "title": "ヘタレゾンビの爆速成長アクション「ステューピッド・ネバー・ダイズ」，キャラクター設定画を先行公開。田中現績氏によるコメントあり",
+   "summary": "セガが2026年10月22日にリリースしたアクションRPG「ステューピッド・ネバー・ダイズ」。そのキャラクター設定画と，アートディレクター・田中現績氏による開発コメントが届いた。本稿では，その内容を一挙に公開しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-21T09:00:00+09:00"
+  },
+  {
+   "id": "cb6a01b153d695a5",
+   "url": "https://www.4gamer.net/games/968/G096854/20261120028/",
+   "title": "「ステューピッド・ネバー・ダイズ」，最終ボス「KOM」との決戦を描くファイナルトレイラーが公開に。Steamでは初のセールも実施中",
+   "summary": "セガは本日（2026年11月21日），アクションRPG「ステューピッド・ネバー・ダイズ」のファイナルトレイラーを公開した。今回のトレイラーには，主人公デイビィと最終ボス「KOM」の戦いが収録されている。また，PC版のセールがSteamで11月30日まで実施中だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-21T09:00:00+09:00"
+  },
+  {
+   "id": "3491a385829b5aee",
+   "url": "https://www.4gamer.net/games/925/G092573/20261110035/",
+   "title": "感情を揺らす恋，そして梵そよぎが演じるアンドロイドとの出会い。「Re:cord NOAH 忘却のフラクタル」の魅力を聞く［インタビュー］",
+   "summary": "ボルテージのSwitch用乙女ゲーム「Re:cordNOAH忘却のフラクタル」。梶裕貴さんの「そよぎフラクタル」とのコラボで生まれた本作について，4人の攻略キャラクターの魅力や，梵そよぎくんが演じるアンドロイドの役割などをディレクターに聞いた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-21T08:00:00+09:00"
+  },
+  {
+   "id": "aab40cd830a3ac3a",
+   "url": "https://www.4gamer.net/games/060/G106031/20261121001/",
+   "title": "「三国志:九州覇業」日本向けAndroid版クローズドβテストがスタート。事前登録も開始され，武将「趙雲」や最大390連分のガチャなどの特典が明らかに",
+   "summary": "RASTARGAMESは，三国志戦略シミュレーションゲーム「三国志:九州覇業」の日本向けAndroid版クローズドβテストを，2026年11月19日に開始した。テストは12月10日まで開催される。また，正式リリースに向けた事前登録も始まり，武将「趙雲」や最大390連分のガチャなどの特典情報も公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-21T07:30:00+09:00"
+  },
   {
    "id": "db81e4c0bf6f149f",
    "url": "https://www.4gamer.net/games/945/G094561/20261120053/",
@@ -1500,39 +1588,6 @@
    "published": "2026-11-18T13:05:54+09:00"
   },
   {
-   "id": "615fc6bf83120fbf",
-   "url": "https://www.4gamer.net/games/991/G999109/20261118007/",
-   "title": "12月12日開催「アレサ」シリーズのオーケストラコンサート，演奏予定曲を紹介。GB版第1作の全曲に加え，ファン投票で選ばれた10曲やSFC版の7曲を披露",
-   "summary": "やのまんは，2026年12月12日に東京・亀戸で開催される「アレサ」シリーズのオーケストラコンサート「NJBPLive!#19“ArethaBGMReunion”」の演奏予定曲などを紹介した。GB版「アレサ」の全曲に加え，ファン投票で選ばれた「アレサII」「アレサIII」の10曲と，SFC版の7曲も演奏される。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T13:04:03+09:00"
-  },
-  {
-   "id": "311af389f559ef98",
-   "url": "https://www.4gamer.net/games/984/G098494/20261118003/",
-   "title": "ミニチュアのような世界でゆったりとした時間が過ごせるリラックスパズル探索ゲーム「ハコニワデンキ Hakoniwa Electric」，12月1日に発売",
-   "summary": "個人ゲーム開発者の亜寝帯氏は本日，PC用ソフト「ハコニワデンキHakoniwaElectric」を2026年12月1日に発売すると発表した。本作は，どこか懐かしくてかわいい箱庭ステージでパズルを見つけ，明かりを灯し，壊れたものを直していくリラックスパズル探索ゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T12:59:07+09:00"
-  },
-  {
-   "id": "e6cb2869905cedca",
-   "url": "https://www.4gamer.net/games/278/G027801/20261118008/",
-   "title": "IOデータのコスパ重視ディスプレイ「GCFX」から，発色鮮やかな量子ドット有機ELゲーミングディスプレイが登場",
-   "summary": "2026年11月18日，アイ・オー・データは，ゲーミングディスプレイブランド「GigaCrysta」の「GCFX」シリーズから，量子ドット有機ELパネルを採用した27インチディスプレイ「EX-GDQ272UEL」など3製品を12月中旬に発売すると発表した。価格は明らかになっていない。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T12:52:31+09:00"
-  },
-  {
    "id": "dc7a161411472312",
    "url": "https://automaton-media.com/articles/newsjp/20261118-479805/",
    "title": "PS5の新本体アプデは『グランド・セフト・オートVI（GTA6）』のプレイに必須。「事前ダウンロード」だけじゃ足りない、今晩最速プレイしたいなら更新を",
@@ -1566,28 +1621,6 @@
    "published": "2026-11-18T12:26:04+09:00"
   },
   {
-   "id": "623844f05c682d13",
-   "url": "https://www.4gamer.net/games/758/G075801/20261118005/",
-   "title": "「GTA VI」発売直前，プレイに必須となるPS5のシステムソフトウェアアップデートが配信。公式は発売日の11月19日0：00までにダウンロードするよう呼びかけ",
-   "summary": "ソニー・インタラクティブエンタテインメントは，PS5向けシステムソフトウェアアップデート「26.07-14.23.00」の配信を開始した。このアップデートは，11月19日発売予定の「グランド・セフト・オートVI」をプレイするために必須となる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T12:25:43+09:00"
-  },
-  {
-   "id": "2c974f32f2c56e39",
-   "url": "https://www.4gamer.net/games/917/G091712/20261118004/",
-   "title": "実は破産していた！ デンマークのRaw Power GamesからCoffee StainがIPを取得へ。「Chronicles: Medieval」の開発継続が決定",
-   "summary": "CoffeeStainGroupは，2026年10月30日に破産したRawPowerGamesの資産を取得する契約を締結した。対象は，中世アクションストラテジー「Chronicles:Medieval」の知的財産権と関連資産で，買収額は約550万ドル。元開発チームの主要メンバーが参加する新会社で，今後も開発を継続する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T12:15:26+09:00"
-  },
-  {
    "id": "ab96704f5d749127",
    "url": "https://automaton-media.com/articles/newsjp/20261118-479786/",
    "title": "『アークナイツ』の『モンスターハンター』コラボ、原作再現が細かすぎると話題に。『ライズ』ミノトの“ゆるい絵”から、古参ハンターに刺さる「かつかつボックス」いじりまで",
@@ -1619,17 +1652,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-18T12:00:02+09:00"
-  },
-  {
-   "id": "15eca1a9e36b3d70",
-   "url": "https://www.4gamer.net/games/579/G057943/20261111057/",
-   "title": "令和のいまMMORPG黎明期を体験できる「リネージュ クラシック」を先行プレイ。キャラの非透過に暗いダンジョン，“不便さ”すら愛おしい完全再現［プレイレポ］",
-   "summary": "NCは，MMORPG「リネージュクラシック」のプレオープンを12月2日に開始する。2000年代初期のグラフィックスや4：3の画面比率，当時の不便さを含めた手触りを忠実に再現した本作のメディア先行体験会が行われたので，その模様をレポートしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T12:00:00+09:00"
   },
   {
    "id": "4d5d0c87887c86d1",
@@ -2180,28 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-14T18:01:30+09:00"
-  },
-  {
-   "id": "810b73a4e1f608a1",
-   "url": "https://automaton-media.com/articles/newsjp/paradox-20261114-479296/",
-   "title": "Paradox Interactive「CEO交代」で新体制へ、来年1月から。『Vic2』『Stellaris』『HoI4』などに携わった副CEOが昇進",
-   "summary": "Paradox Interactiveは11月11日、CEOをFredrik Wester氏からMattias Lilja氏に交代すると発表した。Lilja氏は『Victoria II』や『Stellaris』、『Hearts of Iron IV』などのタイトルに携わった人物で、2027年1月4日から新CEOに就任するようだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/paradox-20261114-479296.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-14T17:38:52+09:00"
-  },
-  {
-   "id": "32533f9c6f8e3cc0",
-   "url": "https://automaton-media.com/articles/newsjp/20261114-479284/",
-   "title": "『Factorio』に“Mod不要”の「音楽プレーヤー」を建設した謎の技術者あらわる。約2000個以上のスピーカーで大合奏の「超巨大音楽再生工場」",
-   "summary": "『Factorio』にて、Modを使わずにゲーム内で“音楽”を奏でられるようにしたユーザーがあらわれ、話題となっている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261114-479284-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-14T16:48:57+09:00"
   }
  ]
 }
