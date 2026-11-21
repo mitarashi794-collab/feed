@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-21T20:16:18+09:00",
+ "generated_at": "2026-11-22T03:05:39+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "c9224f5550571c43",
+   "url": "https://automaton-media.com/articles/newsjp/20261121-480318/",
+   "title": "『アークナイツ：エンドフィールド』新オペレーター★6「ケーちゃん」と配布★5「ミミノ」お披露目。 “謎キノコ生えまくりダム”の旅や、バージョン2.0で追加の「新地域」も一挙公開",
+   "summary": "HypergryphおよびGRYPHLINEは11月21日、運営中の『アークナイツ：エンドフィールド』に向け、新バージョン「キノコ菌（キン）グ！？ 君との大冒険！」やバージョン2.0での各種新情報をお披露目した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480318-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-21T22:39:23+09:00"
+  },
+  {
+   "id": "42ab997fb2cb6d11",
+   "url": "https://automaton-media.com/articles/newsjp/20261121-480310/",
+   "title": "『アークナイツ：エンドフィールド』にて「M3」正式お披露目。「ケルシー」&「Mon3tr」っぽさある謎キャラクター",
+   "summary": "『アークナイツ：エンドフィールド』にて、ついに謎多き「M3」が実装されるようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480310-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-21T22:11:26+09:00"
+  },
+  {
+   "id": "97a8cd35f7351671",
+   "url": "https://automaton-media.com/articles/newsjp/20261121-480302/",
+   "title": "『閃乱カグラ』新作コマンドRPG『シノビ NEXUS -閃乱カグラ-』11月29日配信開始へ。新たなシノビ少女たちのハイパーシノビバトル、着せ替えやサウナでととのう“シノビスパ”も搭載",
+   "summary": "HONEY∞PARADE GAMESは11月21日、『シノビNEXUS -閃乱カグラ-』を11月29日にサービス開始すると告知した。本作はコマンドRPGとして新たに描かれる、ハイパーシノビバトルだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480302-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-21T21:55:33+09:00"
+  },
   {
    "id": "829d6aeea0bdbe30",
    "url": "https://automaton-media.com/articles/newsjp/20261121-480294/",
@@ -2169,39 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-15T17:06:32+09:00"
-  },
-  {
-   "id": "a7a74cb0e85b4dcc",
-   "url": "https://automaton-media.com/articles/newsjp/20261115-479352/",
-   "title": "『エルシャダイ』リマスター版が75％オフで1000円切り。『ダンガンロンパ』が90％オフでわずか213円。“雪山人狼” 『Project Winter』は80％オフで202円とかなりお手頃。今週の高割引率PCゲーム",
-   "summary": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479352-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-15T16:38:10+09:00"
-  },
-  {
-   "id": "9acf25460ac1dbe8",
-   "url": "https://automaton-media.com/articles/special-column/20261115-479344/",
-   "title": "悪意が渦巻くネットの向こうに、善性を見つけられるか。SNSのリアルな人間模様を描く推理ADV『ミカクテイ事件の観測者-Demons’Timeline-』をもう遊んだか",
-   "summary": "『ミカクテイ事件の観測者』では、インターネットの醜さに直面することになるが、そこではときに善意も生まれうる。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479344-image2.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-15T15:02:53+09:00"
-  },
-  {
-   "id": "48b068b6913cf41f",
-   "url": "https://automaton-media.com/articles/newsjp/20261115-479303/",
-   "title": "“ドラクエ新作”スマホ向けゲーム『ドラゴンクエストRPG 魔界樹と導かれし島』発表。『メダロット』初期8作品入りコレクションがSteam向けに発表。今週の見逃せないゲーム記事7選",
-   "summary": "今週のAUTOMATONにて反響の大きかったゲーム紹介系記事を中心に、7本の記事をピックアップ。今週は『ドラゴンクエストRPG 魔界樹と導かれし島』のほか、『Wolfenstein 3』や『NIGHTMARE OPERATOR』などが話題となった。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479303-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-15T13:31:52+09:00"
   }
  ]
 }
