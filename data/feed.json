@@ -1,8 +1,63 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-22T15:59:45+09:00",
+ "generated_at": "2026-11-23T00:25:53+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "dae28736f250b994",
+   "url": "https://automaton-media.com/articles/newsjp/ng-20261122-480387/",
+   "title": "『GTA6』は「善人プレイ」が楽しめるのも良い。『FFレゾナンス』グラフィックの美しさを考える会。『FM27』を初心者が遊んだら情報量がすごい。今週のゲーミング",
+   "summary": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。571回目です。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/ng-20261122-480387-00hde-scaled.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-22T18:39:36+09:00"
+  },
+  {
+   "id": "a07b36af28c167c4",
+   "url": "https://automaton-media.com/articles/newsjp/withc-20261122-480377/",
+   "title": "TYPE-MOONのビジュアルノベル『魔法使いの夜』、Steamでの発売から「3年目」にして過去最高に売れている模様。劇場アニメ公開が追い風、半額で買える",
+   "summary": "劇場版の効果もあってか『魔法使いの夜』Steamの同接数が過去最高を更新するなど、原作ゲームの方にも注目が集まっているようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/withc-20261122-480377-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-22T17:28:15+09:00"
+  },
+  {
+   "id": "ea99400ac85b1736",
+   "url": "https://automaton-media.com/articles/newsjp/20261121-480328/",
+   "title": "『ドルフロ』新作協力PvEシューター『ガールズフロントライン：ブルーコブナント』正式発表。「交流しなくてもいい」MMO『クロスランド せいれいたちとつむぐせかい』が大人気。今週の見逃せないゲーム記事7選",
+   "summary": "今週のAUTOMATONにて反響の大きかったゲーム紹介系記事を中心に、7本の記事をピックアップ。今週は『ガールズフロントライン：ブルーコブナント』のほか、『HARMA 亡国のエデン』や『Obey Me! Sinner's Choice: Lucifer』などが話題となった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480328-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-22T16:47:56+09:00"
+  },
+  {
+   "id": "e92fe4f6d16d37d5",
+   "url": "https://automaton-media.com/articles/special-column/20261121-480345/",
+   "title": "78人の冒険者たちの「1000日間の足跡」を解き明かす『ギルド探求団へようこそ！』をもう遊んだか。膨大な資料の向こう側には“冒険者の人となり”も見えてくる",
+   "summary": "『ギルド探求団へようこそ！』は、かわいらしい見た目に反し、膨大な情報を整理していく骨太さが魅力だ。それだけでなく、資料を読み進めていく中では、記録の向こう側にいる、人々の関係性を想像するという楽しみもある。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480345-image1.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-22T16:09:12+09:00"
+  },
+  {
+   "id": "fead3276485793b8",
+   "url": "https://www.4gamer.net/games/999/G999905/20261122016/",
+   "title": "韓国で著作権を守る「韓国著作権保護院（KCOPA）」はどんな組織か。G-STAR出展の狙いや海賊版対策，AIの活用などを聞いた［G-STAR 2026］",
+   "summary": "韓国著作権保護院（KCOPA）のブースをG-STAR2026の会場で見かけた。設立の経緯をはじめ，警察の捜査支援や違法サイトでの証拠収集の実際，国際連携の取り組みなど，組織の実態や活動内容について話を聞いた",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T16:07:51+09:00"
+  },
   {
    "id": "2f12a2cc75c61753",
    "url": "https://automaton-media.com/articles/newsjp/20261122-480357/",
@@ -1577,17 +1632,6 @@
    "published": "2026-11-19T10:20:34+09:00"
   },
   {
-   "id": "9cc9debf49cce861",
-   "url": "https://www.4gamer.net/games/956/G095600/20261117040/",
-   "title": "ストラテジーディフェンスゲーム「Gate of Gates」，スマートフォン＆PC向けクローズドβテストを12月中に開催。参加者を募集中",
-   "summary": "WEBZENは2026年11月19日，ストラテジーディフェンスゲーム「GateofGates（ゲート・オブ・ゲイツ）」について，スマートフォンとPCを対象としたクローズドβテストを12月中に開催すると発表した。また，新たなプロモーションムービーも公開された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T10:00:00+09:00"
-  },
-  {
    "id": "9be0a56efb5329a0",
    "url": "https://automaton-media.com/articles/newsjp/202611190-479938/",
    "title": "『グランド・セフト・オートVI（GTA6）』にもおなじみ「チートコード」は完備。ただしクリアするまでは“お預け”",
@@ -2158,50 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-16T14:13:49+09:00"
-  },
-  {
-   "id": "5c0b8373b0e2e1ce",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479428/",
-   "title": "発売後14年経過の『Euro Truck Simulator 2』、“同接10万人超”の最高記録達成。まだ進化し続けるトラックシム、「大型バス」まで運転できる",
-   "summary": "『Euro Truck Simulator 2』の同時接続プレイヤー数が11月15日、初めて10万人を突破した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479428-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T13:29:02+09:00"
-  },
-  {
-   "id": "f1951dd8f5a69847",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479395/",
-   "title": "“10人同時対戦”もできる弾幕STG『新約・怒首領蜂大復活』アプデでバトロワに新ステージ「AREA6」追加。マッチングシステムも刷新、より「人同士」で対戦しやすく",
-   "summary": "ケイブは11月16日、『新約・怒首領蜂大復活』に向けて、アップデート第2弾を配信開始した。アップデートではシューティングロワイヤルに向けて「AREA6」ガ追加。あわせてマッチングシステムにも改善が図られている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479395-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T13:00:02+09:00"
-  },
-  {
-   "id": "094a8d76fc245bb8",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479421/",
-   "title": "PS5/PS4向け「ブラックフライデーセール」第2弾たっぷり追加。『仁王３』が半額、『Marvel’s Wolverine』『コントロール レゾナント』など初セールも",
-   "summary": "ソニー・インタラクティブエンタテインメントはPS StoreにてPS5/PS4向けタイトルを対象とした「BLACK FRIDAY SALE」第二弾を開始した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479421-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T12:25:41+09:00"
-  },
-  {
-   "id": "9a85aaae685dae1c",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479409/",
-   "title": "『ゼルダの伝説 時のオカリナ』リメイク版、「死因第一位」はリーデット。見た目以外もトラウマ級",
-   "summary": "『ゼルダの伝説 時のオカリナ』リメイク版の「ZELDA NOTES」にて“プレイヤーの死因第一位”も明らかにされている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479409-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T11:07:44+09:00"
   }
  ]
 }
