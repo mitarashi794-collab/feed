@@ -1,8 +1,184 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-22T08:25:59+09:00",
+ "generated_at": "2026-11-22T15:59:45+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "2f12a2cc75c61753",
+   "url": "https://automaton-media.com/articles/newsjp/20261122-480357/",
+   "title": "28年前発売の初代『メタルギアソリッド』、“ボスの戦車”を2Pで操作できると発見される。たびたび見つかる“2P小技“、まだあるかも",
+   "summary": "発売から約28年が経過した『メタルギアソリッド（MGS1）』で、新たな“小技”が発見された。なんと、本作に登場する「M1戦車」をプレイヤーが自ら操作できるという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261122-480357-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-22T14:28:21+09:00"
+  },
+  {
+   "id": "ac9590b5ea5b2e86",
+   "url": "https://automaton-media.com/articles/newsjp/wuwa-20261222-480355/",
+   "title": "『鳴潮』Ver4.0の新要素「ストライダーメカスーツ」、『Anthem』の幻影のようだと話題。空を飛べるし海を潜れるし一緒に戦える",
+   "summary": "ストライダーメカスーツはVer4.0での探索のお供になるようで、映像を見るとそもそもの飛行スピードが速い上に、長時間のブースト使用も可能になっているようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/wuwa-20261222-480355-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-22T13:56:02+09:00"
+  },
+  {
+   "id": "1259091c36f6ba53",
+   "url": "https://www.4gamer.net/games/060/G106042/20261122014/",
+   "title": "クリエイターへの第一歩は議論（カードバトル）？ 「ゲームデザイナーシミュレーター」プレイレポ［WePlay2026］",
+   "summary": "中国の上海で開催中のイベント「WePlayExpo2026」に，BreakingEagleStudioが開発する「ゲームデザイナーシミュレーター」がプレイアブル出展されている。学校を卒業した若者が，ゲーム会社の入社試験合格を目指すところから始まる，長編ドラマのような構成の本作を紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T13:39:34+09:00"
+  },
+  {
+   "id": "34f39e2634f54da3",
+   "url": "https://www.4gamer.net/games/991/G999110/20261122015/",
+   "title": "トカゲ型宇宙人を大統領に！ 政治風刺シム「レプティリアンを大統領に」を試遊。陰謀論を笑いに変え，民主主義の痛いところを突く［WePlay2026］",
+   "summary": "中国・上海で開催された「WePlayExpo2026」で，政治風刺シム「レプティリアンを大統領に」を試遊した。人間に化けた宇宙人の補佐官として，正体を隠しながら大統領選での当選を目指す。昼は資金をやりくりして選挙活動，夜は情報収集に奔走する。そんな選挙戦の模様をお届けしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T13:36:56+09:00"
+  },
+  {
+   "id": "99b6df1e61f4951f",
+   "url": "https://automaton-media.com/articles/newsjp/20261121-480338/",
+   "title": "『龍が如く８』は80％オフで1936円。『ファイナルファンタジーVII リバース』は85％オフで986円。『バトルフィールド 1 』は95％オフでたったの215円。今週の高割引率PCゲーム",
+   "summary": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480338-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-22T13:14:19+09:00"
+  },
+  {
+   "id": "e5f777e147ce38dc",
+   "url": "https://www.4gamer.net/games/060/G106040/20261122012/",
+   "title": "解き方は1つではない。ニュージーランド発，自由な発想が試される物理パズル「Shape Sender Deluxe」［WePlay2026］",
+   "summary": "中国・上海で2026年11月21日に開幕したWePlayExpo2026に，ニュージーランドのインディースタジオDeadTeapotが開発する物理パズル「ShapeSenderDeluxe」が試遊出展されていた。本作は，道具を配置して図形をパイプへ送り込むパズルゲームだが，解き方は1つではない。メイン開発者のTanaTanoi氏に話を聞いた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T13:07:02+09:00"
+  },
+  {
+   "id": "91805ccdba101fb7",
+   "url": "https://www.4gamer.net/games/060/G106038/20261122010/",
+   "title": "ロゴにデカデカと書かれた「救援」が目立ちすぎる，ヴァンサバ系SFシューティングアクション「XOCIETY: Salvation」［G-STAR 2026］",
+   "summary": "G-STAR2026に，韓国のNDUSInteractiveが手掛ける「XOCIETY:Salvation」が出展されていた。仲間キャラクターによってビルドが変化するヴァンサバ系のSFシューティングアクションであり，ロゴに大きく掲げられた「救援」が重要な要素となっている。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T12:52:17+09:00"
+  },
+  {
+   "id": "568c9e80b480f820",
+   "url": "https://www.4gamer.net/games/060/G106039/20261122009/",
+   "title": "爆弾を置いて森を拓き，集めた素材を守護者に捧げる。スラヴ神話の森を舞台にした「BABA YAGA: Whispers of the BOOM」［WePlay2026］",
+   "summary": "VioletSunStudioが開発しているPC向けの「BABAYAGA:WhispersoftheBOOM」は，地面に爆弾を置いて敵や障害物を吹き飛ばすアクションアドベンチャーだ。舞台はスラヴ神話をもとにした森。中国・上海で開催されているWePlayExpo2026の会場で，1人で開発を続けているJakubRak氏に話を聞いた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T12:46:46+09:00"
+  },
+  {
+   "id": "d1215eecbc583d06",
+   "url": "https://www.4gamer.net/games/991/G999110/20261122008/",
+   "title": "「FINAL FANTASY VII」のリメイクは，新たな時代に向けてどのように再構築されたか。北瀬佳範氏が韓国で講演［G-STAR 2026］",
+   "summary": "韓国で開催されたG-STAR2026にて，「FINALFANTASYVII」リメイクシリーズについての講演が行われた。原作でディレクター，リメイクでプロデューサーとして携わる北瀬佳範氏が，「新たな時代に向けて『FINALFANTASYVII』はどのように再構築されたか」をテーマに登壇した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T12:46:20+09:00"
+  },
+  {
+   "id": "5a10df01e48f9533",
+   "url": "https://www.4gamer.net/games/991/G999110/20261122005/",
+   "title": "韓国ゲームショウのインディーアワード「G-STAR Indie Awards」全5部門，受賞15タイトルを紹介［G-STAR 2026］",
+   "summary": "G-STAR2026の会場で行われた「G-STARIndieAwards」の模様をお届けする。2年連続でDiscordが公式スポンサーを務めた今回は，全5部門が「presentedbyDiscord」として表彰され，日本勢や欧州勢を含む計15作品が選ばれた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T12:13:09+09:00"
+  },
+  {
+   "id": "78b75f0d37dc9380",
+   "url": "https://www.4gamer.net/games/002/G100220/20261122007/",
+   "title": "声を出せば，おばあちゃんが襲ってくる。屋敷に忍び込んだアヒルの宇宙人が部品を盗み出す協力型ホラー「QUIET」［WePlay2026］",
+   "summary": "中国・上海で開催されているWePlay2026の会場で，LINEGamesが開発中の「QUIET」を見せてもらった。本作は，地球に不時着したアヒルの宇宙人たちが，おばあちゃんの屋敷から宇宙船の修理に必要な部品を盗み出す協力型ホラーゲームだ。足音や物音はもちろん，マイクに向かって話した声にまでおばあちゃんが反応するという。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T12:08:39+09:00"
+  },
+  {
+   "id": "0fd286ca7bdd4bb0",
+   "url": "https://www.4gamer.net/games/979/G097959/20261122004/",
+   "title": "「リナちが■■な人を リナちの世界から■■いく」。伏せられた言葉が2周目で明らかになる「ひとりあそび」を試遊し，不穏な物語の着想を開発者に聞いた［WePlay2026］",
+   "summary": "中国・上海で開催中の「WePlay2026」で，デッキ構築型ローグライク×3Dボードゲーム「ひとりあそび」を試遊した。少女「リナち」がぬいぐるみの友達「ポコ」に誘われ，おもちゃの兵隊を盤上で戦わせるのだが，ポコの説明は肝心なところが「■■」で伏せられている。会場では，本作のプロデューサーを務める藍熊べある氏に，この不穏な物語が生まれた経緯を聞いた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T12:00:08+09:00"
+  },
+  {
+   "id": "1421bfa495952687",
+   "url": "https://www.4gamer.net/games/030/G103083/20261122006/",
+   "title": "六道輪廻を題材としたハック＆スラッシュ「TARAE: The Unbound」。試遊初公開の「Warfiend」は，拳で攻め続ける近接クラス［G-STAR 2026］",
+   "summary": "KRAFTONは，韓国で開催中のゲームイベント「G-STAR2026」に，「TARAE:TheUnbound」を出展している。本作は，仏教の六道輪廻をもとにした世界で，妖怪や亡者の群れをなぎ倒すハック＆スラッシュ型のアクションRPGだ。新クラス「Warfiend」は，今回初めて試遊できる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T11:58:42+09:00"
+  },
+  {
+   "id": "b344d1b546fb3c21",
+   "url": "https://www.4gamer.net/games/060/G106037/20261122003/",
+   "title": "数百年にわたって姿を消していた女神が，記憶を失ったままよみがえる。自らの信者と向き合う女性向けADV「神缺席」をプレイ［WePlay2026］",
+   "summary": "2026年11月21日と22日に中国・上海で開催の「WePlayExpo2026」に，女性向けADV「神缺席」がプレイアブル出展されている。本作でプレイヤーが演じるのは，数百年ぶりに人々の前に姿を現した女神だ。会場では，誰の祈りに耳を傾けるかで展開が変わる物語の冒頭や，女神への信仰と恨みのバランスを取りながら戦うカードバトルなどを体験できた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T11:43:45+09:00"
+  },
+  {
+   "id": "020bc81532f97a3b",
+   "url": "https://www.4gamer.net/games/060/G106036/20261122002/",
+   "title": "国が違っても，人の悩みはあまり変わらないかも。「社交不安」をテーマにしたアドベンチャー「What Acts up」［WePlay2026］",
+   "summary": "中国の上海で開催中のインディーゲームイベント「WePlayExpo2026」に，中国のRebirthStudioが開発する「WhatActsup」が出展されている。「社交不安」というテーマと，さまざまな仕掛けを使った演出が印象的だった本作のプレイ感をレポートしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T11:28:38+09:00"
+  },
+  {
+   "id": "9a21bf0d80eaa3fc",
+   "url": "https://www.4gamer.net/games/991/G999110/20261122001/",
+   "title": "中国のインディーゲームイベント「WePlay Expo 2026」が上海で開催中。今年10周年を迎え，2027年春には日本版も開催予定［WePlay2026］",
+   "summary": "CiGA（中国インディゲーム連盟）が主催するゲームイベント「WePlayExpo2026」が，中国の上海で2026年11月21日と22日に開催されている。今年10周年を迎え，2027年春には日本版も開催予定となっている本イベントを，4Gamerは現地からレポートする。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-22T11:07:12+09:00"
+  },
   {
    "id": "c9224f5550571c43",
    "url": "https://automaton-media.com/articles/newsjp/20261121-480318/",
@@ -1412,17 +1588,6 @@
    "published": "2026-11-19T10:00:00+09:00"
   },
   {
-   "id": "a9b15d0a4e413862",
-   "url": "https://www.4gamer.net/games/631/G063178/20261113045/",
-   "title": "「ドルフロ2」車を召喚して戦場を爆走！ バフの積み重ねで高火力を叩き出す新キャラクター“コレダ”の性能をレポート［プレイレポ］",
-   "summary": "タクティカルRPG「ドールズフロントライン2：エクシリウム」に，水属性の新キャラクター“コレダ”が実装された。車を召喚して戦うユニークな性能を，ぜひ体験してほしい。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T10:00:00+09:00"
-  },
-  {
    "id": "9be0a56efb5329a0",
    "url": "https://automaton-media.com/articles/newsjp/202611190-479938/",
    "title": "『グランド・セフト・オートVI（GTA6）』にもおなじみ「チートコード」は完備。ただしクリアするまでは“お預け”",
@@ -1432,50 +1597,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-19T09:21:16+09:00"
-  },
-  {
-   "id": "18a701571864706a",
-   "url": "https://www.4gamer.net/games/456/G045622/20261116002/",
-   "title": "スマホゲームのセルラン分析（2026年11月5日〜11月11日）。今週も1位は「勝利の女神：NIKKE」。7月〜9月に登場した新作の国内ランキングも",
-   "summary": "世界有数のスマホゲーム大国である日本において，現在最も売れているタイトルをはじめ，さまざまなデータを毎週お届けする本連載。今週の国内収益ランキング1位は，前週に続いて「勝利の女神：NIKKE」となった。今回は，7月〜9月に登場した新作の国内ランキングも紹介しよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T09:00:00+09:00"
-  },
-  {
-   "id": "e423e4304ac2de48",
-   "url": "https://www.4gamer.net/games/758/G075801/20261118019/",
-   "title": "俺，この仕事が終わったらGTA6するんだ……“発売されたけどまだ遊べない”現実社会のサバイバーに贈る「グランド・セフト・オートVI」これまでの歩み",
-   "summary": "世界中で「今日はGTA休み！」と話題になるなか，気持ちはバイスシティでも現実は通勤電車に揺られ職場へ……という人もいるはず。筆者もそう！ そんな“今日休めない”人たちに，帰宅後の「グランド・セフト・オートVI」のプレイが楽しくなるような，GTA6の歩みや企画記事をまとめました。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T08:30:00+09:00"
-  },
-  {
-   "id": "4957f5829d6cf099",
-   "url": "https://www.4gamer.net/games/991/G999110/20261118023/",
-   "title": "「G-STAR 2026」が11月19日から開幕。41か国1237社が集まり，新設の「G-STAR Global Game Showcase」にコーエーテクモやカプコン，セガが出展",
-   "summary": "「G-STAR2026」が，11月19日から22日までの4日間，釜山のBEXCOで開催される。22回目を迎える今年は，41か国1237社，3445小間の規模での開催だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T08:00:00+09:00"
-  },
-  {
-   "id": "793d597d8f119bf0",
-   "url": "https://www.4gamer.net/games/990/G999019/20261118043/",
-   "title": "最新フラグシップスマートフォン「OPPO Find X10」が12月17日に国内発売。上位モデルは3眼カメラに2億画素センサーを採用",
-   "summary": "2026年11月19日，OPPOは，ハイエンド市場向けAndroidスマートフォン「OPPOFindX10」シリーズを12月17日に国内発売すると発表した。上位モデルの「OPPOFindX10ProMax」とスタンダードモデルの「OPPOFindX10」をラインナップする。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T00:07:05+09:00"
   },
   {
    "id": "85925f09730c10e8",
@@ -1489,50 +1610,6 @@
    "published": "2026-11-18T22:30:23+09:00"
   },
   {
-   "id": "a3e2af2cd2063f75",
-   "url": "https://www.4gamer.net/games/537/G053703/20261118048/",
-   "title": "「Phasmophobia」，大型アップデート“Resonance”を11月24日に配信決定。新装備“ダウジングロッド”の追加やUnity 6への移行を実施",
-   "summary": "KineticGamesは本日（2026年11月18日），協力型ホラーゲーム「Phasmophobia」の次期大型アップデート「Resonance」を11月24日にリリースすると発表した。本アップデートでは，新たな装備「ダウジングロッド」が追加されるほか，ゲームエンジンが最新バージョンであるUnity6へ移行する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T21:38:22+09:00"
-  },
-  {
-   "id": "6e02821bfdc0aacf",
-   "url": "https://www.4gamer.net/games/059/G105953/20261118046/",
-   "title": "バックパックに配置した装備で戦うオートバトル型のダンジョンクローラー「Dungeonbound」，Steamで配信開始",
-   "summary": "louidevは2026年11月16日，新作タイトル「Dungeonbound」をSteamでリリースした。本作は，ヒーローを選び，ダンジョンに潜って戦利品を持ち帰る，オートバトル型のダンジョンクローラーだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T20:57:18+09:00"
-  },
-  {
-   "id": "675c1a3256a83165",
-   "url": "https://www.4gamer.net/games/983/G098322/20261118045/",
-   "title": "「METAL GEAR SOLID: MASTER COLLECTION Vol.2」がPS Storeで初セール。KONAMI，「Black Friday SALE」に対象タイトルを追加",
-   "summary": "コナミデジタルエンタテインメントは本日（2026年11月18日），開催中の「BlackFridaySALE」にてPSStoreおよびニンテンドーeショップのセール対象タイトルを新たに追加した。PSStoreでは，「METALGEARSOLID:MASTERCOLLECTIONVol.2」などが初めてセール対象となる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T20:42:21+09:00"
-  },
-  {
-   "id": "3b1cf3f9d47907ae",
-   "url": "https://www.4gamer.net/games/784/G078439/20261118044/",
-   "title": "スマートフォン向けMMORPG「晴空物語 もふもふランド」，2027年1月19日15：00をもってサービス終了",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T20:19:34+09:00"
-  },
-  {
    "id": "86ee042ed1408057",
    "url": "https://automaton-media.com/articles/newsjp/20261118-479880/",
    "title": "プロトタイプが「YouTube200万再生」でバズったゲーム開発者、初動売上500本弱でちゃんと反省。ホットなうちに“売る準備”すべし",
@@ -1542,50 +1619,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-18T20:08:07+09:00"
-  },
-  {
-   "id": "6edea02b46ec1677",
-   "url": "https://www.4gamer.net/games/868/G086898/20261117048/",
-   "title": "Steam版「ネコぱら セカイコネクト」，本日配信。スマートフォン版とのデータ連携にも対応",
-   "summary": "グッドスマイルカンパニーは本日（2026年11月18日），Steam版「ネコぱらセカイコネクト」の配信を開始した。本作は，シリーズ累計販売本数が全世界で700万本以上を突破したアドベンチャーゲーム「ネコぱら」の最新作だ。Steam版は，スマートフォン版とのデータ連携に対応しており，スマホ版でプレイ中のアカウントデータを引き継いでPCでも楽しめる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T20:03:31+09:00"
-  },
-  {
-   "id": "eed211bfd32c22a8",
-   "url": "https://www.4gamer.net/games/570/G057029/20261118040/",
-   "title": "オトメイトの最新情報を紹介する番組「オトメイト コネクト」第5回，12月2日18：00に公開",
-   "summary": "アイディアファクトリーは本日，女性向けゲームブランド「オトメイト」の情報を紹介する番組「オトメイトコネクト」第5回を2026年12月2日18：00に公開すると発表した。これまでの番組では，発表済みの情報を分かりやすく紹介しているほか，キャストなど初公開の情報も発表している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T20:00:26+09:00"
-  },
-  {
-   "id": "6bf6365b86ab4cfc",
-   "url": "https://www.4gamer.net/games/758/G075801/20261117032/",
-   "title": "「GTA VI」発売前夜。日常と犯罪が地続きのレオナイダ州には，もう1つの“人生”が待っている［プレイレポ］",
-   "summary": "「グランド・セフト・オートVI」のリリースが間近に迫っている。PS5版をプレイする機会を得たので，世界中のゲーマーが待ち望んだシリーズ最新作の手触りや，2人の主人公が織りなす物語の感想を（ネタバレは極力避けつつ）お届けしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T20:00:00+09:00"
-  },
-  {
-   "id": "610db3530abc1065",
-   "url": "https://www.4gamer.net/games/476/G047609/20261118042/",
-   "title": "「プロセカ放送局 #38」，11月25日19：30より配信",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-18T19:44:59+09:00"
   },
   {
    "id": "d3ff4701f144b44e",
@@ -2169,39 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-16T11:07:44+09:00"
-  },
-  {
-   "id": "81349f25bfeb678e",
-   "url": "https://automaton-media.com/articles/newsjp/20261115-479388/",
-   "title": "『ウマ娘』の「デアリングタクト」、発表から“4年越し”に突如実装決定。明日から育てられる",
-   "summary": "Cygamesは11月15日、『ウマ娘 プリティーダービー』の最新情報を公開した。デアリングタクトが11月16日12時より実装されるとのこと。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479388-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-15T18:47:47+09:00"
-  },
-  {
-   "id": "c3353f0e3a21bb20",
-   "url": "https://automaton-media.com/articles/now-gaming/20261115-479380/",
-   "title": "『テーブルゲームワールド CCFOLIA』は「GM気質」の人には楽しいおもちゃになりそう。『LoL』来るリニューアルはバグが怖いが新システムは気になる。今週のゲーミング",
-   "summary": "Now Gamingは毎週日曜日、各ライターがその週にプレイしたゲームについて、ゆるく書きちらすコーナーです。570回目です。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261115-479380-003.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-15T18:07:01+09:00"
-  },
-  {
-   "id": "523928b8ffb9dcd5",
-   "url": "https://automaton-media.com/articles/reportjp/hogwarts-legacy-dlss5-20261115-479361/",
-   "title": "NVIDIAの新技術「DLSS 5」を『ホグワーツ・レガシー』で体験。AIが見慣れた景色をフォトリアルに“味変”",
-   "summary": "先日DLSS 5に対応した『ホグワーツ・レガシー』で、オン・オフを切り替えながら校内や屋外を歩き回った。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/hogwarts-legacy-dlss5-20261115-479361-001.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-15T17:06:32+09:00"
   }
  ]
 }
