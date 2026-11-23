@@ -1,8 +1,85 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T06:52:33+09:00",
+ "generated_at": "2026-11-23T11:52:42+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "98681be209b77332",
+   "url": "https://automaton-media.com/articles/columnjp/nununu-20261123-480415/",
+   "title": "なぜゲームでは「左から右」のルールが多く採用されているのか？ゲームデザイナーが考察する、ロジックがあるようでないようである、不思議な伝統",
+   "summary": "今回の記事では「ゲームと右進行の不思議な関係」について語ってみる。この話題はゲーム業界ではときおり語られていて、筆者がこれから語る内容も過去の延長線上にある。筆者なりの意見も交えて語ってみたい。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/sexdag.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T11:41:37+09:00"
+  },
+  {
+   "id": "bcff3748b0c34790",
+   "url": "https://automaton-media.com/articles/newsjp/20261123-480411/",
+   "title": "「猫撫でシミュレーター」無料公開され話題沸騰中。まるで液体、PC/スマホでモフモフし放題",
+   "summary": "個人開発者のzubu氏は11月22日、「猫撫でシミュレーター」を公開した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480411-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T11:20:04+09:00"
+  },
+  {
+   "id": "289d45b37413215b",
+   "url": "https://automaton-media.com/articles/newsjp/20261123-480401/",
+   "title": "『GTA6』にて「恐怖の不死身NPC」目撃報告相次ぐ。スコープで狙うと“目が合う”、殺意むき出し疾走男",
+   "summary": "『グランド・セフト・オートVI』（GTA6）にて、異常な耐久力と恐るべき攻撃力を持つ謎のNPCが話題となっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480401-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T10:46:10+09:00"
+  },
+  {
+   "id": "c136f052120ff903",
+   "url": "https://www.4gamer.net/games/060/G106044/20261123002/",
+   "title": "その構え，完全にベーシスト。キーキャップを抜いてボールペンを“弦”にした謎コントローラが目を引いた「白鍵上のコンチェルト ベースヒーロー」［WePlay 2026］",
+   "summary": "WePlayExpo2026の会場で，キーキャップを引っこ抜いたキーボードにボールペンを4本架け渡した，なんとも怪しいコントローラを見かけた。正体は，C11Gamesが開発中の「白鍵上のコンチェルトベースヒーロー」。キーボードをベースのように抱えて演奏するという，ちょっと変わった一作だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T10:30:00+09:00"
+  },
+  {
+   "id": "be0eac4dd80b35b2",
+   "url": "https://www.4gamer.net/games/048/G104889/20261123001/",
+   "title": "天国行きのチケット，届いてないんですけど。水鉄砲にもなれる相棒の子犬とともに，ゆるっと死後の世界を冒険する「ワルツとジャム」をプレイ［WePlay 2026］",
+   "summary": "中国・上海で開催された「WePlayExpo2026」で，韓国のFlywayGamesが手がける「ワルツとジャム」を遊んできた。主人公は輪っか頭のおばけ「ワルツ」と，変身できる子犬「ジャム」。死後の世界でチケットをなくした2人が，7つの大罪をモチーフにした世界をめぐるアクションアドベンチャーだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T09:45:00+09:00"
+  },
+  {
+   "id": "63ca48baad2c171f",
+   "url": "https://www.4gamer.net/games/869/G086971/20261122011/",
+   "title": "【今週のモチベ】見下ろし型PvP「Arkheron」の早期アクセスが始まる 2026年11月23日〜11月29日",
+   "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，生者の世界の記憶から築かれた謎の塔を舞台とする，3人1組で戦うチーム対戦型PvPアクション「Arkheron」の早期アクセスがスタートする。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T08:00:00+09:00"
+  },
+  {
+   "id": "a46468829bf0af1a",
+   "url": "https://www.4gamer.net/games/040/G004099/20261122020/",
+   "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年11月16日〜11月22日",
+   "summary": "2026年11月16日〜11月22日，4Gamerに掲載された記事は280本でした。韓国・釜山ではゲームイベント「G-STAR2026」が開幕し，中国・上海ではインディーゲームイベント「WePlayExpo2026」が開催されるなど，大忙しだった4Gamerと世界のゲーム業界の1週間を振り返りましょう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T07:00:00+09:00"
+  },
   {
    "id": "dae28736f250b994",
    "url": "https://automaton-media.com/articles/newsjp/ng-20261122-480387/",
@@ -1533,17 +1610,6 @@
    "published": "2026-11-19T12:43:08+09:00"
   },
   {
-   "id": "51021389b46fa5eb",
-   "url": "https://www.4gamer.net/games/996/G099625/20261119004/",
-   "title": "農業ライフシム「Farmer's Dynasty 2」，2027年1月20日の正式リリース。1960年代と現代の物語が完結し，農場の改装機能や農業機械も拡充へ",
-   "summary": "ToplitzProductionsは，農業＆生活シミュレーション「Farmer'sDynasty2」を2027年1月20日に正式リリースすると発表した。1960年代と現代の物語が完結し，農場の改装機能や農業機械も拡充される。2026年12月には果樹園を追加する無料アップデートも予定している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T12:19:21+09:00"
-  },
-  {
    "id": "719695e7d6463bea",
    "url": "https://automaton-media.com/articles/newsjp/20261119-479967/",
    "title": "“スロット頼み“防衛ローグライク『スロットバウンド』3日で10万本売れていた。ギャンブル運で敵をしばき倒す、新たなSteamヒット作",
@@ -1566,17 +1632,6 @@
    "published": "2026-11-19T11:43:37+09:00"
   },
   {
-   "id": "7279d488d639da9c",
-   "url": "https://www.4gamer.net/games/968/G096894/20261119003/",
-   "title": "「ロックマン：デュアル オーバーライド」，新ボス「ボートマン」を公開。水中で広範囲の攻撃を仕掛ける気弱な漁業ロボット",
-   "summary": "カプコンは本日，2027年春に発売予定の「ロックマン：デュアルオーバーライド」に登場する新ボス「ボートマン」を公開した。ボートマンは，遠洋漁業に憧れる気弱な近海漁業ロボットだ。水中戦を中心に広範囲の攻撃を仕掛ける。この発表により，8大ボスのうち6体が明らかになった。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T11:38:46+09:00"
-  },
-  {
    "id": "81ceaa2c6e4ba24e",
    "url": "https://automaton-media.com/articles/newsjp/gta6-20261119-479955/",
    "title": "『グランド・セフト・オートVI（GTA6）』開発元いわく、60fps実現には“PS5 Proですら力不足”。アプデでの対応も難しそう",
@@ -1597,28 +1652,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-19T11:00:41+09:00"
-  },
-  {
-   "id": "a8862f64264a5fe8",
-   "url": "https://www.4gamer.net/games/015/G101576/20261118018/",
-   "title": "男色ディーノのゲイムヒヒョー ゼロ：第916回「大義名分が気になって仕方ない」",
-   "summary": "今週の「男色ディーノのゲイムヒヒョーゼロ」は，シリーズ最新作「信長の野望・飛翔」の話題です。「三國志」ほど「信長の野望」にのめり込めなかった理由と，新作への期待をディーノ選手が語ります。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T11:00:00+09:00"
-  },
-  {
-   "id": "38273603bceebf53",
-   "url": "https://www.4gamer.net/games/043/G104316/20261119001/",
-   "title": "ゾンビを増やして東京の街を制圧する「THE FIRST ZOMBIE」，12月17日発売決定。「水ダウ」の藤井健太郎氏が手掛ける“逆ゾンビゲー”",
-   "summary": "Phoenixxは本日，「THEFIRSTZOMBIE」を2026年12月17日に発売すると発表した。本作は，「水曜日のダウンタウン」で知られる藤井健太郎氏がプロデュースするアクションゲームだ。ゾンビとなった主人公が，人間を次々と仲間に変え，東京の街を制圧していく。あわせて，最新のゲームプレイ映像も公開された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T10:57:42+09:00"
   },
   {
    "id": "7ec1bcecc5d2221e",
@@ -2169,39 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-16T17:44:23+09:00"
-  },
-  {
-   "id": "8573fcb067d54010",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479447/",
-   "title": "基本プレイ無料SRPG×SLG『三國志 戦棋版』、12月1日リリースへ。三国志の乱世にいきなり『ファイナルファンタジータクティクス – イヴァリースクロニクルズ』の主人公やチョコボが参戦、無料で貰える",
-   "summary": "Qookka Gamesは『三國志 戦棋版』を、12月1日より日本を含む8つの地域で正式サービスを開始することを発表した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479447-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T16:56:02+09:00"
-  },
-  {
-   "id": "a1d096290934354e",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479415/",
-   "title": "自作ゲームが勝手に「鍵屋」で売られていた開発者、自腹で買って“横流しの犯人”を突き止める。業界向けキー配布ツールから永久追放",
-   "summary": "ある開発者が自身のゲームのプロダクトキー（Steamキー）が、いわゆる鍵屋で販売されていることを発見。実際に購入して出品者を特定した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479415-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T15:20:00+09:00"
-  },
-  {
-   "id": "938461768c18e4e2",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479438/",
-   "title": "“開発元が破産した”大注目作『Chronicles: Medieval』、約9億円で権利が買い取られる。救世主は『Satisfactory』開発元",
-   "summary": "Coffee Stainは11月14日、Raw Power Gamesの手がけていた『Chronicles: Medieval』の知的財産権および関連資産を取得する契約を締結したことを発表した。買取価格は3675万デンマーククローネ（約8億6500万円）。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479438-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T14:13:49+09:00"
   }
  ]
 }
