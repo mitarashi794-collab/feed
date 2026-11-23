@@ -1,8 +1,250 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T11:52:42+09:00",
+ "generated_at": "2026-11-23T22:01:29+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "0419473189099237",
+   "url": "https://www.4gamer.net/games/590/G059043/20261120021/",
+   "title": "わしゃがなTVの最新動画は，「ポケコロツイン」を再びプレイ。お題に合わせて双子のアバターをコーディネート",
+   "summary": "2026年11月23日，声優の中村悠一さんと，フリーライターのマフィア梶田さんによるWeb番組「わしゃがなTV」の最新回が公開された。今回は，スマートフォン向けの着せ替えアプリゲーム「ポケコロツイン」を紹介する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T20:00:00+09:00"
+  },
+  {
+   "id": "26e223eaf3ea3cca",
+   "url": "https://automaton-media.com/articles/newsjp/20261123-480523/",
+   "title": "『GTA6』で「床下にお金をしまいにくい」と悲鳴あがる。行くのが面倒、金額調整は唐突マッハ暴れ馬",
+   "summary": "『グランド・セフト・オートVI（GTA6）』序盤でお金を預ける際の、かなりの煩雑さに不満の声が寄せられているようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480523-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T19:57:29+09:00"
+  },
+  {
+   "id": "afed1bddd6bb2d8c",
+   "url": "https://automaton-media.com/articles/newsjp/20261123-480501/",
+   "title": "『GTA6』には「開発者たちが亡くした家族」の名を刻んだ場所がある。11年の開発期間で失った母や娘への想いを、ゲーム世界に残す",
+   "summary": "『グランド・セフト・オートVI（GTA6）』のゲーム内に、開発者が開発中に亡くなった家族の名前を刻んだことを報告している。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480501-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T18:39:28+09:00"
+  },
+  {
+   "id": "59270ff563980ba1",
+   "url": "https://automaton-media.com/articles/newsjp/20261123-480513/",
+   "title": "窓の外をひたすら眺めるゲーム『カーテンの向こう側』12月11日発売へ。クエストも目標もない、静かに変化する世界",
+   "summary": "STORIA GAMESは11月22日、『Beyond the Curtains（カーテンの向こう側）』を12月11日にリリースすると告知した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480513-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T17:38:57+09:00"
+  },
+  {
+   "id": "c0e23a8edd734f0e",
+   "url": "https://automaton-media.com/articles/newsjp/20261123-480506/",
+   "title": "将棋AIが強くなりすぎて、コンピュータ将棋大会は「ハンデ付きでも先手が勝率80％」に。もはや“先手必勝”も時間の問題、大会運営も困難に",
+   "summary": "将棋AIが強くなりすぎて、先手の勝率が著しく上昇しているという。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T17:21:03+09:00"
+  },
+  {
+   "id": "f7c42aff727a327f",
+   "url": "https://www.4gamer.net/games/450/G045083/20261123013/",
+   "title": "観客を沸かせれば必殺技が撃てる。「Darkest Dungeon II」の新DLC「The Butcher's Asylum」は，闘技場で勝ち抜き戦を続ける独立モード［WePlay2026］",
+   "summary": "中国・上海で開催されたインディーゲームイベント「WePlayExpo2026」のメインステージで，RedHookStudiosが「DarkestDungeonII」の新DLC「TheButcher'sAsylum」のゲームプレイトレイラーを世界初公開した。2027年初頭に発売予定の有料DLCだ。ステージで語られた内容をお伝えしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T16:58:17+09:00"
+  },
+  {
+   "id": "002daa975da8ebbf",
+   "url": "https://www.4gamer.net/games/900/G090038/20261123012/",
+   "title": "群がる敵をド派手なスキルで一網打尽に。大悪魔の封印に挑むサバイバーライク「Ember and Blade」［WePlay2026］",
+   "summary": "中国・上海で開催された「WePlayExpo2026」で，LINEGamesがPC向けのアクションRPG「EmberandBlade」を出展していた。押し寄せる悪魔の群れを天使の祝福（スキル）で薙ぎ払うサバイバーライクに，手ごわいボス戦を組み合わせたゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T15:34:23+09:00"
+  },
+  {
+   "id": "5a3440321425b8cb",
+   "url": "https://www.4gamer.net/games/060/G106049/20261123011/",
+   "title": "自我を持つマルウェアにPCを乗っ取られた！ 盤面を読んでハズレを見抜き，ハイスコアを目指すデッキ構築型推理ストラテジー「My Ransomware Can't Be This Cute?!」［WePlay2026］",
+   "summary": "2026年11月21日と22日，中国・上海で開催された「WePlayExpo2026」で，デッキ構築型推理ストラテジー「MyRansomwareCan'tBeThisCute?!」を試遊した。PCを乗っ取った「ランサムウェアちゃん」がプレイヤーに要求するのは，なんとカードめくりの相手をすることだった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T15:32:00+09:00"
+  },
+  {
+   "id": "449105867cf9f62a",
+   "url": "https://automaton-media.com/articles/guide/20261123-480484/",
+   "title": "『GTA6』の「意外と知らない便利機能」12選。車をひっくり返したり、自動運転をオンしたり、新髪型・タトゥーをゲットしたり",
+   "summary": "『グランド・セフト・オートVI（GTA6）』における気づきにくい操作方法や機能を紹介していこう。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480484-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T15:19:55+09:00"
+  },
+  {
+   "id": "3cece11eb9a7dd4e",
+   "url": "https://automaton-media.com/articles/newsjp/20261123-480476/",
+   "title": "モンスター収集ローグライク『Dokimon Frontier』発表、Steamで無料配信へ。人気作『ドキモンクエスト』シリーズ最新作",
+   "summary": "Yanako RPGsは11月22日、モンスター収集ローグライクゲーム『Dokimon Frontier』を発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480476-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T15:06:03+09:00"
+  },
+  {
+   "id": "48f07dc3faa00ec1",
+   "url": "https://www.4gamer.net/games/476/G047609/20261120034/",
+   "title": "「プロセカ」，まふまふさんの「ジグソーパズル」をゲーム内に実装",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T15:00:00+09:00"
+  },
+  {
+   "id": "1c83c38212047ddd",
+   "url": "https://www.4gamer.net/games/048/G104865/20261123009/",
+   "title": "期待のリズムADV＆レコード店経営ゲーム「ミスター・レコード」をターンテーブル型コントローラでプレイしてきた［WePlay2026］",
+   "summary": "中国のインディーゲームイベント「WePlayExpo2026」に，新作リズムアドベンチャー「ミスター・レコード」がプレイアブル出展されていた。ターンテーブル型コントローラでリズムアクションパートを楽しめた試遊の模様をレポートしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T14:43:18+09:00"
+  },
+  {
+   "id": "22462316dbe5760e",
+   "url": "https://www.4gamer.net/games/060/G106048/20261123008/",
+   "title": "敵が動く前に自分の動きを決める。ターン制ローグライト「Sword Dancer 代号：大娘」は，ビリヤードのようなプレイ感［WePlay2026］",
+   "summary": "中国で開催された「WePlayExpo2026」に，玉雨提休工作室が開発中の「SwordDancer代号：大娘」がプレイアブル出展されていた。ターン制の採用によって，じっくりと戦略を練ったうえで「敵が動く前に自身の行動を決める」というゲームプレイが特徴だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T14:41:11+09:00"
+  },
+  {
+   "id": "e7024abbf92c6241",
+   "url": "https://automaton-media.com/articles/newsjp/20261123-480470/",
+   "title": "NVIDIAグラボの「SSD無限酷使」現象、修正パッチを適用しても直らないとの報告。ちょっと改善するも、まだ書き込みまくる",
+   "summary": "「GeForce Game Ready Driver」のホットフィックス621.35配信後も、PCを操作していない間にもSSDへの大量の書き込みがおこなわれる不具合が継続しているようだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480470-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T14:40:57+09:00"
+  },
+  {
+   "id": "a82cef57ff1e0be7",
+   "url": "https://www.4gamer.net/games/060/G106047/20261123007/",
+   "title": "捕まえたての幽霊が，翌朝にはお化け屋敷に即出勤！ 異世界探索と経営シムを組み合わせた「少女の百鬼屋敷」［WePlay2026］",
+   "summary": "中国・上海で開催された「WePlayExpo2026」に，お化け屋敷の経営と異世界探索を組み合わせた「少女の百鬼屋敷」がプレイアブル出展されていた。主人公は，両親の失踪をきっかけに家業を継いだ少女レイ。夜は異世界で幽霊を捕まえ，昼は捕まえた幽霊をスタッフとして働かせるという本作を試遊してきた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T14:07:55+09:00"
+  },
+  {
+   "id": "4e9a78c45c24a269",
+   "url": "https://automaton-media.com/articles/reportjp/20261123-480447/",
+   "title": "オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、本格海戦に“マンボウライド”、魔女や一般人と結婚すればどこでも抱き合える",
+   "summary": "10月30日に配信された「未知なる旅路」は、本編後のクリフ、ウンカ、デミアンそれぞれの新たな物語をはじめ、海を舞台にした依頼や、かつてのボスたちとの連戦に挑む「試練の庭園」などを追加する『紅の砂漠』初の大型DLCだ。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480447-001.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T13:34:39+09:00"
+  },
+  {
+   "id": "cdef660ce739d3e9",
+   "url": "https://www.4gamer.net/games/880/G088017/20261123006/",
+   "title": "青い絵の具は電気を通し，黄色い絵の具で高く跳ぶ。画家の夢の中を塗って進む一人称パズル「ドリームペインターズ」［WePlay2026］",
+   "summary": "中国・上海で11月21日と22日に開催されたインディーゲームイベント「WePlayExpo2026」で，ポーランドのStabilityGamesが，PC向けの一人称パズル「Dreampainters」を出展していた。色ごとに能力の違う絵の具を壁や床に塗り，画家の夢の中を進んでいくゲームだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T13:33:22+09:00"
+  },
+  {
+   "id": "3ee533663c342070",
+   "url": "https://www.4gamer.net/games/048/G104827/20261123005/",
+   "title": "プレイヤーが肉になって美味しく焼かれる「Steak Simulator: Medium Rare」，その醍醐味はマルチプレイにあり!?［WePlay2026］",
+   "summary": "中国のインディーゲームイベント「WePlayExpo2026」に，ParamoonStudioが開発中の新作「SteakSimulator:MediumRare」がプレイアブル出展されていた。コミカルな設定やクセのある操作感とともに，肉へのこだわりが感じられたプレイの様子をレポートしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T13:18:32+09:00"
+  },
+  {
+   "id": "0e9e6e8b0131c622",
+   "url": "https://automaton-media.com/articles/newsjp/20261123-480440/",
+   "title": "『The Binding of Isaac』新実装の隠しモード、“BGMがAI生成”と発覚して批判殺到。生みの親Edmund McMillen氏も困惑、現行チームに削除要請する事態に",
+   "summary": "「The Binding of Isaac: Repentance+」にて隠しモードに入ると流れるBGMがAI生成によるものだったとして、ユーザーから批判の声が殺到。すぐさま削除される事態となった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480440-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-23T12:55:27+09:00"
+  },
+  {
+   "id": "41757584ecdcfa21",
+   "url": "https://www.4gamer.net/games/991/G999110/20261123004/",
+   "title": "「インディーとは何か」700本以上の応募作品が集まるも，最高賞は該当なし。indiePlay China Indie Game Awards 2026 授賞式レポート［WePlay2026］",
+   "summary": "2026年11月22日，中国・上海で開催された「WePlayExpo2026」にて，インディーゲームを対象とした「indiePlayChinaIndieGameAwards2026」の授賞式が行われた。今年は700以上の応募があり，全11部門の審査結果が発表されたものの，最高賞「indiePlayAward」は該当作品が選出されなかった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T12:26:53+09:00"
+  },
+  {
+   "id": "c44c970214f44cb6",
+   "url": "https://www.4gamer.net/games/060/G106046/20261123003/",
+   "title": "打ち出されるのは球ではなく勇者。250種類以上のアイテムでビルドを組むピンボールローグライク「Dungeon Baller」［WePlay2026］",
+   "summary": "中国・上海で開催された「WePlayExpo2026」で，ニュージーランドのLazyBonesが「DungeonBaller」を出展していた。ピンボールとローグライクを組み合わせたゲームなのだが，台の上を跳ね回るのは鉄球ではなく勇者だ。プログラマーのJeremyTeal氏に，遊んでもらいながら話を聞いた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T12:14:32+09:00"
+  },
+  {
+   "id": "11412b06ffe9d44e",
+   "url": "https://www.4gamer.net/games/032/G103260/20261105026/",
+   "title": "「Mistplay」でゲーマー的ポイ活（第2回）。「メメントモリ」で美少女を愛でながらポイントが手に入る生活を満喫した【PR】",
+   "summary": "ゲームを遊べばポイントがたまって，ギフトカードなどと交換できるアプリ「Mistplay」でポイ活を始めた筆者。第2回では，じっくりと遊べそうなRPGから「メメントモリ」を選んでポイントを集め始めたのだが，どうにも美少女を育成する楽しさに目覚めそうだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-23T12:00:00+09:00"
+  },
   {
    "id": "98681be209b77332",
    "url": "https://automaton-media.com/articles/columnjp/nununu-20261123-480415/",
@@ -39,7 +281,7 @@
   {
    "id": "c136f052120ff903",
    "url": "https://www.4gamer.net/games/060/G106044/20261123002/",
-   "title": "その構え，完全にベーシスト。キーキャップを抜いてボールペンを“弦”にした謎コントローラが目を引いた「白鍵上のコンチェルト ベースヒーロー」［WePlay 2026］",
+   "title": "その構え，完全にベーシスト。キーキャップを抜いてボールペンを“弦”にした謎コントローラが目を引いた「白鍵上のコンチェルト ベースヒーロー」［WePlay2026］",
    "summary": "WePlayExpo2026の会場で，キーキャップを引っこ抜いたキーボードにボールペンを4本架け渡した，なんとも怪しいコントローラを見かけた。正体は，C11Gamesが開発中の「白鍵上のコンチェルトベースヒーロー」。キーボードをベースのように抱えて演奏するという，ちょっと変わった一作だ。",
    "thumbnail": "",
    "source": "4Gamer.net",
@@ -50,7 +292,7 @@
   {
    "id": "be0eac4dd80b35b2",
    "url": "https://www.4gamer.net/games/048/G104889/20261123001/",
-   "title": "天国行きのチケット，届いてないんですけど。水鉄砲にもなれる相棒の子犬とともに，ゆるっと死後の世界を冒険する「ワルツとジャム」をプレイ［WePlay 2026］",
+   "title": "天国行きのチケット，届いてないんですけど。水鉄砲にもなれる相棒の子犬とともに，ゆるっと死後の世界を冒険する「ワルツとジャム」をプレイ［WePlay2026］",
    "summary": "中国・上海で開催された「WePlayExpo2026」で，韓国のFlywayGamesが手がける「ワルツとジャム」を遊んできた。主人公は輪っか頭のおばけ「ワルツ」と，変身できる子犬「ジャム」。死後の世界でチケットをなくした2人が，7つの大罪をモチーフにした世界をめぐるアクションアドベンチャーだ。",
    "thumbnail": "",
    "source": "4Gamer.net",
@@ -1335,17 +1577,6 @@
    "published": "2026-11-19T20:27:57+09:00"
   },
   {
-   "id": "d004a8a1793a0744",
-   "url": "https://www.4gamer.net/games/991/G999106/20261119022/",
-   "title": "わしゃがなTVの最新動画では，懐かしのカプセルトイと食玩を紹介。「SDガンダム」や「ネクロスの要塞」が登場",
-   "summary": "2026年11月19日，声優の中村悠一さんと，フリーライターのマフィア梶田さんによるWeb番組「わしゃがなTV」の最新回が公開された。今回は，梶田さんが持参した懐かしのカプセルトイと食玩を紹介する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T20:00:00+09:00"
-  },
-  {
    "id": "660a4cd7b5f5f90a",
    "url": "https://automaton-media.com/articles/newsjp/20261119-480074/",
    "title": "数量限定だった「PS5 ミッドナイト ブラック」、公式ストアでは早くも「入荷終了」に。『GTA6』と同日発売の“黒プレステ”、ほぼ予約分だけで終売か",
@@ -1355,17 +1586,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-19T19:56:37+09:00"
-  },
-  {
-   "id": "5d5095820602db99",
-   "url": "https://www.4gamer.net/games/059/G105987/20261119035/",
-   "title": "かわいいぬいぐるみたちが，コワいおばけから守ってくれる。「トロイメライの月あかり」のNintendo Switch 2 EditionとSwitch版が本日発売",
-   "summary": "room6の「トロイメライの月あかり」のNintendoSwitch2EditionとNintendoSwitch版が本日リリースされた。夢に出てくるおばけのせいで眠れない少年が，かわいくて頼もしいぬいぐるみたちと悪夢を乗り越える追いかけっこアクションだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T19:44:12+09:00"
   },
   {
    "id": "fa7ae5d3e2d56051",
@@ -1379,72 +1599,6 @@
    "published": "2026-11-19T19:37:31+09:00"
   },
   {
-   "id": "06a33003b88cb21d",
-   "url": "https://www.4gamer.net/games/649/G064915/20261119032/",
-   "title": "「餓狼伝説 City of the Wolves」，新DLCキャラクター「ラオコーン」を配信開始。大張正己氏が監督するアニメーショントレイラーも公開",
-   "summary": "SNKは本日，対戦格闘ゲーム「餓狼伝説CityoftheWolves」の新DLCキャラクター「ラオコーン・ゴーダマス」の配信を開始した。1994年公開の劇場版アニメに登場した強敵で，「マルスの闘衣」を求めてサウスタウンに現れる。あわせて，大張正己氏が監督するアニメーショントレイラーも公開された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T19:33:43+09:00"
-  },
-  {
-   "id": "a5a5f0be52e8845e",
-   "url": "https://www.4gamer.net/games/022/G002212/20261119036/",
-   "title": "「AMD Software 26.11.2」が登場。「Phantom Blade Zero」対応のほか安定性の向上も",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T19:25:50+09:00"
-  },
-  {
-   "id": "3da595854fd0ea1b",
-   "url": "https://www.4gamer.net/games/269/G026925/20261119037/",
-   "title": "「WIXOSS」，2027年2月27日発売予定の新拡張パックをもって，新規の商品展開を休止",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T19:25:25+09:00"
-  },
-  {
-   "id": "d8d2e46da4f7d5bf",
-   "url": "https://www.4gamer.net/games/045/G104595/20261119030/",
-   "title": "死と自己犠牲，歪んだ愛を描いたループ型・心理ホラーADV「アケノヨスガ - Twilight Loop -」，Steamで配信開始",
-   "summary": "STUDIOCHARONは，PC用ソフト「アケノヨスガ-TwilightLoop-」の配信をSteamで開始した。本作は，少女の死を回避するために同じ1日を繰り返すループ型・心理ホラーアドベンチャーゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T19:17:24+09:00"
-  },
-  {
-   "id": "f9318c2f25fce28a",
-   "url": "https://www.4gamer.net/games/013/G101316/20261119033/",
-   "title": "「サドンアタック：ゼロポイント」，オリジナル版のマップを再現した5つの「クラシックマップ」が登場",
-   "summary": "ネクソンは本日（2026年11月19日），FPS「サドンアタック：ゼロポイント」に，5つのクラシックマップを実装するアップデートを行った。今回は，オリジナル版の「サドンアタック」に登場した「第3補給倉庫」「ホワイトスコール」などが，当時の姿をそのままに本作で再現されたクラシックマップとして追加された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T19:03:50+09:00"
-  },
-  {
-   "id": "acd14953076e38a9",
-   "url": "https://www.4gamer.net/games/897/G089795/20261119031/",
-   "title": "「ぷよぷよ」の公式番組「ぷよぷよ ぷよっとじかん #12」，11月22日に配信",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T18:47:29+09:00"
-  },
-  {
    "id": "39e2e62b5ade1a69",
    "url": "https://automaton-media.com/articles/newsjp/20261119-480061/",
    "title": "美少女カードゲーム「WIXOSS（ウィクロス）」新規商品展開が来年2月で休止。最後の拡張は、感謝を込めた「メモリアルな商品」に",
@@ -1454,50 +1608,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-19T18:30:35+09:00"
-  },
-  {
-   "id": "1329cdb1070fcd18",
-   "url": "https://www.4gamer.net/games/059/G105986/20261119029/",
-   "title": "ロボットと戦闘機に変形して全10ステージを攻略。「EGGコンソール テグザー MSX」，本日配信。1986年発売のアクションシューティング",
-   "summary": "D4エンタープライズは本日，「EGGコンソールテグザーMSX」をSwitch向けに配信開始した。「テグザー」は，1986年にゲームアーツから発売されたアクションシューティングゲームだ。ロボットと戦闘機に変形できる機体を操作し，2つの形態を使い分けながら全10ステージの攻略を目指す。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T18:29:43+09:00"
-  },
-  {
-   "id": "55195561f68a0e5a",
-   "url": "https://www.4gamer.net/games/058/G105873/20261119028/",
-   "title": "襲い来る海賊と戦う海洋戦略シム「アイルレイダー」，本日リリース",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T18:21:28+09:00"
-  },
-  {
-   "id": "b137378e0fb817e1",
-   "url": "https://www.4gamer.net/games/622/G062211/20261119026/",
-   "title": "「アークナイツ：エンドフィールド 1st Anniversary Festival」，2027年1月10日，11日に幕張メッセで開催",
-   "summary": "GRYPHLINEは2026年11月19日，3Dリアルタイム戦略RPG「アークナイツ：エンドフィールド」のサービス1周年を記念したイベントを2027年1月10日，11日に幕張メッセで開催すると発表した。会場には，本作の世界観を体感できる展示やアトラクションが設けられる。また，特設サイトも開設された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T18:02:13+09:00"
-  },
-  {
-   "id": "b0a21be9905af785",
-   "url": "https://www.4gamer.net/games/476/G047609/20261119027/",
-   "title": "「プロセカ」，「ノーモアフィクション」セカイver.のフルサイズ2DMVを公開中",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T18:00:02+09:00"
   },
   {
    "id": "cbbabe869c1bd1e6",
@@ -1520,17 +1630,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-19T17:27:22+09:00"
-  },
-  {
-   "id": "6ea409b67ec0777f",
-   "url": "https://www.4gamer.net/games/991/G999106/20261110042/",
-   "title": "推し活グッズ，集結！ 「アニメイトガールズフェスティバル2026」で展示＆販売されていたグッズ情報まとめ",
-   "summary": "2026年11月7日・8日に開催された「アニメイトガールズフェスティバル2026」では，「推し活グッズ」を取り扱うブースが複数見られた。本稿では，推したちとの生活を彩るグッズの数々をまとめて紹介していく。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-19T17:20:29+09:00"
   },
   {
    "id": "b40e0c05eac74b7e",
@@ -2103,105 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-16T21:21:47+09:00"
-  },
-  {
-   "id": "3c730f819b84179f",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479523/",
-   "title": "「たった97KB」のリアル海底3Dデモが大注目浴びる。小ささの秘訣は“全部その場で作る”こと",
-   "summary": "Maksymilian Dendura氏がわずか97キロバイトのリアルな海底世界「Abyssal Garden」を公開し注目を集めている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479523-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T20:48:19+09:00"
-  },
-  {
-   "id": "26119b68b3961dda",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479514/",
-   "title": "イケメン悪魔調教ゲーム『Obey Me! Sinner’s Choice: Lucifer』いきなり熱い評判。シナリオ20万字以上＆フルボイスで描かれる、どっぷり重厚背徳ロマンス",
-   "summary": "NTTソルマーレとグッドスマイルカンパニーは11月16日、ダークロマンス・ビジュアルノベルゲーム『Obey Me! Sinner's Choice: Lucifer』を配信した。さっそく多くのプレイヤーが集まっている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479514-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T20:33:01+09:00"
-  },
-  {
-   "id": "7e6fca7d6e5d9160",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479506/",
-   "title": "ネコぱら最新作『ネコぱら セカイコネクト』Steam版、11月18日にリリースへ。Steamの“審査遅れ”も乗り越えついに出る",
-   "summary": "グッドスマイルカンパニーは11月16日、『ネコぱら セカイコネクト』Steam版を11月18日にリリースすると告知した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479506-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T20:20:38+09:00"
-  },
-  {
-   "id": "4c2e33f46a61e71f",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479500/",
-   "title": "Steamの売上高の70％は「ほかでも遊べるゲーム」との独自調査。わずか4.1％の“コンソールでも遊べるゲーム”に、売上が集中",
-   "summary": "過去5年間のSteamにおいては、PC専売のタイトルではなく、コンソールでも販売されているゲームが売上高の大部分を占めていたという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479500-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T19:49:03+09:00"
-  },
-  {
-   "id": "9013247116186dd9",
-   "url": "https://automaton-media.com/articles/reportjp/maplestory-animation-20261116-479454/",
-   "title": "『メイプルストーリー』の劇場版アニメは「主役になれない私たち」が世界を救う物語。ファンにも、ファン以外にも観てほしくなった上映会感想",
-   "summary": "ネクソンは『メイプルストーリー』の劇場用短編アニメーション「DEAR MY HERO」の特別上映会を開催した。日本初公開となるこの作品についての感想と、本作の今後の展開についてお伝えしたい。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/maple-animation-20261116-479454-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T19:20:16+09:00"
-  },
-  {
-   "id": "15d0a6ae042f1cc9",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479482/",
-   "title": "『グランド・セフト・オートVI（GTA6）』無料配布を装う“マルウェア入り偽サイト”が大増殖中。「発売前から遊べる」と主張、あやしい",
-   "summary": "『グランド・セフト・オートVI』の発売が目前に迫るなか、さまざまな偽ダウンロードサイトが登場しており、サイバーセキュリティ会社より注意喚起がおこなわれている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479482-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T18:59:06+09:00"
-  },
-  {
-   "id": "eadfbcef492ed4e9",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479460/",
-   "title": "“戦わない”謎解きメトロイドヴァニア『MONOMOON』好評率98%でブームの予感。新たな『ANIMAL WELL』風ゲームには“謎言語”もある",
-   "summary": "Gentle Giantは11月12日、パズルアクションゲーム『MONOMOON』を配信した。さっそく非常に高い評価を得て人気となっている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479460-header.jpeg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T18:47:32+09:00"
-  },
-  {
-   "id": "575997340d39ffee",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479470/",
-   "title": "『鳴潮』Ver3.8にてPC版向けファイルサイズを減らせる「リソース管理機能」限定テスト開始。ストレージ容量を節約、検証してみた",
-   "summary": "本稿では、Ver3.8でPC版に追加されたリソース管理機能について公式ランチャー版を使用して検証した模様を紹介する。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479470-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T18:16:26+09:00"
-  },
-  {
-   "id": "65e12faf7679ad06",
-   "url": "https://automaton-media.com/articles/newsjp/20261116-479456/",
-   "title": "ゲーム内チャット経由で「トロイの木馬」を仕掛けるサイバー攻撃発生。今や個人開発ゲームも狙われる",
-   "summary": "放置インクリメンタル『CivIdle』 にて、悪意のある人物によってクロスサイトスクリプティング（XSS）攻撃がおこなわれた。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261116-479456-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-16T17:44:23+09:00"
   }
  ]
 }
