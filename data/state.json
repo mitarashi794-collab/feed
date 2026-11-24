@@ -1,15 +1,15 @@
 {
- "updated_at": "2026-11-23T22:01:29+09:00",
+ "updated_at": "2026-11-24T09:58:47+09:00",
  "sources": {
   "4gamer": {
-   "last_checked": "2026-11-23T22:01:29+09:00",
-   "etag": "\"147a8-660ef82677bc6-gzip\"",
-   "last_modified": "Mon, 23 Nov 2026 11:01:01 GMT"
+   "last_checked": "2026-11-24T09:58:47+09:00",
+   "etag": "\"146df-660fa67e4a468-gzip\"",
+   "last_modified": "Tue, 24 Nov 2026 00:01:01 GMT"
   },
   "automaton": {
-   "last_checked": "2026-11-23T22:01:29+09:00",
-   "etag": "W/\"b8b6036787db74735c4369d5e7e44766\"",
-   "last_modified": "Mon, 23 Nov 2026 12:51:01 GMT"
+   "last_checked": "2026-11-24T09:58:47+09:00",
+   "etag": "W/\"03b717f33a4c2658eb2f58a93dca0462\"",
+   "last_modified": "Mon, 23 Nov 2026 15:06:47 GMT"
   }
  }
 }
