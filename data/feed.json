@@ -1,8 +1,151 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T20:03:20+09:00",
+ "generated_at": "2026-11-25T06:20:07+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "d288c8b13e602711",
+   "url": "https://www.4gamer.net/games/010/G101057/20261124043/",
+   "title": "「ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ」，一ノ瀬美空さん（乃木坂46），トム・ブラウンを起用したTVCMを11月27日よりオンエア",
+   "summary": "スクウェア・エニックスは，2026年12月3日に発売を予定している「ドラゴンクエストモンスターズ４」について，「乃木坂46」メンバーの一ノ瀬美空さん，お笑いコンビ「トム・ブラウン」（布川ひろきさん，みちおさん）を起用したTVCMを11月27日よりオンエアすると発表した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-25T00:00:00+09:00"
+  },
+  {
+   "id": "71c08d8a11d2183b",
+   "url": "https://automaton-media.com/articles/newsjp/20261124-480752/",
+   "title": "期待の“昭和アメリカ”冒険ゲーム『昭和米国物語』またも延期、来年10月28日に発売へ。ゲームのコア部分は完成済み、まだまだ磨き上げる",
+   "summary": "NEKCOM Gamesは11月24日、RPG『昭和米国物語』の発売を延期し、2027年10月28日に発売すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480752-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-24T23:41:28+09:00"
+  },
+  {
+   "id": "2d9a62e7497d837d",
+   "url": "https://www.4gamer.net/games/613/G061307/20261124048/",
+   "title": "「昭和米国物語」，発売日を2027年10月28日に再延期。ゲーム内容の開発は完了しているが，品質のさらなる向上に時間が必要",
+   "summary": "NEKCOMEntertainmentは本日，開発中のアクションRPG「昭和米国物語」の発売日を2027年10月28日に延期すると発表した。発表によると，ゲーム内容の開発は完了しているものの，品質のさらなる向上には時間が必要だという。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T23:16:04+09:00"
+  },
+  {
+   "id": "c14b09e254c27f91",
+   "url": "https://www.4gamer.net/games/060/G106099/20261124046/",
+   "title": "さまざまなトラブルが待ち受ける海で，仕事を分担してイカダを守り抜こう。最大4人協力アクションADV「Overrafted!」，12月1日に発売決定",
+   "summary": "StudioRiviは本日（2026年11月24日），開発中の新作タイトル「Overrafted!」を，日本時間の12月1日14：00にリリースすると発表した。本作は，最大4人でイカダを操作し，どこまでも続く海を航海する協力型のアクションアドベンチャーだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T21:23:25+09:00"
+  },
+  {
+   "id": "e1e0cdaf8f1871e0",
+   "url": "https://automaton-media.com/articles/newsjp/20261124-480738/",
+   "title": "『GTA6』のバイスシティ、「“交差点の壁”すら性格悪い」とみんなキレる。裏切りの街",
+   "summary": "『グランド・セフト・オートVI（GTA6）』における、とある「壁」にだまされる人が続出している。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480738-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-24T21:04:12+09:00"
+  },
+  {
+   "id": "4ca5baa1a81baa09",
+   "url": "https://www.4gamer.net/games/652/G065211/20261124045/",
+   "title": "「THE FINALS」のグローバルeスポーツ大会が11月27日に開幕",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T20:41:00+09:00"
+  },
+  {
+   "id": "11482c807994e0b4",
+   "url": "https://www.4gamer.net/games/622/G062211/20261124044/",
+   "title": "「アークナイツ：エンドフィールド」と「ピザーラ」のコラボが12月3日にスタート。ペリカなどのグッズが付属するコラボセットを販売",
+   "summary": "フォーシーズは本日（2026年11月24日），GRYPHLINEが配信中の3Dリアルタイム戦略RPG「アークナイツ：エンドフィールド」とコラボレーションしたオリジナルピザセットを，12月3日から2027年1月31日まで販売すると発表した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T20:39:07+09:00"
+  },
+  {
+   "id": "31d908eb7928d3ec",
+   "url": "https://www.4gamer.net/games/906/G090647/20261124033/",
+   "title": "「Rusty Lake」の次回作を待つあいだに，出会ってほしいゲームがある。共同創設者の2人が語る，パブリッシングレーベル「Second Maze」の活動［WePlay2026］",
+   "summary": "2026年11月22日，中国・上海で開催された「WePlayExpo2026」のステージに，RustyLakeの共同創設者であるRobinRas氏とMaartenLooise氏が登壇した。2人は，パブリッシングレーベル「SecondMaze」を立ち上げた経緯や，「RustyLake」の次回作を待つファンに遊んでほしい作品について語った。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T20:30:59+09:00"
+  },
+  {
+   "id": "7f16c73eb8981c5e",
+   "url": "https://www.4gamer.net/games/060/G106097/20261124042/",
+   "title": "「アラド戦記」関連の新作2タイトルが中国で発表。格闘ゲームと初期のプレイ感覚を再現したタイトル",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T20:26:58+09:00"
+  },
+  {
+   "id": "a6bb732607c9b5cd",
+   "url": "https://www.4gamer.net/games/842/G084212/20261124041/",
+   "title": "「ソニックランブル パーティ」×「アングリーバード」コラボイベントを11月26日より開催",
+   "summary": "",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T20:16:25+09:00"
+  },
+  {
+   "id": "8e88e4abcd362b38",
+   "url": "https://www.4gamer.net/games/969/G096901/20261118047/",
+   "title": "「ACE COMBAT 8」，オンラインモードのSeason 2が12月1日に開幕。新機体「X-40 Nightmare」や新マップ2種類を追加",
+   "summary": "バンダイナムコエンターテインメントは本日，「ACECOMBAT8」のオンラインモードで，2026年12月1日17：00から新シーズン「Season2」を開始すると発表した。新機体「X-40Nightmare」や新マップ2種類が追加され，12月に開催されるゲーム内ライブなどのイベント情報も公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T20:15:00+09:00"
+  },
+  {
+   "id": "c72b71649f9e478f",
+   "url": "https://www.4gamer.net/games/004/G100451/20261124040/",
+   "title": "にじさんじライバーが「あなたの生活にそっと寄り添う」ビジュアルパネル「ここに居るよ。シリーズ第3弾」11月25日発売",
+   "summary": "2026年11月24日，ANYCOLORは，にじさんじライバーを描いたビジュアルパネル「にじさんじダイカットビジュアルパネルコレクションここに居るよ。シリーズ第3弾」の全6種類を，にじさんじオフィシャルストアで11月25日18時に発売すると発表した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T20:14:31+09:00"
+  },
+  {
+   "id": "55c9abe06683b11e",
+   "url": "https://www.4gamer.net/games/236/G023612/20261124038/",
+   "title": "「モンスターストライク」が世界累計DL数6000万，累計収益115億ドルを突破。パズルRPGの月間アクティブユーザー数は世界トップに",
+   "summary": "SensorTowerは本日（2026年11月24日），スマートフォン向けアプリ「モンスターストライク」の市場データを公式ブログで公開した。同社のデータによると，2013年10月から2026年10月までの世界累計ダウンロード数は6000万以上，累計収益は115億ドル以上を記録した。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-24T20:03:00+09:00"
+  },
   {
    "id": "a37ee55f062cf671",
    "url": "https://www.4gamer.net/games/060/G106096/20261124039/",
@@ -1500,105 +1643,6 @@
    "published": "2026-11-20T20:02:26+09:00"
   },
   {
-   "id": "9aef96c5b4851400",
-   "url": "https://www.4gamer.net/games/779/G077989/20261120035/",
-   "title": "「18TRIP」，サービス開始2.5周年を記念したキャンペーンを11月23日にスタート。コンダクター4人のソロ曲の制作も決定",
-   "summary": "リベル・エンタテインメントは，スマホアプリ「18TRIP」で，サービス開始2.5周年を記念したキャンペーンを11月23日から実施する。ログインボーナスや新イベント「班フォーカスイベント」が始まるほか，コンダクター4人のソロ曲制作も決定した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T19:49:51+09:00"
-  },
-  {
-   "id": "b97c992428147284",
-   "url": "https://www.4gamer.net/games/047/G004755/20261120038/",
-   "title": "720Hz表示対応の24.5インチ有機ELディスプレイや重量約47gのワイヤレスマウスなど，eスポーツ向けデバイスをASUSが発表",
-   "summary": "2026年11月20日，ASUSは，最大720Hz表示に対応する24.5インチ有機ELディスプレイ「ROGSwiftOLEDPG259QWSAce」と，最大540Hz表示対応の「ROGStrixOLEDXG259QWPGAce」，重量約47gのワイヤレスマウス「ROGHarpeIIAceMini」を国内発売すると発表した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T19:46:58+09:00"
-  },
-  {
-   "id": "3b7852d7afeea6d7",
-   "url": "https://www.4gamer.net/games/060/G106025/20261120037/",
-   "title": "生存者を審査し，地下10階層の巨大シェルターを築く「Home Sweet Bunker: Bunker Tycoon」，Steamで発売。モンスターの襲撃から住民を守るSLG",
-   "summary": "SimZoneは，バンカー建設・経営シミュレーション「HomeSweetBunker:BunkerTycoon」をSteamで発売した。本作では，生存者の受け入れ審査や地下施設の建設を行い，モンスターの襲撃から住民を守る。日本語に対応している。2026年11月29日までは発売記念セールも実施中だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T19:32:27+09:00"
-  },
-  {
-   "id": "7d636ad317de59b6",
-   "url": "https://www.4gamer.net/games/636/G063659/20261120026/",
-   "title": "「Goat Simulator 3」，ヤギの遊園地を追加するDLC“Ticket to Dizzyworld”をリリース。スリル満点の乗り物を“一ヤギ称視点”で楽しめる",
-   "summary": "CoffeeStainPublishingは2026年11月19日，サンドボックスヤギシミュレータ「GoatSimulator3」のDLC「TickettoDizzyworld」の配信を開始した。本DLCでは，没入感バツグンのヤギをテーマにした遊園地「ディジーワールド」が追加され，新しいヤギやギアが登場する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T19:11:04+09:00"
-  },
-  {
-   "id": "106f74b1e3dd5862",
-   "url": "https://www.4gamer.net/games/991/G999106/20261120033/",
-   "title": "「ソニック・ザ・ヘッジホッグ2 ジオラマ」，2027年1月28日に発売",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T19:00:25+09:00"
-  },
-  {
-   "id": "61f72ebb0fe0c4a3",
-   "url": "https://www.4gamer.net/games/476/G047609/20261120031/",
-   "title": "「プロセカ」，総集編イベント「ワンダーランズ×ショウタイム Memories」が開幕",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T18:48:50+09:00"
-  },
-  {
-   "id": "c722a5ed0be6a209",
-   "url": "https://www.4gamer.net/games/999/G999902/20261120027/",
-   "title": "日本でも原宿でポップアップストアが開催中。100種類のキーボードが並ぶ「Epomaker」ブース［G-STAR 2026］",
-   "summary": "2026年11月19日に開幕した韓国のゲームショウG-STAR2026に，さまざまなキーボードを取り扱う「Epomaker」のブースを出展していた。キーボードが100種類以上展示されており，「すべての人が，気に入るキーボードを必ず見つけられる」ことを目指しているのだとか。11月23日まで，原宿でもポップアップストアが開催されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T18:42:51+09:00"
-  },
-  {
-   "id": "5b251547276fac1a",
-   "url": "https://www.4gamer.net/games/060/G106026/20261120029/",
-   "title": "シリーズ累計160万DLのホラーADV「さいはて駅 Twilight Edition」，2027年3月25日にSwitch向けに発売。DLCとミニゲーム2本を収録",
-   "summary": "PLAYISMは，ホラーアドベンチャー「さいはて駅TwilightEdition」を2027年3月25日にSwitch向けに発売すると発表した。シリーズ累計160万ダウンロードを記録した「さいはて駅」のゲーム本編に加え，DLC「黄昏電鐵」とミニゲーム2本を収録した作品だ。あわせて，パッケージ版の予約受付が開始されている。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T18:34:33+09:00"
-  },
-  {
-   "id": "8f64ea75234b8615",
-   "url": "https://www.4gamer.net/games/046/G104688/20261120030/",
-   "title": "「Football Manager 27」，PS5向けパッケージ版が本日発売",
-   "summary": "",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T18:34:21+09:00"
-  },
-  {
    "id": "666f2fb17cec5bd7",
    "url": "https://automaton-media.com/articles/newsjp/20261120-480204/",
    "title": "Nintendo Switch 2『テーブルゲームワールド CCFOLIA』、希望者に払い戻し実施へ。“誤解を与えかねない表現”などで混乱招いたアナログゲーム用ツール",
@@ -1665,17 +1709,6 @@
    "published": "2026-11-20T12:27:16+09:00"
   },
   {
-   "id": "01c0cf907f1eb820",
-   "url": "https://www.4gamer.net/games/059/G105993/20261120004/",
-   "title": "「The Binding of Isaac: Repentance+」，現世代コンシューマ機向けに発売。10年以上の進化を凝縮したローグライクアクションの集大成",
-   "summary": "Nicalisは，ローグライクアクション「TheBindingofIsaac:Repentance+」を現世代コンシューマ機向けに発売した。コンシューマ機ではシリーズ初となる最大4人のオンライン協力プレイを実装し，700種類以上のアイテムや34人のプレイアブルキャラクターを収録。今後はクロスプレイにも対応予定だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T12:12:54+09:00"
-  },
-  {
    "id": "cb1e3b07fd56b60e",
    "url": "https://automaton-media.com/articles/newsjp/star-wars-galactic-racer-20261120-480103/",
    "title": "『スター・ウォーズ：ギャラクティック・レーサー』は、マシンごとに走り方が大きく変わる。ドリフトで攻めるか、最高速でぶっ飛ばすか",
@@ -1696,17 +1729,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-20T12:00:04+09:00"
-  },
-  {
-   "id": "9e9a6fb27d9b33c5",
-   "url": "https://www.4gamer.net/games/036/G103653/20261113030/",
-   "title": "スポーツの正答率34％，そして肉球に完敗。「クイズアクションRPG ウィズジェネレーション」体験会で，ゴー☆ジャスさんのLIVEクイズに本気で挑んできた［プレイレポ］",
-   "summary": "コロプラが12月1日にリリース予定のスマホ向け「クイズアクションRPGウィズジェネレーション」のメディア体験会に参加した。黒猫のウィズとの冒険から，クイズで戦うバトル，ゴー☆ジャスさんのLIVEクイズまで，遊んで感じた魅力をお伝えしたい。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-20T12:00:00+09:00"
   },
   {
    "id": "4e2ef48e598a75f8",
@@ -2180,28 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-18T10:51:28+09:00"
-  },
-  {
-   "id": "9596e3864210a233",
-   "url": "https://automaton-media.com/articles/newsjp/20261118-479739/",
-   "title": "もふもふクマまみれハチミツ農園放置ゲーム『Bottled by Bears』Steamで「好評率99％」の人気ぶり。マジメに生産管理からの居眠りクマ見守り、甘々自由マネジメント",
-   "summary": "monoii studioは11月13日、はちみつ農園経営放置ゲーム『Bottled by Bears』を発売した。さっそく数多くの好評が寄せられている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261118-479739-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-18T10:34:16+09:00"
-  },
-  {
-   "id": "74fec3a6bc539efd",
-   "url": "https://automaton-media.com/articles/newsjp/20261118-479726/",
-   "title": "“13年”待った『7 Days to Die』の「バンディット」、来年初頭ついに実装へ。発売前から構想のあった新勢力",
-   "summary": "デベロッパーのThe Fun Pimpsは11月18日、『7 Days to Die』に2027年初頭、「Bandits（バンディット）」が実装予定であることを発表した。バンディットについては発売前のKickstarte […]",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261118-479726-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-18T10:16:53+09:00"
   }
  ]
 }
