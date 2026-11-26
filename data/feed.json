@@ -1,8 +1,85 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T00:43:14+09:00",
+ "generated_at": "2026-11-26T09:29:08+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "9cedaf817e5d69f9",
+   "url": "https://automaton-media.com/articles/newsjp/20261126-480970/",
+   "title": "『グランド・セフト・オートVI（GTA6）』ではプレイヤーも「犯罪される側」、強盗から拉致まで被害報告多数。警察すら因縁つけてくる",
+   "summary": "『GTA6』では、プレイヤーがむしろ「襲われる側」になることも多いとして、“被害報告”がたびたび寄せられている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-480970-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-26T09:20:37+09:00"
+  },
+  {
+   "id": "49e882c67904a6d3",
+   "url": "https://www.4gamer.net/games/266/G026651/20261125001/",
+   "title": "スマホゲームのセルラン分析（2026年11月12日〜11月18日）。今週の1位は「FGO」。各国における7月〜9月の最大収益タイトルも紹介",
+   "summary": "世界有数のスマホゲーム大国である日本において，現在最も売れているタイトルをはじめ，さまざまなデータを毎週お届けする本連載。今週の国内収益ランキング1位は「Fate/GrandOrder」となった。今回は，各国における7月〜9月の最大収益タイトルも紹介しよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-26T09:00:00+09:00"
+  },
+  {
+   "id": "3f4c193706085c2c",
+   "url": "https://www.4gamer.net/games/922/G092201/20261125057/",
+   "title": "強くなるために，美しく踊れ。バレエがモチーフのスタイリッシュアクション「エッジ・オブ・テールズ Tsarevna」［WePlay2026］",
+   "summary": "WattStudioが開発中の新作「エッジ・オブ・テールズTsarevna」が，「WePlayExpo2026」にプレイアブル出展されていた。バレエの動きを取り入れたバトルが展開されるアクションゲームのプレイ感を，開発者のコメントとともにお伝えしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-26T08:00:00+09:00"
+  },
+  {
+   "id": "4b50bc30cf277ae2",
+   "url": "https://www.4gamer.net/games/338/G033856/20261125031/",
+   "title": "そうだ アニメ，見よう：第273回は押井 守氏×サンライズ「装甲騎兵ボトムズ 灰色の魔女」。必ず生き延びる兵士アッシュの秘密とは？",
+   "summary": "「そうだアニメ，見よう」第273回は15年ぶりのシリーズ完全新作「装甲騎兵ボトムズ灰色の魔女（ヘクセ）」。制作はサンライズ，監督は「GHOSTINTHESHELL/攻殻機動隊」の押井守氏が担当。ボトムズの生みの親である髙橋良輔氏が監修として参加している。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-26T08:00:00+09:00"
+  },
+  {
+   "id": "db95832397bfbd5b",
+   "url": "https://www.4gamer.net/games/639/G063965/20261126005/",
+   "title": "名作ボドゲ「ブラス：ランカシャー」が「ボードゲームアリーナ」に正式実装。運河と鉄道を敷き，産業革命期の英国で事業を広げる経済戦略ゲーム",
+   "summary": "オンラインボードゲームサイト「ボードゲームアリーナ」を運営するAsmodeeDigitalは2026年11月25日，経済戦略ゲーム「ブラス：ランカシャー」を正式実装した。プレイヤーは産業革命期のイングランドで実業家となり，産業施設を建て，運河や鉄道で街を結んで得点を稼ぐ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-26T03:39:26+09:00"
+  },
+  {
+   "id": "0c22c529e35dd425",
+   "url": "https://www.4gamer.net/games/061/G106154/20261126003/",
+   "title": "Switch向け「ピクロス」シリーズが累計100万DLを突破。11月30日から記念セールがスタート。「ピクロスS CLIMAX」の体験版も公開に",
+   "summary": "ジュピターは本日（2026年11月26日），NintendoSwitch向け「ピクロス」シリーズが累計100万ダウンロードを突破したと発表した。11月30日からの記念セールでは，「ピクロスS」が半額の400円になる。また，最新作「ピクロスSCLIMAX」の体験版配信とダウンロード版の予約受付が始まった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-26T02:13:01+09:00"
+  },
+  {
+   "id": "9b91858a99d340dd",
+   "url": "https://www.4gamer.net/games/015/G101576/20261126002/",
+   "title": "「信長の野望・飛翔」の発売日が2027年3月12日に決定。新PVが公開され，TVアニメ「転生貴族，鑑定スキルで成り上がる」とのコラボも発表",
+   "summary": "コーエーテクモゲームスは2026年11月25日，歴史シミュレーションゲーム「信長の野望・飛翔」の発売日を2027年3月12日に決定したと発表した。それに合わせて新PVが公開され，パッケージ版などの予約受付がスタートしている。また，TVアニメ「転生貴族、鑑定スキルで成り上がる」とのコラボレーションも明らかになった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-26T01:05:03+09:00"
+  },
   {
    "id": "78e5eb04e8101c24",
    "url": "https://www.4gamer.net/games/732/G073256/20261125060/",
@@ -1665,72 +1742,6 @@
    "published": "2026-11-22T12:46:20+09:00"
   },
   {
-   "id": "5a10df01e48f9533",
-   "url": "https://www.4gamer.net/games/991/G999110/20261122005/",
-   "title": "韓国ゲームショウのインディーアワード「G-STAR Indie Awards」全5部門，受賞15タイトルを紹介［G-STAR 2026］",
-   "summary": "G-STAR2026の会場で行われた「G-STARIndieAwards」の模様をお届けする。2年連続でDiscordが公式スポンサーを務めた今回は，全5部門が「presentedbyDiscord」として表彰され，日本勢や欧州勢を含む計15作品が選ばれた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-22T12:13:09+09:00"
-  },
-  {
-   "id": "78b75f0d37dc9380",
-   "url": "https://www.4gamer.net/games/002/G100220/20261122007/",
-   "title": "声を出せば，おばあちゃんが襲ってくる。屋敷に忍び込んだアヒルの宇宙人が部品を盗み出す協力型ホラー「QUIET」［WePlay2026］",
-   "summary": "中国・上海で開催されているWePlay2026の会場で，LINEGamesが開発中の「QUIET」を見せてもらった。本作は，地球に不時着したアヒルの宇宙人たちが，おばあちゃんの屋敷から宇宙船の修理に必要な部品を盗み出す協力型ホラーゲームだ。足音や物音はもちろん，マイクに向かって話した声にまでおばあちゃんが反応するという。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-22T12:08:39+09:00"
-  },
-  {
-   "id": "0fd286ca7bdd4bb0",
-   "url": "https://www.4gamer.net/games/979/G097959/20261122004/",
-   "title": "「リナちが■■な人を リナちの世界から■■いく」。伏せられた言葉が2周目で明らかになる「ひとりあそび」を試遊し，不穏な物語の着想を開発者に聞いた［WePlay2026］",
-   "summary": "中国・上海で開催中の「WePlay2026」で，デッキ構築型ローグライク×3Dボードゲーム「ひとりあそび」を試遊した。少女「リナち」がぬいぐるみの友達「ポコ」に誘われ，おもちゃの兵隊を盤上で戦わせるのだが，ポコの説明は肝心なところが「■■」で伏せられている。会場では，本作のプロデューサーを務める藍熊べある氏に，この不穏な物語が生まれた経緯を聞いた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-22T12:00:08+09:00"
-  },
-  {
-   "id": "1421bfa495952687",
-   "url": "https://www.4gamer.net/games/030/G103083/20261122006/",
-   "title": "六道輪廻を題材としたハック＆スラッシュ「TARAE: The Unbound」。試遊初公開の「Warfiend」は，拳で攻め続ける近接クラス［G-STAR 2026］",
-   "summary": "KRAFTONは，韓国で開催中のゲームイベント「G-STAR2026」に，「TARAE:TheUnbound」を出展している。本作は，仏教の六道輪廻をもとにした世界で，妖怪や亡者の群れをなぎ倒すハック＆スラッシュ型のアクションRPGだ。新クラス「Warfiend」は，今回初めて試遊できる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-22T11:58:42+09:00"
-  },
-  {
-   "id": "b344d1b546fb3c21",
-   "url": "https://www.4gamer.net/games/060/G106037/20261122003/",
-   "title": "数百年にわたって姿を消していた女神が，記憶を失ったままよみがえる。自らの信者と向き合う女性向けADV「神缺席」をプレイ［WePlay2026］",
-   "summary": "2026年11月21日と22日に中国・上海で開催の「WePlayExpo2026」に，女性向けADV「神缺席」がプレイアブル出展されている。本作でプレイヤーが演じるのは，数百年ぶりに人々の前に姿を現した女神だ。会場では，誰の祈りに耳を傾けるかで展開が変わる物語の冒頭や，女神への信仰と恨みのバランスを取りながら戦うカードバトルなどを体験できた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-22T11:43:45+09:00"
-  },
-  {
-   "id": "020bc81532f97a3b",
-   "url": "https://www.4gamer.net/games/060/G106036/20261122002/",
-   "title": "国が違っても，人の悩みはあまり変わらないかも。「社交不安」をテーマにしたアドベンチャー「What Acts up」［WePlay2026］",
-   "summary": "中国の上海で開催中のインディーゲームイベント「WePlayExpo2026」に，中国のRebirthStudioが開発する「WhatActsup」が出展されている。「社交不安」というテーマと，さまざまな仕掛けを使った演出が印象的だった本作のプレイ感をレポートしよう。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-22T11:28:38+09:00"
-  },
-  {
    "id": "c9224f5550571c43",
    "url": "https://automaton-media.com/articles/newsjp/20261121-480318/",
    "title": "『アークナイツ：エンドフィールド』新オペレーター★6「ケーちゃん」と配布★5「ミミノ」お披露目。 “謎キノコ生えまくりダム”の旅や、バージョン2.0で追加の「新地域」も一挙公開",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-19T09:21:16+09:00"
-  },
-  {
-   "id": "85925f09730c10e8",
-   "url": "https://automaton-media.com/articles/newsjp/20261118-479925/",
-   "title": "『グランド・セフト・オートVI（GTA6）』、「メタスコア99」で今年最高記録。満点レビュー続出、GOTYへの期待も高まる",
-   "summary": "『グランド・セフト・オートVI（GTA6）』に対し、メディア・批評家から非常に高い評価が寄せられている。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261118-479925-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-18T22:30:23+09:00"
   }
  ]
 }
