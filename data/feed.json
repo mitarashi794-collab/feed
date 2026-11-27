@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T04:41:38+09:00",
+ "generated_at": "2026-11-27T11:54:53+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "05fc6ff855cb2cc2",
+   "url": "https://automaton-media.com/articles/newsjp/20261127-481262/",
+   "title": "人気神話ハクスラARPG『Titan Quest II』早期アクセス最後のアプデで、最高レア防具29種どっさり実装。来年1月の正式リリース目前に、さらに広がるビルド幅",
+   "summary": "THQ Nordicは11月26日、Grimlore Gamesが手がけるアクションRPG『Titan Quest II』向けに最新アップデートを配信した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261127-481262-header.jpeg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-27T11:17:16+09:00"
+  },
+  {
+   "id": "c12d6db0265a4b58",
+   "url": "https://www.4gamer.net/games/129/G012999/20261127004/",
+   "title": "PS Plus，12月のフリープレイは「トニー・ホーク プロ・スケーター 3+4」「ドラゴンボール ゼノバース2」「BLEACH Rebirth of Souls」の3作品",
+   "summary": "SIEは，PlayStationPlusにおける2026年12月のフリープレイのラインナップを公開した。対象は「トニー・ホークプロ・スケーター3+4」「ドラゴンボールゼノバース2」「BLEACHRebirthofSouls」の3作品。すべてのPlayStationPlusプランの加入者が利用できる。提供開始は12月1日だ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-27T10:50:12+09:00"
+  },
+  {
+   "id": "65cca69b99089a22",
+   "url": "https://www.4gamer.net/games/144/G014484/20261127003/",
+   "title": "「フォートナイト」，アイテムショップの新ラインナップを公開。「ドキドキ文芸部！」のコスチュームは11月28日登場",
+   "summary": "EpicGamesは本日（2026年11月27日），「フォートナイト」のアイテムショップに並ぶ今週の新商品と登場日を公開した。11月28日（日本時間）には，「ドキドキ文芸部！」のモニカ，サヨリ，ナツキ，ユリが，原作でおなじみの制服姿のコスチュームとして登場する。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-27T10:31:03+09:00"
+  },
+  {
+   "id": "16c9023bea3e4b5c",
+   "url": "https://www.4gamer.net/games/061/G106197/20261127002/",
+   "title": "柔術の技をカードでつなぎ，スキをついて絞める！ 組技を極めるライフシム「Jiu-Jitsu Life: Road to Black Belt」，ストアページを公開",
+   "summary": "GambitForgeは本日（2026年11月27日），PC向けの柔術シミュレーション「Jiu-JitsuLife:RoadtoBlackBelt」のSteamストアページを公開した。ウィッシュリスト登録を受け付けている。本作では，アルバイトで道場に通う費用を稼いで技を学び，相手が防御したときに生まれる隙をカードで突く。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-27T10:01:34+09:00"
+  },
+  {
+   "id": "92b6c80842048b8e",
+   "url": "https://automaton-media.com/articles/interviewsjp/20261127-481245/",
+   "title": "『Slay the Spire 2』のアセンション10に“80％勝てるAI”は「石の加湿器」が大好きで、絶対に捨てゲーしない鬼メンタル。どこまで強くなる？弱みはどこ？研究者に訊いた",
+   "summary": "弊誌では、「AlphaDefect」の研究に共著者として携わった小宮山純平氏にインタビューをおこなった。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261127-481245-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-27T09:52:51+09:00"
+  },
+  {
+   "id": "d22087fd64d5d38c",
+   "url": "https://www.4gamer.net/games/999/G999904/20261121004/",
+   "title": "韓国最大級ゲームショウのメインスポンサーはAIキャラチャットの「Crack」。日本版「キャラぷ」の日本法人代表に，クリエイター還元や会話の中身を原則見ない運営を聞く［G-STAR 2026］",
+   "summary": "ゲーム企業以外で初めて「G-STAR2026」のメインスポンサーを務めるのは，AIキャラクターチャット「Crack」だ。日本版「キャラぷ」を運営する増田良平氏に，クリエイター還元や会話の中身を原則見ない運営について聞いた。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-27T07:00:00+09:00"
+  },
   {
    "id": "140d1e3cff981797",
    "url": "https://www.4gamer.net/games/061/G106175/20261126024/",
@@ -1533,50 +1599,6 @@
    "published": "2026-11-24T19:03:55+09:00"
   },
   {
-   "id": "188845383e7e7d19",
-   "url": "https://www.4gamer.net/games/060/G106092/20261124029/",
-   "title": "動物について学べるまったり系パズル。ヴィンテージ風アートが美しい「Art of Fauna: Cozy Puzzles+」（今日から始めろApple Arcade #90）",
-   "summary": "毎月4の付く日（4日，14日，24日）に掲載する連載「今日から始めろAppleArcade」では，「AppleArcade」で配信中の200タイトル以上のゲームのなかから毎回1本をチョイスし，オススメポイントを紹介していく。第90回では，「ArtofFauna:CozyPuzzles+」を紹介する。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-24T19:00:00+09:00"
-  },
-  {
-   "id": "fbb838241860ff38",
-   "url": "https://www.4gamer.net/games/060/G106094/20261124036/",
-   "title": "最大8人でブラウザを共有。ネットサーフィンしながら釣りやミニゲームで遊べるマルチプレイゲーム「インターネット4」，12月4日にリリース決定",
-   "summary": "BrokenHDDは2026年11月21日，新作タイトル「インターネット4」を12月4日にリリースすると発表した。本作は，最大8人のプレイヤーがブラウザを共有しながら釣りやミニゲームで遊べるオンラインマルチプレイゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-24T18:56:51+09:00"
-  },
-  {
-   "id": "e995eabe1aa0dca1",
-   "url": "https://www.4gamer.net/games/999/G999905/20261124035/",
-   "title": "「2026年Steamアワード」ノミネート作品の受付を開始。過去のゲームオブザイヤーからお気に入りを選ぶ「殿堂入り賞」を新設",
-   "summary": "Valveは本日（2026年11月24日），Steamで配信されている優れたゲームタイトルを讃える「2026年Steamアワード」ノミネート作品の受付を開始した。2026年で10周年となる「Steamアワード」では，全14部門が設けられた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-24T18:35:35+09:00"
-  },
-  {
-   "id": "7dbf2ced4ef99c09",
-   "url": "https://www.4gamer.net/games/634/G063420/20261124030/",
-   "title": "「鳴潮」，Ver.4.0「永遠に灯る残り火」の実機プレビュー映像が公開。「アンナ」「ルシェル」の姿やメカ形態への変形に注目",
-   "summary": "KUROGAMESが手掛けるオープンワールドアクションRPG「鳴潮」で，Ver.4.0「永遠に灯る残り火」が2026年12月22日に実装される。これに先駆けて，Ver.4.0で登場する「アンナ」「ルシェル」の姿やアクションを確認できる実機プレビュー映像が公開された。2人がメカ形態に変形し，高速で空を飛ぶ姿にも注目だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-24T18:31:38+09:00"
-  },
-  {
    "id": "fa2ecb212068358e",
    "url": "https://automaton-media.com/articles/newsjp/20261124-480713/",
    "title": "「ニンテンドーゲームキューブ Nintendo Classics」のサイズが10GBの大台に。ソフト別インストール機能がそろそろ欲しくなりそう",
@@ -2180,28 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-20T10:28:09+09:00"
-  },
-  {
-   "id": "d4443d9123630c91",
-   "url": "https://automaton-media.com/articles/newsjp/20261120-480118/",
-   "title": "“衣装破壊”弾幕STG『カラドリウス2』、来年1月28日に発売延期、Steam版は時期未定。PS5版では一部グラフィックに「調整」も",
-   "summary": "モスは11月20日、『Caladrius2/Dark Element（カラドリウス2/ダークエレメント）』の発売延期およびPS5版の一部仕様変更を発表した。Steam版の発売時期は現時点では未定だ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480118-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-20T10:00:10+09:00"
-  },
-  {
-   "id": "4642a2b19abf359e",
-   "url": "https://automaton-media.com/articles/newsjp/20261119-480088/",
-   "title": "『ゼルダの伝説 時のオカリナ』と『GTA6』に挟まれた悲運のゲーム、開発者は「いうほど悪くない」と前向き。次に遊ぶ1本で、“タヌキ”を思い出して",
-   "summary": "『TANUKI: Pon's Summer - タヌキ：ポンの夏』は『時のオカリナ』と『GTA6』に挟まれた発売となったが、健闘を見せているという。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261119-480088-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-19T20:41:04+09:00"
   }
  ]
 }
