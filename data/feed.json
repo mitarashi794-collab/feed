@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T21:38:13+09:00",
+ "generated_at": "2026-11-28T07:03:22+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "9f1f726b73bd0bd3",
+   "url": "https://www.4gamer.net/games/966/G096663/20261128001/",
+   "title": "「Windrose」，今冬配信予定の大型アプデ「Ashlands」で陸上戦と海戦に新要素を実装。復活するスケルトンや援軍を呼ぶ敵船が登場する",
+   "summary": "ポケットペアは本日（2026年11月27日），海賊サバイバルクラフト「Windrose」の大型アップデート「Ashlands」を紹介する開発ブログ第6弾を公開した。新バイオームでは，倒されても骨を組み直して復活するスケルトンが登場するほか，全海域の敵船に役割に応じた特殊能力が加わる。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-28T00:24:29+09:00"
+  },
+  {
+   "id": "cc15a95c2828c782",
+   "url": "https://automaton-media.com/articles/newsjp/20261128-481421/",
+   "title": "『ホロウナイト シルクソング』無料DLC「Sea of Sorrow」12月11日配信へ。新たに海を渡る物語、すぐ出る",
+   "summary": "Team Cherryは12月16日、『Hollow Knight: Silksong』の無料DLC「Sea of Sorrow」を12月11日に配信すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261128-481421-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-28T00:23:08+09:00"
+  },
+  {
+   "id": "cd6de0683c43c324",
+   "url": "https://www.4gamer.net/games/957/G095773/20261127058/",
+   "title": "「魔法少女ノ魔女裁判」のAcaciaが手がける新作「配信少女ノ裏垢迷宮」，2027年1月29日にSteamで配信決定。SNSの闇が具現化した迷宮を探索",
+   "summary": "ジー・モードは2026年11月27日，YouTubeの生放送番組「Acacia放送局第14回」にて，新作タイトル「配信少女ノ裏垢迷宮」を2027年1月29日にSteamで発売すると発表した。Steamのウィッシュリスト登録数は10万件を突破しており，今回の発表に合わせて，ダンジョン探索やバトルシーンの最新スクリーンショットも公開された。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-27T23:09:05+09:00"
+  },
+  {
+   "id": "4db648a6774c0894",
+   "url": "https://www.4gamer.net/games/062/G106229/20261127057/",
+   "title": "3Dモデルの書き出しにも対応。彫った硬貨の響きまで楽しめるコインデザインシミュレータ「Imaginary Mint」，ストアページを公開",
+   "summary": "個人開発者のkawa0x0A氏は本日（2026年11月27日），2027年春に発売予定のPC用ソフト「ImaginaryMint」のSteamストアページを公開した。架空の国の硬貨を手彫りする作品で，完成した硬貨を机に落とすと，素材や形，厚みに応じて異なる音が鳴る。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-27T22:52:43+09:00"
+  },
+  {
+   "id": "0443a03b5dc94573",
+   "url": "https://www.4gamer.net/games/062/G106227/20261127055/",
+   "title": "「なめこ」シリーズの最新作「冒険宿 なめこ亭」，App Storeで事前登録受付を開始。料理で冒険者をもてなす宿づくりゲーム",
+   "summary": "ビーワークスは本日（2026年11月27日），スマホ向けゲーム「冒険宿なめこ亭」の事前登録受付をAppStoreで開始したと発表した。本作は，料理で冒険者をもてなしながら，宿を発展させていく経営シミュレーションゲームだ。冒険者が持ち帰った食材で，宿の新しいメニューを作り上げよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-27T22:03:00+09:00"
+  },
+  {
+   "id": "a8b28a012c48e012",
+   "url": "https://www.4gamer.net/games/953/G095371/20261127054/",
+   "title": "最大4人協力ローグライトハクスラアクション「The Last Squad」，12月1日に早期アクセス版をリリース",
+   "summary": "STOICは本日（2026年11月27日），開発中の新作タイトル「TheLastSquad」の早期アクセス版を12月1日にリリースすると発表した。本作は，四方から迫るゾンビの大群を撃破し，ボスを倒してステージの最深部を目指す見下ろし視点型のローグライトハクスラアクションだ。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-27T21:57:55+09:00"
+  },
   {
    "id": "101dd1565b947c20",
    "url": "https://automaton-media.com/articles/newsjp/20261127-481399/",
@@ -1610,39 +1676,6 @@
    "published": "2026-11-25T12:47:18+09:00"
   },
   {
-   "id": "dcbbafd2f126d918",
-   "url": "https://www.4gamer.net/games/886/G088682/20261125009/",
-   "title": "「Pokémon Champions」，メガヒードランとメガシャリタツが12月2日から使えるように。特性を初公開",
-   "summary": "ポケモンは本日（2026年11月25日），対戦ゲーム「PokémonChampions」について「レギュレーションM-D」を2026年12月2日から2027年3月3日10：59まで適用すると発表した。新たにヒードラン，ヘイラッシャ，シャリタツなどがバトルに参加できるようになる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T12:31:51+09:00"
-  },
-  {
-   "id": "5713d46b261073c8",
-   "url": "https://www.4gamer.net/games/623/G062332/20261125007/",
-   "title": "「The Witcher IV」は「GTA6」に匹敵する飛躍を目指す。CD PROJEKT REDは大型RPGの開発サイクル短縮へ",
-   "summary": "CDPROJEKTREDは2026年第3四半期の決算説明会で，「TheWitcherIV」は「GTA5」から「GTA6」への飛躍に匹敵する進化を目指すと説明した。「Cyberpunk2」の開発陣も拡充しており，複数の大型RPGを並行して，従来より短期間で開発できる体制を目指している。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T12:19:35+09:00"
-  },
-  {
-   "id": "40f692194cf4f40b",
-   "url": "https://www.4gamer.net/games/897/G089761/20261125003/",
-   "title": "「マリオカート ワールド」，無料アップデート「Ver.1.9.0」を配信開始。いつものコースにアレンジを加えた8つのコースが追加",
-   "summary": "任天堂は本日，Switch2用ソフト「マリオカートワールド」の無料アップデート「Ver.1.9.0」の配信を開始した。今回のアップデートでは，8つのコースやサバイバルの2つの新ルートが追加された。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T12:08:40+09:00"
-  },
-  {
    "id": "75ebed22f55a5fa5",
    "url": "https://automaton-media.com/articles/reportjp/shinovi-nexus-20261125-480798/",
    "title": "基本プレイ無料『閃乱カグラ』新作スマホRPG『シノビNEXUS』は、シノビを“愛でる”手段がぎっしり。ジオラマでパシャリ、サウナでびっしょり。めくるめくシノビ日和",
@@ -1663,28 +1696,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-25T12:00:06+09:00"
-  },
-  {
-   "id": "9a9067324f98fe7a",
-   "url": "https://www.4gamer.net/games/946/G094686/20261124004/",
-   "title": "「大戦略SSB2」×「R-TYPE TACTICS」開発者インタビュー。現用兵器とSF兵器が激突する異色のコラボの真相を，両社のキーマンに聞いてみた",
-   "summary": "「大戦略SSB2」と「R-TYPETACTICSI・IICOSMOS」のコラボレーションが発表された。まったく世界観が異なる両タイトルだけに，いったいどんなコラボになるのか気になるところだ。さっそくシステムソフト・ベータの黒木孝行氏と，グランゼーラの九条一馬氏にあれこれ聞いてみた。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T12:00:00+09:00"
-  },
-  {
-   "id": "ca8ae08aea4a189a",
-   "url": "https://www.4gamer.net/games/004/G100417/20261125005/",
-   "title": "「Fit Boxing 3」，アニメソング3曲を新たにアレンジしたDLC「アニソンパック Vol.2 アンコールMix」を本日配信",
-   "summary": "イマジニアは本日，「FitBoxing3-Yourパーソナルトレーナー-」の有料DLC「アニソンパックVol.2アンコールMix」を配信開始した。前作「FitBoxing2」で配信されたアニメソングBGMのなかから3曲を選び，新たなアレンジを施したものだ。Switch2/Switch版の両方で利用できる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T12:00:00+09:00"
   },
   {
    "id": "08c18daa17bb5c50",
@@ -2191,17 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-21T18:45:22+09:00"
-  },
-  {
-   "id": "7e17fa09663d4523",
-   "url": "https://automaton-media.com/articles/newsjp/20261121-480285/",
-   "title": "「『GTA6』やりたい生徒のズル休み」を防ぐため、イギリスの学校がいろいろ苦心。“ミニバス”で送迎したり“アマギフ約1万4000円”が当たる抽選会したり、とにかく学校に来て",
-   "summary": "イギリスでは、学生が『GTA6』を遊ぶために“ズル休み”をするのを防ごうと、学校がさまざまな取り組みをおこなっているようだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480285-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-21T16:59:48+09:00"
   }
  ]
 }
