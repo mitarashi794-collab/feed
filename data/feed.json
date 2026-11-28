@@ -1,8 +1,118 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-28T07:03:22+09:00",
+ "generated_at": "2026-11-28T12:58:01+09:00",
  "errors": [],
  "items": [
+  {
+   "id": "ed59ef0f1576e391",
+   "url": "https://automaton-media.com/articles/newsjp/20261128-481458/",
+   "title": "PvPvEホラーFPS『HUNGER』、「最後のオープンベータ」が同接1万人超の活況。怪物と生存者が生き残りをかけて戦う、“白兵戦多め”残虐脱出型シューター",
+   "summary": "GOOD FUN CORPORATIONは11月27日、PvPvEホラーFPS『HUNGER』のオープンベータプレイテストを開始した。同接1万人を超える活況となっている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261128-481458-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-28T12:17:22+09:00"
+  },
+  {
+   "id": "bf8fd58f55d59b7a",
+   "url": "https://automaton-media.com/articles/newsjp/maplestory-20261128-482448/",
+   "title": "MMORPG『メイプルストーリー』大型アプデ「OVERDRIVE」盛りだくさんな詳細お披露目。新職業「レテ」、一撃ダメージ上限「10兆」のほか『ブルーアーカイブ』とのコラボも発表",
+   "summary": "ネクソンは11月27日、基本プレイ無料MMORPG『メイプルストーリー』の大型アップデート「OVERDRIVE」を12月9日に配信すると発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/maplestory-overdrive-20261128-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-28T11:10:47+09:00"
+  },
+  {
+   "id": "767b7d6d3e4a1057",
+   "url": "https://automaton-media.com/articles/newsjp/20261128-481450/",
+   "title": "自然いっぱい惑星・どうぶつ触れ合い探検ゲーム『The Botanist and the Translator』発表。植物学者が“どうぶつ通訳”とともに、惑星の謎を解き明かす",
+   "summary": "Team Cherryは11月28日、惑星探検ゲーム『The Botanist and the Translator』を発表した。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261128-481450-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-28T10:50:45+09:00"
+  },
+  {
+   "id": "5643ec3dcd5cb96a",
+   "url": "https://www.4gamer.net/games/484/G048495/20261126027/",
+   "title": "海戦に経営，結婚まで盛りだくさんの「紅の砂漠 Enhanced：未知なる旅路」は，本編の冒険をどう広げたのか？［プレイレポ］",
+   "summary": "「紅の砂漠Enhanced」の大型DLC「紅の砂漠Enhanced：未知なる旅路」が，10月30日にリリースされた。アップデートを経て再評価された本編の変化に触れつつ，新たに追加された海洋探索や自由建築，店舗経営，結婚といった新要素，さらにはクリフたちの後日談まで，大幅に拡張されたDLCの仕上がりをレポートしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-28T10:30:00+09:00"
+  },
+  {
+   "id": "b9132c7175dc3544",
+   "url": "https://www.4gamer.net/games/448/G044868/20261127032/",
+   "title": "「ロマンシング サ・ガ3」の大剣技「乱れ雪月花」をカレーにしたらどうなる？ 料理人の閃きで作る3色カレー。俺のコラボカフェ：Menu 094",
+   "summary": "毎月第4土曜日に掲載している連載「俺のコラボカフェ」は，現役シェフである大西哲也氏が，さまざまなゲームなどと勝手にコラボし，イメージしたレシピを紹介するというコーナーだ。今回のお題は，フルリメイク版「ロマンシングサガ3デスティニーユナイテッド」の発売を2027年2月に控えた「ロマンシングサ・ガ3」。その大剣技「乱れ雪月花」を，雪・月・花の3色のカレーで表現してもらった。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-28T10:25:00+09:00"
+  },
+  {
+   "id": "25f8f076ecdb03f4",
+   "url": "https://www.4gamer.net/games/001/G000183/20261127009/",
+   "title": "タイ代表の無敗4連覇に地元が沸いた。賞金総額約2900万円の「ラグナロク」公式eスポーツ3大世界大会をレポート［Ragnarok Festa 2026］",
+   "summary": "2026年11月7日にタイ・バンコクで開催された「RagnarokFesta2026」の公式eスポーツ3大世界大会をレポート。タイ代表「MORNINGSTAR」の無敗4連覇をはじめ，巨大ステージで同時進行した3部門の熱戦を伝える。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-28T10:00:00+09:00"
+  },
+  {
+   "id": "f5ac46dd4e863e9d",
+   "url": "https://automaton-media.com/articles/newsjp/20261128-481434/",
+   "title": "『アークナイツ：エンドフィールド』新オペレーター「ケーちゃん」の次世代“お腹まわり”グラフィックが脚光浴びる。濡れ感・透け感・肉感、マニアック技術力炸裂",
+   "summary": "『アークナイツ：エンドフィールド』にて新たに登場したオペレーター「ケーちゃん」について、グラフィック表現の観点から熱視線が注がれている。",
+   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261128-481434-header.jpg",
+   "source": "AUTOMATON",
+   "source_id": "automaton",
+   "category": "news",
+   "published": "2026-11-28T09:50:27+09:00"
+  },
+  {
+   "id": "7842de1e82b95025",
+   "url": "https://www.4gamer.net/games/579/G057943/20261126031/",
+   "title": "「リネージュ フェスティバル」が韓国KINTEXで開催。3タイトルの2027年ロードマップや新コンテンツが明かされた特別ステージの模様をレポート",
+   "summary": "NCは11月25日，韓国のKINTEX第2展示場で同社を代表するIP「リネージュ」シリーズ初の統合オフラインイベント「リネージュフェスティバル」を開催した。「リネージュリマスター」「リネージュM」「リネージュクラシック」の3タイトルのファンが一堂に会した本イベントの模様と，2部「アデンの夜」の3つのステージで発表された新情報をお届けしよう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-28T09:30:00+09:00"
+  },
+  {
+   "id": "49fd371025babbc9",
+   "url": "https://www.4gamer.net/games/793/G079350/20261127005/",
+   "title": "デッキ構築型ローグライクRPG「カオスゼロナイトメア」にマルチプレイが実装!? 新コンテンツ“連合作戦 - コアブレイク”を遊んできた［プレイレポ］",
+   "summary": "デッキ構築型ローグライクRPG「カオスゼロナイトメア」に，2026年12月2日，新コンテンツの「連合作戦-コアブレイクBETA」が実装されるという。カオゼロ初のマルチプレイコンテンツであり，ほかのプレイヤーと協力して攻略する楽しさが味わえる連合作戦を，一足先にプレイしてきたので，その概要をお伝えしていこう。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-28T09:00:00+09:00"
+  },
+  {
+   "id": "ddb113269386a877",
+   "url": "https://www.4gamer.net/games/001/G000183/20261111028/",
+   "title": "「ラグナロク」全26タイトルがタイ・バンコクに大集結。1万9000人超が来場し新発表も相次いだ「Ragnarok Festa 2026」をレポート【PR】",
+   "summary": "2026年11月7日にタイ・バンコクで開催された「RagnarokFesta2026」の模様をお届け。25周年に向けたビジョンや初公開の3基盤を含む10枠の新発表，全26タイトルが集結した会場の模様を伝える。",
+   "thumbnail": "",
+   "source": "4Gamer.net",
+   "source_id": "4gamer",
+   "category": "news",
+   "published": "2026-11-28T09:00:00+09:00"
+  },
   {
    "id": "9f1f726b73bd0bd3",
    "url": "https://www.4gamer.net/games/966/G096663/20261128001/",
@@ -1544,17 +1654,6 @@
    "published": "2026-11-25T19:00:00+09:00"
   },
   {
-   "id": "ec9215c24bea6d0d",
-   "url": "https://www.4gamer.net/games/061/G106139/20261125026/",
-   "title": "同じ色の玉を4つ以上つなげて消す「コンソールアーカイブス めざせ！戦球王」，11月26日配信。1996年発売のパズルゲーム",
-   "summary": "ハムスターは，「コンソールアーカイブスめざせ！戦球王」を2026年11月26日に配信すると発表した。1996年にセイブ開発から発売されたパズルゲームの復刻版だ。画面の上部から落ちてくる同じ種類の「色玉」を4つ以上つなげて消し，連鎖を狙う。「戦球大会」や「腕前判定モード」などを楽しめる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T19:00:00+09:00"
-  },
-  {
    "id": "a127d9dbf806b175",
    "url": "https://automaton-media.com/articles/newsjp/20261125-480842/",
    "title": "『GTA6』を無理やりPC移植しようとする人々、「AIに丸投げしすぎ」とツッコまれる。“よくわからんけどミスするな”無茶ぶりダメ上司プロンプト",
@@ -1599,28 +1698,6 @@
    "published": "2026-11-25T14:31:47+09:00"
   },
   {
-   "id": "9ce607dc91480e6f",
-   "url": "https://www.4gamer.net/games/647/G064737/20261125012/",
-   "title": "「ファタモルガーナの館」開発レーベルによる新作「Project Code M」，「INDIE Live Expo 2026.12.1」で続報を公開",
-   "summary": "ゲーム開発レーベルNOVECTは，開発中の新作プロジェクト「ProjectCodeM」について，2026年12月1日に配信される「INDIELiveExpo2026.12.1」で続報を公開すると告知した。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T13:49:00+09:00"
-  },
-  {
-   "id": "e31dbff8f85a2e97",
-   "url": "https://www.4gamer.net/games/061/G106114/20261125015/",
-   "title": "主人公は男性の体に生えたムダ毛。生き残るため，何としても宿主と脱毛好きな彼女を破局させる！ 3Dアクション「チンザゲーム」，2026年12月9日に発売予定",
-   "summary": "園児ニア氏は本日，PC向け3Dアクションゲーム「チンザゲーム」を2026年12月9日に発売すると発表した。本作は，男性の体に生えたムダ毛を操作し，脱毛好きな彼女と宿主を破局させようとするユニークな作品だ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T13:47:42+09:00"
-  },
-  {
    "id": "ca652139c5dd00e7",
    "url": "https://automaton-media.com/articles/newsjp/20261125-480826/",
    "title": "「犬の腎臓」になって老人と犬の生活を見守る作業用ゲーム『renal spring: Focus as a Kidney』発表。作業すると腎臓もはたらき、犬も元気に",
@@ -1630,39 +1707,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-25T13:40:41+09:00"
-  },
-  {
-   "id": "d023541ae890981c",
-   "url": "https://www.4gamer.net/games/049/G104900/20261125011/",
-   "title": "ホロライブのタレントが37人登場する新作ゲーム「ホロライブ麻雀 -ホロじゃん-」，正式サービスを開始。記念番組は11月27日に配信",
-   "summary": "カバーは本日，新作ゲーム「ホロライブ麻雀-ホロじゃん-」の正式サービスを開始した。サービス形態は基本プレイ無料＋アイテム課金。本作は，ホロライブのタレント総勢37人が参加する，ホロライブ初の麻雀ゲームだ。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T13:39:57+09:00"
-  },
-  {
-   "id": "88666e871ae72b1c",
-   "url": "https://www.4gamer.net/games/621/G062154/20261125013/",
-   "title": "「エグゾプライマル」，2027年9月30日12：00をもってサービス終了。ゲーム本編やDLCなどの販売は2027年3月31日に終了",
-   "summary": "カプコンは本日，オンライン専用チーム対戦型アクション「エグゾプライマル」のサービスを2027年9月30日12：00に終了すると発表した。これに先立ち，2027年3月31日10：00にはゲーム本編やDLCを含むすべての商品の販売が終了する。サービス終了後はゲームをプレイできなくなる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T13:24:59+09:00"
-  },
-  {
-   "id": "57f6229d93757290",
-   "url": "https://www.4gamer.net/games/061/G106107/20261125010/",
-   "title": "イタリア産JRPG「Food Devils」の早期アクセス版がリリース。モンスターを食材にして悪魔とともにレストランを繁盛させていこう",
-   "summary": "StudioDaimonは，タクティカルRPG「FoodDevils」の早期アクセス版をSteamでリリースした。人類が捕食される世界で，最後の料理人となったプレイヤーは悪魔や冒険者を率いてモンスターを狩り，入手した食材でレストランを経営する。ローグライト要素や悪魔との恋愛も楽しめる。",
-   "thumbnail": "",
-   "source": "4Gamer.net",
-   "source_id": "4gamer",
-   "category": "news",
-   "published": "2026-11-25T12:55:30+09:00"
   },
   {
    "id": "abeee9f46f9c27db",
@@ -2158,50 +2202,6 @@
    "source_id": "automaton",
    "category": "news",
    "published": "2026-11-22T13:14:19+09:00"
-  },
-  {
-   "id": "c9224f5550571c43",
-   "url": "https://automaton-media.com/articles/newsjp/20261121-480318/",
-   "title": "『アークナイツ：エンドフィールド』新オペレーター★6「ケーちゃん」と配布★5「ミミノ」お披露目。 “謎キノコ生えまくりダム”の旅や、バージョン2.0で追加の「新地域」も一挙公開",
-   "summary": "HypergryphおよびGRYPHLINEは11月21日、運営中の『アークナイツ：エンドフィールド』に向け、新バージョン「キノコ菌（キン）グ！？ 君との大冒険！」やバージョン2.0での各種新情報をお披露目した。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480318-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-21T22:39:23+09:00"
-  },
-  {
-   "id": "42ab997fb2cb6d11",
-   "url": "https://automaton-media.com/articles/newsjp/20261121-480310/",
-   "title": "『アークナイツ：エンドフィールド』にて「M3」正式お披露目。「ケルシー」&「Mon3tr」っぽさある謎キャラクター",
-   "summary": "『アークナイツ：エンドフィールド』にて、ついに謎多き「M3」が実装されるようだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480310-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-21T22:11:26+09:00"
-  },
-  {
-   "id": "97a8cd35f7351671",
-   "url": "https://automaton-media.com/articles/newsjp/20261121-480302/",
-   "title": "『閃乱カグラ』新作コマンドRPG『シノビ NEXUS -閃乱カグラ-』11月29日配信開始へ。新たなシノビ少女たちのハイパーシノビバトル、着せ替えやサウナでととのう“シノビスパ”も搭載",
-   "summary": "HONEY∞PARADE GAMESは11月21日、『シノビNEXUS -閃乱カグラ-』を11月29日にサービス開始すると告知した。本作はコマンドRPGとして新たに描かれる、ハイパーシノビバトルだ。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480302-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-21T21:55:33+09:00"
-  },
-  {
-   "id": "829d6aeea0bdbe30",
-   "url": "https://automaton-media.com/articles/newsjp/20261121-480294/",
-   "title": "『グランド・セフト・オートV』を「海面上昇シミュレーション」に活かす実証実験。“500年後にベスプッチ水没”など、環境問題をロスサントスで考える",
-   "summary": "『グランド・セフト・オートV』の舞台、ロスサントスを「海面上昇」のシミュレーションに使った実証実験が発表された。",
-   "thumbnail": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480294-header.jpg",
-   "source": "AUTOMATON",
-   "source_id": "automaton",
-   "category": "news",
-   "published": "2026-11-21T18:45:22+09:00"
   }
  ]
 }
